@@ -235,24 +235,24 @@ Selecteer de vernieuwingsfrequentie voor het publiek. De beschikbare opties ligg
 
 Nadat u de publieksbron hebt geselecteerd, kiest u een specifiek publiek dat u wilt opnemen. Gebruik de zoek- en filteropties op de pagina om het relevante publiek te zoeken vanuit de geselecteerde gegevensbron.
 
-![Selecteer het publieksscherm met een lijst met beschikbare doelgroepen met selectievakjes om ze te selecteren.](/help/assets/setup/add-manage-audiences/Step-Select-Audience.png)
+![ Uitgezochte publieksscherm die een lijst van beschikbare soorten publiek met checkboxes tonen om hen te selecteren.](/help/assets/setup/add-manage-audiences/Step-Select-Audience.png)
 
-### Recensie
+### Controleren
 
-Bekijk alle configuraties en instellingen voordat u de toevoeging aan het publiek voltooit. Zorg ervoor dat alle details correct zijn en selecteer **[!UICONTROL Complete]** om het proces af te ronden.
+Bekijk alle configuraties en instellingen voordat u de publiekstoevoeging voltooit. Zorg ervoor dat alle details correct zijn en selecteer **[!UICONTROL Complete]** om het proces te voltooien.
 
-## Dashboard voor doelgroepen weergeven {#view-audiences-dashboard}
+## Het dashboard voor soorten publiek weergeven {#view-audiences-dashboard}
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_view_audience_missing_identities"
 >title="Ontbrekende identiteiten"
->abstract="Het aantal identiteiten wordt weergegeven `-` gedurende ongeveer de eerste 24 uur nadat een publiek is geïmporteerd in Real-Time CDP Collaboration. Na deze periode wordt het aantal identiteiten bijgewerkt met het aantal profielen dat in het publiek aanwezig is."
+>abstract="Het aantal identiteiten geeft een `-` weer gedurende ongeveer de eerste 24 uur nadat een publiek in Real-Time CDP Collaboration is geïmporteerd. Na dit tijdsbestek wordt het aantal identiteiten bijgewerkt met het aantal profielen in het publiek."
 
-Nadat u doelgroepen hebt geïmporteerd in Real-Time CDP Collaboration, kunt u informatie over hen ophalen in een dashboardweergave. In de standaardweergave op de **[!UICONTROL My audiences]** pagina worden alle doelgroepen weergegeven die momenteel door uw organisatie zijn geïmporteerd in Real-Time CDP Collaboration.
+Nadat u een publiek naar Real-Time CDP Collaboration hebt geïmporteerd, kunt u er informatie over krijgen in een dashboardweergave. In de standaardweergave op de pagina **[!UICONTROL My audiences]** worden alle soorten publiek weergegeven die momenteel door uw organisatie in Real-Time CDP Collaboration zijn geïmporteerd.
 
-![Overzichtspagina voor doelgroepen met alle doelgroepen die door een adverteerder zijn geïmporteerd](/help/assets/setup/add-manage-audiences/audiences-overview.png)
+![ het overzichtspagina die van het publiek alle publiek toont door een adverteerder wordt ingevoerd ](/help/assets/setup/add-manage-audiences/audiences-overview.png)
 
-U kunt de volgende relevante informatie over elke doelgroep bekijken:
+U kunt de volgende relevante informatie over elk publiek bekijken:
 
 | Item | Beschrijving |
 |----------|---------|
@@ -309,9 +309,9 @@ Meer informatie over het publiek is beschikbaar en gedeeltelijk bewerkbaar in de
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_view_audience_identities"
 >title="Identiteiten"
->abstract="Krijg een uitsplitsing van de identiteiten waaruit deze doelgroep bestaat, evenals een totaal aantal profielen met de respectievelijke identiteiten."
+>abstract="Geef een overzicht van de identiteiten waaruit dit publiek bestaat en een totaal aantal profielen met de respectievelijke identiteiten."
 
-In dit gedeelte wordt het aantal profielen aangegeven dat aanwezig is in de doelgroep met een van de identiteiten die u hebt opgegeven bij het importeren van de doelgroepen. De sectie bevat ook een uitsplitsing van de identiteit, zodat u kunt zien welke identiteiten het grootste deel van de publiekspopulatie uitmaken.
+Deze sectie geeft het aantal profielen aan dat in het publiek aanwezig is met een van de identiteiten die u hebt opgegeven bij het importeren van het publiek. De sectie bevat ook een identiteitsspecificatie zodat u kunt zien welke identiteiten het grootste deel van de publiekspopulatie uitmaken.
 
 ### Categorieën {#categories}
 
@@ -327,13 +327,13 @@ Voor eenvoudige publieksorganisatie, het filtreren, en het terugwinnen, kunt u u
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_view_audience_connection_access"
 >title="Toegang tot verbinding"
->abstract="<p>Er kunnen drie soorten doelgroepen zijn: openbaar, privé en op maat.</p><p> De beschikbaarheid voor gebruik in projecten met bijdragers is afhankelijk van de instelling voor verbindingstoegang. U kunt de toegang tot de verbinding altijd wijzigen van privé naar openbaar, maar u kunt die instelling niet meer wijzigen zodra een publiek is gedeeld met bijdragers.</p>"
+>abstract="<p>De soorten publiek kunnen van drie types zijn: publiek, privé, en douane.</p><p> Hun beschikbaarheid voor gebruik in projecten met medewerkers verschilt gebaseerd op het plaatsen van de verbindingstoegang. U kunt de verbindingstoegang altijd wijzigen van privé in openbaar, maar u kunt die instelling niet meer wijzigen als een publiek wordt gedeeld met deelnemers.</p>"
 
-Selecteer of het publiek privé voor jou moet zijn, of bruikbaar en vindbaar in connecties. De drie beschikbare opties zijn:
+Selecteer of het publiek privé aan u, of bruikbaar en ontdekkbaar in verbindingen zou moeten zijn. De drie beschikbare opties zijn:
 
 * **[!UICONTROL Public audience]**. Deze doelgroepen zijn beschikbaar voor gebruik in overlappende rapporten en voor het delen en activeren van verbindingen met deelnemers.
-* **[!UICONTROL Private audience]**. Deze doelgroepen zijn *niet* beschikbaar voor gebruik in overlappende rapporten en voor delen en activeren in verbindingen met bijdragers Hoewel het niet beschikbaar is voor bijdragers om te bekijken of te gebruiken, draagt de populatie van deze doelgroep nog steeds bij aan de totale populatie in de **[!UICONTROL All audiences]** weergave in de [sectie](/help/guide/collaborate/discover.md#compare-audiences) Ontdekken en overlappen. Wijzig de instelling in openbaar of aangepast om de doelgroepen te gebruiken in verbindingen met bijdragers.
-* **[!UICONTROL Custom audience]**. Deze doelgroepen zijn alleen beschikbaar voor gebruik in overlappende rapporten en voor delen en activeren in gespecificeerde verbindingen. Hoewel niet alle bijdragers kunnen worden bekeken of gebruikt, draagt de populatie van deze doelgroep nog steeds bij aan de totale populatie in de **[!UICONTROL All audiences]** weergave in de [sectie](/help/guide/collaborate/discover.md) Ontdekken en overlappen.
+* **[!UICONTROL Private audience]**. Dit publiek is *niet* beschikbaar voor gebruik in overlappende rapporten en voor het delen en de activering in verbindingen met om het even welke medewerkers. Hoewel niet beschikbaar voor medewerkers om te bekijken of te gebruiken, draagt de bevolking van dit publiek nog aan de totale bevolking in de **[!UICONTROL All audiences]** mening in [ bij ontdekt en overlapt sectie ](/help/guide/collaborate/discover.md#compare-audiences). Wijzig de instelling in Openbaar of Aangepast als u het publiek wilt gebruiken in verbindingen met medewerkers.
+* **[!UICONTROL Custom audience]**. Deze soorten publiek zijn alleen beschikbaar voor gebruik in overlappende rapporten en voor het delen en activeren in opgegeven verbindingen. Hoewel niet beschikbaar voor alle medewerkers aan mening of gebruik, draagt de bevolking van dit publiek nog aan de totale bevolking in de **[!UICONTROL All audiences]** mening in [ bij ontdekt en overlapt sectie ](/help/guide/collaborate/discover.md).
 
 >[!IMPORTANT]
 >

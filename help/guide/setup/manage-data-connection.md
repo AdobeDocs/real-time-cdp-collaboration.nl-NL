@@ -17,34 +17,34 @@ ht-degree: 0%
 
 ## Overzicht
 
-Gegevensverbindingen gebruiken in Real-Time CDP Collaboration om doelgroepen uit verschillende bronnen te importeren. Meer informatie over het beheren van vergelijkingscodes en het plannen van gegevensimport voor uw bestaande gegevensverbindingen. Bovendien kunt u doelgroepen filteren op verschillende kenmerken voor gedetailleerdere inzichten.
+Gebruik gegevensverbindingen in Real-Time CDP Collaboration om soorten publiek uit verschillende bronnen te importeren. Leer hoe u sleutels voor overeenkomsten beheert en gegevensimport voor uw bestaande gegevensverbindingen instelt. Bovendien, zult u publiek door verschillende attributen voor meer korrelige inzichten kunnen filtreren.
 
-Voordat u uw gegevensverbindingen hier beheert, moet u ze in eerste instantie instellen tijdens de workflow](./onboard-audiences.md) voor het onboarden van het [publiek. Dit zorgt ervoor dat de juiste gegevensbronnen worden aangesloten voor gebruik in Real-Time CDP Collaboration.
+Alvorens uw gegevensverbindingen hier te beheren, zou u hen eerst opstelling tijdens het [ publiek op het instappen werkschema ](./onboard-audiences.md) moeten. Op deze manier worden de juiste gegevensbronnen aangesloten voor gebruik in Real-Time CDP Collaboration.
 
-## Dataverbindingen bekijken
+## Gegevensverbindingen weergeven
 
 >[!IMPORTANT]
 >
->Het verwijderen van een gegevensverbinding wordt momenteel niet ondersteund in de gebruikersinterface van Real-Time CDP Collaboration. Om een gegevensverbinding te schrappen, te bereiken gelieve uit aan uw vertegenwoordiger van Adobe of [ een kaartje van de klantensteun ](https://experienceleague.adobe.com/home?lang=en&amp;support-tab=open-ticket#support){target="_blank"} tot stand te brengen.
+>Het verwijderen van een gegevensverbinding wordt momenteel niet ondersteund in de Real-Time CDP Collaboration-gebruikersinterface. Om een gegevensverbinding te schrappen, te bereiken gelieve uit aan uw vertegenwoordiger van Adobe of [ een kaartje van de klantensteun ](https://experienceleague.adobe.com/home?lang=en&amp;support-tab=open-ticket#support){target="_blank"} tot stand te brengen.
 
 Als u bestaande gegevensverbindingen wilt weergeven, navigeert u naar **[!UICONTROL Setup]** > **[!UICONTROL My audiences]** en selecteert u **[!UICONTROL Manage data connections]** .
 
 ![ de werkruimte van de Opstelling met Manage benadrukte gegevensverbindingen.](/help/assets/setup/manage-data-connection/manage-data-connection-highlighted.png){zoomable="yes"}
 
-Dit brengt een mening van al uw momenteel opstellings gegevensverbindingen, met informatie over het aantal publiek in elk van hen, de bron van de gegevensverbinding, en meer. Selecteer deze optie **[!UICONTROL View data connection]** om informatie weer te geven over de vergelijkingssleutels, de planning en de doelgroepen die deel uitmaken van deze gegevensverbinding.
+Dit brengt een mening van al uw momenteel opstellings gegevensverbindingen, met informatie over het aantal publiek in elk van hen, de bron van de gegevensverbinding, en meer. Selecteer **[!UICONTROL View data connection]** om informatie over de gelijke sleutels, het plannen, en het publiek te bekijken die deel van deze gegevensverbinding uitmaken.
 
-![Werkruimte voor gegevensverbindingen beheren met een verbinding Gegevensverbindingen weergeven gemarkeerd. ](/help/assets/setup/manage-data-connection/view-data-connection-highlighted.png){zoomable="yes"}
+![ beheert de werkruimte van gegevensverbindingen met een benadrukte gegevensverbindingen van de Mening van verbindingen. ](/help/assets/setup/manage-data-connection/view-data-connection-highlighted.png){zoomable="yes"}
 
-### Match sleutels {#match-keys}
+### Toetsen afstemmen {#match-keys}
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_manage_dataconnections_matchkeys"
->title="Match sleutels"
->abstract="Vergelijkingssleutels bepalen hoe gegevens uit verschillende bronnen worden gematcht. Kies de matchcodes die het meest relevant zijn voor uw gebruiksscenario&#39;s en privacyrichtlijnen."
+>title="Toetsen afstemmen"
+>abstract="Met Identieke toetsen bepaalt u hoe gegevens uit verschillende bronnen worden vergeleken. Kies de sleutels van de gelijke die voor uw gebruiksgevallen en privacyrichtlijnen het meest relevant zijn."
 
-Overeenkomstcodes zijn ID&#39;s die worden gebruikt om leden uit verschillende doelgroepen uit verschillende gegevensbronnen met elkaar in contact te brengen. Beschikbare match-sleutels zijn onder meer:
+Identieke sleutels zijn herkenningstekens die worden gebruikt om leden over publiek van verschillende gegevensbronnen met elkaar in overeenstemming te brengen. Beschikbare match keys zijn:
 
-- **Gehashte e-mail**
+- **Onderbroken e-mail**
 
 U kunt de overeenkomende toetsen die in deze gegevensverbinding worden gebruikt, niet bewerken.
 
@@ -54,18 +54,18 @@ U kunt de overeenkomende toetsen die in deze gegevensverbinding worden gebruikt,
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_manage_dataconnections_scheduling"
->title="Plannen"
->abstract="In deze weergave worden de planningsopties weergegeven die u in eerste instantie hebt geselecteerd voor uw gegevensverbinding."
+>title="Planning"
+>abstract="In deze weergave worden de planningsopties weergegeven die u aanvankelijk voor de gegevensverbinding hebt geselecteerd."
 
-U kunt de planningsopties die u in eerste instantie voor uw gegevensverbinding hebt geselecteerd, niet bewerken. Bekijk voor meer informatie over planningsopties de [sectie](/help/guide/setup/onboard-audiences.md#schedule) Planning in het werkstroomdocument voor het importeren van doelgroepen.
+U kunt de planningsopties die u oorspronkelijk voor uw gegevensverbinding hebt geselecteerd, niet bewerken. Voor meer informatie over het plannen van opties, bekijk [ het plannen sectie ](/help/guide/setup/onboard-audiences.md#schedule) in het document van de publieksinvoer.
 
-![Een werkruimte voor gegevensverbindingen waarin de sectie Planning is gemarkeerd.](/help/assets/setup/manage-data-connection/view-data-connection-scheduling.png){zoomable="yes"}
+![ de werkruimte van de gegevensverbindingen van A met de Plannende benadrukte sectie.](/help/assets/setup/manage-data-connection/view-data-connection-scheduling.png){zoomable="yes"}
 
-## Doelgroepen beheren {#manage-audiences}
+## Soorten publiek beheren {#manage-audiences}
 
-Wanneer u de lijst met doelgroepen via uw gegevensverbinding bekijkt, kunt u ervoor kiezen om de doelgroepen weer te geven, hun categorieën te bewerken of ze uit de gegevensverbinding te verwijderen.
+Wanneer u de lijst met soorten publiek weergeeft via de gegevensverbinding, kunt u de doelgroepen weergeven, hun categorieën bewerken of ze verwijderen uit de gegevensverbinding.
 
-![Een werkruimte voor gegevensverbindingen met de doelgroepen gemarkeerd.](/help/assets/setup/manage-data-connection/view-data-connection-manage-audiences.png){zoomable="yes"}
+![ de werkruimte van de gegevensverbindingen van A met de benadrukte publiek.](/help/assets/setup/manage-data-connection/view-data-connection-manage-audiences.png){zoomable="yes"}
 
 ## Volgende stappen
 

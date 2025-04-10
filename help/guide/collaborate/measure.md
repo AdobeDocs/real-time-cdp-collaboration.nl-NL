@@ -25,24 +25,24 @@ Leer meer over de beschikbare rapporten in Real-Time CDP Collaboration en begrij
 
 Voordat u de meetrapporten in Real-Time CDP Collaboration kunt openen, hebt u al het volgende:
 
-* [Verbonden](/help/guide/connect/establishing-connections.md) met een gewenste adverteerder of publisher met de **use case Campagnemeting** ingeschakeld en begonnen met samenwerken aan [projecten](/help/guide/collaborate/manage-projects.md)
-* Voer een campagne uit en [upload meetgegevens](/help/guide/setup/onboard-measurement-data.md) naar Real-Time CDP Collaboration.
+* [ Verbonden ](/help/guide/connect/establishing-connections.md) met een gewenste adverteerder of uitgever met de **meting van de Campagne** toegelaten gebruiksgeval en begonnen samenwerkend op [ projecten ](/help/guide/collaborate/manage-projects.md)
+* Stel een campagne in werking en [ geüploade metingsgegevens ](/help/guide/setup/onboard-measurement-data.md) in Real-Time CDP Collaboration.
 
-## Rapporten bekijken
+## Rapporten weergeven
 
-Om de rapporten te bekijken die beschikbaar zijn op het tabblad meting:
+U kunt als volgt de rapporten weergeven die beschikbaar zijn op het tabblad Metingen:
 
 1. Ga naar **[!UICONTROL Collaborate]** > **[!UICONTROL My projects]**.
 2. Selecteer **[!UICONTROL View]** voor het gewenste project.
-3. Selecteer in het project het **[!UICONTROL Measure]** tabblad.
+3. Selecteer in het project de tab **[!UICONTROL Measure]** .
 
-Selecteer **[!UICONTROL View full report]** om toegang te krijgen tot de verschillende beschikbare rapporten, die hieronder verder worden beschreven.
+Selecteer **[!UICONTROL View full report]** om toegang te krijgen tot de verschillende beschikbare rapporten, die hieronder nader worden beschreven.
 
-![Hoe kom je op het tabblad Metingen in een project.](/help/assets/collaborate/measure/measurement.gif)
+![ hoe te om aan het metingslusje in een project te krijgen.](/help/assets/collaborate/measure/measurement.gif)
 
-### Samenvattende weergave
+### Samenvattingsweergave
 
-In de weergave boven aan de pagina op het tabblad Metingen ziet u een campagneoverzicht met enkele algemene cijfers waarnaar u kunt verwijzen:
+In de paginaopmaakweergave op het tabblad Meting wordt een campagneresamenvatting weergegeven met een aantal cijfers op hoog niveau waarnaar u kunt verwijzen:
 
 **[!UICONTROL Impressions]**: Het totale aantal keren dat het creatieve bestand is weergegeven.
 **[!UICONTROL Unique reach]**: Het aantal individuele identiteiten dat de creatieve persoon heeft gezien.
@@ -50,11 +50,11 @@ In de weergave boven aan de pagina op het tabblad Metingen ziet u een campagneov
 
 ![ de summiere mening van de Campagne ](/help/assets/collaborate/measure/campaign-summary.png)
 
-### Statistieken in de loop van de tijd {#metrics-over-time}
+### Metrisch in de loop der tijd {#metrics-over-time}
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_measure_metricsovertime"
->title="Statistieken in de loop van de tijd"
+>title="Metrisch in de loop der tijd"
 >abstract="Met de metrische gegevens in de tijdweergave krijgt u inzicht in het totale aantal indrukken dat gedurende de campagne voor uw creatieve project wordt weergegeven. U kunt maximaal twee dimensies selecteren om in het rapport weer te geven."
 
 Met de metrische gegevens in de tijdweergave krijgt u inzicht in het totale aantal indrukken dat gedurende de campagne voor uw creatieve project wordt weergegeven. Merk op dat u een maximum van twee metriek kunt selecteren om in het rapport te tonen en te analyseren.
@@ -63,23 +63,23 @@ Met de metrische gegevens in de tijdweergave krijgt u inzicht in het totale aant
 
 ### Frequentieverdeling {#frequency-distribution}
 
-Gebruik de mening van de frequentieverdeling om de verdeling van te begrijpen hoeveel indrukkingen aan elke unieke gebruiker werden getoond. Deze weergave kan u helpen om in toekomstige campagnes te beslissen vanaf welk punt u wilt beginnen met het onderdrukken van doelgroepen. U kunt bijvoorbeeld profielen onderdrukken die al drie keer advertentiemateriaal hebben gezien.
+Gebruik de mening van de frequentieverdeling om de verdeling van te begrijpen hoeveel indrukkingen aan elke unieke gebruiker werden getoond. Met deze weergave kunt u in toekomstige campagnes bepalen vanaf welk punt u het publiek wilt onderdrukken. U kunt bijvoorbeeld profielen onderdrukken die al drie keer creatief zijn geweest.
 
-![Weergave van frequentieverdeling.](/help/assets/collaborate/measure/frequency-distribution.gif)
+![ de distributiemening van de Frequentie.](/help/assets/collaborate/measure/frequency-distribution.gif)
 
 ### Metrisch per dimensie {#metric-by-dimension}
 
-Analyseer verschillende metriek zoals impressies, viewable beelden, uniek bereik, kosten, en meer in de context van het plaatsingsmiddel. Analyseer welk medium (bijvoorbeeld mobiele streaming, CTV programmatic of andere) de beste resultaten voor uw campagnes opleveren.
+Analyseer verschillende metriek zoals impressies, viewable beelden, uniek bereik, kosten, en meer in de context van het plaatsingsmiddel. Analyseer welk medium (bijvoorbeeld mobiel streamen, CTV programmatic of andere) de beste resultaten voor uw campagnes geeft.
 
 ![ Metrisch door dimensie.](/help/assets/collaborate/measure/metric-by-dimension.png)
 
 ### Cumulatieve bereikcurve {#cumulative-reach-curve}
 
-Naarmate de campagne vorderde en het aantal vertoningen toenam, moet u begrijpen of het aantal gebruikers dat u hebt kunnen bereiken ook is toegenomen. Een veelvoorkomend patroon in campagnes is dat na een bepaald punt een plateau wordt bereikt waar de advertentie keer op keer aan dezelfde mensen wordt getoond. Deze weergave kan je helpen de lengte van toekomstige campagnes aan te passen, afhankelijk van het moment dat nieuwe mensen niet meer werden bereikt.
+Naarmate de campagne vorderde en het aantal indrukken toenam, begrijpt u of het aantal gebruikers dat u kon bereiken, ook is toegenomen. Een gemeenschappelijk patroon in campagnes is dat na een bepaald punt een plateau wordt bereikt waar creatief wordt getoond aan de zelfde mensen telkens opnieuw. Deze weergave kan u helpen de duur van toekomstige campagnes aan te passen, afhankelijk van het moment dat nieuwe mensen niet meer werden bereikt.
 
-![Cumulatieve bereikcurve.](/help/assets/collaborate/measure/cumulative-reach-curve.png)
+![ Cumulatieve bereikkromme.](/help/assets/collaborate/measure/cumulative-reach-curve.png)
 
-### Impressies per plaatsing {#impressions-by-placement}
+### Impressies door plaatsing {#impressions-by-placement}
 
 Begrijp welk medium indrukkingen veroorzaakt voor uw creatieve projecten. Zo kunt u bepalen waar u uw advertentie wilt investeren in toekomstige campagnes.
 
@@ -87,6 +87,6 @@ Begrijp welk medium indrukkingen veroorzaakt voor uw creatieve projecten. Zo kun
 
 ## Volgende stappen
 
-![Ontdek, activeer, meet voor adverteerders.](/help/assets/end-to-end-workflow/discover-activate-measure.png)
+![ ontdekt, activeert, maatregel voor adverteerders.](/help/assets/end-to-end-workflow/discover-activate-measure.png)
 
-In de geest van de cycliciteit in de afbeelding hierboven, gebruik je de inzichten die je hebt verkregen door de rapporten te bekijken bij het plannen van je volgende campagne. Ga als adverteerder terug om verschillende publishers te ontdekken en voer overlappingen uit om verschillende doelgroepen te ontdekken voor je volgende campagnes.
+In de geest van de conjunctuur in het bovenstaande beeld, gebruik de inzichten u van het bekijken van de rapporten bij het plannen van uw volgende campagne verwierf. Ga als adverteerder, indien nodig, terug om verschillende uitgevers te ontdekken en looppas overlappingen om verschillende soorten publiek voor uw volgende campagnes te ontdekken.

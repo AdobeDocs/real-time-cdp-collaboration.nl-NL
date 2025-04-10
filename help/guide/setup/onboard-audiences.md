@@ -91,15 +91,15 @@ Vervolgens moet u ervoor zorgen dat de juiste marketingacties zijn ingesteld voo
 
 Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De **marketing actie van Collaboration van 0} Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik.** De **marketing actie van de Wetenschap van 0} Gegevens steunt het C9 etiket van het gegevensgebruik.**
 
-Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
+Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference#contract) {target="_blank"}.
 
 * Met checkbox *toegelaten*, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt *niet* gebracht in Real-Time CDP Collaboration.
 * Met checkbox *gehandicapt*, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.
 
 Meer informatie over labels voor gegevensgebruik vindt u in de documentatie van Experience Platform:
 
-* [ overzicht van de gebruiksetiketten van Gegevens ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/overview){target="_blank"}
-* [ de etiketten van het gebruiksgebruik van Gegevens verklarende woordenlijst ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference){target="_blank"}
+* [ overzicht van de gebruiksetiketten van Gegevens ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/overview) {target="_blank"}
+* ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference) {target="_blank"} de verklarende woordenlijst van de het gebruikslabels van 0} Gegevens[
 
 ![ Vereiste marketing acties voor gegevenssamenwerking.](/help/assets/setup/add-manage-audiences/data-collaboration-consent.png)
 

@@ -6,7 +6,7 @@ badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" ur
 exl-id: 3128c1ea-8549-474e-adce-49b9b6802527
 source-git-commit: acaaaa1e1fab981d874210639c16e76e48fc3394
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '391'
 ht-degree: 1%
 
 ---
@@ -53,7 +53,7 @@ Trusted by leading global brands, Adobe brings a strong foundation in identity, 
 
 ## Aan de slag {#get-started}
 
-Als u Real-Time CDP Collaboration wilt gaan gebruiken, moeten systeembeheerders zichzelf, productbeheerders en eindgebruikers toegang geven. Er zijn veelvoudige vereiste stappen afhankelijk van de gebruiker en het vereiste niveau van toegang. Verwijs naar de [ overzicht van de toegangscontrole ](/help/guide/permissions/overview.md) {target=_&quot;lege gids&quot;} om begonnen te worden.
+Als u Real-Time CDP Collaboration wilt gaan gebruiken, moeten systeembeheerders zichzelf, productbeheerders en eindgebruikers toegang geven. Er zijn veelvoudige vereiste stappen afhankelijk van de gebruiker en het vereiste niveau van toegang. Verwijs naar de [ gids van de toegangscontrole ](/help/guide/permissions/overview.md){target=_"blank"} om begonnen te worden.
 
 Zodra u toegang hebt, kunt u uw organisatie instellen en uw gegevensbronnen verbinden met Adobe Real-Time CDP Collaboration om een publiek te importeren. Lees de [ adverteerder en uitgever werkschema van begin tot eind ](/help/guide/end-to-end-workflow.md) om begonnen te worden.
 
@@ -61,7 +61,7 @@ Zodra u toegang hebt, kunt u uw organisatie instellen en uw gegevensbronnen verb
 
 ## Bronnen
 
-Onderzoek de [ verklarende woordenlijst ](/help/guide/glossary.md) voor gedetailleerde informatie over termijnen die in het product worden gebruikt. Voor steun, heb toegang tot de pagina van de Steun van de Klant van Adobe [ ](https://experienceleague.adobe.com/home?lang=en&amp;support-tab=open-ticket#support){target="_blank"}.
+Onderzoek de [ verklarende woordenlijst ](/help/guide/glossary.md) voor gedetailleerde informatie over termijnen die in het product worden gebruikt. Voor steun, heb toegang tot de Adobe ](https://experienceleague.adobe.com/home?lang=en&amp;support-tab=open-ticket#support) {target="_blank"} pagina van de Steun van de Klant [ {.
 
 ## Contact opnemen
 

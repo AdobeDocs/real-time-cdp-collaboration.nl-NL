@@ -39,7 +39,7 @@ ht-degree: 3%
    * [Overzicht](/help/guide/permissions/overview.md)
    * [Gebruikerstoegang beheren](/help/guide/permissions/manage-user-access.md)
    * [Rollen beheren](/help/guide/permissions/manage-roles.md)
-* Gebruiksscenario&#39;s {#use-cases}
+* Gebruiksvoorbeelden {#use-cases}
    * [Campagne meten](./use-cases/campaign-measurement.md)
    * [Perspectief](./use-cases/prospecting.md)
    * [Opnieuw rangschikken](./use-cases/retargeting.md)

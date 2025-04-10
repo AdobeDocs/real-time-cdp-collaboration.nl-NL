@@ -37,7 +37,7 @@ Als uitgever, begin door [ op het instappen van uw bedrijf ](/help/guide/setup/o
 
 Bepaal welke publieksgegevens u wilt importeren en welk publiek u wilt dat deze zichtbaar en zichtbaar zijn voor de adverteerders die in het gebied **[!UICONTROL Connect]** van het product verbinding met u willen maken.
 
-Terwijl u publiek importeert naar Real-Time CDP Collaboration, moet u het publiek van tags voorzien en indelen. Real-Time CDP Collaboration volgt de gevestigde [ taxonomie IAB ](https://www.iab.com/guidelines/content-taxonomy/){target="_blank"} voor het categoriseren van publiek.
+Terwijl u publiek importeert naar Real-Time CDP Collaboration, moet u het publiek van tags voorzien en indelen. Real-Time CDP Collaboration volgt de gevestigde [ taxonomie IAB ](https://www.iab.com/guidelines/content-taxonomy/) {target="_blank"} voor het categoriseren van publiek.
 
 Bepaal met welke adverteerders u wilt werken en neem contact op met de adverteerder om de voorwaarden voor samenwerking buiten het product te bespreken. Nadat de adverteerder overeenstemming heeft bereikt over een aantal voorwaarden, wacht u tot de adverteerder een formele verbindingsuitnodiging heeft verzonden om verbinding met u te maken. Over het algemeen, zou u ook lopende verbindingsverzoeken van adverteerdermerken moeten controleren die met u aan campagnes willen werken. Controleer de verbindingsinstellingen die zijn voorgesteld door uw potentiële medewerker en ga akkoord of wijzig deze instellingen voordat u de samenwerking start.
 

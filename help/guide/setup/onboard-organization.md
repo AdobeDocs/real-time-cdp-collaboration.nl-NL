@@ -4,9 +4,9 @@ description: Leer hoe u verschillende aspecten van uw organisatie in Real-Time C
 audience: admin, publisher, advertiser
 badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: a95e932a-9681-48f2-bf34-6fe5a50597d7
-source-git-commit: a93ba1bc2aa043fcc1519ec2e1cc79435175d71c
+source-git-commit: f146a39ab69a9a41bb12aeb59b0d23ae567cf4c2
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -84,7 +84,7 @@ Selecteer de sleutels die u wilt gebruiken wanneer het in overeenstemming brenge
 
 ![ de stap van de de toetsenselectie van de Gelijke.](/help/assets/setup/manage-organization/add-organization-match-keys.png){zoomable="yes"}
 
-Selecteer maximaal vijf overeenkomende toetsen die u wilt gebruiken. Later kunt u bij het instellen van verbindingen ongewenste overeenkomende toetsen verwijderen, maar geen nieuwe toetsen toevoegen. Stel de drempel voor het aantal identiteiten (minimum aantal) in voor elke geselecteerde overeenkomende toets. In sommige gevallen worden identieke uitsplitsingen niet weergegeven als u sleutels met een lager aantal dan het minimale aantal wilt afstemmen.
+Selecteer maximaal vijf overeenkomende toetsen die u wilt gebruiken. Later kunt u bij het instellen van verbindingen ongewenste overeenkomende toetsen verwijderen, maar geen nieuwe toetsen toevoegen.
 
 De beschikbare sleutels van gelijke in Real-Time CDP Collaboration kunnen van drie types zijn:
 

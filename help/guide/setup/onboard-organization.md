@@ -4,9 +4,9 @@ description: Leer hoe u verschillende aspecten van uw organisatie in Real-Time C
 audience: admin, publisher, advertiser
 badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: a95e932a-9681-48f2-bf34-6fe5a50597d7
-source-git-commit: f146a39ab69a9a41bb12aeb59b0d23ae567cf4c2
+source-git-commit: b9aa8851799ddb492daeb13842a2cad39e84899e
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '804'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,11 @@ De workflow voor het instellen van uw organisatie bestaat uit de volgende twee p
 >Om het even welk *gelijke sleutels* die u op het organisatieniveau selecteert zal dan aan het [ projectniveau ](/help/guide/collaborate/manage-projects.md) in de samenwerking tussen adverteerders en uitgevers trickle. Op het projectniveau, kunt u om het even welke gelijknamensleutels dan verwijderen, maar u bent *niet* in staat om extra degenen toe te voegen die niet op het organisatieniveau in dit scherm werden geselecteerd.
 
 ### Details instellen {#set-up-details}
+
+>[!CONTEXTUALHELP]
+>id="rtcdp_collaboration_setup_contact_email"
+>title="E-mailadres"
+>abstract="Geef een team of op rol gebaseerde e-mail op, bijvoorbeeld `collaboration@yourcompany.com` . Persoonlijke of individuele e-mailadressen mogen niet worden gebruikt."
 
 ![ de details en gebruikscasestappen aan opstelling een organisatie ](/help/assets/setup/manage-organization/add-organization-details.png){zoomable="yes"}
 

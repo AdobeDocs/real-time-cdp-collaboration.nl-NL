@@ -4,9 +4,9 @@ description: Leer hoe u de activiteiten van uw organisatie op het gebied van kre
 audience: admin, publisher, advertiser
 badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: b24d63e7-60f4-4cdb-ab1b-77c284543486
-source-git-commit: a69d4405c47824c8afabc84782dc9f8a9d70763a
+source-git-commit: 3aec9806d2ea920d656bb0981f22ba31fd8ae3ee
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Het activity dashboard geeft een uitgebreide lijst weer van alle kredietverbruik
 | **[!UICONTROL Connection ID]** | Een unieke id voor elke verbinding die aan een kredietverbruikende activiteit is gekoppeld, weergegeven als een alfanumerieke tekenreeks. |
 | **[!UICONTROL Connection name]** | De naam van de medewerker die is gekoppeld aan de verbinding en de kredietverslindende activiteit. |
 | **[!UICONTROL Activity]** | Het type van uitgevoerde activiteit, zoals **Activering - het Delen**, **Activering - uitgang**, of **beheer van het Publiek**. |
-| **[!UICONTROL Inputs processed]** | Het totale aantal inputs (bijvoorbeeld id&#39;s of rijen) dat voor de activiteit is verwerkt, uitgedrukt in miljoenen. Dit helpt u de kosten van de activiteit begrijpen door het met uw CPM (kosten per duizend) te correleren om de ruwe kosten te berekenen. |
+| **[!UICONTROL Inputs processed]** | Het totale aantal inputs (bijvoorbeeld id&#39;s of rijen) dat voor de activiteit is verwerkt. |
 | **[!UICONTROL Total credits used]** | Het totale aantal kredieten dat door de activiteit wordt verbruikt. |
 | **[!UICONTROL My credit share]** | Het gedeelte van de credits van uw organisatie dat wordt gebruikt voor de activiteit. |
 

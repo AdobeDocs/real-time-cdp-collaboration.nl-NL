@@ -4,7 +4,7 @@ description: Begrijp de end-to-end workflow om Real-Time CDP Collaboration als a
 audience: admin, publisher, advertiser
 badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 90f9341e-5dd7-4521-a602-edb0263838c5
-source-git-commit: ff22dde9730fab89481338753b1dc4a0adf1d57e
+source-git-commit: 26ac800b35ce07bd50c79657af7de69d20deb147
 workflow-type: tm+mt
 source-wordcount: '607'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Met Adobe Real-Time Customer Data Platform (CDP) Collaboration kunnen adverteerders en uitgevers op een privacy-eerste manier samenwerken aan campagnes. Lees deze pagina om de workflow te begrijpen en het beste uit het product te halen, als adverteerder of uitgever.
+Met Adobe Real-Time Customer Data Platform (CDP) Collaboration kunnen adverteerders en uitgevers op privacygerichte wijze samenwerken aan campagnes. Lees deze pagina om de workflow te begrijpen en het beste uit het product te halen, als adverteerder of uitgever.
 
 ## Volledige workflow voor adverteerders {#advertiser}
 
@@ -37,7 +37,7 @@ Als uitgever, begin door [ op het instappen van uw bedrijf ](/help/guide/setup/o
 
 Bepaal welke publieksgegevens u wilt importeren en welk publiek u wilt dat deze zichtbaar en zichtbaar zijn voor de adverteerders die in het gebied **[!UICONTROL Connect]** van het product verbinding met u willen maken.
 
-Terwijl u publiek importeert naar Real-Time CDP Collaboration, moet u het publiek van tags voorzien en indelen. Real-Time CDP Collaboration volgt de gevestigde [ taxonomie IAB ](https://www.iab.com/guidelines/content-taxonomy/) {target="_blank"} voor het categoriseren van publiek.
+Terwijl u publiek importeert naar Real-Time CDP Collaboration, moet u het publiek van tags voorzien en indelen. Real-Time CDP Collaboration volgt de gevestigde [ taxonomie IAB ](https://www.iab.com/guidelines/content-taxonomy/){target="_blank"} voor het categoriseren van publiek.
 
 Bepaal met welke adverteerders u wilt werken en neem contact op met de adverteerder om de voorwaarden voor samenwerking buiten het product te bespreken. Nadat de adverteerder overeenstemming heeft bereikt over een aantal voorwaarden, wacht u tot de adverteerder een formele verbindingsuitnodiging heeft verzonden om verbinding met u te maken. Over het algemeen, zou u ook lopende verbindingsverzoeken van adverteerdermerken moeten controleren die met u aan campagnes willen werken. Controleer de verbindingsinstellingen die zijn voorgesteld door uw potentiële medewerker en ga akkoord of wijzig deze instellingen voordat u de samenwerking start.
 

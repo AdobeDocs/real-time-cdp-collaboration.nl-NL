@@ -4,9 +4,9 @@ description: Leer hoe u verschillende aspecten van uw organisatie in Real-Time C
 audience: admin, publisher, advertiser
 badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: a95e932a-9681-48f2-bf34-6fe5a50597d7
-source-git-commit: b9aa8851799ddb492daeb13842a2cad39e84899e
+source-git-commit: 26ac800b35ce07bd50c79657af7de69d20deb147
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '804'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Als u tevreden bent met de selectie, gebruikt u **[!UICONTROL Next]** om door te
 >title="Ondersteunde partner-id&#39;s"
 >abstract="Identiteitskaart van de partner verbonden aan profielen breidt het bereik tot een bepaald profiel uit."
 
-Identieke sleutels, zoals e-mailadressen, apparaat-id&#39;s of klant-id&#39;s, helpen adverteerders en uitgevers samen door nauwkeurige en privacy-compatibele gegevenssynchronisatie in te schakelen, waardoor doelgerichtere doelgroepen en meetwaarden mogelijk zijn.
+Identieke sleutels, zoals e-mailadressen, apparaat-id&#39;s of klant-id&#39;s, helpen adverteerders en uitgevers samen door nauwkeurige en privacygerichte gegevenssynchronisatie in te schakelen, waardoor doelgerichtere doelgroepen en meetwaarden mogelijk zijn.
 
 ![ dia die de beschikbare herkenningstekens voor de eerste versie van Real-Time CDP Collaboration tonen.](/help/assets/setup/manage-organization/available-identifiers.png)
 

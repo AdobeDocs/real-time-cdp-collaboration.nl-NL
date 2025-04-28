@@ -4,9 +4,9 @@ description: Leer hoe u projecten maakt en beheert in Adobe Real-Time CDP Collab
 audience: admin, publisher, advertiser
 badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: ae492846-bc0a-4422-86ca-577bcc1fa60c
-source-git-commit: acaaaa1e1fab981d874210639c16e76e48fc3394
+source-git-commit: 55835f1e37975793f3a96c79e7c3a5bfeabfc88e
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '388'
 ht-degree: 1%
 
 ---
@@ -28,6 +28,11 @@ U kunt filters gebruiken om slechts de projecten te bekijken die u met bepaalde 
 ![ Gefilterde mening van projecten met één enkele medewerker.](/help/assets/collaborate/manage-view-projects/filtered-project-view.png){zoomable="yes"}
 
 ## Project maken {#create-project}
+
+>[!CONTEXTUALHELP]
+>id="rtcdp_collaboration_manage_projects_advertiser_name"
+>title="Naam adverteerder"
+>abstract="Selecteer de naam van de adverteerder in het vervolgkeuzemenu. De opties worden vooraf geconfigureerd door de uitgever in de verbindingsinstellingen om ervoor te zorgen dat ze compatibel zijn met hun systemen."
 
 Als u een project wilt maken, selecteert u het plusteken **+** in de rechterbovenhoek. Of navigeer als dit uw eerste project is naar **[!UICONTROL Collaborate]** > **[!UICONTROL My Projects]** en selecteer **[!UICONTROL Create a project]** .
 

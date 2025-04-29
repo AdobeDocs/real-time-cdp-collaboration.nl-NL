@@ -4,9 +4,9 @@ description: Leer hoe u verschillende aspecten van uw organisatie in Real-Time C
 audience: admin, publisher, advertiser
 badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: a95e932a-9681-48f2-bf34-6fe5a50597d7
-source-git-commit: 26ac800b35ce07bd50c79657af7de69d20deb147
+source-git-commit: 0de6ab9af8152975f8e0b0f75b1ee0116ed73584
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
@@ -52,10 +52,11 @@ De workflow voor het instellen van uw organisatie bestaat uit de volgende twee p
 3. Selecteer de **[!UICONTROL Company role]** . U kunt kiezen tussen **[!UICONTROL Advertiser]** en **[!UICONTROL Publisher]** . Lees het [ werkschemadocument van begin tot eind ](/help/guide/end-to-end-workflow.md) om gelijkenissen en lichte verschillen in werkschema tussen de twee organisatorische roltypes te zien.
 4. Selecteer de **[!UICONTROL Industry]** voor uw organisatie. Voorbeelden zijn **[!UICONTROL Retail]** , **[!UICONTROL Telecommunications]** of **[!UICONTROL Financial services]** .
 5. Selecteer de **[!UICONTROL Region]** voor uw organisatie. In de huidige versie van het product is **[!UICONTROL North America]** de standaardselectie met voorinstellingen.
-6. <span class="preview"> Uitgever-slechts </span>: Wanneer het vestiging van een uitgeversorganisatie, moet u lezen en erkennen dat u door adverteerders in de uitgeverscatalogus zal kunnen worden ontdekt.
+6. Voeg een **[!UICONTROL Contact email]** toe voor uw organisatie. Dit moet een team of een op rollen gebaseerd e-mailadres zijn. Persoonlijke e-mailadressen mogen niet worden opgegeven.
+7. <span class="preview"> Uitgever-slechts </span>: Wanneer het vestiging van een uitgeversorganisatie, moet u lezen en erkennen dat u door adverteerders in de uitgeverscatalogus zal kunnen worden ontdekt.
    ![ uitgever-specifiek opt-in bericht.](/help/assets/setup/manage-organization/publisher-specific-optin-message.png){zoomable="yes"}
-7. Upload een **[!UICONTROL Logo]** voor uw bedrijf. Op dit moment worden SVG-afbeeldingen ondersteund.
-8. Selecteer een afbeelding voor de koptekst van uw bedrijf.
+8. Upload een **[!UICONTROL Logo]** voor uw bedrijf. Op dit moment worden SVG-afbeeldingen ondersteund.
+9. Selecteer een afbeelding voor de koptekst van uw bedrijf.
 
 Als u tevreden bent met de selectie, gebruikt u **[!UICONTROL Next]** om door te gaan naar de volgende pagina en de gewenste match keys te selecteren die uw organisatie moet gebruiken.
 

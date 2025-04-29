@@ -4,7 +4,7 @@ description: Volg de nieuwste releases voor Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
 badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 8513c648-1cc1-4544-b86d-2ee3193ab60f
-source-git-commit: c71e63df166a061b1585cff4b5eac4605f741eb4
+source-git-commit: 5b331e2de1c91dd566f1139e57d44a47dd01dba5
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 5%
@@ -17,9 +17,19 @@ ht-degree: 5%
 
 **Laatste update**: Maart, 2025.
 
+<!--**Last update**: April, 2025. uncomment when ready to release and delete line above-->
+
 Deze releaseopmerkingen betreffen de functionaliteit die in Real-Time Customer Data Platform Collaboration wordt vrijgegeven. Real-Time CDP Collaboration-releases werken op een doorlopend leveringsmodel, dat een gemiddelde maandelijkse release mogelijk maakt. Deze releaseopmerkingen worden vaak bijgewerkt, dus zorg ervoor dat u ze regelmatig controleert.
 
-## Maart 2025
+<!--
+
+## April 2025 {#april-2025}
+
+* A new **Inputs Processed** column has been added to the credit consumption activity table. This column displays the total number of inputs (for example, IDs or rows) processed for each activity. [Read more](/help/guide/setup/my-activity.md#inputs-processed). <br> ![Inputs processed column highighted in My activity view.](/help/assets/release-notes/2025/inputs-processed-column.png "Inputs processed column highighted in My activity view."){width="250" align="center" zoomable="yes"}
+
+-->
+
+## Maart 2025 {#march-2025}
 
 * Wanneer [ invoerend publiek ](/help/guide/setup/onboard-audiences.md) in Real-Time CDP Collaboration, kunt u een publiek nu plaatsen verfrist frequentie van **elke 1 tot 6 dagen** om de [ de creditactiviteit van het Beheer van de Publiek ](/help/guide/setup/my-activity.md#types-of-activities) beter te beheren. [ las meer ](/help/guide/setup/onboard-audiences.md#schedule). <br> ![ het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont.](/help/assets/setup/add-manage-audiences/Step-Schedule-Set-Frequency.png " het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont."){width="250" align="center" zoomable="yes"}
 * Wanneer het vestigen van een verbinding met een medewerker, kunt u van vooraf bepaalde **gebruiksgevallen** nu selecteren. De geselecteerde gebruikscase bepaalt welke projectsecties en productfunctionaliteit beschikbaar worden. [Meer informatie](/help/guide/collaborate/manage-projects.md#project-use-cases).
@@ -29,7 +39,7 @@ Deze releaseopmerkingen betreffen de functionaliteit die in Real-Time Customer D
 * U kunt nu verbindingen verwijderen met deelnemers waarmee u niet meer wilt werken. [Meer informatie](/help/guide/connect/establishing-connections.md#delete-connections).
 
 
-## Februari 2025 - Algemene beschikbaarheid voor klanten in de VS
+## Februari 2025 - Algemene beschikbaarheid voor klanten in de VS {#february-2025-ga}
 
 Real-Time CDP Collaboration, dat speciaal is ontworpen om adverteerders en uitgevers in staat te stellen hoogwaardig publiek zonder cookies van derden te detecteren, activeren en meten, is nu in de Verenigde Staten algemeen beschikbaar.
 

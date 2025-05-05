@@ -2,7 +2,7 @@
 title: Verbinding maken met adverteerders of uitgevers
 description: Na het ontdekken van potentiële medewerkers, leer hoe te om verbindingen te vestigen en beginnen aan projecten samen te werken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3fed93f7-1854-440c-802e-6b47e82918c9
 source-git-commit: ee434f1bb8119e2a378580a02ffa0b9efb93cf28
 workflow-type: tm+mt

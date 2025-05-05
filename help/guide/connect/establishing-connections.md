@@ -4,9 +4,9 @@ description: Na het ontdekken van potentiële medewerkers, leer hoe te om verbin
 audience: admin, publisher, advertiser
 badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3fed93f7-1854-440c-802e-6b47e82918c9
-source-git-commit: 81cedb2a06d930734b1f97304de82d450c06bf79
+source-git-commit: ee434f1bb8119e2a378580a02ffa0b9efb93cf28
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '917'
 ht-degree: 0%
 
 ---
@@ -68,6 +68,11 @@ Nadat de medewerker de uitnodiging heeft geaccepteerd, kunt u de verbindingsinst
 >id="rtcdp_collaboration_connection_settings_creditsplit_audiencesharing"
 >title="Delen van publiek"
 >abstract="Het Delen van het publiek is de activiteit die een partij neemt wanneer het verzoeken van hun gematchte gegevens om door hun samenwerkingspartner worden geactiveerd."
+
+>[!CONTEXTUALHELP]
+>id="rtcdp_collaboration_connection_settings_creditsplit_measurement"
+>title="Meting"
+>abstract="Met dit gebruiksscenario kunt u activiteiten in Real-Time CDP Collaboration uitvoeren om rapporten en inzichten over de prestaties van de campagne te genereren."
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_connection_settings_legalagreement"

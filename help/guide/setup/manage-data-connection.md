@@ -2,7 +2,7 @@
 title: Gegevensverbindingen beheren
 description: Leer hoe u gegevensverbindingen beheert, zoals match keys, planning, use cases en publiekfiltering in Real-Time CDP Collaboration
 audience: administrator, data engineer
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: d142d3ed-f56a-4150-a885-571728a73ac8
 source-git-commit: acaaaa1e1fab981d874210639c16e76e48fc3394
 workflow-type: tm+mt
@@ -25,7 +25,7 @@ Alvorens uw gegevensverbindingen hier te beheren, zou u hen eerst opstelling tij
 
 >[!IMPORTANT]
 >
->Het verwijderen van een gegevensverbinding wordt momenteel niet ondersteund in de Real-Time CDP Collaboration-gebruikersinterface. Om een gegevensverbinding te schrappen, te bereiken gelieve uit aan uw vertegenwoordiger van Adobe of [ een kaartje van de klantensteun ](https://experienceleague.adobe.com/home?lang=en&amp;support-tab=open-ticket#support){target="_blank"}  tot stand te brengen.
+>Het verwijderen van een gegevensverbinding wordt momenteel niet ondersteund in de Real-Time CDP Collaboration-gebruikersinterface. Om een gegevensverbinding te schrappen, te bereiken gelieve uit aan uw vertegenwoordiger van Adobe of [ een kaartje van de klantensteun ](https://experienceleague.adobe.com/home?lang=nl-NL&amp;support-tab=open-ticket#support){target="_blank"}  tot stand te brengen.
 
 Als u bestaande gegevensverbindingen wilt weergeven, navigeert u naar **[!UICONTROL Setup]** > **[!UICONTROL My audiences]** en selecteert u **[!UICONTROL Manage data connections]** .
 

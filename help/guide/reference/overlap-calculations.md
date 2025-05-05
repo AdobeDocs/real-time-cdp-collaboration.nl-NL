@@ -2,7 +2,7 @@
 title: Het berekenen van overlappende tellingen en percentages
 description: Begrijp hoe de overlappingen tellen en de percentages in diverse gebieden van Adobe Real-Time CDP Collaboration worden berekend
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 source-git-commit: 23dc33af83366806f7d99161b4b713a33daeec76
 workflow-type: tm+mt
 source-wordcount: '865'

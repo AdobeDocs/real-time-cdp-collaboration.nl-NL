@@ -15,7 +15,7 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Beheer toestemmingen en gebruikerstoegang tot individuele componenten binnen Real-Time CDP Collaboration door de interface van de Toestemmingen van Experience Cloud ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/browse) {target="_blank"}. [ De toestemmingen staan systeem en productbeheerders toe om [ rollen ](./manage-roles.md) te bepalen om gebruikerstoegang tot specifieke eigenschappen en middelen te beheren.
+Beheer toestemmingen en gebruikerstoegang tot individuele componenten binnen Real-Time CDP Collaboration door de interface van de Toestemmingen van Experience Cloud [&#128279;](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/browse){target="_blank"} .  De toestemmingen staan systeem en productbeheerders toe om [ rollen ](./manage-roles.md) te bepalen om gebruikerstoegang tot specifieke eigenschappen en middelen te beheren.
 
 ## Toegang tot machtigingen configureren {#permissions-access}
 
@@ -33,7 +33,7 @@ Geef een beheerder van een gebruikersproduct via de volgende stappen toegang om 
 >
 >Als systeembeheerder, hebt u uit-van-de doostoegang tot specifieke producten van Experience Cloud, zoals Adobe Admin Console. Als u echter Machtigingen wilt gebruiken, moet u uzelf productbeheerder en gebruiker toegang geven tot het Experience Platform-product. Volg de hieronder stap voor stap gids om u toegang als systeembeheerder te geven.
 
-Login aan [ Adobe Experience Cloud ](https://experience.adobe.com/) {target="_blank"} met uw geloofsbrieven. De weergave Home wordt weergegeven met een lijst van uw beschikbare producten in de sectie **[!UICONTROL Quick access]** . Selecteer **[!UICONTROL Admin Console]**.
+Login aan [ Adobe Experience Cloud ](https://experience.adobe.com/){target="_blank"}  met uw geloofsbrieven. De weergave Home wordt weergegeven met een lijst van uw beschikbare producten in de sectie **[!UICONTROL Quick access]** . Selecteer **[!UICONTROL Admin Console]**.
 
 ![ Experience Cloud benadrukte huismening met Admin Console.](../../assets/permissions/experience-cloud.png){zoomable="yes"}
 
@@ -59,7 +59,7 @@ Nu u de beheerderstoegang van het gebruikersproduct hebt verleend, moet u hen ge
 >
 >Als je de vorige sectie volgt, ben je al in het Adobe Experience Platform-product en kun je de eerste stap overslaan.
 
-Navigeer aan [ Admin Console ](https://adminconsole.adobe.com/) {target="_blank"} en selecteer **[!UICONTROL Adobe Experience Platform]** van de **[!UICONTROL Products]** lijst onder **[!UICONTROL Products and services]**.
+Navigeer aan [ Admin Console ](https://adminconsole.adobe.com/){target="_blank"}  en selecteer **[!UICONTROL Adobe Experience Platform]** van de **[!UICONTROL Products]** lijst onder **[!UICONTROL Products and services]**.
 
 ![ Experience Cloud benadrukte huismening met Admin Console.](../../assets/permissions/experience-cloud.png){zoomable="yes"}
 
@@ -83,7 +83,7 @@ De gebruiker zou productbeheerder en producttoegang tot Experience Platform moet
 
 ### Beheerders: Experience Platform UI-toegang configureren {#product-access}
 
-In Real-Time CDP Collaboration werken beheerders en eindgebruikers samen met gegevens uit Experience Platform, zoals publiek- en auditlogboeken. Deze gegevens worden bewaard binnen instanties van Experience Platform die sandboxen worden genoemd. Om gebruikers te verzekeren kan met deze gegevens in wisselwerking staan, moet u [ standaardrollen ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home#default-roles) {target="_blank"} aan de gebruiker toewijzen.
+In Real-Time CDP Collaboration werken beheerders en eindgebruikers samen met gegevens uit Experience Platform, zoals publiek- en auditlogboeken. Deze gegevens worden bewaard binnen instanties van Experience Platform die sandboxen worden genoemd. Om gebruikers te verzekeren kan met deze gegevens in wisselwerking staan, moet u [ standaardrollen ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home#default-roles){target="_blank"}  aan de gebruiker toewijzen.
 
 Om te beginnen, navigeer aan [ Adobe Experience Cloud ](https://experience.adobe.com/). U moet nu **[!UICONTROL Experience Platform]** en **[!UICONTROL Permissions]** inside of **[!UICONTROL Quick access]** zien.
 

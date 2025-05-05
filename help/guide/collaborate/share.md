@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Share]** werkruimte is slechts beschikbaar als het **Delen van het Publiek en het 2} gebruiksgeval van de activering [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Share]** werkruimte is slechts beschikbaar als het **Delen van het Publiek en het 2&rbrace; gebruiksgeval van de activering [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Als adverteerder leert u hoe u publiek kunt delen met uw uitgevers zodat deze campagnes kunnen voeren. Als uw samenwerking **heeft toegelaten ontdekken publiek** gebruiksgeval, begin door overlappende rapporten in te stellen [ ontdekt lusje ](/help/guide/collaborate/discover.md) om het beste publiek voor het delen te identificeren.
 
@@ -125,4 +125,4 @@ TODO: are there any limitations for frequency in the M1 release?
 
 ## Volgende stappen
 
-Nadat de uitgever het gedeelde publiek ontvangt, zullen zij [ ](/help/guide/collaborate/activate.md) hen nu activeren in digitale reclamecampagnes.
+Nadat de uitgever het gedeelde publiek ontvangt, zullen zij [&#128279;](/help/guide/collaborate/activate.md) hen nu activeren in digitale reclamecampagnes.

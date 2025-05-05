@@ -19,11 +19,11 @@ ht-degree: 1%
 >
 > Als u een eindgebruiker toegang tot Real-Time CDP Collaboration wilt hebben, neemt u contact op met uw systeem of productbeheerder om bestaande toegang te controleren. Neem contact op met uw Adobe-vertegenwoordiger als u niet weet wie uw systeembeheerder is.
 
-De controle van de toegang voor Real-Time Customer Data Platform (CDP) Collaboration wordt verstrekt door Admin Console en Toestemmingen in [ Adobe Experience Cloud ](https://experience.adobe.com/) {target="_blank"}. In deze gids, zult u leren hoe te om toegang tot zich of andere leden van uw team, afhankelijk van uw gebruiksgeval te verlenen.
+De controle van de toegang voor Real-Time Customer Data Platform (CDP) Collaboration wordt verstrekt door Admin Console en Toestemmingen in [ Adobe Experience Cloud ](https://experience.adobe.com/){target="_blank"} . In deze gids, zult u leren hoe te om toegang tot zich of andere leden van uw team, afhankelijk van uw gebruiksgeval te verlenen.
 
 ## Toegangsbeheerhiërarchie {#hierarchy}
 
-Om toegangsbeheer aan Real-Time CDP Collaboration te vormen, moet u **** systeem of productbeheerdervoorrechten hebben. Een systeembeheerder heeft geen beperkingen en is provisioned tijdens het aan boord gaan proces. Ondertussen, kan een productbeheerder administratieve functies voor alle producten verstrekken zij zijn toegewezen aan. Een productbeheerder moet product en administratieve toegang door een systeembeheerder worden verleend.
+Om toegangsbeheer aan Real-Time CDP Collaboration te vormen, moet u **&#x200B;**&#x200B;systeem of productbeheerdervoorrechten hebben. Een systeembeheerder heeft geen beperkingen en is provisioned tijdens het aan boord gaan proces. Ondertussen, kan een productbeheerder administratieve functies voor alle producten verstrekken zij zijn toegewezen aan. Een productbeheerder moet product en administratieve toegang door een systeembeheerder worden verleend.
 
 In deze handleidingen wordt beschreven hoe u toegang configureert voor systeembeheerders, productbeheerders en eindgebruikers. Verwijs naar de lijst hieronder om het belangrijkste verschil tussen de rollen te begrijpen.
 
@@ -83,7 +83,7 @@ Als u eenmaal toegang hebt gekregen tot Real-Time CDP Collaboration, hebt u moge
 
 ### Invoer van publiek {#audience-importation}
 
-Voordat u een publiek kunt delen met medewerkers, moet u eerst een publiek importeren in Real-Time CDP Collaboration. Experience Platform is momenteel de enige gegevensverbinding die wordt ondersteund voor het importeren van soorten publiek. Om te beginnen, zal het (de) het leiden publiek op het instappen een rol moeten worden toegewezen die de volgende **middeltoestemmingen van het Beheer van het Profiel 1} bevat:**
+Voordat u een publiek kunt delen met medewerkers, moet u eerst een publiek importeren in Real-Time CDP Collaboration. Experience Platform is momenteel de enige gegevensverbinding die wordt ondersteund voor het importeren van soorten publiek. Om te beginnen, zal het (de) het leiden publiek op het instappen een rol moeten worden toegewezen die de volgende **middeltoestemmingen van het Beheer van het Profiel 1&rbrace; bevat:**
 
 | Machtiging | Beschrijving |
 | ---- | ---- |

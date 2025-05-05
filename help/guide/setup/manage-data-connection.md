@@ -25,7 +25,7 @@ Alvorens uw gegevensverbindingen hier te beheren, zou u hen eerst opstelling tij
 
 >[!IMPORTANT]
 >
->Het verwijderen van een gegevensverbinding wordt momenteel niet ondersteund in de Real-Time CDP Collaboration-gebruikersinterface. Om een gegevensverbinding te schrappen, te bereiken gelieve uit aan uw vertegenwoordiger van Adobe of [ een kaartje van de klantensteun ](https://experienceleague.adobe.com/home?lang=en&amp;support-tab=open-ticket#support) {target="_blank"} tot stand te brengen.
+>Het verwijderen van een gegevensverbinding wordt momenteel niet ondersteund in de Real-Time CDP Collaboration-gebruikersinterface. Om een gegevensverbinding te schrappen, te bereiken gelieve uit aan uw vertegenwoordiger van Adobe of [ een kaartje van de klantensteun ](https://experienceleague.adobe.com/home?lang=en&amp;support-tab=open-ticket#support){target="_blank"}  tot stand te brengen.
 
 Als u bestaande gegevensverbindingen wilt weergeven, navigeert u naar **[!UICONTROL Setup]** > **[!UICONTROL My audiences]** en selecteert u **[!UICONTROL Manage data connections]** .
 

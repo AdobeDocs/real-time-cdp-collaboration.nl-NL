@@ -23,7 +23,7 @@ Gebruik de functionaliteit voor auditlogs in Real-Time CDP Collaboration om gebr
 
 ![ het overzichtsscherm op hoog niveau van de functionaliteit van controlelogboeken ](/help/assets/setup/audit-logs/audit-logs-overview.png)
 
-Voor uitvoerigere informatie over controlelogboeken, bezoek de [ documentatie van de Logboeken van de Controle van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview) {target="_blank"}.
+Voor uitvoerigere informatie over controlelogboeken, bezoek de [ documentatie van de Logboeken van de Controle van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview){target="_blank"} .
 
 ## Toegangscontrolelogboeken
 

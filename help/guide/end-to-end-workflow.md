@@ -27,7 +27,7 @@ Gebruik het [ ontdekt lusje om uitgevers ](/help/guide/connect/discover-publishe
 
 Nadat de uitgever uw verbindingsverzoek goedkeurt, is het tijd om het overlappende publiek tussen uw organisatie en hun te onderzoeken. Opstelling een project voor een campagne en [ looppas overlappende rapporten ](/help/guide/collaborate/discover.md) om het beste publiek voor uw volgende reclamecampagne te ontdekken, afhankelijk van het samenwerkingsgebruik geval - richtend, onderdrukking, en anderen.
 
-Zodra u het ideale publiek ontdekt, is het tijd om hen met de uitgever ](/help/guide/collaborate/share.md) voor hen te delen om het publiek te activeren en daardoor van de campagne af te schoppen.[
+Zodra u het ideale publiek ontdekt, is het tijd om hen met de uitgever [&#128279;](/help/guide/collaborate/share.md) voor hen te delen om het publiek te activeren en daardoor van de campagne af te schoppen.
 
 De definitieve stap in de samenwerkingslijn is [ meting ](/help/guide/collaborate/measure.md). Om uw bedrijfsresultaten te meten of te kennen, uploadt u meetgegevens zoals en logboeken en voert u de rapporten uit die in het programma worden verstrekt om te begrijpen hoe uw publiek presteerde.
 

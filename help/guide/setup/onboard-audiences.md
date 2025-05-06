@@ -2,11 +2,11 @@
 title: Soorten publiek importeren en beheren
 description: Meer informatie over het importeren en beheren van soorten publiek in Adobe Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 0a5158fa-73d3-4406-af20-2b6c7be9934e
-source-git-commit: ff22dde9730fab89481338753b1dc4a0adf1d57e
+source-git-commit: 2c835ce72f09c450aa3467dc72980c9c627a0ab8
 workflow-type: tm+mt
-source-wordcount: '2577'
+source-wordcount: '2601'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,9 @@ Van het **[!UICONTROL My audiences]** lusje, selecteer plus **+** symbool, en se
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_marketing_actions"
 >title="Marketingacties"
->abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De </strong> marketing actie van Collaboration van 0&rbrace; Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. <strong> De </strong> marketing actie van de Wetenschap van 0&rbrace; Gegevens steunt het C9 etiket van het gegevensgebruik.<strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.</li></ul></p>"
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/overview.html?lang=nl-NL" text="Overzicht van labels voor gegevensgebruik"
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/reference.html?lang=nl-NL" text="Verklarende woordenlijst met gegevensgebruikslabels"
+>abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De </strong> marketing actie van Collaboration van 0} Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. <strong> De </strong> marketing actie van de Wetenschap van 0} Gegevens steunt het C9 etiket van het gegevensgebruik.<strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.</li></ul></p>"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/overview.html" text="Overzicht van labels voor gegevensgebruik"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/reference.html" text="Verklarende woordenlijst met gegevensgebruikslabels"
 
 >[!IMPORTANT]
 >
@@ -89,17 +89,17 @@ Selecteer **[!UICONTROL Next]** nadat u de gewenste sandbox hebt geselecteerd.
 
 Vervolgens moet u ervoor zorgen dat de juiste marketingacties zijn ingesteld voor de geïmporteerde gegevens. U moet ook toestemming geven voor het gebruik van uit Real-Time CDP geïmporteerde gegevens voor gegevenssamenwerking.
 
-Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De **marketing actie van Collaboration van 0&rbrace; Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik.** De **marketing actie van de Wetenschap van 0&rbrace; Gegevens steunt het C9 etiket van het gegevensgebruik.**
+Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De **marketing actie van Collaboration van 0} Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik.** De **marketing actie van de Wetenschap van 0} Gegevens steunt het C9 etiket van het gegevensgebruik.**
 
-Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
+Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
 
 * Met checkbox *toegelaten*, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt *niet* gebracht in Real-Time CDP Collaboration.
 * Met checkbox *gehandicapt*, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.
 
 Meer informatie over labels voor gegevensgebruik vindt u in de documentatie van Experience Platform:
 
-* [ overzicht van de gebruiksetiketten van Gegevens ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/overview){target="_blank"}
-* [ de etiketten van het gebruiksgebruik van Gegevens verklarende woordenlijst ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/reference){target="_blank"}
+* [ overzicht van de gebruiksetiketten van Gegevens ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/overview){target="_blank"}
+* [ de etiketten van het gebruiksgebruik van Gegevens verklarende woordenlijst ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference){target="_blank"}
 
 ![ Vereiste marketing acties voor gegevenssamenwerking.](/help/assets/setup/add-manage-audiences/data-collaboration-consent.png)
 
@@ -136,13 +136,13 @@ Geef vervolgens een naam en een beschrijving op waarmee u deze gegevensverbindin
 >id="rtcdp_collaboration_import_audience_mapping_identity_namespaces"
 >title="Identiteitsnaamruimten"
 >abstract="Selecteer een naamruimte voor identiteit in de standaard- en aangepaste naamruimten die beschikbaar zijn in uw Experience Platform-organisatie."
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html?lang=nl-NL#standard" text="Standaard- en naamruimten in Experience Platform"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html#standard" text="Standaard- en naamruimten in Experience Platform"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_mapping_profile_attributes"
 >title="Profielkenmerken"
 >abstract="Selecteer kenmerken in het Unieschema voor de klasse Profile in Experience Platform. In deze weergave worden de kenmerken weergegeven die aanwezig zijn in het Unieschema en die behoren tot de klasse Individueel profiel XDM."
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=nl-NL" text="Unieschema in Experience Platform"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html" text="Unieschema in Experience Platform"
 
 ![ het scherm van de Velden van de Kaart die brongebieden tonen aan doelgebieden in kaart worden gebracht.](/help/assets/setup/add-manage-audiences/Step-Map-Fields.png)
 
@@ -211,7 +211,7 @@ Note that this control is disabled in the initial release of Real-Time CDP Colla
 
 After selecting the desired use cases for each identity, proceed to the next step. 
 
--->
+-->›
 
 ### Schema {#schedule}
 
@@ -246,7 +246,7 @@ Bekijk alle configuraties en instellingen voordat u de publiekstoevoeging voltoo
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_view_audience_missing_identities"
 >title="Ontbrekende identiteiten"
->abstract="Het aantal identiteiten geeft een `-` weer gedurende ongeveer de eerste 24 uur nadat een publiek in Real-Time CDP Collaboration is geïmporteerd. Na dit tijdsbestek wordt het aantal identiteiten bijgewerkt met het aantal profielen in het publiek."
+>abstract="Het aantal identiteiten zal beschikbaar zijn nadat de volgende gegevensverbinding na het gevormde programma verfrist zich. De eerste vernieuwing vindt gewoonlijk plaats binnen 24 uur nadat de gegevensverbinding is ingesteld. De voortdurende verfrissingen zullen het gevormde programma volgen. "
 
 Nadat u een publiek naar Real-Time CDP Collaboration hebt geïmporteerd, kunt u er informatie over krijgen in een dashboardweergave. In de standaardweergave op de pagina **[!UICONTROL My audiences]** worden alle soorten publiek weergegeven die momenteel door uw organisatie in Real-Time CDP Collaboration zijn geïmporteerd.
 
@@ -257,7 +257,7 @@ U kunt de volgende relevante informatie over elk publiek bekijken:
 | Item | Beschrijving |
 |----------|---------|
 | **[!UICONTROL Identities]** | Geeft het aantal identiteiten aan dat in dit publiek aanwezig is. Als hetzelfde profiel twee of meer identiteiten heeft en deze identiteiten als overeenkomende sleutels in het project worden gebruikt, wordt het profiel twee keer weergegeven in de telling. |
-| **[!UICONTROL Status]** | Geeft aan of het publiek actief is en kan worden gebruikt in projecten. Een status in behandeling geeft aan dat het publiek onlangs is geïmporteerd en dat publieksleden nog niet zijn gevuld. Het geïmporteerde publiek vult de profielen meestal binnen 24 uur. |
+| **[!UICONTROL Status]** | Geeft aan of het publiek actief is en kan worden gebruikt in projecten. Een status in behandeling geeft aan dat het publiek onlangs is geïmporteerd en dat publieksleden nog niet zijn gevuld. Het geïmporteerde publiek wordt gevuld met profielen nadat de volgende gegevensverbinding is vernieuwd volgens het geconfigureerde schema. De eerste vernieuwing vindt gewoonlijk plaats binnen 24 uur nadat de gegevensverbinding is ingesteld                                         . |
 | **[!UICONTROL Source]** | Geeft de bron aan waaruit dit publiek is geïmporteerd. In de huidige release van Real-Time CDP Collaboration is Adobe Experience Platform de enige ondersteunde bron. |
 | **[!UICONTROL Data connection]** | Meer informatie over waar dit publiek is geïmporteerd. Wanneer u bijvoorbeeld een publiek importeert uit de Experience Platform-bron, worden de afzonderlijke sandboxen waartoe uw organisatie toegang heeft, beschouwd als de gegevensverbindingen. |
 | **[!UICONTROL Connection access]** | Bepaalt of dit publiek privé of openbaar is. Openbare doelgroepen zijn te vinden in overlappende rapporten en kunnen met deelnemers worden gedeeld. |
@@ -337,7 +337,7 @@ Selecteer of het publiek privé aan u, of bruikbaar en ontdekkbaar in verbinding
 
 >[!IMPORTANT]
 >
->Ongeacht de toegangsstatus (public, private of custom), draagt de populatie van een publiek bij aan de **[!UICONTROL All audiences]** -populatie in de analyse Audience Discovery overlapt deze. <br> ![ het systeem-geproduceerde **Alle publiek** publiek in de Ontdekking van het publiek overlapt analyse is inclusief van publiek met alle statussen van de verbindingstoegang (openbaar, privé, douane).](/help/assets/setup/add-manage-audiences/all-audiences-view.png " het systeem-geproduceerde **Alle publiek** publiek in **de Ontdekking van het publiek &#x200B;*** overlappende analyse is inclusief publiek met alle statussen van de verbindingstoegang (openbaar, privé, douane)."){width="100" zoomable="yes"}
+>Ongeacht de toegangsstatus (public, private of custom), draagt de populatie van een publiek bij aan de **[!UICONTROL All audiences]** -populatie in de analyse Audience Discovery overlapt deze. <br> ![ het systeem-geproduceerde **Alle publiek** publiek in de Ontdekking van het publiek overlapt analyse is inclusief van publiek met alle statussen van de verbindingstoegang (openbaar, privé, douane).](/help/assets/setup/add-manage-audiences/all-audiences-view.png " het systeem-geproduceerde **Alle publiek** publiek in **de Ontdekking van het publiek *** overlappende analyse is inclusief publiek met alle statussen van de verbindingstoegang (openbaar, privé, douane)."){width="100" zoomable="yes"}
 
 De beschikbaarheid van het publiek voor gebruik in projecten met medewerkers verschilt gebaseerd op het plaatsen van de verbindingstoegang. U kunt de verbindingstoegang altijd wijzigen van privé in openbaar, maar u kunt die instelling niet meer wijzigen als een publiek wordt gedeeld met deelnemers.
 

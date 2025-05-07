@@ -2,11 +2,11 @@
 title: Ingebouwde en beheerde organisatie
 description: Leer hoe u verschillende aspecten van uw organisatie in Real-Time CDP Collaboration kunt opnemen en beheren
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: a95e932a-9681-48f2-bf34-6fe5a50597d7
-source-git-commit: 0de6ab9af8152975f8e0b0f75b1ee0116ed73584
+source-git-commit: 27faef284a07be114ea0a9a7beeae75ec6265d53
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -53,10 +53,8 @@ De workflow voor het instellen van uw organisatie bestaat uit de volgende twee p
 4. Selecteer de **[!UICONTROL Industry]** voor uw organisatie. Voorbeelden zijn **[!UICONTROL Retail]** , **[!UICONTROL Telecommunications]** of **[!UICONTROL Financial services]** .
 5. Selecteer de **[!UICONTROL Region]** voor uw organisatie. In de huidige versie van het product is **[!UICONTROL North America]** de standaardselectie met voorinstellingen.
 6. Voeg een **[!UICONTROL Contact email]** toe voor uw organisatie. Dit moet een team of een op rollen gebaseerd e-mailadres zijn. Persoonlijke e-mailadressen mogen niet worden opgegeven.
-7. <span class="preview"> Uitgever-slechts </span>: Wanneer het vestiging van een uitgeversorganisatie, moet u lezen en erkennen dat u door adverteerders in de uitgeverscatalogus zal kunnen worden ontdekt.
-   ![ uitgever-specifiek opt-in bericht.](/help/assets/setup/manage-organization/publisher-specific-optin-message.png){zoomable="yes"}
-8. Upload een **[!UICONTROL Logo]** voor uw bedrijf. Op dit moment worden SVG-afbeeldingen ondersteund.
-9. Selecteer een afbeelding voor de koptekst van uw bedrijf.
+7. Upload een **[!UICONTROL Logo]** voor uw bedrijf. Op dit moment worden SVG-afbeeldingen ondersteund.
+8. Selecteer een afbeelding voor de koptekst van uw bedrijf.
 
 Als u tevreden bent met de selectie, gebruikt u **[!UICONTROL Next]** om door te gaan naar de volgende pagina en de gewenste match keys te selecteren die uw organisatie moet gebruiken.
 

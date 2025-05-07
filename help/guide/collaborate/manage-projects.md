@@ -2,9 +2,9 @@
 title: Projecten maken en beheren
 description: Leer hoe u projecten maakt en beheert in Adobe Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: ae492846-bc0a-4422-86ca-577bcc1fa60c
-source-git-commit: 55835f1e37975793f3a96c79e7c3a5bfeabfc88e
+source-git-commit: e0894fb3cb290334e0e95d5c26288705967d9dbe
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 1%
@@ -30,9 +30,9 @@ U kunt filters gebruiken om slechts de projecten te bekijken die u met bepaalde 
 ## Project maken {#create-project}
 
 >[!CONTEXTUALHELP]
->id="rtcdp_collaboration_manage_projects_advertiser_name"
+>id="rtcdp_collaboration_manage_projects_advertisername"
 >title="Naam adverteerder"
->abstract="Selecteer de naam van de adverteerder in het vervolgkeuzemenu. De opties worden vooraf geconfigureerd door de uitgever in de verbindingsinstellingen om ervoor te zorgen dat ze compatibel zijn met hun systemen."
+>abstract="Selecteer de naam van de adverteerder in het vervolgkeuzemenu. De opties worden vooraf geconfigureerd door de adverteerder in de verbindingsinstellingen om te zorgen voor compatibiliteit met uitgeverssystemen."
 
 Als u een project wilt maken, selecteert u het plusteken **+** in de rechterbovenhoek. Of navigeer als dit uw eerste project is naar **[!UICONTROL Collaborate]** > **[!UICONTROL My Projects]** en selecteer **[!UICONTROL Create a project]** .
 

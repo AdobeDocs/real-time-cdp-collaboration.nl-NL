@@ -2,11 +2,11 @@
 title: Ingebouwde en beheerde organisatie
 description: Leer hoe u verschillende aspecten van uw organisatie in Real-Time CDP Collaboration kunt opnemen en beheren
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: a95e932a-9681-48f2-bf34-6fe5a50597d7
-source-git-commit: 27faef284a07be114ea0a9a7beeae75ec6265d53
+source-git-commit: 12e73a9bf64f5746748d1a8c81827c50000a6428
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '814'
 ht-degree: 0%
 
 ---
@@ -79,6 +79,11 @@ Als u tevreden bent met de selectie, gebruikt u **[!UICONTROL Next]** om door te
 >id="rtcdp_collaboration_organization_onboarding_partnerIDs"
 >title="Ondersteunde partner-id&#39;s"
 >abstract="Identiteitskaart van de partner verbonden aan profielen breidt het bereik tot een bepaald profiel uit."
+
+>[!CONTEXTUALHELP]
+>id="rtcdp_collaboration_destinations_activation_matchkeys"
+>title="Aanpassingssleutels activering"
+>abstract="Activeringssleutels worden weergegeven op basis van de door uw organisatie gekozen match-sleutels."
 
 Identieke sleutels, zoals e-mailadressen, apparaat-id&#39;s of klant-id&#39;s, helpen adverteerders en uitgevers samen door nauwkeurige en privacygerichte gegevenssynchronisatie in te schakelen, waardoor doelgerichtere doelgroepen en meetwaarden mogelijk zijn.
 

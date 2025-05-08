@@ -50,7 +50,7 @@ Van het **[!UICONTROL My audiences]** lusje, selecteer plus **+** symbool, en se
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_marketing_actions"
 >title="Marketingacties"
->abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De </strong> marketing actie van Collaboration van 0} Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. <strong> De </strong> marketing actie van de Wetenschap van 0} Gegevens steunt het C9 etiket van het gegevensgebruik.<strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.</li></ul></p>"
+>abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De </strong> marketing actie van Collaboration van 0&rbrace; Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. <strong> De </strong> marketing actie van de Wetenschap van 0&rbrace; Gegevens steunt het C9 etiket van het gegevensgebruik.<strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.</li></ul></p>"
 >additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/overview.html" text="Overzicht van labels voor gegevensgebruik"
 >additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/reference.html" text="Verklarende woordenlijst met gegevensgebruikslabels"
 
@@ -89,7 +89,7 @@ Selecteer **[!UICONTROL Next]** nadat u de gewenste sandbox hebt geselecteerd.
 
 Vervolgens moet u ervoor zorgen dat de juiste marketingacties zijn ingesteld voor de geïmporteerde gegevens. U moet ook toestemming geven voor het gebruik van uit Real-Time CDP geïmporteerde gegevens voor gegevenssamenwerking.
 
-Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De **marketing actie van Collaboration van 0} Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik.** De **marketing actie van de Wetenschap van 0} Gegevens steunt het C9 etiket van het gegevensgebruik.**
+Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De **marketing actie van Collaboration van 0&rbrace; Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik.** De **marketing actie van de Wetenschap van 0&rbrace; Gegevens steunt het C9 etiket van het gegevensgebruik.**
 
 Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
 
@@ -342,7 +342,7 @@ Selecteer of het publiek privé aan u, of bruikbaar en ontdekkbaar in verbinding
 
 >[!IMPORTANT]
 >
->Ongeacht de toegangsstatus (public, private of custom), draagt de populatie van een publiek bij aan de **[!UICONTROL All audiences]** -populatie in de analyse Audience Discovery overlapt deze. <br> ![ het systeem-geproduceerde **Alle publiek** publiek in de Ontdekking van het publiek overlapt analyse is inclusief van publiek met alle statussen van de verbindingstoegang (openbaar, privé, douane).](/help/assets/setup/add-manage-audiences/all-audiences-view.png " het systeem-geproduceerde **Alle publiek** publiek in **de Ontdekking van het publiek *** overlappende analyse is inclusief publiek met alle statussen van de verbindingstoegang (openbaar, privé, douane)."){width="100" zoomable="yes"}
+>Ongeacht de toegangsstatus (public, private of custom), draagt de populatie van een publiek bij aan de **[!UICONTROL All audiences]** -populatie in de analyse Audience Discovery overlapt deze. <br> ![ het systeem-geproduceerde **Alle publiek** publiek in de Ontdekking van het publiek overlapt analyse is inclusief van publiek met alle statussen van de verbindingstoegang (openbaar, privé, douane).](/help/assets/setup/add-manage-audiences/all-audiences-view.png " het systeem-geproduceerde **Alle publiek** publiek in **de Ontdekking van het publiek &#x200B;*** overlappende analyse is inclusief publiek met alle statussen van de verbindingstoegang (openbaar, privé, douane)."){width="100" zoomable="yes"}
 
 De beschikbaarheid van het publiek voor gebruik in projecten met medewerkers verschilt gebaseerd op het plaatsen van de verbindingstoegang. U kunt de verbindingstoegang altijd wijzigen van privé in openbaar, maar u kunt die instelling niet meer wijzigen als een publiek wordt gedeeld met deelnemers.
 

@@ -2,11 +2,11 @@
 title: Prestaties meten
 description: Meet de prestaties van uw campagnes over verschillende kanalen. Leer hoe u verschillende rapporten kunt gebruiken en interpreteren.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: c92b263e-1f96-49f1-841a-ef2e97a4cb9a
-source-git-commit: acaaaa1e1fab981d874210639c16e76e48fc3394
+source-git-commit: b69d204149f203d1950fd0e28b0858ffca2c1225
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Measure]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de de meetmethode van de Campagne [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Measure]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de de meetmethode van de Campagne [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Leer meer over de beschikbare rapporten in Real-Time CDP Collaboration en begrijp hoe u de prestaties van uw marketingcampagnes op verschillende kanalen kunt meten en analyseren.
 
@@ -28,7 +28,27 @@ Voordat u de meetrapporten in Real-Time CDP Collaboration kunt openen, hebt u al
 * [ Verbonden ](/help/guide/connect/establishing-connections.md) met een gewenste adverteerder of uitgever met de **meting van de Campagne** toegelaten gebruiksgeval en begonnen samenwerkend op [ projecten ](/help/guide/collaborate/manage-projects.md)
 * Stel een campagne in werking en [ geüploade metingsgegevens ](/help/guide/setup/onboard-measurement-data.md) in Real-Time CDP Collaboration.
 
-## Rapporten weergeven
+<!--
+
+## Create a report {#create-report}
+
+Hidden until functionality is live. At that point, move the contextualhelp from below into this section. 
+
+The syntax rtcdp_collaboration_measurement_create_report is currently implemented in the UI. However, a preference would be to imlement the other contextualhelp ID from below instead, since that explicitly includes campaignID in the syntax. Need to sync up with UI team. More details in CORE-116991.
+
+-->
+
+## Rapporten weergeven {#view-reports}
+
+>[!CONTEXTUALHELP]
+>id="rtcdp_collaboration_measurement_create_report_campaignID"
+>title="Campagne-id&#39;s"
+>abstract="Tijdelijke aanduiding om relevante informatie in de gebruikersinterface toe te voegen over wat de campagne-id&#39;s zijn."
+
+>[!CONTEXTUALHELP]
+>id="rtcdp_collaboration_measurement_create_report"
+>title="Campagne-id&#39;s"
+>abstract="Tijdelijke aanduiding om relevante informatie in de gebruikersinterface toe te voegen over wat de campagne-id&#39;s zijn."
 
 U kunt als volgt de rapporten weergeven die beschikbaar zijn op het tabblad Metingen:
 

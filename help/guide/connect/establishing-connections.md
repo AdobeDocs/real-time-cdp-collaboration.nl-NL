@@ -2,11 +2,11 @@
 title: Verbinding maken met adverteerders of uitgevers
 description: Na het ontdekken van potentiële medewerkers, leer hoe te om verbindingen te vestigen en beginnen aan projecten samen te werken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3fed93f7-1854-440c-802e-6b47e82918c9
-source-git-commit: e0894fb3cb290334e0e95d5c26288705967d9dbe
+source-git-commit: cc74b26091a4f764e200c9cae91316492874551a
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '1170'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,8 @@ Nadat de medewerker de uitnodiging heeft geaccepteerd, kunt u de verbindingsinst
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_connection_settings_advertisername"
 >title="Namen van adverteerders"
->abstract="Hiermee worden de aliassen aangegeven waarmee de adverteerder bij de uitgever bekend is. "
+>abstract="<p>Optionele instelling. Geeft de naam en id aan waarmee de adverteerder bij de uitgever bekend is.</p><p>De naam van de adverteerder die u hier toevoegt, wordt vooraf ingevuld in de stap Project maken.</p><ul><li>Als de uitgever veelvoudige namen vormde, selecteer van de lijst.</li><li>Als slechts één naam wordt gevormd, wordt het vooraf geselecteerd automatisch.</li><li>Als er geen namen zijn geconfigureerd, wordt het veld voorgevuld met de naam van de adverteerderaccount van Real-Time CDP Collaboration.</li></ul>"
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
 
 Nadat de uitnodiging is verzonden, kunt u een voorbeeld van de verbindingsinstellingen bekijken. De uitnodiging moet worden geaccepteerd voordat u de verbinding kunt voltooien.
 
@@ -130,6 +131,22 @@ Voordat u kunt doorgaan met deze verbinding, moet u erkennen dat er een overeenk
 
 +++
 
++++Namen van adverteerders
+
+Als uitgever die aan de verbindingsmontages werkt, kunt u selecteren om het even welke adverteerdernamen toe te voegen waardoor de adverteerder aan u in uw systemen gekend is. Als uitgever kunt u bijvoorbeeld meerdere adverteerdernamen toevoegen aan een verbinding wanneer de adverteerder waarmee u werkt, in meerdere geografische gebieden aanwezig is. Later in het proces, wanneer [ creërend een project ](/help/guide/collaborate/manage-projects.md#create-project) om aan samen te werken, zult u of uw medewerker de adverteerdernaam kunnen selecteren om met het project te associëren.
+
+![ voeg adverteerdernamen modaal toe.](/help/assets/connect/establish-connection/add-advertiser-names-modal.png)
+
+Hieronder wordt beschreven hoe de naamselectie van adverteerders werkt bij het maken van een project:
+
+1. **Geen geplaatste adverteerdernaam**: Als geen adverteerdernamen worden toegevoegd, blijft Real-Time CDP Collaboration aan het gebruiken van de naam van de adverteerder als adverteerdernaam in gebreke.
+2. **Één de naamreeks van adverteerders**: Als één enkele adverteerdernaam wordt toegevoegd, gebruikt Real-Time CDP Collaboration automatisch die naam als adverteerdernaam voor het project.
+3. **Veelvoudige geplaatste adverteerdernamen**: Als meer dan één adverteerdernaam wordt toegevoegd, kunt u of uw medewerker om het even welke verstrekte namen selecteren wanneer het creëren van het project.
+
+![ Advertiser namen.](/help/assets/connect/establish-connection/advertiser-names.png)
+
++++
+
 Nadat u uw selectie hebt gemaakt, selecteert u **[!UICONTROL Submit]** om de voorgestelde instellingen ter controle naar uw medewerker te sturen.
 
 Als u voorgestelde verbindingsmontages van uw medewerker ontvangt, kunt u of **[!UICONTROL Accept]** of **[!UICONTROL Reject]** die montages. Voordat u de verbindingsinstellingen accepteert, moet u bevestigen en bevestigen dat er een juridische overeenkomst bestaat tussen u en de medewerker. Als u verbindingsmontages verwerpt, bereik aan uw medewerker buiten het product en bespreek hoe zij de verbindingsmontages voor u zouden moeten herzien om hen te aanvaarden.
@@ -151,4 +168,4 @@ U kunt om het even welke verbindingen met medewerkers schrappen die u niet wilt 
 
 ## Volgende stappen
 
-Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [&#128279;](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.
+Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [ ](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.

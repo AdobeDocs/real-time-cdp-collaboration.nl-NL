@@ -2,12 +2,12 @@
 title: Projecten maken en beheren
 description: Leer hoe u projecten maakt en beheert in Adobe Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: ae492846-bc0a-4422-86ca-577bcc1fa60c
-source-git-commit: e0894fb3cb290334e0e95d5c26288705967d9dbe
+source-git-commit: cc74b26091a4f764e200c9cae91316492874551a
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 1%
+source-wordcount: '442'
+ht-degree: 0%
 
 ---
 
@@ -32,13 +32,18 @@ U kunt filters gebruiken om slechts de projecten te bekijken die u met bepaalde 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_manage_projects_advertisername"
 >title="Naam adverteerder"
->abstract="Selecteer de naam van de adverteerder in het vervolgkeuzemenu. De opties worden vooraf geconfigureerd door de adverteerder in de verbindingsinstellingen om te zorgen voor compatibiliteit met uitgeverssystemen."
+>abstract="Selecteer de naam van de adverteerder in het vervolgkeuzemenu. De opties worden vooraf geconfigureerd door de uitgever in de verbindingsinstellingen om ervoor te zorgen dat ze compatibel zijn met hun systemen."
 
 Als u een project wilt maken, selecteert u het plusteken **+** in de rechterbovenhoek. Of navigeer als dit uw eerste project is naar **[!UICONTROL Collaborate]** > **[!UICONTROL My Projects]** en selecteer **[!UICONTROL Create a project]** .
 
 ![ Uitgezocht plus symbool of creeer een project aan opstelling een nieuw project.](/help/assets/collaborate/manage-view-projects/create-project.png){zoomable="yes"}
 
-Selecteer vervolgens de medewerker waarmee u het project wilt maken. Geef een **[!UICONTROL project name]** en **[!UICONTROL description]** op voor uw project, selecteer een afbeeldingskoptekst om het project gemakkelijk te kunnen onderscheiden en bevestig uw selectie.
+Selecteer vervolgens de volgende instellingen:
+
+* De medewerker waarmee u het project maakt
+* Selecteer een naam van een adverteerder als de uitgever veelvoudige adverteerdernamen in de verbindingsmontages vormde. Anders wordt de naam van de adverteerder vooraf geselecteerd als naam van de adverteerder. Of als de uitgever één enkele adverteerdernaam in de verbindingsmontages vormde, wordt die naam vooraf ingevuld in deze selectie. [ las meer ](/help/guide/connect/establishing-connections.md#connection-settings) over adverteerdernamen.
+* Geef een **[!UICONTROL project name]** en **[!UICONTROL description]** op voor uw project
+* Selecteer een afbeeldingskoptekst om het project gemakkelijk te kunnen onderscheiden en bevestig uw selectie.
 
 ![ Vereiste opties aan opstelling een nieuw project ](/help/assets/collaborate/manage-view-projects/create-project-required-info.png){zoomable="yes"}
 

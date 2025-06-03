@@ -2,11 +2,11 @@
 title: Identiteitskruizen
 description: Leer allen over identiteitsoverzichten in Real-Time CDP Collaboration, met inbegrip van hoe brengt de identiteitsoverzichten binnen van verschillende bronnen, en hoe te om identiteitsoverzichten te beheren
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 hidefromtoc: true
 hide: true
 exl-id: a51f112d-3da7-4482-a24a-6d9f269d28d1
-source-git-commit: 23dc33af83366806f7d99161b4b713a33daeec76
+source-git-commit: dd1386f9371cb40285315d11e07b139d3115e147
 workflow-type: tm+mt
 source-wordcount: '507'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Selecteer een bron waar u het identiteitskruis van zult invoeren. In de eerste v
 >
 >De kruisen die u van Experience Platform invoert worden bedoeld als *datasets* in Platform.
 
-Na het selecteren van Experience Platform als bron van uw kruis, selecteer de [ zandbak van Experience Platform ](https://experienceleague.adobe.com/nl/docs/experience-platform/sandbox/home) waarvan u het identiteitskruis invoert.
+Na het selecteren van Experience Platform als bron van uw kruis, selecteer de [ zandbak van Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/sandbox/home) waarvan u het identiteitskruis invoert.
 
 ![ Opname van hoe te om een dwarshellbron te selecteren ](/help/assets/setup/identity-crosswalks/select-crosswalk-source.gif)
 

@@ -2,9 +2,9 @@
 title: Opmerkingen bij de nieuwste Real-Time CDP Collaboration-release
 description: Volg de nieuwste releases voor Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 8513c648-1cc1-4544-b86d-2ee3193ab60f
-source-git-commit: fd19bb0fb0f09f5d704ce05ae719119287cbdc30
+source-git-commit: dd1386f9371cb40285315d11e07b139d3115e147
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 5%
@@ -21,14 +21,14 @@ Deze releaseopmerkingen betreffen de functionaliteit die in Real-Time Customer D
 
 ## April 2025 {#april-2025}
 
-* Een nieuwe **Bewerkte Inputs** kolom is toegevoegd aan de lijst van de de activiteit van de kredietconsumptie. In deze kolom wordt het totale aantal inputs (bijvoorbeeld id&#39;s of rijen) weergegeven dat voor elke activiteit is verwerkt. [ las meer ](/help/guide/setup/my-activity.md#inputs-processed). <br> ![Inputs processed column highighted in My activity view.](/help/assets/release-notes/2025/inputs-processed-column.png "Inputs processed column highighted in My activity view."){width="250" align="center" zoomable="yes"}
-* A new contact email option has been added to account creation. This helps partner collaborators reach out to you as needed during the connection process. [Meer informatie](../setup/onboard-organization.md).
+* Een nieuwe **Bewerkte Inputs** kolom is toegevoegd aan de lijst van de de activiteit van de kredietconsumptie. In deze kolom wordt het totale aantal inputs (bijvoorbeeld id&#39;s of rijen) weergegeven dat voor elke activiteit is verwerkt. [ las meer ](/help/guide/setup/my-activity.md#inputs-processed). <br> ![ Inputs verwerkte kolom die in Mijn activiteitenmening wordt benadrukt.](/help/assets/release-notes/2025/inputs-processed-column.png " Inputs verwerkte kolom die in Mijn activiteitenmening wordt benadrukt."){width="250" align="center" zoomable="yes"}
+* Er is een nieuwe e-mailoptie voor contact toegevoegd aan het maken van een account. Dit helpt de medewerkers van de partner uit u bereiken zoals nodig tijdens het verbindingsproces. [Meer informatie](../setup/onboard-organization.md).
 
 ## Maart 2025 {#march-2025}
 
 * Wanneer [ invoerend publiek ](/help/guide/setup/onboard-audiences.md) in Real-Time CDP Collaboration, kunt u een publiek nu plaatsen verfrist frequentie van **elke 1 tot 6 dagen** om de [ de creditactiviteit van het Beheer van de Publiek ](/help/guide/setup/my-activity.md#types-of-activities) beter te beheren. [ las meer ](/help/guide/setup/onboard-audiences.md#schedule). <br> ![ het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont.](/help/assets/setup/add-manage-audiences/Step-Schedule-Set-Frequency.png " het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont."){width="250" align="center" zoomable="yes"}
 * Wanneer het vestigen van een verbinding met een medewerker, kunt u van vooraf bepaalde **gebruiksgevallen** nu selecteren. De geselecteerde gebruikscase bepaalt welke projectsecties en productfunctionaliteit beschikbaar worden. [Meer informatie](/help/guide/collaborate/manage-projects.md#project-use-cases).
-   * *de meting van de Campagne* laat de **&#x200B;**&#x200B;projectsectie van de Maatregel toe.
+   * *de meting van de Campagne* laat de **** projectsectie van de Maatregel toe.
    * *de ontdekking van het publiek* laat **toe ontdekt** projectsectie.
    * *publiek dat en activering deelt* laat **Aandeel** toe en **activeer** *(uitgever-slechts)* projectsecties. <br> ![ Gevallen van het Gebruik die in de verbindingsmening worden benadrukt.](/help/assets/release-notes/2025/use-cases.png " Gevallen van het Gebruik die in de verbindingsmening worden benadrukt."){width="250" align="center" zoomable="yes"}
 * U kunt nu verbindingen verwijderen met deelnemers waarmee u niet meer wilt werken. [Meer informatie](/help/guide/connect/establishing-connections.md#delete-connections).

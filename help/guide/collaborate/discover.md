@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de ontdekking van het publiek [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de ontdekking van het publiek [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Na [ creërend een project ](/help/guide/collaborate/manage-projects.md) binnen een samenwerkingsruimte tussen een adverteerder en een uitgever, kunt u uw publiek tegen het publiek van uw medewerker nu vergelijken. Op deze manier kun je overlappingen ontdekken tussen het publiek en inzichten krijgen die zijn onderverdeeld in match keys of identiteiten. Op deze manier kunnen adverteerders bepalen welk publiek ze met uitgevers willen delen voor activering.
 
@@ -123,4 +123,4 @@ Verkrijg uitgebreide informatie over om het even welk publiek van uw medewerker 
 
 ## Volgende stappen
 
-Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd om [ ](/help/guide/collaborate/share.md) het publiek te delen dat in de campagnes met de uitgever zou moeten worden gebruikt.
+Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd om [&#128279;](/help/guide/collaborate/share.md) het publiek te delen dat in de campagnes met de uitgever zou moeten worden gebruikt.

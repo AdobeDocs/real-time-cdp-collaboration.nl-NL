@@ -2,7 +2,7 @@
 title: Workflow beëindigen
 description: Begrijp de end-to-end workflow om Real-Time CDP Collaboration als adverteerder of uitgever te gebruiken
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 90f9341e-5dd7-4521-a602-edb0263838c5
 source-git-commit: fda414120decc0c76712616ff85b83febede53e9
 workflow-type: tm+mt

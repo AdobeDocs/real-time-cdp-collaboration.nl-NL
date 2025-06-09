@@ -2,7 +2,7 @@
 title: Adobe Experience Platform configureren als bestemming
 description: Leer hoe u Adobe Experience Platform configureert en beheert als een doel in Real-Time CDP Collaboration.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 source-git-commit: f19aff1b7d10a446dd209721e7a6fdf537c9d63e
 workflow-type: tm+mt
 source-wordcount: '733'
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Configureer deze bestemming om het publiek van uw project naar Adobe Experience Platform te activeren. Als u het publiek activeert naar Adobe Experience Platform, kunt u de mogelijkheden van het platform benutten voor publiekssegmentatie, -analyse en -activering via verschillende marketingkanalen. Meer over Adobe Experience Platform leren, verwijs naar het [ overzicht van Experience Platform ](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/home){target="_blank"}.
+Configureer deze bestemming om het publiek van uw project naar Adobe Experience Platform te activeren. Als u het publiek activeert naar Adobe Experience Platform, kunt u de mogelijkheden van het platform benutten voor publiekssegmentatie, -analyse en -activering via verschillende marketingkanalen. Meer over Adobe Experience Platform leren, verwijs naar het [ overzicht van Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/home){target="_blank"}.
 
 >[!NOTE]
 >
@@ -65,7 +65,7 @@ Configureer vervolgens de **[!UICONTROL Audience Expiration]** . Standaard is de
 >title="Doelnaamruimten"
 >abstract="Doelnaamruimten bepalen aan welke naamruimte de overeenkomende sleutel wordt toegewezen in Adobe Experience Platform. De gehakte gelijke sleutels moeten aan een doelnamespace worden in kaart gebracht die gehakte waarden steunt."
 
-Vervolgens moet u een activeringstoewijzing maken om te bepalen hoe de publieksgegevens naar Adobe Experience Platform worden verzonden. U kunt elk [ gelijke sleutel ](../setup/onboard-organization.md#set-up-match-keys) in kaart brengen u terwijl het creëren van uw organisatie aan een doel namespace selecteerde. Het doel namespaces specificeert welke [ identiteit namespace ](https://experienceleague.adobe.com/nl/docs/experience-platform/identity/features/namespaces#standard){target="_blank"} de gelijke sleutel aan in Adobe Experience Platform in kaart zal worden gebracht.
+Vervolgens moet u een activeringstoewijzing maken om te bepalen hoe de publieksgegevens naar Adobe Experience Platform worden verzonden. U kunt elk [ gelijke sleutel ](../setup/onboard-organization.md#set-up-match-keys) in kaart brengen u terwijl het creëren van uw organisatie aan een doel namespace selecteerde. Het doel namespaces specificeert welke [ identiteit namespace ](https://experienceleague.adobe.com/en/docs/experience-platform/identity/features/namespaces#standard){target="_blank"} de gelijke sleutel aan in Adobe Experience Platform in kaart zal worden gebracht.
 
 >
 >

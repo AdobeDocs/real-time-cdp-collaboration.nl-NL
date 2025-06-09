@@ -37,7 +37,7 @@ Deze releaseopmerkingen betreffen de functionaliteit die in Real-Time Customer D
 
 * Wanneer [ invoerend publiek ](/help/guide/setup/onboard-audiences.md) in Real-Time CDP Collaboration, kunt u een publiek nu plaatsen verfrist frequentie van **elke tot zes dagen** om de [ de kredietactiviteit van het Beheer van de Publiek ](/help/guide/setup/my-activity.md#types-of-activities) beter te beheren. [ las meer ](/help/guide/setup/onboard-audiences.md#schedule). <br> ![ het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont.](/help/assets/setup/add-manage-audiences/audience-scheduling-frequency.png " het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont."){width="250" align="center" zoomable="yes"}
 * Wanneer het vestigen van een verbinding met een medewerker, kunt u van vooraf bepaalde **gebruiksgevallen** nu selecteren. De geselecteerde gebruikscase bepaalt welke projectsecties en productfunctionaliteit beschikbaar worden. [Meer informatie](/help/guide/collaborate/manage-projects.md#project-use-cases).
-   * *de meting van de Campagne* laat de **** projectsectie van de Maatregel toe.
+   * *de meting van de Campagne* laat de **&#x200B;**&#x200B;projectsectie van de Maatregel toe.
    * *de ontdekking van het publiek* laat **toe ontdekt** projectsectie.
    * *activering van het publiek* laat **toe activeert** projectsecties <br>
 * U kunt nu verbindingen verwijderen met deelnemers waarmee u niet meer wilt werken. [Meer informatie](/help/guide/connect/establishing-connections.md#delete-connections).

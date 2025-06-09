@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de ontdekking van het publiek [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de ontdekking van het publiek [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Na [ creërend een project ](/help/guide/collaborate/manage-projects.md), kunt u uw publiek tegen uw medewerkers vergelijken. Op deze manier kunt u relevante doelgroepen voor campagnes identificeren en bepalen welke doelgroepen naar uitgevers moeten worden gestuurd voor activering.
 
@@ -55,7 +55,7 @@ Als aan deze voorwaarden is voldaan, kunt u de overlapping tussen u en het publi
 >title="Je identiteitsnummer"
 >abstract="Het aantal unieke id&#39;s in het geselecteerde publiek, op basis van de overeenkomende sleutels die u en uw medewerker zijn overeengekomen voor het project."
 >
-[!CONTEXTUALHELP]
+>[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_discover_collaborator_identity_count"
 >title="Aantal deelnemers"
 >abstract="Het aantal unieke id&#39;s in het publiek van uw medewerker, op basis van de sleutels die u en uw medewerker voor het project hebben overeengekomen."
@@ -158,4 +158,4 @@ Nadat u het gewenste publiek hebt geselecteerd, wordt in de sectie **[!UICONTROL
 
 ## Volgende stappen
 
-Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd [ ](/help/guide/collaborate/activate.md) het publiek te activeren dat in de campagnes zou moeten worden gebruikt.
+Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd [&#128279;](/help/guide/collaborate/activate.md) het publiek te activeren dat in de campagnes zou moeten worden gebruikt.

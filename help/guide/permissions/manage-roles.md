@@ -15,7 +15,7 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Om gebruikerstoegang tot verschillende componenten van Real-Time CDP Collaboration UI te beheren, kan een [ beheerder ](./manage-user-access.md#system-admin-gain-access) rollen bepalen en toewijzen. De rollen bepalen de toegang die een beheerder of een gebruiker [ middelen ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home#permissions){target="_blank"} in uw organisatie moet {hebben. Deze gids zal informatie over de standaardrollen verstrekken die in Real-Time CDP Collaboration worden verstrekt, evenals de individuele toestemmingen u die aan douanerollen kunt worden toegewezen.
+Om gebruikerstoegang tot verschillende componenten van Real-Time CDP Collaboration UI te beheren, kan een [ beheerder ](./manage-user-access.md#system-admin-gain-access) rollen bepalen en toewijzen. De rollen bepalen de toegang die een beheerder of een gebruiker [ middelen ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home#permissions){target="_blank"} in uw organisatie moet &lbrace;hebben. Deze gids zal informatie over de standaardrollen verstrekken die in Real-Time CDP Collaboration worden verstrekt, evenals de individuele toestemmingen u die aan douanerollen kunt worden toegewezen.
 
 Om met het beheren van rollen te beginnen, zal een beheerder toegang tot het product van Experience Platform nodig hebben. Voor informatie bij het verkrijgen van administratieve toegang, of bij het verkrijgen van toegang tot Experience Platform, leest [ gebruikerstoegang ](./manage-user-access.md#manage-user-access-through-permissions) gids.
 
@@ -61,4 +61,4 @@ Hieronder ziet u een lijst met beschikbare machtigingen binnen de samenwerkingsb
 
 ## Volgende stappen
 
-Na het creëren van rollen die toegang tot de Samenwerking van Real-Time CDP bepalen, zult u de rollen ](./manage-user-access.md#assign-a-role) aan beheerders en gebruikers moeten [ toewijzen. Verwijs naar [ toestemmingen voor een rol ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/permissions) gids voor een volledig overzicht van het beheren van rollen beheren.
+Na het creëren van rollen die toegang tot de Samenwerking van Real-Time CDP bepalen, zult u de rollen [&#128279;](./manage-user-access.md#assign-a-role) aan beheerders en gebruikers moeten  toewijzen. Verwijs naar [ toestemmingen voor een rol ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/permissions) gids voor een volledig overzicht van het beheren van rollen beheren.

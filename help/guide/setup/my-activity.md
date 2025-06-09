@@ -2,9 +2,9 @@
 title: Je activiteiten op het gebied van kredietverbruik volgen
 description: Leer hoe u de activiteiten van uw organisatie op het gebied van kredietverbruik in Real-Time CDP Collaboration kunt volgen.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: b24d63e7-60f4-4cdb-ab1b-77c284543486
-source-git-commit: dd1386f9371cb40285315d11e07b139d3115e147
+source-git-commit: fda414120decc0c76712616ff85b83febede53e9
 workflow-type: tm+mt
 source-wordcount: '531'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Het activity dashboard geeft een uitgebreide lijst weer van alle kredietverbruik
 | **[!UICONTROL Date]** | De datum waarop de activiteit plaatsvond, weergegeven in de notatie MM/DD/JJJJ. |
 | **[!UICONTROL Connection ID]** | Een unieke id voor elke verbinding die aan een kredietverbruikende activiteit is gekoppeld, weergegeven als een alfanumerieke tekenreeks. |
 | **[!UICONTROL Connection name]** | De naam van de medewerker die is gekoppeld aan de verbinding en de kredietverslindende activiteit. |
-| **[!UICONTROL Activity]** | Het type van uitgevoerde activiteit, zoals **Activering - het Delen**, **Activering - uitgang**, of **beheer van het Publiek**. |
+| **[!UICONTROL Activity]** | Het type van uitgevoerde activiteit, zoals **Activering - het Aanpassen**, **Activering - uitgang**, of **Beheer van het Publiek**. |
 | **[!UICONTROL Inputs processed]** | Het totale aantal inputs (bijvoorbeeld id&#39;s of rijen) dat voor de activiteit is verwerkt. |
 | **[!UICONTROL Total credits used]** | Het totale aantal kredieten dat door de activiteit wordt verbruikt. |
 | **[!UICONTROL My credit share]** | Het gedeelte van de credits van uw organisatie dat wordt gebruikt voor de activiteit. |
@@ -66,7 +66,7 @@ In de kolom **[!UICONTROL Activity]** worden verschillende soorten kredietverbru
 
 Om uw kredietverbruik effectief te beheren:
 
-1. **begrijp** het kredietverbruik verbonden aan elke activiteit. Controleer de [ het productbeschrijving van Real-Time CDP Collaboration ](https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html){target=_blank} voor een lijst van samenwerkingskredieten die per activiteit worden gebruikt.
+1. **begrijp** het kredietverbruik verbonden aan elke activiteit. Controleer de [ het productbeschrijving van Real-Time CDP Collaboration ](https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html){target=_blank} voor een lijst van samenwerkingskredieten die per activiteit worden gebruikt.
 2. **Monitor regelmatig**: Controleer regelmatig uw activiteitendashboard om gebruikspatronen te begrijpen.
 3. **Spoor door verbinding**: Gebruik de verbindingsnaam om te identificeren welke partnerschappen de meeste kredieten verbruiken.
 

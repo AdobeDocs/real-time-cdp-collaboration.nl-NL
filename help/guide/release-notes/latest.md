@@ -2,11 +2,11 @@
 title: Opmerkingen bij de nieuwste Real-Time CDP Collaboration-release
 description: Volg de nieuwste releases voor Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 8513c648-1cc1-4544-b86d-2ee3193ab60f
-source-git-commit: dd1386f9371cb40285315d11e07b139d3115e147
+source-git-commit: fda414120decc0c76712616ff85b83febede53e9
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '392'
 ht-degree: 5%
 
 ---
@@ -26,11 +26,11 @@ Deze releaseopmerkingen betreffen de functionaliteit die in Real-Time Customer D
 
 ## Maart 2025 {#march-2025}
 
-* Wanneer [ invoerend publiek ](/help/guide/setup/onboard-audiences.md) in Real-Time CDP Collaboration, kunt u een publiek nu plaatsen verfrist frequentie van **elke 1 tot 6 dagen** om de [ de creditactiviteit van het Beheer van de Publiek ](/help/guide/setup/my-activity.md#types-of-activities) beter te beheren. [ las meer ](/help/guide/setup/onboard-audiences.md#schedule). <br> ![ het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont.](/help/assets/setup/add-manage-audiences/Step-Schedule-Set-Frequency.png " het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont."){width="250" align="center" zoomable="yes"}
+* Wanneer [ invoerend publiek ](/help/guide/setup/onboard-audiences.md) in Real-Time CDP Collaboration, kunt u een publiek nu plaatsen verfrist frequentie van **elke tot zes dagen** om de [ de kredietactiviteit van het Beheer van de Publiek ](/help/guide/setup/my-activity.md#types-of-activities) beter te beheren. [ las meer ](/help/guide/setup/onboard-audiences.md#schedule). <br> ![ het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont.](/help/assets/setup/add-manage-audiences/audience-scheduling-frequency.png " het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont."){width="250" align="center" zoomable="yes"}
 * Wanneer het vestigen van een verbinding met een medewerker, kunt u van vooraf bepaalde **gebruiksgevallen** nu selecteren. De geselecteerde gebruikscase bepaalt welke projectsecties en productfunctionaliteit beschikbaar worden. [Meer informatie](/help/guide/collaborate/manage-projects.md#project-use-cases).
-   * *de meting van de Campagne* laat de **&#x200B;**&#x200B;projectsectie van de Maatregel toe.
+   * *de meting van de Campagne* laat de **** projectsectie van de Maatregel toe.
    * *de ontdekking van het publiek* laat **toe ontdekt** projectsectie.
-   * *publiek dat en activering deelt* laat **Aandeel** toe en **activeer** *(uitgever-slechts)* projectsecties. <br> ![ Gevallen van het Gebruik die in de verbindingsmening worden benadrukt.](/help/assets/release-notes/2025/use-cases.png " Gevallen van het Gebruik die in de verbindingsmening worden benadrukt."){width="250" align="center" zoomable="yes"}
+   * *activering van het publiek* laat **toe activeert** projectsecties <br>
 * U kunt nu verbindingen verwijderen met deelnemers waarmee u niet meer wilt werken. [Meer informatie](/help/guide/connect/establishing-connections.md#delete-connections).
 
 

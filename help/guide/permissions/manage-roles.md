@@ -2,11 +2,11 @@
 title: Rollen beheren via machtigingen
 description: Begrijp alle beschikbare rolmiddelen die toegang tot verschillende componenten binnen Real-Time CDP Collaboration UI verlenen.
 audience: admin
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 59cf5bf2-421b-4ebc-beab-30eafb098649
-source-git-commit: dd1386f9371cb40285315d11e07b139d3115e147
+source-git-commit: fda414120decc0c76712616ff85b83febede53e9
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Om gebruikerstoegang tot verschillende componenten van Real-Time CDP Collaboration UI te beheren, kan een [ beheerder ](./manage-user-access.md#system-admin-gain-access) rollen bepalen en toewijzen. De rollen bepalen de toegang die een beheerder of een gebruiker [ middelen ](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/home#permissions){target="_blank"} in uw organisatie moet &lbrace;hebben. Deze gids zal informatie over de standaardrollen verstrekken die in Real-Time CDP Collaboration worden verstrekt, evenals de individuele toestemmingen u die aan douanerollen kunt worden toegewezen.
+Om gebruikerstoegang tot verschillende componenten van Real-Time CDP Collaboration UI te beheren, kan een [ beheerder ](./manage-user-access.md#system-admin-gain-access) rollen bepalen en toewijzen. De rollen bepalen de toegang die een beheerder of een gebruiker [ middelen ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home#permissions){target="_blank"} in uw organisatie moet {hebben. Deze gids zal informatie over de standaardrollen verstrekken die in Real-Time CDP Collaboration worden verstrekt, evenals de individuele toestemmingen u die aan douanerollen kunt worden toegewezen.
 
 Om met het beheren van rollen te beginnen, zal een beheerder toegang tot het product van Experience Platform nodig hebben. Voor informatie bij het verkrijgen van administratieve toegang, of bij het verkrijgen van toegang tot Experience Platform, leest [ gebruikerstoegang ](./manage-user-access.md#manage-user-access-through-permissions) gids.
 
@@ -32,7 +32,7 @@ Er zijn twee standaardrollen die aan u worden verstrekt die twee gemeenschappeli
 
 ## Specifieke toegangsrollen maken {#specific-access-roles}
 
-U zult waarschijnlijk extra rollen willen tot stand brengen om verschillende niveaus van toegang tot verschillende gebruikers te verstrekken. Wanneer u rollen maakt, kunt u verschillende toegangsniveaus beheren door specifieke machtigingen binnen de **[!UICONTROL Collaborations]** -bron te selecteren. Leren om rollen tot stand te brengen en te beheren, verwijs naar de [ rollen ](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/abac/permissions-ui/roles#create-new-role){target="_blank"} gids.
+U zult waarschijnlijk extra rollen willen tot stand brengen om verschillende niveaus van toegang tot verschillende gebruikers te verstrekken. Wanneer u rollen maakt, kunt u verschillende toegangsniveaus beheren door specifieke machtigingen binnen de **[!UICONTROL Collaborations]** -bron te selecteren. Leren om rollen tot stand te brengen en te beheren, verwijs naar de [ rollen ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/roles#create-new-role){target="_blank"} gids.
 
 >[!NOTE]
 > Een gebruiker moet toegang hebben tot de **[!UICONTROL Prod]** -sandbox in Experience Platform om toegang te krijgen tot Real-Time CDP Collaboration. Als u gebruikers toegang wilt geven tot deze sandbox, moeten ze worden toegewezen aan een rol die de machtiging **[!UICONTROL Prod]** bevat in de **[!UICONTROL Sandboxes]** -bron.
@@ -51,8 +51,8 @@ Hieronder ziet u een lijst met beschikbare machtigingen binnen de samenwerkingsb
 | Gegevens publiek lezen | Lees en ontdek publiek. |
 | Metingsgegevens beheren | Metingsgegevens aan boord, bijwerken en verwijderen. |
 | Metingsgegevens lezen | Metingsgegevens lezen. |
-| Projecten beheren | Projecten weergeven, maken, bijwerken en verwijderen voor de detectie-, deelings-, activeer- en meetactiviteiten. |
-| Projecten lezen | Projecten weergeven voor alle detectie-, deelings-, activeer- en meetactiviteiten. |
+| Projecten beheren | Projecten weergeven, maken, bijwerken en verwijderen voor de detectie-, activeer- en meetactiviteiten. |
+| Projecten lezen | Projecten weergeven voor alle detectie-, activeer- en meetactiviteiten. |
 | Gebruikersactiviteiten lezen | Lees gebruikersactiviteiten. |
 | Gebruikersactiviteiten exporteren | Gebruikersactiviteiten exporteren. |
 | Collaboration-kredietcontrole lezen | Kredietcontrole op organisatorisch en instantieniveau. |
@@ -61,4 +61,4 @@ Hieronder ziet u een lijst met beschikbare machtigingen binnen de samenwerkingsb
 
 ## Volgende stappen
 
-Na het creëren van rollen die toegang tot de Samenwerking van Real-Time CDP bepalen, zult u de rollen [&#128279;](./manage-user-access.md#assign-a-role) aan beheerders en gebruikers moeten  toewijzen. Verwijs naar [ toestemmingen voor een rol ](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/abac/permissions-ui/permissions) gids voor een volledig overzicht van het beheren van rollen beheren.
+Na het creëren van rollen die toegang tot de Samenwerking van Real-Time CDP bepalen, zult u de rollen ](./manage-user-access.md#assign-a-role) aan beheerders en gebruikers moeten [ toewijzen. Verwijs naar [ toestemmingen voor een rol ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/permissions) gids voor een volledig overzicht van het beheren van rollen beheren.

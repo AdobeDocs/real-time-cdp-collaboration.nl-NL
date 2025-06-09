@@ -2,10 +2,10 @@
 user-guide-title: Real-Time Customer Data Platform Collaboration
 breadcrumb-title: Real-Time Customer Data Platform Collaboration
 user-guide-description: Adobe Real-Time CDP Collaboration maakt naadloze en veilige gegevensuitwisseling en samenwerking tussen adverteerders en uitgevers mogelijk, waardoor het publiek in real time inzicht krijgt en gepersonaliseerde marketingstrategieën mogelijk worden.
-source-git-commit: dd1386f9371cb40285315d11e07b139d3115e147
+source-git-commit: fda414120decc0c76712616ff85b83febede53e9
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 3%
+source-wordcount: '130'
+ht-degree: 6%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 3%
    * [Aan boord en beheer uw organisatie](./setup/onboard-organization.md)
    * [Soorten publiek importeren en beheren](./setup/onboard-audiences.md)
    * [Gegevensverbindingen beheren](./setup/manage-data-connection.md)
+   * [Doelen configureren en beheren](./setup/manage-destinations.md)
    * [Je activiteiten op het gebied van kredietverbruik volgen](/help/guide/setup/my-activity.md)
    * [Identiteitskruizen](./setup/identity-crosswalk.md)
    * [Metingsgegevens toevoegen en beheren](./setup/onboard-measurement-data.md)
@@ -32,9 +33,11 @@ ht-degree: 3%
 * Samenwerken {#collaborate}
    * [Projecten beheren](./collaborate/manage-projects.md)
    * [Discover](./collaborate/discover.md)
-   * [Delen](./collaborate/share.md)
    * [Activeren](./collaborate/activate.md)
    * [Meetlat](./collaborate/measure.md)
+* Bestemmingen {#destinations}
+   * [Overzicht](./destinations/overview.md)
+   * [Adobe Experience Platform](./destinations/experience-platform.md)
 * Machtigingen {#permissions}
    * [Overzicht](/help/guide/permissions/overview.md)
    * [Gebruikerstoegang beheren](/help/guide/permissions/manage-user-access.md)

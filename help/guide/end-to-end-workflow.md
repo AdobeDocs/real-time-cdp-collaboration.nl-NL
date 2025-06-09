@@ -2,11 +2,11 @@
 title: Workflow beëindigen
 description: Begrijp de end-to-end workflow om Real-Time CDP Collaboration als adverteerder of uitgever te gebruiken
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 90f9341e-5dd7-4521-a602-edb0263838c5
-source-git-commit: dd1386f9371cb40285315d11e07b139d3115e147
+source-git-commit: fda414120decc0c76712616ff85b83febede53e9
 workflow-type: tm+mt
-source-wordcount: '607'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ Met Adobe Real-Time Customer Data Platform (CDP) Collaboration kunnen adverteerd
 
 Als adverteerder, begin door [ op te nemen uw bedrijf ](/help/guide/setup/onboard-organization.md) op Real-Time CDP Collaboration. Gebruik de [ opstellingspagina ](/help/guide/setup/setup-overview.md) om uw bedrijfmontages voor te leggen en dan uit te geven, uw aangewezen gelijke sleutels toe te voegen die u zult werken met, en te beslissen welke gegevens om binnen te brengen. In de eerste versie, staat het product u toe om [ publiek ](/help/guide/setup/onboard-audiences.md) van Adobe Experience Platform slechts in te voeren.
 
-![ ontdekt, deel, maatregel voor adverteerders.](/help/assets/end-to-end-workflow/discover-activate-measure.png)
+![ ontdekt, activeert, maatregel voor adverteerders.](/help/assets/end-to-end-workflow/discover-activate-measure.png)
 
 Gebruik het [ ontdekt lusje om uitgevers ](/help/guide/connect/discover-publishers.md) te vinden die u voor campagnes wilt werken. Neem contact op met de uitgever en bespreek de voorwaarden voor samenwerking buiten het product. Zodra overeengekomen over een reeks termijnen, kunt u [ een verbindingsuitnodiging ](/help/guide/connect/establishing-connections.md) verzenden en samenwerkingsmontages voorstellen om met de uitgever te verbinden.
 
 Nadat de uitgever uw verbindingsverzoek goedkeurt, is het tijd om het overlappende publiek tussen uw organisatie en hun te onderzoeken. Opstelling een project voor een campagne en [ looppas overlappende rapporten ](/help/guide/collaborate/discover.md) om het beste publiek voor uw volgende reclamecampagne te ontdekken, afhankelijk van het samenwerkingsgebruik geval - richtend, onderdrukking, en anderen.
 
-Zodra u het ideale publiek ontdekt, is het tijd om hen met de uitgever [&#128279;](/help/guide/collaborate/share.md) voor hen te delen om het publiek te activeren en daardoor van de campagne af te schoppen.
+Zodra u het ideale publiek ontdekt, is het tijd om hen [ te activeren ](/help/guide/collaborate/activate.md).
 
 De definitieve stap in de samenwerkingslijn is [ meting ](/help/guide/collaborate/measure.md). Om uw bedrijfsresultaten te meten of te kennen, uploadt u meetgegevens zoals en logboeken en voert u de rapporten uit die in het programma worden verstrekt om te begrijpen hoe uw publiek presteerde.
 
 ## Volledige workflow voor uitgevers {#publisher}
 
-Als uitgever, begin door [ op het instappen van uw bedrijf ](/help/guide/setup/onboard-organization.md) op Real-Time CDP Collaboration. Gebruik de [ opstellingspagina ](/help/guide/setup/setup-overview.md) om diverse bedrijfmontages uit te geven. Zorg er bijvoorbeeld voor dat u de identiteiten opneemt waarmee uw bedrijf werkt.
+Als uitgever, begin door [ op het instappen van uw bedrijf ](/help/guide/setup/onboard-organization.md) op Real-Time CDP Collaboration. Gebruik de [ opstellingspagina ](/help/guide/setup/setup-overview.md) om diverse bedrijfmontages uit te geven.
 
 Bepaal welke publieksgegevens u wilt importeren en welk publiek u wilt dat deze zichtbaar en zichtbaar zijn voor de adverteerders die in het gebied **[!UICONTROL Connect]** van het product verbinding met u willen maken.
 
@@ -43,7 +43,7 @@ Bepaal met welke adverteerders u wilt werken en neem contact op met de adverteer
 
 Nadat u hun verbindingsverzoek goedkeurt, is het tijd om het overlappende publiek tussen u en uw medewerker te onderzoeken. De adverteerder zal een project voor een campagne opzetten en overlap tussen zijn publiek en dat van u, op basis van hun gewenste doelstellingen - prospectie, onderdrukking en meer.
 
-Zodra de adverteerder het ideale publiek ontdekt om zich te richten op een campagne en deze met u deelt, kunt u hen activeren en daardoor de campagne starten.
+Zodra de adverteerder het ideale publiek ontdekt om zich te richten op een campagne en deze naar u stuurt, kunt u hen activeren en de campagne starten.
 
 De laatste stap in de samenwerkingslus is meting. Om te weten hoe uw campagnes, als laatste stap, meetgegevens zoals ad logboeken uploaden en dan de rapporten in werking stellen die in het programma worden verstrekt om te begrijpen hoe het publiek uitvoerde.
 

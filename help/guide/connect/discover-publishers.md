@@ -2,11 +2,11 @@
 title: Uitgevers ontdekken
 description: Als adverteerder leert u hoe u potentiële uitgevers kunt ontdekken om samen te werken met Adobe Real-Time CDP Collaboration
 audience: admin, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: f38ed4ce-e4d2-46d3-b8fa-aa8d14f926e1
-source-git-commit: dd1386f9371cb40285315d11e07b139d3115e147
+source-git-commit: fda414120decc0c76712616ff85b83febede53e9
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Ga naar het tabblad **[!UICONTROL Connect]** > **[!UICONTROL Discover publishers
 
 ![ ontdekt uitgeverspagina ](/help/assets/connect/discover-publishers/discover-publishers-overview.png){zoomable="yes"}
 
-Selecteer **[!UICONTROL View publisher]** voor meer informatie over de uitgever. U kunt ook elk publiek bekijken en inspecteren dat de uitgever heeft besloten te delen.
+Selecteer **[!UICONTROL View publisher]** voor meer informatie over de uitgever. U kunt om het even welk publiek ook bekijken en inspecteren dat de uitgever [ als openbaar ](/help/guide/setup/onboard-audiences.md#metadata-visibility) wordt geplaatst.
 
 ![ de uitgeversprofiel van de Mening ](/help/assets/connect/discover-publishers/view-publisher-profile.png){zoomable="yes"}
 

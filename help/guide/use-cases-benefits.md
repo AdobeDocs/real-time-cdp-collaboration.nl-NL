@@ -2,9 +2,9 @@
 title: Belangrijkste voordelen en gebruiksgevallen van Adobe Real-Time CDP Collaboration
 description: De belangrijkste voordelen en gebruiksgevallen van Adobe Real-Time CDP Collaboration begrijpen
 audience: admin, publisher, advertiser, decision-maker
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 88582b25-a0cd-4901-844d-fb049af09e79
-source-git-commit: dd1386f9371cb40285315d11e07b139d3115e147
+source-git-commit: fda414120decc0c76712616ff85b83febede53e9
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 1%
@@ -21,8 +21,7 @@ Adobe Real-Time CDP Collaboration biedt de essentiële mogelijkheden om uw publi
 
 ## Discover {#discover}
 
-Gebruik dashboards en rapporten om publiek voor merk-aan-uitgever samenwerking te ontdekken.
-Als adverteerder die met Real-Time CDP Collaboration werkt, heeft toegang tot en inzicht in het publiek overlappingen met het ontgrendelen van retargeting, onderdrukking en mogelijke prospectieve mogelijkheden van een breed overzicht van uitgevers.
+Gebruik dashboards en rapporten om publiek voor merk-aan-uitgever samenwerking te ontdekken. Als adverteerder die met Real-Time CDP Collaboration werkt, heeft toegang tot en inzicht in het publiek overlappingen met het ontgrendelen van retargeting, onderdrukking en mogelijke prospectieve mogelijkheden van een breed overzicht van uitgevers.
 
 ## Activeren {#activate}
 
@@ -31,5 +30,4 @@ In een toekomstige versie, werkt het werk met de identiteitspartners die aan hef
 
 ## Meetlat {#measure}
 
-Combineer en verken de bekende betrokkenheid van klanten uit verschillende bronnen, zoals webafbeeldingen en meer.
-Bekijk de campagneprestaties in vereenvoudigde en aanpasbare rapporten.
+Combineer en verken de bekende betrokkenheid van klanten uit verschillende bronnen, zoals webafbeeldingen en meer. Bekijk de campagneprestaties in vereenvoudigde en aanpasbare rapporten.

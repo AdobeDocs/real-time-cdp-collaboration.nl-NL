@@ -2,9 +2,9 @@
 title: Auditlogboeken
 description: Leer hoe u de functie Auditlogboeken in Real-Time CDP Collaboration gebruikt om gebruikersactiviteiten en wijzigingen bij te houden.
 audience: admin
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3af1ac47-dc3d-4f19-a6b9-9e4e835977c0
-source-git-commit: dd1386f9371cb40285315d11e07b139d3115e147
+source-git-commit: fda414120decc0c76712616ff85b83febede53e9
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 1%
@@ -23,7 +23,7 @@ Gebruik de functionaliteit voor auditlogs in Real-Time CDP Collaboration om gebr
 
 ![ het overzichtsscherm op hoog niveau van de functionaliteit van controlelogboeken ](/help/assets/setup/audit-logs/audit-logs-overview.png)
 
-Voor uitvoerigere informatie over controlelogboeken, bezoek de [ documentatie van de Logboeken van de Controle van Adobe Experience Platform ](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview){target="_blank"}.
+Voor uitvoerigere informatie over controlelogboeken, bezoek de [ documentatie van de Logboeken van de Controle van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview){target="_blank"}.
 
 ## Toegangscontrolelogboeken
 
@@ -61,7 +61,7 @@ Auditlogboeken bevatten gedetailleerde informatie over gebruikersactiviteiten, w
 * **Middel**: Het middel dat werd gewijzigd of gecreeerd.
 * **Tijdstempel**: De tijd toen de actie werd uitgevoerd.
 
-Deze logboeken maken een uitgebreid spoor van alle activiteiten binnen uw Real-Time CDP Collaboration-instantie. Dit is handig voor gegevensbeheer en naleving van regelgeving. Lees meer over [ het leiden controlelogboeken in UI ](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview#managing-audit-logs-in-the-ui).
+Deze logboeken maken een uitgebreid spoor van alle activiteiten binnen uw Real-Time CDP Collaboration-instantie. Dit is handig voor gegevensbeheer en naleving van regelgeving. Lees meer over [ het leiden controlelogboeken in UI ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview#managing-audit-logs-in-the-ui).
 
 ### Controllerlogboeken filteren
 
@@ -74,7 +74,7 @@ De gebruikersinterface van auditlogboeken bevat verschillende filters waarmee u 
 * **Status**: De status van de actie (bijvoorbeeld: toegestaan, ontkend).
 * **de Waaier van de Datum**: De waaier van data waarvoor u logboeken wilt bekijken.
 
-Lees meer over [ het filtreren controlelogboeken ](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview#filter-audit-logs).
+Lees meer over [ het filtreren controlelogboeken ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview#filter-audit-logs).
 
 ### Voorbeeldgebruik
 
@@ -104,7 +104,7 @@ In de onderstaande tabel staan alle categorieën en acties voor Real-Time CDP Co
 | **[!UICONTROL Collaboration Data Connection]** | maken, bijwerken, verwijderen | Gegevensverbindingen beheren voor samenwerking bij het importeren en beheren van soorten publiek, zoals het maken, bijwerken en verwijderen van gegevensverbindingen. Lees meer over [ het beheren van gegevensverbindingen ](/help/guide/setup/manage-data-connection.md). |
 | **[!UICONTROL Collaboration Data Entity]** | maken, bijwerken, verwijderen | Gegevensentiteiten beheren voor samenwerking, waaronder gegevensentiteiten maken, bijwerken en verwijderen. Gegevensentiteiten in deze context verwijzen naar het publiek. Lees meer over [ het invoeren en het leiden van publiek ](/help/guide/setup/onboard-audiences.md). |
 | **[!UICONTROL Collaboration Project]** | maken, bijwerken, verwijderen | Projecten beheren in samenwerking, waaronder projecten maken, bijwerken en verwijderen. Lees meer over [ het leiden projecten ](/help/guide/collaborate/manage-projects.md). |
-| **[!UICONTROL Collaboration Module]** | maken, bijwerken, verwijderen | Beheer verschillende modules binnen samenwerkingsprojecten, met inbegrip van het creëren van, het bijwerken van, en het schrappen van diverse modules in UI. Bijvoorbeeld, de capaciteit om [ publiek ](/help/guide/collaborate/share.md) te delen. |
+| **[!UICONTROL Collaboration Module]** | maken, bijwerken, verwijderen | Beheer verschillende modules binnen samenwerkingsprojecten, met inbegrip van het creëren van, het bijwerken van, en het schrappen van diverse modules in UI. Bijvoorbeeld, de capaciteit om publiek [ te activeren ](/help/guide/collaborate/activate.md). |
 
 {style="table-layout:auto"}
 

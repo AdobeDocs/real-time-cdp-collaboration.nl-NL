@@ -2,12 +2,12 @@
 title: Projecten maken en beheren
 description: Leer hoe u projecten maakt en beheert in Adobe Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: ae492846-bc0a-4422-86ca-577bcc1fa60c
-source-git-commit: dd1386f9371cb40285315d11e07b139d3115e147
+source-git-commit: fda414120decc0c76712616ff85b83febede53e9
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 0%
+source-wordcount: '383'
+ht-degree: 1%
 
 ---
 
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Projecten vormen de kern van uw workflow in Real-Time CDP Collaboration. Nadat u ontdekt en met de medewerkers verbindt die u wilt werken met, is het tijd om een project tot stand te brengen. Gebruik de projectruimte om overlappende berekeningen uit te voeren om uw publiek met het publiek van uw medewerker te vergelijken en relevante publiek te ontdekken dat u in campagnes kunt gebruiken. Het publiek wordt dan gedeeld tussen medewerkers, geactiveerd door uitgevers, en beide partijen kunnen metingsrapporten over publieksprestaties dan bekijken.
+Projecten vormen de kern van uw workflow in Real-Time CDP Collaboration. Nadat u verbinding hebt gemaakt met medewerkers, maakt u een project waarmee u overlappende berekeningen voor het publiek kunt uitvoeren en relevante doelgroepen voor campagnes kunt ontdekken.
 
 >[!TIP]
 >
 >Projecten moeten over het algemeen worden gekoppeld aan één campagne.
 
-![ Mening van alle projecten, ongefilterd.](/help/assets/collaborate/manage-view-projects/projects-overview-page.png){zoomable="yes"}
+![ het Collaborate dashboard die alle huidige projecten tonen.](/help/assets/collaborate/manage-view-projects/projects-overview-page.png){zoomable="yes"}
 
 U kunt filters gebruiken om slechts de projecten te bekijken die u met bepaalde medewerkers, zoals hieronder getoond bent begonnen:
 
@@ -34,29 +34,32 @@ U kunt filters gebruiken om slechts de projecten te bekijken die u met bepaalde 
 >title="Naam adverteerder"
 >abstract="Selecteer de naam van de adverteerder in het vervolgkeuzemenu. De opties worden vooraf geconfigureerd door de uitgever in de verbindingsinstellingen om ervoor te zorgen dat ze compatibel zijn met hun systemen."
 
-Als u een project wilt maken, selecteert u het plusteken **+** in de rechterbovenhoek. Of navigeer als dit uw eerste project is naar **[!UICONTROL Collaborate]** > **[!UICONTROL My Projects]** en selecteer **[!UICONTROL Create a project]** .
+Navigeer naar **[!UICONTROL Collaborate]** en vervolgens naar **[!UICONTROL My Projects]** . Als dit uw eerste project is, kunt u **[!UICONTROL Create a project]** selecteren. Anders kunt u het add pictogram selecteren (![ voeg pictogram toe.](/help/assets/icons/plus.png) ) om op elk gewenst moment een nieuw project te maken.
 
 ![ Uitgezocht plus symbool of creeer een project aan opstelling een nieuw project.](/help/assets/collaborate/manage-view-projects/create-project.png){zoomable="yes"}
 
-Selecteer vervolgens de volgende instellingen:
+Het dialoogvenster **[!UICONTROL Create project]** wordt weergegeven. Selecteer de **[!UICONTROL Collaborator]** waarmee u het project maakt via de vervolgkeuzelijst. Als u een uitgever bent en u adverteerdernamen tijdens uw verbindingsopstelling plaatst, kunt u **[!UICONTROL Advertiser name]** selecteren.
 
-* De medewerker waarmee u het project maakt
-* Selecteer een naam van een adverteerder als de uitgever veelvoudige adverteerdernamen in de verbindingsmontages vormde. Anders wordt de naam van de adverteerder vooraf geselecteerd als naam van de adverteerder. Of als de uitgever één enkele adverteerdernaam in de verbindingsmontages vormde, wordt die naam vooraf ingevuld in deze selectie. [ las meer ](/help/guide/connect/establishing-connections.md#connection-settings) over adverteerdernamen.
-* Geef een **[!UICONTROL project name]** en **[!UICONTROL description]** op voor uw project
-* Selecteer een afbeeldingskoptekst om het project gemakkelijk te kunnen onderscheiden en bevestig uw selectie.
+>[!NOTE]
+>
+> Als u één enkele adverteerdernaam in de verbindingsmontages vormde, verschijnt het door gebrek. Als er geen naam van de adverteerder is ingesteld, wordt de voorinstelling **[!UICONTROL Name]** van de adverteerder geselecteerd als de **[!UICONTROL Advertiser name]** .
+
+![ creeer projectdialoog met geselecteerde medewerker en benadrukte adverteerdernaam.](/help/assets/collaborate/manage-view-projects/create-project-advertiser-names.png){zoomable="yes"}
+
+Voeg vervolgens een **[!UICONTROL Project name]** en **[!UICONTROL Description]** toe voor uw project. Selecteer vervolgens een afbeelding die het project vertegenwoordigt. Dit beeld helpt om het project in de pagina van het projectoverzicht te onderscheiden. Als u klaar bent, selecteert u **[!UICONTROL Create]** om het project te maken.
 
 ![ Vereiste opties aan opstelling een nieuw project ](/help/assets/collaborate/manage-view-projects/create-project-required-info.png){zoomable="yes"}
 
-U kunt nu uw nieuwe project en de bijbehorende details bekijken.
+U kunt nu uw nieuwe project, zijn details, en beschikbare die secties bekijken op de gebruiksgevallen tijdens verbindingsopstelling worden geselecteerd.
+
+![ de werkruimte van het projectoverzicht.](/help/assets/collaborate/manage-view-projects/project-overview.png){zoomable="yes"}
 
 ## Problemen met projectgebruik {#project-use-cases}
 
-Bouw in individuele projecten in werking om overlappende rapporten in werking te stellen, ontdek en deel publiek met uw medewerker, en bekijk metingsinformatie. Selecteer **[!UICONTROL View]** als u uitgebreide informatie wilt bekijken over deze gebieden die een afzonderlijk project vormen. Het projectoppervlak bestaat uit maximaal vier secties, die u elk een rijke reeks opties en controles aanbieden. De beschikbare projectsecties hangen van de gebruiksgevallen af die in het verbindingsproces worden geselecteerd, als volgt:
+Het projectoverzicht toont de gebruiksgevallen die tijdens de verbindingsopstelling worden geselecteerd. Deze gebruiksgevallen bepalen de functionaliteit beschikbaar in het project. De gebruiksgevallen zijn:
 
 | Gebruiksscenario | Sectie Project |
 | --- | --- |
 | Campagne meten | Dit gebruiksgeval verleent toegang tot de [ sectie van de Maatregel ](/help/guide/collaborate/measure.md) en alle beschikbare functionaliteit. |
 | Detectie van publiek | Dit gebruiksgeval verleent toegang tot [ ontdekt ](/help/guide/collaborate/discover.md) sectie en alle beschikbare functionaliteit. |
-| Delen en activeren van het publiek | Dit gebruiksgeval verleent toegang tot [ Aandeel ](/help/guide/collaborate/share.md) en [ activeert ](/help/guide/collaborate/activate.md) (uitgever-slechts) secties en alle beschikbare functionaliteit. |
-
-![ de projectweergave met de beschikbare benadrukte secties.](/help/assets/collaborate/manage-view-projects/project-sections.png){zoomable="yes"}
+| Activering publiek | Dit gebruiksgeval verleent toegang tot [ activeert ](/help/guide/collaborate/activate.md) sectie en alle beschikbare functionaliteit. |

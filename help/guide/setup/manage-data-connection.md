@@ -2,9 +2,9 @@
 title: Gegevensverbindingen beheren
 description: Leer hoe u gegevensverbindingen beheert, zoals match keys, planning, use cases en publiekfiltering in Real-Time CDP Collaboration
 audience: administrator, data engineer
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: d142d3ed-f56a-4150-a885-571728a73ac8
-source-git-commit: dd1386f9371cb40285315d11e07b139d3115e147
+source-git-commit: fda414120decc0c76712616ff85b83febede53e9
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Er wordt een bevestigingsvenster weergegeven. Selecteer **[!UICONTROL Delete]** 
 
 ## Soorten publiek beheren {#manage-audiences}
 
-Onder aan de werkruimte wordt een lijst met publiek weergegeven dat is gekoppeld aan de gegevensverbinding. De lijst bevat een kort overzicht van elk publiek, inclusief de status, bron en toegang tot de verbinding. Selecteer de naam van een publiek als u de categorieën, de verbindingstoegang of de zichtbaarheid van metagegevens van een publiek wilt bewerken. Voor een volledige gids bij het beheren van een publiek, verwijs naar de [ mening individuele gids van het publiek ](./onboard-audiences.md#view-individual-audiences).
+Onder aan de werkruimte wordt een lijst met publiek weergegeven dat is gekoppeld aan de gegevensverbinding. In de lijst wordt een kort overzicht van elk publiek weergegeven, inclusief de status, de bron en de toegang tot de verbinding. Selecteer de naam van een publiek als u de categorieën, de verbindingstoegang of de zichtbaarheid van metagegevens van een publiek wilt bewerken. Voor een volledige gids bij het beheren van een publiek, verwijs naar de [ mening individuele gids van het publiek ](./onboard-audiences.md#view-individual-audiences).
 
 ![ de werkruimte van de gegevensverbindingen van A met de benadrukte publiek.](/help/assets/setup/manage-data-connection/view-data-connection-manage-audiences.png){zoomable="yes"}
 

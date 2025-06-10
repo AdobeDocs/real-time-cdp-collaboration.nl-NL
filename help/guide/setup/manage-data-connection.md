@@ -2,11 +2,11 @@
 title: Gegevensverbindingen beheren
 description: Leer hoe u gegevensverbindingen beheert, zoals match keys, planning, use cases en publiekfiltering in Real-Time CDP Collaboration
 audience: administrator, data engineer
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: d142d3ed-f56a-4150-a885-571728a73ac8
-source-git-commit: fda414120decc0c76712616ff85b83febede53e9
+source-git-commit: b28bb5037c25f630059e6e8bc375ce28e0967ac7
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,10 @@ Als u bestaande gegevensverbindingen wilt weergeven, navigeert u naar **[!UICONT
 
 Identieke sleutels zijn herkenningstekens die worden gebruikt om leden over publiek van verschillende gegevensbronnen met elkaar in overeenstemming te brengen. U kunt de sleutels niet uitgeven die u aanvankelijk voor uw gegevensverbinding selecteerde.
 
+>[!IMPORTANT]
+> 
+>Overeenkomstige sleutels kunnen niet worden bewerkt nadat de gegevensverbinding is gemaakt. Als u overeenkomende toetsen wilt bijwerken, moet u een nieuwe gegevensverbinding maken.
+
 Beschikbare match keys zijn:
 
 - **Onderbroken e-mail**
@@ -45,11 +49,27 @@ Beschikbare match keys zijn:
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_manage_dataconnections_scheduling"
 >title="Planning"
->abstract="In deze weergave worden de planningsopties weergegeven die u aanvankelijk voor de gegevensverbinding hebt geselecteerd."
+>abstract="Bekijk de planningsdetails voor uw gegevensverbinding, en geef indien nodig uit vernieuwt frequentie."
 
-U kunt de planningsopties die u oorspronkelijk voor uw gegevensverbinding hebt geselecteerd, niet bewerken. Voor meer informatie over het plannen van opties, bekijk [ het plannen sectie ](/help/guide/setup/onboard-audiences.md#schedule) in het document van de publieksinvoer.
+Bekijk en beheer de planningsinstellingen voor uw gegevensverbindingen. Het plannen bepaalt hoe vaak het publiek wordt verfrist.
 
-![ de werkruimte van de gegevensverbindingen van A met de Plannende benadrukte sectie.](/help/assets/setup/manage-data-connection/view-data-connection-scheduling.png){zoomable="yes"}
+Nadat een gegevensverbinding is gemaakt, kunt u de vernieuwingsfrequentie rechtstreeks vanuit de sectie **[!UICONTROL Scheduling]** van de werkruimte voor gegevensverbindingen bijwerken.
+
+>[!NOTE]
+>
+>Bij het aanschaffen van soorten publiek bij Adobe Experience Platform wordt het publiek binnen 24 uur na de totstandbrenging van de gegevensverbinding beschikbaar gesteld. Na de eerste import worden de publieksgegevens vernieuwd volgens de gedefinieerde frequentie.
+
+Voor meer informatie bij het plannen, zie [ het plannen sectie ](/help/guide/setup/onboard-audiences.md#schedule) in de gids aan het instappen publiek.
+
+![ de werkruimte van de gegevensverbinding van A met de het Plannen benadrukte sectie.](/help/assets/setup/manage-data-connection/view-data-connection-scheduling.png){zoomable="yes"}
+
+#### Planning bewerken {#edit-scheduling}
+
+U kunt de frequentie van een bestaande gegevensverbinding bewerken om beter te bepalen hoe vaak het publiek wordt vernieuwd. Als u het schema wilt bewerken, selecteert u **[!UICONTROL Edit]** in de gegevensverbinding in de planningkaart.
+
+Selecteer in het dialoogvenster **[!UICONTROL Scheduling]** het vervolgkeuzemenu waarin u het dialoogvenster **[!UICONTROL Frequency]** wilt bijwerken. Stel de vernieuwingsfrequentie in voor dagelijks gebruik of elke twee tot zes dagen. Als u klaar bent, selecteert u **[!UICONTROL Save]** om de wijzigingen toe te passen.
+
+![ de Plannende dialoog, die opties tonen om frequentie en datumwaaier te plaatsen.](../../assets/setup/manage-data-connection/scheduling-dialog.png){zoomable="yes" alt="The Scheduling dialog with editable fields for frequency."}
 
 ## Gegevensverbinding verwijderen
 

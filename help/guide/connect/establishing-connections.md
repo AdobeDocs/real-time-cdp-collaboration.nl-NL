@@ -2,9 +2,9 @@
 title: Verbinding maken met adverteerders of uitgevers
 description: Na het ontdekken van potentiële medewerkers, leer hoe te om verbindingen te vestigen en beginnen aan projecten samen te werken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3fed93f7-1854-440c-802e-6b47e82918c9
-source-git-commit: fda414120decc0c76712616ff85b83febede53e9
+source-git-commit: c9b96753a9a78bd85002ede3369c5f20eb430548
 workflow-type: tm+mt
 source-wordcount: '1356'
 ht-degree: 0%
@@ -66,7 +66,7 @@ Nadat de medewerker de uitnodiging heeft geaccepteerd, kunt u de verbindingsinst
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_connection_settings_creditsplit_audiencesharing"
->title="Delen van publiek"
+>title="Delen van doelgroepen"
 >abstract="De activeringscredits van het publiek worden verbruikt op basis van het aantal overeenkomende id&#39;s dat is voorbereid voor activering."
 
 >[!CONTEXTUALHELP]
@@ -83,7 +83,7 @@ Nadat de medewerker de uitnodiging heeft geaccepteerd, kunt u de verbindingsinst
 >id="rtcdp_collaboration_connection_settings_advertisername"
 >title="Namen van adverteerders"
 >abstract="<p>Optionele instelling. Geeft de naam en id aan waarmee de adverteerder bij de uitgever bekend is.</p><p>De naam van de adverteerder die u hier toevoegt, wordt vooraf ingevuld in de stap Project maken.</p><ul><li>Als de uitgever veelvoudige namen vormde, selecteer van de lijst.</li><li>Als slechts één naam wordt gevormd, wordt het vooraf geselecteerd automatisch.</li><li>Als er geen namen zijn geconfigureerd, wordt het veld voorgevuld met de naam van de adverteerderaccount van Real-Time CDP Collaboration.</li></ul>"
->additional-url="https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
 
 Nadat de uitnodiging is verzonden, kunt u een voorbeeld van de verbindingsinstellingen bekijken. De uitnodiging moet worden geaccepteerd voordat u de verbinding kunt voltooien.
 
@@ -119,7 +119,7 @@ De sleutels van de gelijke worden voorgevuld met degenen u selecteerde terwijl [
 
 +++Kredietsplitsing
 
-Gebruik de afdeling kredietsplitsing om te bepalen welke van de twee samenwerkende partijen de kosten voor de activiteiten zullen dekken. De splitsingsopties voor crediteringen worden bepaald door de geselecteerde gebruiksgevallen voor de verbinding. Hoewel voor de **[!UICONTROL Measurement]** use case één partij nodig is om de kosten te dekken, biedt de **[!UICONTROL Audience activation]** use case een extra mogelijkheid om elke partij hun eigen kosten te laten dekken. Voor informatie over de verdeling van kosten, lees de [ gids van de type van kredietactiviteit ](/help/guide/setup/my-activity.md#types-of-activities).
+Gebruik de afdeling kredietsplitsing om te bepalen welke van de twee samenwerkende partijen de kosten voor de activiteiten zullen dekken. De splitsingsopties voor crediteringen worden bepaald door de geselecteerde gebruiksgevallen voor de verbinding. Hoewel voor de **[!UICONTROL Measurement]** use case één partij nodig is om de kosten te dekken, biedt de **[!UICONTROL Activation - Matching]** use case een extra mogelijkheid om elke partij hun eigen kosten te laten dekken. Voor informatie over de verdeling van kosten, lees de [ gids van de type van kredietactiviteit ](/help/guide/setup/my-activity.md#types-of-activities).
 
 >[!NOTE]
 >
@@ -190,4 +190,4 @@ Er verschijnt een bevestigingsvenster waarin u wordt gevraagd de verwijdering va
 
 ## Volgende stappen
 
-Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [&#128279;](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.
+Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [ ](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.

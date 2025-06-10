@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Activate]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de activering van het publiek [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Activate]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de activering van het publiek [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Door de activering van het publiek kunt u het publiek activeren in campagnes. De activiteiten zijn een samenwerking tussen adverteerders en uitgevers. Na [ ontdekkend het beste publiek voor uw campagne ](./discover.md), kan het publiek dan het gerichte publiek activeren. Het publiek dat wordt geactiveerd wordt verzonden naar de vooraf geconfigureerde bestemming van de uitgever, zoals Adobe Experience Platform, voor gebruik in campagnes. Voor meer informatie over vestigingsbestemming, verwijs naar de [ gids van het bestemmingsoverzicht ](../destinations/overview.md).
 

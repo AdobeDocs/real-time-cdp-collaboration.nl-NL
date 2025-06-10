@@ -2,9 +2,9 @@
 title: Soorten publiek activeren
 description: Leer hoe je publiek activeert in Adobe Real-Time CDP Collaboration.
 audience: admin, publisher
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: fd82fcbf-ab39-48e0-9438-0a9046693431
-source-git-commit: f19aff1b7d10a446dd209721e7a6fdf537c9d63e
+source-git-commit: 691161cdc1f9338a470373988fbc0dee9a5be6db
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Activate]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de activering van het publiek [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Activate]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de activering van het publiek [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Door de activering van het publiek kunt u het publiek activeren in campagnes. De activiteiten zijn een samenwerking tussen adverteerders en uitgevers. Na [ ontdekkend het beste publiek voor uw campagne ](./discover.md), kan het publiek dan het gerichte publiek activeren. Het publiek dat wordt geactiveerd wordt verzonden naar de vooraf geconfigureerde bestemming van de uitgever, zoals Adobe Experience Platform, voor gebruik in campagnes. Voor meer informatie over vestigingsbestemming, verwijs naar de [ gids van het bestemmingsoverzicht ](../destinations/overview.md).
 

@@ -2,7 +2,7 @@
 title: Opmerkingen bij de nieuwste Real-Time CDP Collaboration-release
 description: Volg de nieuwste releases voor Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 8513c648-1cc1-4544-b86d-2ee3193ab60f
 source-git-commit: 691161cdc1f9338a470373988fbc0dee9a5be6db
 workflow-type: tm+mt
@@ -24,7 +24,7 @@ Deze releaseopmerkingen betreffen de functionaliteit die in Real-Time Customer D
 * Real-Time CDP Collaboration is nu beschikbaar aan klanten in **Australië** en **Nieuw Zeeland**. Deze service is automatisch beschikbaar voor Real-Time CDP Prime- en Ultimate-klanten in deze regio&#39;s.
 * Real-Time CDP Collaboration biedt nu [ zelf-serverbestemmingen ](../setup/manage-destinations.md) door het **[!UICONTROL My destinations]** lusje in de **[!UICONTROL Setup]** sectie aan. Met doelen kunt u het publiek activeren op externe platforms, zoals advertentienetwerken of platforms voor gegevensbeheer, zodat u uw klanten op verschillende kanalen kunt bereiken. Momenteel worden alleen Adobe Experience Platform-doelen ondersteund. Neem contact op met uw Adobe-vertegenwoordiger als u een andere bestemming wilt configureren. Meer over bestemmingen leren, lees de [ gids van het bestemmingsoverzicht ](../destinations/overview.md).
 
-   * De bestemmingen voegen ook steun toe om het publiek van Real-Time CDP Collaboration in het [ het publieksportaal van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/ui/audience-portal.md#manage-audiences.) te bekijken.
+   * De bestemmingen voegen ook steun toe om het publiek van Real-Time CDP Collaboration in het [ het publieksportaal van Adobe Experience Platform ](https://experienceleague.adobe.com/nl/docs/experience-platform/segmentation/ui/audience-portal.md#manage-audiences.) te bekijken.
 
 * U kunt de publieksvernieuwingsfrequentie voor bestaande gegevensverbindingen in Real-Time CDP Collaboration nu bewerken. Op dit moment kunt u ervoor kiezen uw publiek dagelijks of om de twee tot zes dagen te vernieuwen. Meer over leren hoe te om het publiek uit te geven verfrist frequentie, leest [ gegevensverbindingen ](../setup/manage-data-connection.md#scheduling) gids beheren.
 * De splitsingen van het krediet tussen medewerkers worden nu geplaatst voor elk gebruiksgeval dat binnen de verbinding wordt geselecteerd. U kunt verschillende regels voor kredietverbruik instellen voor elk geval van gebruik om beter te kunnen bepalen hoe je crediteringen worden gebruikt. Meer over de functie van de creditspleet leren, lees de [ gids van verbindingsmontages ](../connect/establishing-connections.md#connection-settings). Om meer over te leren hoe de kredieten worden verbruikt, lees de [ gids van de kredietactiviteit ](../setup/my-activity.md#types-of-activities). <br> ![ het montagesscherm dat van de Verbinding de functionaliteit van de creditsplits toont.](/help/assets/release-notes/2025/credit-split.png){zoomable="yes"}

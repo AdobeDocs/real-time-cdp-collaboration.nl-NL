@@ -2,11 +2,11 @@
 title: Ingebouwde en beheerde organisatie
 description: Leer hoe u verschillende aspecten van uw organisatie in Real-Time CDP Collaboration kunt opnemen en beheren
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: a95e932a-9681-48f2-bf34-6fe5a50597d7
-source-git-commit: fda414120decc0c76712616ff85b83febede53e9
+source-git-commit: 860138b95abc4d6af94bbbf722cf498463570c1b
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '853'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,13 @@ Om extra organisaties toe te voegen, navigeer aan **[!UICONTROL Setup]** in het 
 >id="rtcdp_collaboration_setup_contact_email"
 >title="E-mailadres"
 >abstract="Geef een team of op rol gebaseerde e-mail op, bijvoorbeeld `collaboration@yourcompany.com` . Persoonlijke of individuele e-mailadressen mogen niet worden gebruikt."
+
+>[!CONTEXTUALHELP]
+>id="rtcdp_collaboration_setup_connect_code"
+>title="Verbindingscode"
+>abstract="De verbindingscode is een unieke id voor uw organisatie. Het wordt gebruikt om verbindingen met andere organisaties in Real-Time CDP Collaboration te vestigen."
+
+<!-- Move the above to new section for invite on this page when its created -->
 
 Als u aan boord van uw organisatie wilt gaan, moet u eerst de organisatiedetails instellen. Hiervoor moet u de volgende informatie toevoegen:
 

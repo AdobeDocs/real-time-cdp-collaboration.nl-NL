@@ -2,9 +2,9 @@
 title: Je activiteiten op het gebied van kredietverbruik volgen
 description: Leer hoe u de activiteiten van uw organisatie op het gebied van kredietverbruik in Real-Time CDP Collaboration kunt volgen.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: b24d63e7-60f4-4cdb-ab1b-77c284543486
-source-git-commit: fda414120decc0c76712616ff85b83febede53e9
+source-git-commit: b52fd181d80d5a70331571f7a4cbe3e5a7ec1d7c
 workflow-type: tm+mt
 source-wordcount: '531'
 ht-degree: 0%
@@ -60,13 +60,13 @@ In de kolom **[!UICONTROL Activity]** worden verschillende soorten kredietverbru
 * **[!UICONTROL Audience Management]**: Credits worden gebruikt wanneer het publiek naar Real-Time CDP Collaboration wordt gedownload. Credits worden verbruikt als een functie van het aantal id&#39;s (in miljoenen) dat binnen Real-Time CDP Collaboration is geïndexeerd voor alle soorten publiek en de frequentie van die indexering (dagelijks, elke drie dagen of wekelijks). Meer leren, lees [ het invoeren en het leiden van publiek ](/help/guide/setup/onboard-audiences.md) gids.
 * **[!UICONTROL Activation - Matching]** - Credits worden gebruikt als een functie van het aantal id&#39;s dat overeenkomt en klaar is voor activering. Meer leren, lees [ activerend publiek ](/help/guide/collaborate/activate.md) gids.
 * **[!UICONTROL Activation - Egress]** - Credits worden gebruikt als functie van het aantal id&#39;s dat naar een doel wordt verzonden. Dit wordt altijd in rekening gebracht aan de medewerker die het publiek ontvangt. Meer leren, lees [ activerend publiek ](/help/guide/collaborate/activate.md) gids.
-* **[!UICONTROL Audience Measurement]** - Voer activiteiten uit in Real-Time CDP Collaboration om prestatierapporten en inzichten van de campagne te genereren. Kredieten worden verbruikt op basis van het aantal rijen in campagnerapporten voor alle campagnes en de rapportagefrequentie (dagelijks, elke drie dagen of wekelijks).
+* **[!UICONTROL Measurement]** - Voer activiteiten uit in Real-Time CDP Collaboration om prestatierapporten en inzichten van de campagne te genereren. Kredieten worden verbruikt op basis van het aantal rijen in campagnerapporten voor alle campagnes en de rapportagefrequentie (dagelijks, elke drie dagen of wekelijks).
 
 ## Uw kredietverbruik beheren {#manage-credit-consumption}
 
 Om uw kredietverbruik effectief te beheren:
 
-1. **begrijp** het kredietverbruik verbonden aan elke activiteit. Controleer de [ het productbeschrijving van Real-Time CDP Collaboration ](https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html){target=_blank} voor een lijst van samenwerkingskredieten die per activiteit worden gebruikt.
+1. **begrijp** het kredietverbruik verbonden aan elke activiteit. Controleer de [ het productbeschrijving van Real-Time CDP Collaboration ](https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html){target=_blank} voor een lijst van samenwerkingskredieten die per activiteit worden gebruikt.
 2. **Monitor regelmatig**: Controleer regelmatig uw activiteitendashboard om gebruikspatronen te begrijpen.
 3. **Spoor door verbinding**: Gebruik de verbindingsnaam om te identificeren welke partnerschappen de meeste kredieten verbruiken.
 

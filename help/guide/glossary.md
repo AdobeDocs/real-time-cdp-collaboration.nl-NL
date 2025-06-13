@@ -2,13 +2,13 @@
 title: Woordenlijst
 description: Belangrijke terminologie voor Real-Time CDP Collaboration begrijpen
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 hidefromtoc: true
 hide: true
 exl-id: 870c45d0-df68-487f-bbe2-d9862a8ea62e
-source-git-commit: fda414120decc0c76712616ff85b83febede53e9
+source-git-commit: b52fd181d80d5a70331571f7a4cbe3e5a7ec1d7c
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '814'
 ht-degree: 0%
 
 ---
@@ -128,4 +128,4 @@ Als de schetsen niet regelmatig worden verfrist, zal de het overlappende rapport
 
 ### Gebruiksscenario
 
-Een gebruikscase definieert een specifiek bedrijfsscenario of probleem dat met Adobe Real-Time CDP Collaboration kan worden opgelost. In Real-Time CDP Collaboration zijn voorbeelden van gebruik beschikbaar, zoals detectie van het publiek of meting van de campagne, om een bepaald doel te bereiken.
+Een gebruikscase definieert een specifiek bedrijfsscenario of probleem dat met Adobe Real-Time CDP Collaboration kan worden opgelost. In Real-Time CDP Collaboration zijn voorbeelden van gebruik beschikbaar, zoals detectie van het publiek of meting, om een bepaald doel te bereiken.

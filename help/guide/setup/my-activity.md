@@ -2,7 +2,7 @@
 title: Je activiteiten op het gebied van kredietverbruik volgen
 description: Leer hoe u de activiteiten van uw organisatie op het gebied van kredietverbruik in Real-Time CDP Collaboration kunt volgen.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: b24d63e7-60f4-4cdb-ab1b-77c284543486
 source-git-commit: b52fd181d80d5a70331571f7a4cbe3e5a7ec1d7c
 workflow-type: tm+mt
@@ -66,7 +66,7 @@ In de kolom **[!UICONTROL Activity]** worden verschillende soorten kredietverbru
 
 Om uw kredietverbruik effectief te beheren:
 
-1. **begrijp** het kredietverbruik verbonden aan elke activiteit. Controleer de [ het productbeschrijving van Real-Time CDP Collaboration ](https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html){target=_blank} voor een lijst van samenwerkingskredieten die per activiteit worden gebruikt.
+1. **begrijp** het kredietverbruik verbonden aan elke activiteit. Controleer de [ het productbeschrijving van Real-Time CDP Collaboration ](https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html){target=_blank} voor een lijst van samenwerkingskredieten die per activiteit worden gebruikt.
 2. **Monitor regelmatig**: Controleer regelmatig uw activiteitendashboard om gebruikspatronen te begrijpen.
 3. **Spoor door verbinding**: Gebruik de verbindingsnaam om te identificeren welke partnerschappen de meeste kredieten verbruiken.
 

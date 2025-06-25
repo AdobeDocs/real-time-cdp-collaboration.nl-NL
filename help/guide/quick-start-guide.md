@@ -1,0 +1,248 @@
+---
+title: Real-Time CDP Collaboration on boarding Quick Start
+description: Leer hoe u zich aan boord van uw organisatie kunt stellen in Real-Time CDP Collaboration, zoals het instellen van rollen en organisaties, publieksprovisioning, activering en meting. Deze gids helpt adverteerders en uitgevers samenwerkingsmontages te vormen en beginnen gedeeld publiek veilig en efficiënt te gebruiken.
+audience: admin, publisher, advertiser
+source-git-commit: 4435788917dd82cb127525e054f7f09803e1dcdf
+workflow-type: tm+mt
+source-wordcount: '1585'
+ht-degree: 0%
+
+---
+
+# Snelle start voor Real-Time CDP Collaboration-instapkaarten
+
+Ga aan de slag met Real-Time Customer Data Platform (CDP) Collaboration door uw organisatie te configureren, het publiek van de provisioning te voorzien en activering en meting op basis van privacy mogelijk te maken.
+
+## Vereisten
+
+Voordat u begint, moet u het volgende doen:
+
+- Een actieve Real-Time CDP Collaboration-licentie.
+- [ toegang van het Systeem of van de productbeheerder tot Adobe Experience Platform ](./permissions/overview.md#use-cases).
+- [ Toegang provisioned voor eind - gebruikers ](./permissions/manage-user-access.md).
+- [ Rollen die voor uw organisatie worden gecreeerd en aan gebruikers ](./permissions/manage-roles.md) worden toegewezen.
+- Toegang tot brandingmiddelen, zoals de naam, het logo en de banner van uw organisatie.
+- A [ bepaalde gelijke zeer belangrijke strategie ](./setup/onboard-organization.md#set-up-match-keys) (momenteel, gehakt e-mail is de enige gesteunde gelijke sleutel).
+- (Optioneel) Toegang tot een ondersteunde cloudbron (Amazon S3 of Snowflake) als u Experience Platform niet als doel gebruikt.
+
+## Stap 1: Volledige op rollen gebaseerde opstelling {#complete-role-based-setup}
+
+>[!NOTE]
+>
+>Deze stap geldt zowel voor adverteerders als voor uitgevers.
+
+De de toegangsrollen van uw organisatie bepalen wat de gebruikers kunnen zien en doen in Real-Time CDP Collaboration. Voordat u verdergaat, moet u ervoor zorgen dat op rollen gebaseerde machtigingen op de juiste wijze zijn ingesteld om de juiste toegang en zichtbaarheid in het platform te garanderen.
+
+**Middelen:**
+
+- [Documentatie gebruikerstoegang](./permissions/manage-user-access.md)
+- [Documentatie voor rolinstellingen](./permissions/manage-roles.md)
+
+
+Bekijk deze video voor meer informatie over het toewijzen van producttoegang en -machtigingen voor Collaboration via de gebruikersinterface van Admin Console en Experience Platform.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3452216/?learn=on&enablevpops)
+
+## Stap 2: Een Real-Time CDP Collaboration-organisatie instellen {#set-up-your-organization}
+
+>[!NOTE]
+>
+>Deze stap geldt zowel voor adverteerders als voor uitgevers.
+
+Voordat u een publiek kunt toevoegen, moet u uw organisatie configureren in Collaboration. Dit bepaalt hoe uw organisatie verschijnt en zich gedraagt in de interface.
+
+Als u geen beheerdersrechten hebt voor Experience Platform, neemt u contact op met de beheerder van uw organisatie voor hulp bij het voltooien van deze installatie.
+
+Definieer de rol van uw organisatie in Collaboration, voeg brandingmiddelen toe en configureer matchingstoetsen om het publiek over verbindingen uit te lijnen. Voer vervolgens de onderstaande stappen uit om de installatie te voltooien en uw organisatie voor te bereiden op de verbinding met uw verbindingen.
+
+>[!NOTE]
+>
+>Tijdens het instellen kunt u een of meer medewerkers maken (zoals adverteerders- of uitgeversprofielen). Bepaalde velden, zoals brandingmiddelen en contact via e-mail, kunnen later in de werkruimte van **[!UICONTROL Settings]** worden bijgewerkt. De sleutels van de gelijke kunnen op het projectniveau worden verwijderd, maar niet worden toegevoegd, zo plan hen zorgvuldig.
+
+- **wijs een rol** toe - bepaalt of uw organisatie als adverteerder, uitgever, of allebei dienst doet. Uw rol bepaalt welke samenwerkingsmogelijkheden u hebt, zoals het in werking stellen van publiek het delen (adverteerder) of het ter beschikking stellen van publiek (uitgever). Meer over leren hoe de rollen het samenwerkingswerkschema beïnvloeden, zie de [ werkschemagids van begin tot eind ](./end-to-end-workflow.md).
+- **Brandende activa** - voeg het volgende aan uw rekening toe:
+   - Merknaam (max. 100 tekens)
+   - Merkbeschrijving (max. 1000 tekens)
+   - Merklogo (SVG &lt;20KB, idealiter vierkant)
+   - Brand banner (JPG 2688x1536 of vergelijkbaar)
+- **E-mail van het Contact** - verstrek een bedrijfs-e-mail voor medewerkers aan gebruik nadat een verbinding wordt gevestigd.
+
+  >[!NOTE]
+  >
+  >Neem contact op met uw Adobe-accountvertegenwoordiger als u een uitgeveraccount maakt en deze openbaar wilt maken in de catalogus voor Collaboration-verbindingen. Voor uitgeveraccounts is een aangepaste merkbanner vereist (JPG 2688x1536). Dit bestand kan rechtstreeks met uw vertegenwoordiger worden gedeeld.
+
+- **vorm gelijke sleutels** - selecteer de herkenningstekens die voor publiek aanpassing (momenteel, gehakt e-mail is de enige gesteunde gelijke sleutel) worden gebruikt.
+
+Zodra uw organisatie wordt gecreeerd en uw branding en gelijke sleutels worden gevormd, is uw organisatie klaar om leveringspubliek te beginnen en gegevens te activeren.
+
+Meer over aanvankelijke organisatieopstelling leren, met inbegrip van hoe te om rollen te bepalen, brandende activa te uploaden, en gelijke sleutels te vormen, zie het [ aanvankelijke document van de organisatieopstelling ](./setup/onboard-organization.md#initial-organization-setup){target="_blank"}.
+
+Bekijk een stapsgewijze analyse van de opstelling van adverteerders, met inbegrip van rekeningsverwezenlijking, het brandmerken, en de configuratie van de gelijkesleutel.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3452264/?learn=on&enablevpops)
+
+## Stap 3: Source-publiek (van Experience Platform of een cloudbron) {#source-audiences}
+
+Kies een van de of beide volgende gegevensopslagruimten voor het publiek van de bron. U kunt de gebruikersinterface van Collaboration of de coördinaat met Adobe gebruiken voor het aanbieden van soorten publiek in een indeling waarin de privacy behouden blijft.
+
+### Optie A: Source van Experience Platform
+
+[ gebruik de bestemmingen UI van Collaboration om een zandbak te verbinden die publiek ](./setup/onboard-audiences.md) bevat. Gebruik deze zelfbedieningsmethode om te verwijzen naar bestaande publiekssegmenten vanuit uw Experience Platform-instantie.
+
+### Optie B: Source van Snowflake of Amazon S3
+
+Om een wolkenbron (bijvoorbeeld, [!DNL AWS S3] of [!DNL Snowflake]) te vormen, bereidt uw publieksgegevens voor gebruikend de volgende [ Specificatie PDF van de Publiek ](../assets/quick-start/RTCDP_Collaboration_Audience_Onboarding_Spec_v1.0.pdf). Als de installatie is voltooid of als u vragen hebt, neemt u contact op met uw Adobe-accountvertegenwoordiger om de installatie te voltooien. Deze methode is geen zelfbediening en vereist hulp van Adobe.
+
+>[!IMPORTANT]
+>
+>Cloudgebaseerde publieksbestanden moeten het vereiste schema volgen dat wordt beschreven in de Audience Specification PDF. Bestanden moeten hashed-id&#39;s (lagere SHA256), vereiste metagegevensvelden zoals `segment_name` en `activation_id` bevatten en ondersteunde indelingen zoals CSV of Parquet gebruiken. Adobe normaliseert de gegevens niet voordat deze worden geactiveerd. TTL wordt afgedwongen gebaseerd op de levensduur van het publiek.
+>
+>Alle soorten publiek in het geüploade bestand zijn in dit stadium volledig afkomstig. De toegang tot specifieke partnerorganisaties wordt provisioned afzonderlijk door Collaboration UI.
+
+### Voorlichting
+
+Configureer hoe doelgroepen worden voorbereid, aangepast en beheerd voor gebruik in verbindingen.
+
+- **Uitgezochte publiek** *(Experience Platform slechts)* - kies publiekssegmenten met gesteunde herkenningstekens.
+- **de gelijke van de Kaart sleutels** - richt publieksgebieden met de gevormde gelijke sleutels.
+- **pas transformaties** toe - de waarden van de Hash plaintext (bijvoorbeeld, e-mail) indien nodig.
+- **vernieuwt het Programma** - bepaalt updatefrequentie (bijvoorbeeld, dagelijks).
+- **vorm toestemmingsmontages** - bepaal welke profielen om in verbindingen door een toestemmingswijze te selecteren verkiesbaar zijn: opt-in, opt-out, of niets.
+
+>[!NOTE]
+>
+>U kunt soorten publiek toevoegen of verwijderen en het vernieuwingsschema direct bijwerken in de gebruikersinterface van Collaboration. Als u andere instellingen wilt wijzigen, zoals de toetsen of toestemmingsmodus, moet u de gegevensverbinding verwijderen en opnieuw maken.
+
+>[!IMPORTANT]
+>
+>**Maximum aantal soorten publiek per samenwerkingsrol:**
+>
+>- **Advertisers** kan voorziening tot 25 publiek.
+>- **Uitgevers** kunnen voorziening tot 250 publiek (elk met een minimum van 5.000 IDs).
+
+>[!IMPORTANT]
+>
+>**de belangrijkste vereisten van de Gelijke:**
+>
+>Alle gelijke sleutels moeten **worden in orde gebracht**, **worden verlaagd**, en **SHA256-hashed**.\
+>Als u hashwaarden opgeeft waarin hoofdletters worden gebruikt, zet Collaboration deze automatisch om in kleine letters.\
+>Als uw bron **plaintext herkenningstekens** bevat, gebruik de **[!UICONTROL Apply transformation]** optie in UI om het hakken toe te passen. Deze optie is alleen beschikbaar wanneer gebruikers worden aangeschaft bij Experience Platform en wordt niet ondersteund voor bronnen in de cloud.
+>
+>Voor meer informatie, zie de [ kaartgebieden ](./setup/onboard-audiences.md#map-fields) sectie van de de invoer en leiden de gids van het publiek.
+
+Als u een volledige analyse wilt zien van de manier waarop u met de gebruikersinterface van Collaboration naar het publiek kunt verwijzen, bekijkt u de onderstaande demonstratie-video van Collaboration Audience Reference.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3452217/?learn=on&enablevpops)
+
+Alternatief, zie het document op [ makend publiek beschikbaar in Real-Time CDP Collaboration ](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/setup/onboard-audiences#import-audiences).
+
+## Stap 4: Het publiek activeren (naar Experience Platform of een cloudbestemming) {#activate-audiences}
+
+>[!NOTE]
+>
+>Deze stap geldt zowel voor adverteerders als voor uitgevers.
+
+Gebruik de gebruikersinterface van Collaboration om het publiek te activeren naar uw Experience Platform-exemplaar of naar een cloudbestemming.
+
+### Optie A: activeren naar Experience Platform
+
+Voltooi de volgende stappen die in [ worden geschetst vormen Adobe Experience Platform als bestemmings ](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/destinations/experience-platform) gids.
+
+- **creeer een bestemming** - gebruik UI aan opstelling een bestemming van Experience Platform (zandbak-niveau).
+- **de overeenkomende sleutels van de Kaart** - selecteer het herkenningsteken (b.v., `hashedEmail`).
+- **bepaalt TTL** - vastgestelde vervaldatum (1-30 dagen).
+- **verifieer in het Portaal van het Publiek** - Zodra een medewerker u een publiek verzendt, verifieer dat het in het Portaal van het Publiek onder de oorsprong &quot;[!UICONTROL Real-Time CDP Collaboration] verschijnt.&quot;
+
+### Optie B: activeren naar cloud
+
+Als u een publiek naar een cloudinstelling wilt activeren (zoals [!DNL AWS S3] of [!DNL Snowflake] ), neemt u contact op met uw Adobe-accountvertegenwoordiger om het installatieproces te starten. U moet doelgegevens opgeven, zoals het bestandspad, de referenties en de verwachte bestandsindeling. Tijdens opstelling, moet u ook een gelijke sleutel (b.v., `hashedEmail`) specificeren en gewenste TTL bepalen en cadence verfrissen. Zodra de configuratie volledig is, zal Adobe de bestemming verstrekken en ervoor zorgen de gegevens correct worden geleverd.
+
+De gegevens van het publiek die naar een wolkenbestemming worden verzonden volgen een vooraf bepaald schema. Voor een gedetailleerde beschrijving van de vereiste gebieden en het formaat, download de [ Gids van Audience Activation van Collaboration ](../assets/quick-start/RTCDP_Collaboration_Audience_Activation_Spec_v1.0.pdf).
+
+### Belangrijkste verschillen
+
+In de volgende lijst worden de verschillen tussen de activeringsopties voor Experience Platform en de cloud aangegeven:
+
+- Activaties op Experience Platform zijn volledig zelfbedienbaar en zijn zichtbaar in het Poortpubliek van het publiek.
+- Cloudinstellingen vereisen Adobe-coördinatie en zijn niet zichtbaar in de gebruikersinterface.
+
+## Stap 5: De meting instellen (optioneel) {#set-up-measurement}
+
+>[!AVAILABILITY]
+>
+>Deze eigenschap is in **bèta** en beschikbaar uitsluitend aan klanten in het Beperkte programma van de Beschikbaarheid. Neem contact op met uw Adobe-vertegenwoordiger om toegang aan te vragen.
+
+>[!IMPORTANT]
+>
+>De **[!UICONTROL Measure]** werkruimte is slechts beschikbaar als **[!UICONTROL Measurement]** gebruiksgeval [ tijdens het verbindingsproces ](./connect/establishing-connections.md#connection-settings) werd toegelaten. Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./collaborate/manage-projects.md#project-use-cases) gids beheren.
+
+Collaboration biedt diverse rapporten om het bereik, de frequentie en de doeltreffendheid van de campagne te analyseren. Hoewel de werkruimte van **[!UICONTROL Measure]** beschikbaar is in de gebruikersinterface, is voor de volledige rapportfunctionaliteit mogelijk backendenactivering vereist.
+
+Leren om metingsrapporten te bekijken en te interpreteren, zie de [ gids van de Meting ](./collaborate/measure.md). Het omvat attributie, campagne summiere metriek, en dashboards zoals bereikcurven en frequentieverdeling.
+
+<!-- Commenting out the below information as this workflow is not yet in Beta but will be imminently. A guided measurement configuration workflow will be available in a future release."
+### Configure measurement workflow
+
+Collaboration supports two measurement workflows:
+
+- **Attribution using Adobe Experience Platform datasets**
+- **Campaign summary using only partner-provided data**
+
+Choose the appropriate workflow below based on your campaign measurement goals.
+
+#### Option A: Attribution using Experience Platform datasets
+
+Use this workflow to measure conversion activity using datasets stored in Experience Platform.
+
+1. **Create a measurement data connection**
+   - Select the dataset that contains your conversion events.
+   - Map identity fields from your dataset to the match keys used in Collaboration.
+   - Manage consent and governance settings.
+   - Define one or more conversion events to measure.
+   - Review and confirm your setup.
+
+2. **Run a measurement report**
+   - Go to the **[!UICONTROL Measure]** workspace within the associated project.
+   - Input the report name, date range, and report run date.
+   - Select **[!UICONTROL Attribution]** as the report type.
+   - Select the defined conversion event(s).
+   - Submit the report. It will run on the specified date and populate within 24 hours.
+
+#### Option B: Campaign summary using partner-provided data
+
+Use this workflow to generate campaign summary insights based on advertiser-supplied identifiers (for example, campaign ID).
+
+1. **Set up the connection**
+   - In the connection settings, ensure **[!UICONTROL Measurement]** is selected as a use case.
+   - Create a project under the connection with **[!UICONTROL Measurement]** as an activity.
+
+2. **Provide campaign context**
+   - Input required campaign identifiers (for example, **Campaign ID**) for the partner to reference.
+   - Align with your partner on campaign scope and reporting timeline.
+
+3. **Run a measurement report**
+   - Navigate to the **[!UICONTROL Measure]** workspace within the project.
+   - Input the report name, date range, and report run date.
+   - Select **[!UICONTROL Campaign summary]** as the report type.
+   - Submit the report. It will run on the selected date and populate within 24 hours. -->
+
+## Verificatie
+
+Controleer na activering of het publiek op de juiste bestemming is afgeleverd of beschikbaar gesteld.
+
+- Controleer of uw publiek wordt weergegeven in de portal Publiek (voor activering van Experience Platform).
+- Bevestig succesvolle levering van de wolk door externe bestemmingslogboeken of bevestiging.
+
+## Stap 6: Verbinding maken met deelnemers {#connect-with-collaborators}
+
+Nu de installatie en de levering van gegevens is voltooid, is uw organisatie nu klaar om verbinding te maken met medewerkers door uitnodigingen te verzenden of te accepteren en projectinstellingen ter goedkeuring in te dienen. Dit verbindingsproces omvat het verzenden of ontvangen van uitnodigingen, het controleren en het voorleggen van verbindingsmontages (zoals gebruiksgevallen en kredietconsumptie), en het bevestigen van de verhouding.
+
+Gebruik de werkruimte **[!UICONTROL Connect]** in het navigatiemenu links in de gebruikersinterface van Collaboration om door beschikbare uitgevers te bladeren (adverteerders kunnen momenteel niet worden gebladerd). Voor een overzicht van deze stroom, zie [ verbinden met adverteerders of uitgeverij gids ](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [ video van de de rekeningsopstelling van de adverteerder ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
+
+## Volgende stappen
+
+U hebt nu het instappen voltooid en uw organisatie voor veilige samenwerking gevormd. Verken vervolgens de volgende bronnen om meer inzicht te krijgen in activering, meting en gegevensbeheer:
+
+- [ documentatie van het de activeringswerkschema van het publiek ](./collaborate/activate.md)
+- [ het gebruikscase van de Meting ](./collaborate/measure.md)
+- [Aanbevolen werkwijzen voor Collaboration-governance](./setup/onboard-audiences.md#governance-policy-and-enforcement-actions)

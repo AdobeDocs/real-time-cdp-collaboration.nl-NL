@@ -135,7 +135,7 @@ Als u een volledige analyse wilt zien van de manier waarop u met de gebruikersin
 
 >[!VIDEO](https://video.tv.adobe.com/v/3452217/?learn=on&enablevpops)
 
-Alternatief, zie het document op [ makend publiek beschikbaar in Real-Time CDP Collaboration ](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/setup/onboard-audiences#import-audiences).
+Alternatief, zie het document op [ makend publiek beschikbaar in Real-Time CDP Collaboration ](https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/setup/onboard-audiences#import-audiences).
 
 ## Stap 4: Het publiek activeren (naar Experience Platform of een cloudbestemming) {#activate-audiences}
 
@@ -147,7 +147,7 @@ Gebruik de gebruikersinterface van Collaboration om het publiek te activeren naa
 
 ### Optie A: activeren naar Experience Platform
 
-Voltooi de volgende stappen die in [ worden geschetst vormen Adobe Experience Platform als bestemmings ](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/destinations/experience-platform) gids.
+Voltooi de volgende stappen die in [ worden geschetst vormen Adobe Experience Platform als bestemmings ](https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/destinations/experience-platform) gids.
 
 - **creeer een bestemming** - gebruik UI aan opstelling een bestemming van Experience Platform (zandbak-niveau).
 - **de overeenkomende sleutels van de Kaart** - selecteer het herkenningsteken (b.v., `hashedEmail`).
@@ -244,7 +244,7 @@ Als adverteerder gebruikt u de werkruimte **[!UICONTROL Connect]** in het naviga
 >
 >Momenteel kunnen alleen adverteerders door uitgevers bladeren. Uitgevers kunnen niet door verbindingen met adverteerders bladeren of deze tot stand brengen.
 
-Voor een overzicht van deze stroom, zie [ verbinden met adverteerders of uitgeverij gids ](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [ video van de de rekeningsopstelling van de adverteerder ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
+Voor een overzicht van deze stroom, zie [ verbinden met adverteerders of uitgeverij gids ](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [ video van de de rekeningsopstelling van de adverteerder ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
 
 ## Volgende stappen
 

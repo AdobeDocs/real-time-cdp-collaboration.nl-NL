@@ -1,17 +1,18 @@
 ---
 title: Real-Time CDP Collaboration on boarding Quick Start
-description: Leer hoe u zich aan boord van uw organisatie kunt stellen in Real-Time CDP Collaboration, zoals het instellen van rollen en organisaties, publieksprovisioning, activering en meting. Deze gids helpt adverteerders en uitgevers samenwerkingsmontages te vormen en beginnen gedeeld publiek veilig en efficiënt te gebruiken.
+description: Leer hoe u in Real-Time CDP Collaboration aan boord van uw organisatie kunt gaan, zoals het instellen van rollen en organisaties, het aantrekken van het publiek, activering en meting. Deze gids helpt adverteerders en uitgevers samenwerkingsmontages te vormen en beginnen gedeeld publiek veilig en efficiënt te gebruiken.
 audience: admin, publisher, advertiser
-source-git-commit: 4435788917dd82cb127525e054f7f09803e1dcdf
+exl-id: 68e5095e-ece5-4f64-9056-10f3b216cf0c
+source-git-commit: 5b17bcfbab02e8d24009a875ddea15cbd49c1506
 workflow-type: tm+mt
-source-wordcount: '1585'
+source-wordcount: '1595'
 ht-degree: 0%
 
 ---
 
 # Snelle start voor Real-Time CDP Collaboration-instapkaarten
 
-Ga aan de slag met Real-Time Customer Data Platform (CDP) Collaboration door uw organisatie te configureren, het publiek van de provisioning te voorzien en activering en meting op basis van privacy mogelijk te maken.
+Ga aan de slag met Real-Time CDP Collaboration door uw organisatie te configureren, publiek te betrekken en activering en meting op basis van privacy mogelijk te maken.
 
 ## Vereisten
 
@@ -41,7 +42,7 @@ De de toegangsrollen van uw organisatie bepalen wat de gebruikers kunnen zien en
 
 Bekijk deze video voor meer informatie over het toewijzen van producttoegang en -machtigingen voor Collaboration via de gebruikersinterface van Admin Console en Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452236/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3452216/?learn=on&enablevpops)
 
 ## Stap 2: Een Real-Time CDP Collaboration-organisatie instellen {#set-up-your-organization}
 
@@ -73,7 +74,7 @@ Definieer de rol van uw organisatie in Collaboration, voeg brandingmiddelen toe 
 
 - **vorm gelijke sleutels** - selecteer de herkenningstekens die voor publiek aanpassing (momenteel, gehakt e-mail is de enige gesteunde gelijke sleutel) worden gebruikt.
 
-Zodra uw organisatie wordt gecreeerd en uw branding en gelijke sleutels worden gevormd, is uw organisatie klaar om leveringspubliek te beginnen en gegevens te activeren.
+Zodra uw organisatie wordt gecreeerd en uw branding en gelijke sleutels worden gevormd, is uw organisatie klaar om te beginnen bronspubliek en het activeren van gegevens.
 
 Meer over aanvankelijke organisatieopstelling leren, met inbegrip van hoe te om rollen te bepalen, brandende activa te uploaden, en gelijke sleutels te vormen, zie het [ aanvankelijke document van de organisatieopstelling ](./setup/onboard-organization.md#initial-organization-setup){target="_blank"}.
 
@@ -83,7 +84,7 @@ Bekijk een stapsgewijze analyse van de opstelling van adverteerders, met inbegri
 
 ## Stap 3: Source-publiek (van Experience Platform of een cloudbron) {#source-audiences}
 
-Kies een van de of beide volgende gegevensopslagruimten voor het publiek van de bron. U kunt de gebruikersinterface van Collaboration of de coördinaat met Adobe gebruiken voor het aanbieden van soorten publiek in een indeling waarin de privacy behouden blijft.
+Kies een van de of beide volgende gegevensopslagruimten voor het publiek van de bron. Gebruik de gebruikersinterface van Collaboration of de coördinaat met Adobe om het publiek een privacyvriendelijke indeling te geven.
 
 ### Optie A: Source van Experience Platform
 
@@ -99,7 +100,7 @@ Om een wolkenbron (bijvoorbeeld, [!DNL AWS S3] of [!DNL Snowflake]) te vormen, b
 >
 >Alle soorten publiek in het geüploade bestand zijn in dit stadium volledig afkomstig. De toegang tot specifieke partnerorganisaties wordt provisioned afzonderlijk door Collaboration UI.
 
-### Voorlichting
+### Soorten publiek configureren
 
 Configureer hoe doelgroepen worden voorbereid, aangepast en beheerd voor gebruik in verbindingen.
 
@@ -117,8 +118,8 @@ Configureer hoe doelgroepen worden voorbereid, aangepast en beheerd voor gebruik
 >
 >**Maximum aantal soorten publiek per samenwerkingsrol:**
 >
->- **Advertisers** kan voorziening tot 25 publiek.
->- **Uitgevers** kunnen voorziening tot 250 publiek (elk met een minimum van 5.000 IDs).
+>- **Advertisers** kan tot 25 publiek bron.
+>- **Uitgevers** kunnen tot 250 publiek (elk met een minimum van 5.000 IDs) bron.
 
 >[!IMPORTANT]
 >
@@ -134,7 +135,7 @@ Als u een volledige analyse wilt zien van de manier waarop u met de gebruikersin
 
 >[!VIDEO](https://video.tv.adobe.com/v/3452217/?learn=on&enablevpops)
 
-Alternatief, zie het document op [ makend publiek beschikbaar in Real-Time CDP Collaboration ](https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/setup/onboard-audiences#import-audiences).
+Alternatief, zie het document op [ makend publiek beschikbaar in Real-Time CDP Collaboration ](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/setup/onboard-audiences#import-audiences).
 
 ## Stap 4: Het publiek activeren (naar Experience Platform of een cloudbestemming) {#activate-audiences}
 
@@ -146,7 +147,7 @@ Gebruik de gebruikersinterface van Collaboration om het publiek te activeren naa
 
 ### Optie A: activeren naar Experience Platform
 
-Voltooi de volgende stappen die in [ worden geschetst vormen Adobe Experience Platform als bestemmings ](https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/destinations/experience-platform) gids.
+Voltooi de volgende stappen die in [ worden geschetst vormen Adobe Experience Platform als bestemmings ](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/destinations/experience-platform) gids.
 
 - **creeer een bestemming** - gebruik UI aan opstelling een bestemming van Experience Platform (zandbak-niveau).
 - **de overeenkomende sleutels van de Kaart** - selecteer het herkenningsteken (b.v., `hashedEmail`).
@@ -237,11 +238,17 @@ Controleer na activering of het publiek op de juiste bestemming is afgeleverd of
 
 Nu de installatie en de levering van gegevens is voltooid, is uw organisatie nu klaar om verbinding te maken met medewerkers door uitnodigingen te verzenden of te accepteren en projectinstellingen ter goedkeuring in te dienen. Dit verbindingsproces omvat het verzenden of ontvangen van uitnodigingen, het controleren en het voorleggen van verbindingsmontages (zoals gebruiksgevallen en kredietconsumptie), en het bevestigen van de verhouding.
 
-Gebruik de werkruimte **[!UICONTROL Connect]** in het navigatiemenu links in de gebruikersinterface van Collaboration om door beschikbare uitgevers te bladeren (adverteerders kunnen momenteel niet worden gebladerd). Voor een overzicht van deze stroom, zie [ verbinden met adverteerders of uitgeverij gids ](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [ video van de de rekeningsopstelling van de adverteerder ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
+Als adverteerder gebruikt u de werkruimte **[!UICONTROL Connect]** in het navigatiemenu links in de gebruikersinterface van Collaboration om door beschikbare uitgevers te bladeren.
+
+>[!NOTE]
+>
+>Momenteel kunnen alleen adverteerders door uitgevers bladeren. Uitgevers kunnen niet door verbindingen met adverteerders bladeren of deze tot stand brengen.
+
+Voor een overzicht van deze stroom, zie [ verbinden met adverteerders of uitgeverij gids ](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [ video van de de rekeningsopstelling van de adverteerder ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
 
 ## Volgende stappen
 
-U hebt nu het instappen voltooid en uw organisatie voor veilige samenwerking gevormd. Verken vervolgens de volgende bronnen om meer inzicht te krijgen in activering, meting en gegevensbeheer:
+U hebt nu de eerste setup voltooid en uw organisatie geconfigureerd voor veilige samenwerking. Verken vervolgens de volgende bronnen om meer inzicht te krijgen in activering, meting en gegevensbeheer:
 
 - [ documentatie van het de activeringswerkschema van het publiek ](./collaborate/activate.md)
 - [ het gebruikscase van de Meting ](./collaborate/measure.md)

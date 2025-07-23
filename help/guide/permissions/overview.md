@@ -23,7 +23,7 @@ De controle van de toegang voor Adobe Real-Time CDP Collaboration wordt verstrek
 
 ## Toegangsbeheerhiërarchie {#hierarchy}
 
-Om toegangsbeheer aan Collaboration te vormen, moet u **** systeem of productbeheerdervoorrechten hebben. Een systeembeheerder heeft geen beperkingen en is provisioned tijdens het aan boord gaan proces. Ondertussen, kan een productbeheerder administratieve functies voor alle producten verstrekken zij zijn toegewezen aan. Een productbeheerder moet product en administratieve toegang door een systeembeheerder worden verleend.
+Om toegangsbeheer aan Collaboration te vormen, moet u **&#x200B;**&#x200B;systeem of productbeheerdervoorrechten hebben. Een systeembeheerder heeft geen beperkingen en is provisioned tijdens het aan boord gaan proces. Ondertussen, kan een productbeheerder administratieve functies voor alle producten verstrekken zij zijn toegewezen aan. Een productbeheerder moet product en administratieve toegang door een systeembeheerder worden verleend.
 
 In deze handleidingen wordt beschreven hoe u toegang configureert voor systeembeheerders, productbeheerders en eindgebruikers. Verwijs naar de lijst hieronder om het belangrijkste verschil tussen de rollen te begrijpen.
 

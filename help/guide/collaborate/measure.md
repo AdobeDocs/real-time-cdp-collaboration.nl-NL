@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Measure]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de Meting {tijdens het verbindingsproces** werd toegelaten. [](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Measure]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de Meting &lbrace;tijdens het verbindingsproces** werd toegelaten. [&#128279;](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Leer meer over de beschikbare rapporten in Adobe Real-Time CDP Collaboration en begrijp hoe u de prestaties van uw marketingcampagnes op verschillende kanalen kunt meten en analyseren.
 

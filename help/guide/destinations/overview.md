@@ -21,7 +21,7 @@ Momenteel zijn er alleen bestemmingen beschikbaar voor uitgevers in Adobe Real-T
 
 >[!IMPORTANT]
 >
->Momenteel, wanneer adverteerders publiek binnen uw project activeren, worden zij automatisch verzonden naar de gevormde bestemming van een uitgever. Als uitgever, moet u **** een bestemming *vormen alvorens* uw medewerker een publiek activeert. Als geen bestemming wordt gevormd, zal het publiek naar u worden verzonden en in het **[!UICONTROL Activate]** lusje binnen een project zichtbaar, maar niet geactiveerd.
+>Momenteel, wanneer adverteerders publiek binnen uw project activeren, worden zij automatisch verzonden naar de gevormde bestemming van een uitgever. Als uitgever, moet u **&#x200B;**&#x200B;een bestemming *vormen alvorens* uw medewerker een publiek activeert. Als geen bestemming wordt gevormd, zal het publiek naar u worden verzonden en in het **[!UICONTROL Activate]** lusje binnen een project zichtbaar, maar niet geactiveerd.
 
 ## Doelen configureren {#configure-destinations}
 

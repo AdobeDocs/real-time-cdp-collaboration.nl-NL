@@ -2,11 +2,11 @@
 title: Overzicht
 description: Leer hoe u Adobe Real-Time Customer Data Platform (CDP) Collaboration kunt gebruiken voor het detecteren, activeren en meten van hoogwaardige soorten publiek zonder te vertrouwen op cookies van derden.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3128c1ea-8549-474e-adce-49b9b6802527
-source-git-commit: fda414120decc0c76712616ff85b83febede53e9
+source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '388'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ## Overzicht
 
-Met Adobe Real-Time Customer Data Platform (CDP) Collaboration, kunt u, hoogwaardig publiek ontdekken activeren en meten zonder op derdekoekjes te vertrouwen. Deze oplossing maakt geavanceerde gegevenssamenwerking tussen adverteerders en uitgevers mogelijk en helpt u persoonlijke en ongekende klantervaringen te maken in een op privacy gerichte, gecentraliseerde omgeving.
+Met Adobe Real-Time CDP Collaboration kunt u hoogwaardige soorten publiek detecteren, activeren en meten zonder op cookies van derden te vertrouwen. Deze oplossing maakt geavanceerde gegevenssamenwerking tussen adverteerders en uitgevers mogelijk en helpt u persoonlijke en ongekende klantervaringen te maken in een op privacy gerichte, gecentraliseerde omgeving.
 
 ![ de opstellingspagina van Real-Time CDP Collaboration, die een organisatie toont.](/help/assets/overview/set-up.png){zoomable="yes"}
 
@@ -31,7 +31,7 @@ Uitgevers hebben veilig toegang tot adverteerdersoorten via meerdere kanalen en 
 
 ## Gecombineerde campagneprestaties begrijpen
 
-Gebruik gezamenlijke meetgereedschappen om de impact van uw campagnes te volgen. Uitgevers kunnen de campagneprestaties aan merken melden, huidige en toekomstige advertenties helpen verbeteren en de uitgaven voor advertenties aanpassen. Adverteerders kunnen privacygerichte betrokkenheid en conversieinzichten delen, belichtings-, kanaal- en conversiegegevens integreren en voorkeurspartners voor volledige inzichten gebruiken. Merk op dat sommige van de metingsautomatisering niet beschikbaar in de eerste versie is.
+Gebruik gezamenlijke meetgereedschappen om de impact van uw campagnes te volgen. Uitgevers kunnen de prestaties van hun campagne aan adverteerders melden, waardoor ze de huidige en toekomstige advertenties kunnen verbeteren en de uitgaven voor advertenties kunnen aanpassen. Adverteerders kunnen privacygerichte betrokkenheid en conversieinzichten delen, belichtings-, kanaal- en conversiegegevens integreren en voorkeurspartners voor volledige inzichten gebruiken. Merk op dat sommige van de metingsautomatisering niet beschikbaar in de eerste versie is.
 
 ## Privacy-centrisch
 
@@ -39,15 +39,13 @@ Ingesloten besturingselementen zorgen ervoor dat aan de vereisten voor beheer en
 
 ## Aan de slag {#get-started}
 
-Als u Real-Time CDP Collaboration wilt gaan gebruiken, moeten systeembeheerders zichzelf, productbeheerders en eindgebruikers toegang geven. Er zijn veelvoudige vereiste stappen afhankelijk van de gebruiker en het vereiste niveau van toegang. Verwijs naar de [ gids van de toegangscontrole ](/help/guide/permissions/overview.md){target="_blank"} om begonnen te worden.
+Als u Collaboration wilt gaan gebruiken, moeten systeembeheerders zichzelf, productbeheerders en eindgebruikers toegang geven. Er zijn veelvoudige vereiste stappen afhankelijk van de gebruiker en het vereiste niveau van toegang. Verwijs naar de [ gids van de toegangscontrole ](/help/guide/permissions/overview.md){target="_blank"} om begonnen te worden.
 
-Zodra u toegang hebt, kunt u uw organisatie instellen en uw gegevensbronnen verbinden met Adobe Real-Time CDP Collaboration om een publiek te importeren. Lees de [ adverteerder en uitgever werkschema van begin tot eind ](/help/guide/end-to-end-workflow.md) om begonnen te worden.
-
-<!-- Utilize the collaboration tools to compare and manage audiences effectively. Leverage real-time insights to inform your marketing strategies and deliver personalized customer experiences.  -->
+Zodra u toegang hebt, kunt u uw account instellen en uw gegevensverbinding maken met het publiek dat de gegevens ophaalt. Lees de [ adverteerder en uitgever werkschema van begin tot eind ](/help/guide/end-to-end-workflow.md) om begonnen te worden.
 
 ## Bronnen
 
-Onderzoek de [ verklarende woordenlijst ](/help/guide/glossary.md) voor gedetailleerde informatie over termijnen die in het product worden gebruikt. Voor steun, heb toegang tot de pagina van de Steun van de Klant van Adobe [&#128279;](https://experienceleague.adobe.com/home?lang=nl-NL&amp;support-tab=open-ticket#support){target="_blank"}.
+Onderzoek de [ verklarende woordenlijst ](/help/guide/glossary.md) voor gedetailleerde informatie over termijnen die in het product worden gebruikt. Voor steun, heb toegang tot de pagina van de Steun van de Klant van Adobe [ ](https://experienceleague.adobe.com/home?lang=en&support-tab=open-ticket#support){target="_blank"}.
 
 ## Contact opnemen
 

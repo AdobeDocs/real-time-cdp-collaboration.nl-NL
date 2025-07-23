@@ -2,9 +2,9 @@
 user-guide-title: Real-Time Customer Data Platform Collaboration
 breadcrumb-title: Real-Time Customer Data Platform Collaboration
 user-guide-description: Adobe Real-Time CDP Collaboration maakt naadloze en veilige gegevensuitwisseling en samenwerking tussen adverteerders en uitgevers mogelijk, waardoor het publiek in real time inzicht krijgt en gepersonaliseerde marketingstrategieën mogelijk worden.
-source-git-commit: 98d70b0069a8bc9e5d032fd2dd090afa5010ea2a
+source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 7%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 7%
 * [Real-Time CDP Collaboration home](./home.md)
 * Overzicht {#overview}
    * [Gebruik gevallen en voordelen](./use-cases-benefits.md)
-   * [Workflow beëindigen](./end-to-end-workflow.md)
+   * [Volledige workflow](./end-to-end-workflow.md)
 * [Snelle start op instapniveau](./quick-start-guide.md)
 * Instellen {#setup}
    * [Overzicht van instellingssectie](./setup/setup-overview.md)
-   * [Aan boord en beheer uw organisatie](./setup/onboard-organization.md)
-   * [Soorten publiek importeren en beheren](./setup/onboard-audiences.md)
+   * [Aan boord en beheer uw account](./setup/onboard-account.md)
+   * [Source en publiek beheren](./setup/onboard-audiences.md)
    * [Gegevensverbindingen beheren](./setup/manage-data-connection.md)
    * [Doelen configureren en beheren](./setup/manage-destinations.md)
    * [Je activiteiten op het gebied van kredietverbruik volgen](/help/guide/setup/my-activity.md)

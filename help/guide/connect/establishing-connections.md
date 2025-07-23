@@ -2,11 +2,11 @@
 title: Verbinding maken met adverteerders of uitgevers
 description: Na het ontdekken van potentiële medewerkers, leer hoe te om verbindingen te vestigen en beginnen aan projecten samen te werken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3fed93f7-1854-440c-802e-6b47e82918c9
-source-git-commit: 3615d969ff6e0ff95304a02346845909f3f8258c
+source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
 workflow-type: tm+mt
-source-wordcount: '1370'
+source-wordcount: '1367'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Voordat medewerkers (doorgaans een adverteerder en een uitgever) aan campagnes kunnen samenwerken, moeten ze een verbinding tot stand brengen. Deze verbinding staat hen toe om publiek te activeren, projecten tot stand te brengen, en rapporten over campagneprestaties in werking te stellen.
+Voordat medewerkers kunnen samenwerken aan campagnes, moeten ze een verbinding tot stand brengen. Deze verbinding staat hen toe om publiek te activeren, projecten tot stand te brengen, en rapporten over campagneprestaties in werking te stellen.
 
 ## Workflow op hoog niveau
 
@@ -33,15 +33,15 @@ Zodra de punten hierboven worden voltooid, kunnen de medewerkers te werk gaan [ 
 
 >[!IMPORTANT]
 >
->Zodra de verbinding tussen twee medewerkers is gevestigd, kunnen de verbindingsmontages niet meer worden herzien.
+>Nadat de verbinding tussen twee deelnemers tot stand is gebracht, kunnen de verbindingsinstellingen niet worden herzien.
 
 ## Uitnodiging verzenden {#send-invite}
 
-Als u een verbinding wilt instellen, selecteert u **[!UICONTROL Connect]** wanneer u door de uitgeversvoorraad bladert in het scherm met uitgevers zoeken.
+Als u een verbinding wilt instellen, selecteert u **[!UICONTROL Connect]** wanneer u door de uitgeversvoorraad in de **[!UICONTROL Discover publishers]** -werkruimte bladert.
 
 ![ Connect dashboard met de Connect optie die op een specifieke uitgever wordt benadrukt.](/help/assets/connect/establish-connection/connect-selection.png){zoomable="yes"}
 
-Nadat de uitnodiging is verzonden, kunt u de verbindingsinstellingen voorvertonen (maar niet bewerken). Uitnodigingen in behandeling weergeven op het tabblad **[!UICONTROL My connections]** . De verbindingsstatus wordt weergegeven als **[!UICONTROL Invite sent]** .
+Nadat de uitnodiging is verzonden, kunt u de verbindingsinstellingen voorvertonen (maar niet bewerken). De weergave van een uitnodiging in behandeling wordt weergegeven op het tabblad **[!UICONTROL My connections]** . De verbindingsstatus wordt weergegeven als **[!UICONTROL Invite sent]** .
 
 ![ In afwachting van Uitnodiging die naar uitgever wordt verzonden in de Mijn verbindingsmening.](/help/assets/connect/establish-connection/pending-invite-sent.png){zoomable="yes"}
 
@@ -62,7 +62,7 @@ Nadat de medewerker de uitnodiging heeft geaccepteerd, kunt u de verbindingsinst
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_connection_settings_creditsplit"
 >title="Kredietsplitsing"
->abstract="In dit gedeelte wordt bepaald wie voor de overeenkomstige activiteiten in Real-Time CDP Collaboration betaalt."
+>abstract="In dit gedeelte wordt bepaald wie voor de overeenkomstige activiteiten in Collaboration betaalt."
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_connection_settings_creditsplit_audiencesharing"
@@ -82,8 +82,8 @@ Nadat de medewerker de uitnodiging heeft geaccepteerd, kunt u de verbindingsinst
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_connection_settings_advertisername"
 >title="Namen van adverteerders"
->abstract="<p>Optionele instelling. Geeft de naam en id aan waarmee de adverteerder bij de uitgever bekend is.</p><p>De naam van de adverteerder die u hier toevoegt, wordt vooraf ingevuld in de stap Project maken.</p><ul><li>Als de uitgever veelvoudige namen vormde, selecteer van de lijst.</li><li>Als slechts één naam wordt gevormd, wordt het vooraf geselecteerd automatisch.</li><li>Als er geen namen zijn geconfigureerd, wordt het veld voorgevuld met de naam van de adverteerderaccount van Real-Time CDP Collaboration.</li></ul>"
->additional-url="https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
+>abstract="<p>Optionele instelling. Geeft de naam en id aan waarmee de adverteerder bij de uitgever bekend is.</p><p>De naam van de adverteerder die u hier toevoegt, wordt vooraf ingevuld in de stap Project maken.</p><ul><li>Als de uitgever veelvoudige namen vormde, selecteer van de lijst.</li><li>Als slechts één naam wordt gevormd, wordt het vooraf geselecteerd automatisch.</li><li>Als er geen namen zijn geconfigureerd, wordt het veld voorgevuld met de naam van de adverteerderaccount van Collaboration.</li></ul>"
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_audience_activation"
@@ -95,6 +95,8 @@ Nadat de medewerker de uitnodiging heeft geaccepteerd, kunt u de verbindingsinst
 Nadat de uitnodiging is verzonden, kunt u een voorbeeld van de verbindingsinstellingen bekijken. De uitnodiging moet worden geaccepteerd voordat u de verbinding kunt voltooien.
 
 ![ de mening van verbindingsmontages in de voorproefstaat.](/help/assets/connect/establish-connection/preview-connection-settings.png){zoomable="yes"}
+
+<!-- The sections below will be updated in B2B and have not been addressed yet. -->
 
 ### Verbindingsinstellingen voor adverteerders {#advertiser-connection-settings}
 
@@ -118,7 +120,7 @@ Gebruiksscenario&#39;s worden vooraf gevuld met alle beschikbare opties. Als u d
 
 +++Identieke toetsen
 
-De sleutels van de gelijke worden voorgevuld met degenen u selecteerde terwijl [ vestiging uw organisatie ](/help/guide/setup/onboard-organization.md#set-up-match-keys). U kunt om het even welke gelijke sleutels van een knevel voorzien u niet wilt gebruiken, maar u kunt geen gelijke sleutels toevoegen die niet tijdens organisatie opstelling werden geselecteerd.
+De sleutels van de gelijke worden voorgevuld met degenen u selecteerde terwijl [ vestiging uw organisatie ](/help/guide/setup/onboard-account.md#set-up-match-keys). U kunt om het even welke gelijke sleutels van een knevel voorzien u niet wilt gebruiken, maar u kunt geen gelijke sleutels toevoegen die niet tijdens organisatie opstelling werden geselecteerd.
 
 ![ de zeer belangrijke montages van de Gelijke in de werkruimte van verbindingsmontages.](/help/assets/connect/establish-connection/match-keys.png){zoomable="yes"}
 
@@ -177,9 +179,13 @@ Hieronder wordt beschreven hoe de naamselectie van adverteerders werkt bij het m
 
 Als u tevreden bent met de voorgestelde verbindingsinstellingen, selecteert u **[!UICONTROL Accept]** om de verbinding tot stand te brengen. Selecteer **[!UICONTROL Reject]** als u wijzigingen in de verbindingsinstellingen wilt aanvragen. De medewerker kan dan de verbindingsmontages herzien en hen opnieuw verzenden voor overzicht.
 
+<!-- The end of the sections needing updates still. -->
+
 ## Verbindingen verwijderen {#delete-connections}
 
-U kunt om het even welke verbindingen met medewerkers schrappen die u niet wilt blijven werken met. Als u bestaande verbindingen wilt verwijderen, navigeert u naar **[!UICONTROL Connect]** . Adverteerders moeten vervolgens naar **[!UICONTROL My connections]** navigeren. Selecteer **[!UICONTROL View connection]** op de verbindingskaart om de verbinding te openen u wilt schrappen.
+U kunt om het even welke verbindingen met medewerkers schrappen die u niet wilt blijven werken met. Als u bestaande verbindingen wilt verwijderen, navigeert u naar **[!UICONTROL Connect]** . Als uitgever wordt uw bestaande verbinding weergegeven. Als adverteerder navigeert u naar **[!UICONTROL My connections]** .
+
+Selecteer **[!UICONTROL View connection]** op de verbindingskaart die u wilt verwijderen.
 
 ![ de verbindingsoptie van de Mening die in de Mijn verbindingsmening wordt benadrukt.](/help/assets/connect/establish-connection/delete-view-connection.png){zoomable="yes"}
 
@@ -197,4 +203,4 @@ Er verschijnt een bevestigingsvenster waarin u wordt gevraagd de verwijdering va
 
 ## Volgende stappen
 
-Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [&#128279;](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.
+Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [ ](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.

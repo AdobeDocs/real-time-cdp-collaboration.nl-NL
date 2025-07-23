@@ -2,9 +2,9 @@
 title: Algemene vragen
 description: Zoek antwoorden op de meest gestelde vragen over Adobe Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 07fa043a-ce42-494d-a262-fa1d5cad7476
-source-git-commit: c61af18aafe1bcf7f59159cff6d765349e1ac7f9
+source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 4%
@@ -25,8 +25,8 @@ Ik zie dit scherm als ik toegang probeer te krijgen tot Real-Time CDP Collaborat
 
 +++Selecteren om het antwoord weer te geven
 
-Als u een eindgebruiker bent, moet u het systeem of de productbeheerder van uw bedrijf contacteren.
+Als u een eindgebruiker bent, moet u het systeem of de productbeheerder van uw organisatie contacteren.
 
-Als u een systeem of productbeheerder bent, lees de toestemmingengids om te begrijpen hoe te om zich en uw collega&#39;s de correcte toestemmingen te verlenen om Real-Time CDP Collaboration te gebruiken. Begin met het [ overzicht van de toegangscontrole ](/help/guide/permissions/overview.md).
+Als u een systeem of productbeheerder bent, lees de toestemmingengids om te begrijpen hoe te om zich en uw collega&#39;s de correcte toestemmingen te verlenen om Collaboration te gebruiken. Meer leren, lees het [ overzicht van de toegangscontrole ](/help/guide/permissions/overview.md).
 
 +++

@@ -2,12 +2,12 @@
 title: Overzicht van setup
 description: Begrijp alle beschikbare opties en workflows in de sectie setup van Adobe Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: cbf21cc8-41b4-4dfe-88b7-47bd9a19cbc7
-source-git-commit: fda414120decc0c76712616ff85b83febede53e9
+source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 2%
+source-wordcount: '115'
+ht-degree: 1%
 
 ---
 
@@ -15,14 +15,14 @@ ht-degree: 2%
 
 {{limited-availability-release-note}}
 
-De sectie Setup in Real-Time CDP Collaboration is uw opvolger om informatie over uw bedrijf toe te voegen terwijl u aan de slag gaat met het product.\
+Het gedeelte Setup in Adobe Real-Time CDP Collaboration biedt een gecentraliseerde werkruimte voor het beheer van de instellingen en configuraties van uw account. Gebruik de onderstaande handleidingen om te leren hoe u uw account, publiek kunt configureren, gegevensverbindingen kunt beheren, doelen kunt instellen en uw activiteiten op het gebied van kredietverbruik kunt volgen.
 
 ![ de opstellingswerkruimte van een organisatie, die een overzicht van zijn huidige montages geeft.](/help/assets/setup/set-up-overview.png){zoomable="yes"}
 
 Gebruik de functionaliteit in de sectie Setup om:
 
-* [Aan boord en beheer uw organisatie](/help/guide/setup/onboard-organization.md)
-* [Soorten publiek importeren en beheren](/help/guide/setup/onboard-audiences.md)
+* [Uw account configureren en beheren](/help/guide/setup/onboard-account.md)
+* [Source en publiek beheren](/help/guide/setup/onboard-audiences.md)
 * [Gegevensverbindingen beheren](/help/guide/setup/manage-data-connection.md)
 * [Doelen configureren en beheren](/help/guide/setup/manage-destinations.md)
 * [Je activiteiten op het gebied van kredietverbruik volgen](/help/guide/setup/my-activity.md)

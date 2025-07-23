@@ -2,10 +2,11 @@
 title: Overzicht van ontwerpen
 description: Meer informatie over bestemmingen in Real-Time CDP Collaboration.
 audience: admin, publisher
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
-source-git-commit: f19aff1b7d10a446dd209721e7a6fdf537c9d63e
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+exl-id: 5cbbf5c4-4caa-40da-97be-690d95c1201c
+source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '343'
 ht-degree: 1%
 
 ---
@@ -16,11 +17,11 @@ ht-degree: 1%
 
 Doelen zijn integraties die worden gebruikt om doelgroepen naar externe platforms te sturen. Met deze integratie kunt u het publiek op verschillende marketingkanalen en -platforms activeren voor gebruik in campagnes en de betrokkenheid van klanten.
 
-Momenteel zijn er alleen bestemmingen beschikbaar voor uitgevers in Real-Time CDP Collaboration. Uitgevers kunnen doelen configureren om een publiek naar externe platforms, zoals Adobe Experience Platform, te sturen voor gebruik in campagnes. Advertisers kunnen dan [ publiek binnen een project ](../collaborate/activate.md) activeren, die naar de gevormde bestemming van de uitgever worden verzonden.
+Momenteel zijn er alleen bestemmingen beschikbaar voor uitgevers in Adobe Real-Time CDP Collaboration. Uitgevers kunnen doelen configureren om een publiek naar externe platforms, zoals Adobe Experience Platform, te sturen voor gebruik in campagnes. Advertisers kunnen dan [ publiek binnen een project ](../collaborate/activate.md) activeren, die naar de gevormde bestemming van de uitgever worden verzonden.
 
 >[!IMPORTANT]
 >
->Momenteel, wanneer adverteerders publiek binnen uw project activeren, worden zij automatisch verzonden naar de gevormde bestemming van een uitgever. Als uitgever, moet u **&#x200B;**&#x200B;een bestemming *vormen alvorens* uw medewerker een publiek activeert. Als geen bestemming wordt gevormd, zal het publiek naar u worden verzonden en in het **[!UICONTROL Activate]** lusje binnen een project zichtbaar, maar niet geactiveerd.
+>Momenteel, wanneer adverteerders publiek binnen uw project activeren, worden zij automatisch verzonden naar de gevormde bestemming van een uitgever. Als uitgever, moet u **** een bestemming *vormen alvorens* uw medewerker een publiek activeert. Als geen bestemming wordt gevormd, zal het publiek naar u worden verzonden en in het **[!UICONTROL Activate]** lusje binnen een project zichtbaar, maar niet geactiveerd.
 
 ## Doelen configureren {#configure-destinations}
 
@@ -28,7 +29,7 @@ Als u een doel wilt configureren, navigeert u naar **[!UICONTROL Setup]** en sel
 
 >[!NOTE]
 >
-> Op dit moment is alleen Adobe Experience Platform beschikbaar als zelfbestemming in Real-Time CDP Collaboration. Als u een bestemming zoals Amazon S3 of Snowflake wilt configureren, neemt u contact op met uw Adobe-vertegenwoordiger.
+> Op dit moment is alleen Adobe Experience Platform beschikbaar als zelfbestemming in Collaboration. Als u een bestemming zoals Amazon S3 of Snowflake wilt configureren, neemt u contact op met uw Adobe-vertegenwoordiger.
 
 ![ het Mijn bestemmingslusje in de werkruimte van de Opstelling die de beschikbare bestemmingen tonen.](/help/assets/destinations/overview/my-destinations-overview.png)
 
@@ -38,7 +39,7 @@ Als u een bestemming wilt configureren, selecteert u de optie **[!UICONTROL Set 
 
 ### Beschikbare bestemmingen {#available-destinations}
 
-De volgende bestemmingen zijn beschikbaar voor configuratie in Real-Time CDP Collaboration. Als u de configuratiegids voor dat doel wilt weergeven, selecteert u de doelnaam in de onderstaande tabel. Neem contact op met uw Adobe-vertegenwoordiger als u een bestemming wilt configureren die momenteel niet beschikbaar is.
+De volgende bestemmingen zijn beschikbaar voor configuratie in Collaboration. Als u de configuratiegids voor dat doel wilt weergeven, selecteert u de doelnaam in de onderstaande tabel. Neem contact op met uw Adobe-vertegenwoordiger als u een bestemming wilt configureren die momenteel niet beschikbaar is.
 
 | Bestemming | Beschikbaarheid |
 | --- | --- |

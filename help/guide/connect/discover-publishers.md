@@ -2,11 +2,11 @@
 title: Uitgevers ontdekken
 description: Als adverteerder leert u hoe u potentiële uitgevers kunt ontdekken om samen te werken met Adobe Real-Time CDP Collaboration
 audience: admin, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: f38ed4ce-e4d2-46d3-b8fa-aa8d14f926e1
-source-git-commit: fda414120decc0c76712616ff85b83febede53e9
+source-git-commit: 608706d00124372ac59209478ab551a3a6ce0226
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -15,30 +15,30 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Ontdek hoe u met Adobe Real-Time CDP Collaboration verbinding kunt maken met potentiële uitgevers voor samenwerking. Deze gids verstrekt inzicht in het identificeren van geschikte partners en het gebruiken van hun publieksgegevens om uw marketing inspanningen te verbeteren.
+Ontdek en verbind met potentiële uitgevers in Adobe Real-Time CDP Collaboration. Deze handleiding biedt inzicht in hoe u ideale medewerkers kunt identificeren en hun publiek kunt gebruiken om uw marketingcampagnes te verbeteren.
 
 Ga naar het tabblad **[!UICONTROL Connect]** > **[!UICONTROL Discover publishers]** om uitgevers te zoeken.
 
-![ ontdekt uitgeverspagina ](/help/assets/connect/discover-publishers/discover-publishers-overview.png){zoomable="yes"}
+![ Ontdek uitgevers dashboard in Connect werkruimte.](/help/assets/connect/discover-publishers/discover-publishers-overview.png){zoomable="yes"}
 
 Selecteer **[!UICONTROL View publisher]** voor meer informatie over de uitgever. U kunt om het even welk publiek ook bekijken en inspecteren dat de uitgever [ als openbaar ](/help/guide/setup/onboard-audiences.md#metadata-visibility) wordt geplaatst.
 
-![ de uitgeversprofiel van de Mening ](/help/assets/connect/discover-publishers/view-publisher-profile.png){zoomable="yes"}
+![ de details van een individuele uitgever ](/help/assets/connect/discover-publishers/view-publisher-profile.png){zoomable="yes"}
 
 ## Mijn verbindingen
 
-Met de weergave **[!UICONTROL My connections]** kunt u zien waar u een handeling moet uitvoeren en een glimp opmaken van alle uitgevers waarmee u bent verbonden.
+De werkruimte van **[!UICONTROL My connections]** biedt een overzicht van uw verbindingen en markeert alle vereiste handelingen van uw kant.
 
-Onder **[!UICONTROL Action required]**, kunt u een lijst van alle verbindingen zien waar een uitnodiging is verzonden maar de verbinding nog niet is gevestigd. Mogelijk is een actie vereist van uw organisatie of van de medewerker.
+Onder **[!UICONTROL Action required]**, kunt u een lijst van alle verbindingen zien waar een uitnodiging is verzonden maar de verbinding nog niet is gevestigd. Mogelijk is een handeling vereist van u of uw medewerker.
 
 ![ actie vereiste mening in het Mijn verbindingsscherm ](/help/assets/connect/discover-publishers/action-required-view.png){zoomable="yes"}
 
 Een aantal redenen waarom een verbinding wordt weergegeven in de **[!UICONTROL Action required]** -weergave zijn:
 
-* Uw organisatie heeft een samenwerkingsuitnodiging naar een andere organisatie verzonden en u wacht op hen om goed te keuren. Op dit punt, kunt u voorproef de [ verbindingsmontages ](/help/guide/glossary.md#connection-settings) die u aan de potentiële medewerker kunt later voorleggen.
-* Uw organisatie heeft een uitnodiging voor samenwerking verzonden naar een andere organisatie en heeft deze geaccepteerd. Op dit punt kunt u doorgaan en de verbindingsinstellingen instellen en deze ter goedkeuring voorleggen aan de medewerker.
-* Uw organisatie heeft verbindingsmontages naar de medewerker verzonden en u wacht op hen om de voorgestelde verbindingsmontages goed te keuren of te verwerpen.
-* Uw organisatie heeft verbindingsmontages naar de medewerker verzonden en zij hebben uw voorstel verworpen. U kunt nu de verbindingsinstellingen wijzigen en opnieuw verzenden.
+* Uw account heeft een verbindingsuitnodiging verzonden naar een medewerker en u wacht op acceptatie door deze personen. Op dit punt, kunt u voorproef de [ verbindingsmontages ](/help/guide/glossary.md#connection-settings) die u aan de potentiële medewerker kunt later voorleggen.
+* Uw account heeft een verbindingsuitnodiging verzonden naar een medewerker en heeft deze geaccepteerd. Op dit punt kunt u doorgaan en de verbindingsinstellingen instellen en deze ter goedkeuring voorleggen aan de medewerker.
+* Uw account heeft verbindingsinstellingen naar de medewerker verzonden en u wacht op deze gebruikers om de voorgestelde verbindingsinstellingen te accepteren of af te wijzen.
+* Uw account heeft verbindingsinstellingen naar de medewerker verzonden en deze hebben uw voorstel afgewezen. U kunt nu de verbindingsinstellingen wijzigen en opnieuw verzenden.
 
 In de **[!UICONTROL Existing connections]** -weergave kunt u bestaande verbindingen met deelnemers verkennen en doorgaan met het maken van projecten om samen te werken aan campagnes.
 

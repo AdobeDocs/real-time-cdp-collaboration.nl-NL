@@ -2,11 +2,11 @@
 title: Overlappingen ontdekken en publiek vergelijken
 description: Ontdek overlappingen tussen het publiek van uw medewerkers en dat van uw medewerkers. Leer hoe u het beste publiek kunt vinden voor gebruik in uw campagnes.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 38c42ad3-9d01-4d09-b80e-37fb51cbf42b
-source-git-commit: 92702e8dd596dc6249a7240f0e3b57b661905c30
+source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
 workflow-type: tm+mt
-source-wordcount: '1153'
+source-wordcount: '1114'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de ontdekking van het publiek [ tijdens het verbindingsproces ](../connect/establishing-connections.md#connection-settings) werd toegelaten.** Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de ontdekking van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Na [ creërend een project ](/help/guide/collaborate/manage-projects.md), kunt u uw publiek tegen uw medewerkers vergelijken. Op deze manier kunt u relevante doelgroepen voor campagnes identificeren en bepalen welke doelgroepen naar uitgevers moeten worden gestuurd voor activering.
 
@@ -25,7 +25,7 @@ Na [ creërend een project ](/help/guide/collaborate/manage-projects.md), kunt u
 >
 >Om het even welke [ gegevensschetsen ](/help/guide/glossary.md#sketches) die niet worden bijgewerkt of worden verfrist zullen na 7 dagen worden geschrapt. Wanneer dit gebeurt, gaan de cijfers die worden weergegeven in de verschillende overlappende rapporten op deze pagina naar nul en wordt het delen van het publiek niet meer beschikbaar voor deze verlopen doelgroepen. De schetsen van gegevens worden automatisch verfrist voor publiek met [ actief verfrist programma ](/help/guide/setup/onboard-audiences.md#schedule).
 
-De gelijke sleutels die worden gebruikt om publiek te ontdekken en te vergelijken zijn opstelling [ tijdens het verbindingsproces ](/help/guide/connect/establishing-connections.md#connection-settings). De sleutels van de gelijke worden gebruikt om de overlapping tussen uw publiek te berekenen, en kunnen in en uit knepen. Selecteer de optie **[!UICONTROL Edit match keys]** als u de overeenkomende toetsen wilt bewerken. Dit
+De gelijke sleutels die worden gebruikt om publiek te ontdekken en te vergelijken zijn opstelling [ tijdens het verbindingsproces ](/help/guide/connect/establishing-connections.md#connection-settings). De sleutels van de gelijke worden gebruikt om de overlapping tussen uw publiek te berekenen, en kunnen in en uit worden geschakeld. Selecteer de optie **[!UICONTROL Edit match keys]** als u de overeenkomende toetsen wilt bewerken.
 
 ![ de het lusjewerkruimte van de Dicover, tonend de Inzichten van het Publiek.](/help/assets/collaborate/discover/discover-overview.png)
 
@@ -37,11 +37,11 @@ Het dialoogvenster **[!UICONTROL Edit match keys]** wordt geopend, waarin u de o
 
 Als u wilt beginnen met het gebruik van de tab **[!UICONTROL Discover]** in uw project, hebt u het volgende nodig:
 
-* [ Geïmporteerd publiek ](/help/guide/setup/onboard-audiences.md) in uw organisatie
+* [ Bronde soorten publiek ](/help/guide/setup/onboard-audiences.md) in uw rekening
 * [ Verbonden ](/help/guide/connect/establishing-connections.md) met een medewerker met **toegelaten de ontdekkingsgeval van het publiek** gebruiksgeval
 * [ creeerde een project ](/help/guide/collaborate/manage-projects.md) tussen u en een medewerker
 
-Als aan deze voorwaarden is voldaan, kunt u de overlapping tussen u en het publiek van uw medewerker onderzoeken en vergelijken.
+Als aan deze voorwaarden is voldaan, kunt u beginnen met het verkennen en vergelijken van overlappingen tussen u en het publiek van uw medewerker.
 
 ## Soorten publiek vergelijken {#compare-audiences}
 
@@ -86,7 +86,7 @@ In de vergelijkingssectie van publiek, kunt u de volgende metriek zien, die op d
 
 {style="table-layout:auto"}
 
->[!TIP]
+>[!NOTE]
 >
 >Het percentage overlappingen is mogelijk niet altijd voor alle doelgroepen beschikbaar. De zichtbaarheid van de overlappende percentageindicator hangt van het plaatsen af dat uw medewerker voor een publiek in de [ sectie van het meta-gegevenszicht ](/help/guide/setup/onboard-audiences.md#metadata-visibility) koos.
 
@@ -95,7 +95,7 @@ In de vergelijkingssectie van publiek, kunt u de volgende metriek zien, die op d
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_discover_relevant_audiences"
 >title="Relevant publiek"
->abstract="Op basis van overlappende percentages kunnen deze uitgevers-doelgroepen geschikt zijn voor uw campagne. <br><br> het <b> identiteitsaantal </b> is de het publieksgrootte van de uitgever. <br><br> <b> overlappende identiteiten </b> vertegenwoordigt de overlapping tussen het geadviseerde uitgeverspubliek en alle adverteerderpubliek. <br><br> <b> overlappen % </b> vertegenwoordigt het aantal overlappende identiteiten die door de grootte van <i> worden verdeeld alle </i> adverteerderpubliek."
+>abstract="Op basis van overlappende percentages kunnen deze doelgroepen geschikt zijn voor uw campagne. <br><br> het <b> identiteitsaantal </b> is de het publieksgrootte van de medewerker. <br><br> <b> overlappende identiteiten </b> vertegenwoordigt de overlapping tussen het geadviseerde publiek en al uw publiek. <br><br> <b> overlappen % </b> vertegenwoordigt het aantal overlappende identiteiten die door de grootte van <i> worden verdeeld allen </i> uw publiek."
 
 De sectie **[!UICONTROL Relevant audiences]** op het tabblad **[!UICONTROL Discover]** bevat een gekrulde lijst met de vijf hoogste doelgroepen op basis van het percentage voor overlapping tussen het publiek van uw medewerker en al uw doelgroepen. Met deze functie kunt u snel de doelgroepen met de grootste overlapping identificeren, zodat u zich effectiever kunt richten op uw campagnes. Schakel tussen het relevante publiek met behulp van de paginaselectors rechtsboven in de sectie.
 
@@ -117,10 +117,6 @@ In de sectie **[!UICONTROL Relevant audiences]** wordt de volgende informatie vo
 
 {style="table-layout:auto"}
 
->[!NOTE]
->
->De zichtbaarheid van het publiek van uw medewerker hangt van het plaatsen af dat uw medewerker voor een publiek in de [ sectie van het meta-gegevenszicht ](/help/guide/setup/onboard-audiences.md#metadata-visibility) koos. Als uw medewerker al publiek aan privé heeft geplaatst, zal deze sectie geen publiek tonen.
-
 ## Overlappingen ontdekken {#discover-overlaps}
 
 >[!CONTEXTUALHELP]
@@ -140,7 +136,7 @@ Selecteer **[!UICONTROL Change audience]** om de selectie van het publiek te wij
 
 ![ ontdekt werkruimte met de benadrukte het publieksoptie van de Verandering.](/help/assets/collaborate/discover/change-audience.png)
 
-Het dialoogvenster **[!UICONTROL Change audience]** wordt geopend, waarin u een specifiek publiek kunt vergelijken met het publiek van uw medewerker. Selecteer het gewenste publiek of wis de selecties om alle soorten publiek te selecteren en selecteer vervolgens **[!UICONTROL Save]** .
+Het dialoogvenster **[!UICONTROL Change audience]** wordt geopend, waarin u een specifiek publiek kunt selecteren dat u wilt vergelijken met het publiek van uw medewerker. Selecteer het gewenste publiek of wis de selecties om alle soorten publiek te selecteren en selecteer vervolgens **[!UICONTROL Save]** .
 
 ![ de het publieksdialoog van de Verandering in Discover werkruimte.](/help/assets/collaborate/discover/change-audience-selection.png)
 
@@ -148,7 +144,7 @@ Nadat u het gewenste publiek hebt geselecteerd, wordt in de sectie **[!UICONTROL
 
 | Metrisch | Beschrijving |
 |---------|----------|
-| **[!UICONTROL Identity count]** | De naam unieke id&#39;s in het publiek. |
+| **[!UICONTROL Identity count]** | Het aantal unieke id&#39;s in het publiek. |
 | **[!UICONTROL Overlapping identities]** | Het aantal unieke id&#39;s dat overlapt tussen het aanbevolen publiek en al uw publiek. |
 | **[!UICONTROL Overlap %]** | Het percentage overlappende identiteiten tussen het aanbevolen publiek en al uw publiek. |
 | **[!UICONTROL Audience categories]** | De categorieën die uw medewerker aan het publiek heeft toegewezen. |
@@ -158,4 +154,4 @@ Nadat u het gewenste publiek hebt geselecteerd, wordt in de sectie **[!UICONTROL
 
 ## Volgende stappen
 
-Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd [&#128279;](/help/guide/collaborate/activate.md) het publiek te activeren dat in de campagnes zou moeten worden gebruikt.
+Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd [ ](/help/guide/collaborate/activate.md) het publiek te activeren dat in de campagnes zou moeten worden gebruikt.

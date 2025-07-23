@@ -2,9 +2,9 @@
 title: Workflow beëindigen
 description: Begrijp de end-to-end workflow om Real-Time CDP Collaboration als adverteerder of uitgever te gebruiken
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 90f9341e-5dd7-4521-a602-edb0263838c5
-source-git-commit: fda414120decc0c76712616ff85b83febede53e9
+source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
 workflow-type: tm+mt
 source-wordcount: '578'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Met Adobe Real-Time Customer Data Platform (CDP) Collaboration kunnen adverteerd
 
 ## Volledige workflow voor adverteerders {#advertiser}
 
-Als adverteerder, begin door [ op te nemen uw bedrijf ](/help/guide/setup/onboard-organization.md) op Real-Time CDP Collaboration. Gebruik de [ opstellingspagina ](/help/guide/setup/setup-overview.md) om uw bedrijfmontages voor te leggen en dan uit te geven, uw aangewezen gelijke sleutels toe te voegen die u zult werken met, en te beslissen welke gegevens om binnen te brengen. In de eerste versie, staat het product u toe om [ publiek ](/help/guide/setup/onboard-audiences.md) van Adobe Experience Platform slechts in te voeren.
+Als adverteerder, begin door [ op te nemen uw bedrijf ](/help/guide/setup/onboard-account.md) op Real-Time CDP Collaboration. Gebruik de [ opstellingspagina ](/help/guide/setup/setup-overview.md) om uw bedrijfmontages voor te leggen en dan uit te geven, uw aangewezen gelijke sleutels toe te voegen die u zult werken met, en te beslissen welke gegevens om binnen te brengen. In de eerste versie, staat het product u toe om [ publiek ](/help/guide/setup/onboard-audiences.md) van Adobe Experience Platform slechts in te voeren.
 
 ![ ontdekt, activeert, maatregel voor adverteerders.](/help/assets/end-to-end-workflow/discover-activate-measure.png)
 
@@ -33,7 +33,7 @@ De definitieve stap in de samenwerkingslijn is [ meting ](/help/guide/collaborat
 
 ## Volledige workflow voor uitgevers {#publisher}
 
-Als uitgever, begin door [ op het instappen van uw bedrijf ](/help/guide/setup/onboard-organization.md) op Real-Time CDP Collaboration. Gebruik de [ opstellingspagina ](/help/guide/setup/setup-overview.md) om diverse bedrijfmontages uit te geven.
+Als uitgever, begin door [ op het instappen van uw bedrijf ](/help/guide/setup/onboard-account.md) op Real-Time CDP Collaboration. Gebruik de [ opstellingspagina ](/help/guide/setup/setup-overview.md) om diverse bedrijfmontages uit te geven.
 
 Bepaal welke publieksgegevens u wilt importeren en welk publiek u wilt dat deze zichtbaar en zichtbaar zijn voor de adverteerders die in het gebied **[!UICONTROL Connect]** van het product verbinding met u willen maken.
 

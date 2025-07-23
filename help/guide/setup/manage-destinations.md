@@ -2,10 +2,11 @@
 title: Doelen configureren en beheren
 description: Leer hoe u bestemmingen in Real-Time CDP Collaboration configureert en beheert.
 audience: admin, publisher
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
-source-git-commit: f19aff1b7d10a446dd209721e7a6fdf537c9d63e
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+exl-id: b4b26761-46ac-420f-b9f7-6e829d67aec9
+source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -16,15 +17,15 @@ ht-degree: 0%
 
 Doelen zijn integraties die worden gebruikt om doelgroepen naar externe platforms te sturen. Met deze integratie kunt u het publiek op verschillende marketingkanalen en -platforms activeren voor gebruik in campagnes en de betrokkenheid van klanten.
 
-Momenteel zijn er alleen bestemmingen beschikbaar voor uitgevers in Real-Time CDP Collaboration. Uitgevers kunnen doelen configureren om een publiek naar externe platforms, zoals Adobe Experience Platform, te sturen voor gebruik in campagnes. Advertisers kunnen dan [ publiek binnen een project ](../collaborate/activate.md) activeren, die naar de gevormde bestemming van de uitgever worden verzonden.
+Momenteel zijn er alleen bestemmingen beschikbaar voor uitgevers in Real-Time CDP Collaboration. Uitgevers kunnen doelen configureren om het publiek te activeren op externe platforms, zoals Adobe Experience Platform, voor gebruik in campagnes. Advertisers kunnen dan [ publiek binnen een project ](../collaborate/activate.md) verzenden, die naar de gevormde bestemming van de uitgever worden verzonden.
 
-![ het Mijn bestemmingslusje in de werkruimte die van de Opstelling een actieve bestemmingen van Adobe Experience Platform tonen ](/help/assets/setup/manage-destinations/my-destinations-overview.png)
+![ het Mijn bestemmingslusje in de werkruimte die van de Opstelling een actieve bestemmingen van Adobe Experience Platform tonen.](/help/assets/setup/manage-destinations/my-destinations-overview.png)
 
 Meer over bestemmingen leren, verwijs naar de [ gids van het bestemmingsoverzicht ](../destinations/overview.md).
 
 ## Doelen configureren {#configure-destinations}
 
-Ontwerpen worden geconfigureerd in de sectie **[!UICONTROL Setup]** van Real-Time CDP Collaboration. Als u een doel wilt configureren, navigeert u naar **[!UICONTROL Setup]** en selecteert u de tab **[!UICONTROL My destinations]** . Hier, kunt u alle beschikbare bestemmingen bekijken.
+Ontwerpen worden geconfigureerd in de sectie **[!UICONTROL Setup]** van Collaboration. Als u een doel wilt configureren, navigeert u naar **[!UICONTROL Setup]** en selecteert u de tab **[!UICONTROL My destinations]** . Hier, kunt u alle beschikbare bestemmingen bekijken.
 
 >[!IMPORTANT]
 >
@@ -48,7 +49,7 @@ Als u een doel wilt verwijderen, navigeert u naar de tab **[!UICONTROL My destin
 
 Er verschijnt een bevestigingsvenster waarin u kunt bevestigen dat u het doel wilt verwijderen. Selecteer **[!UICONTROL Delete]** om het doel te verwijderen.
 
-![ de bestemmingsdialoog van de Schrapping met de benadrukte optie van de Schrapping.](/help/assets/setup/manage-destinations/delete-destination-confirm.png)
+![ de bestemmingsdialoog van de Schrapping met de benadrukte optie van de Schrapping.](/help/assets/setup/manage-destinations/delete-destination-confirmation.png)
 
 ## Volgende stappen
 

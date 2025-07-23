@@ -2,11 +2,11 @@
 title: Overzicht van toegangsbeheer
 description: Leer hoe u toegang krijgt tot Adobe Real-Time Customer Data Platform (CDP) Collaboration.
 audience: admin
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: af48f5ea-8258-42a6-a39e-f4a4ca5b4a69
-source-git-commit: 56872a2cd91ae040aba51ed5784c86b055f88756
+source-git-commit: 608706d00124372ac59209478ab551a3a6ce0226
 workflow-type: tm+mt
-source-wordcount: '986'
+source-wordcount: '948'
 ht-degree: 1%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
-> Als u een eindgebruiker toegang tot Real-Time CDP Collaboration wilt hebben, neemt u contact op met uw systeem of productbeheerder om bestaande toegang te controleren. Neem contact op met uw Adobe-vertegenwoordiger als u niet weet wie uw systeembeheerder is.
+> Als u een eindgebruiker toegang tot Adobe Real-Time CDP Collaboration wilt hebben, neemt u contact op met uw systeem of productbeheerder om bestaande toegang te controleren. Neem contact op met uw Adobe-vertegenwoordiger als u niet weet wie uw systeembeheerder is.
 
-De controle van de toegang voor Real-Time Customer Data Platform (CDP) Collaboration wordt verstrekt door Admin Console en Toestemmingen in [ Adobe Experience Cloud ](https://experience.adobe.com/){target="_blank"} . In deze gids, zult u leren hoe te om toegang tot zich of andere leden van uw team, afhankelijk van uw gebruiksgeval te verlenen.
+De controle van de toegang voor Adobe Real-Time CDP Collaboration wordt verstrekt door Admin Console en Toestemmingen in [ Adobe Experience Cloud ](https://experience.adobe.com/){target="_blank"}. In deze gids, zult u leren hoe te om toegang tot zich of andere leden van uw team, afhankelijk van uw gebruiksgeval te verlenen.
 
 ## Toegangsbeheerhiërarchie {#hierarchy}
 
-Om toegangsbeheer aan Real-Time CDP Collaboration te vormen, moet u **&#x200B;**&#x200B;systeem of productbeheerdervoorrechten hebben. Een systeembeheerder heeft geen beperkingen en is provisioned tijdens het aan boord gaan proces. Ondertussen, kan een productbeheerder administratieve functies voor alle producten verstrekken zij zijn toegewezen aan. Een productbeheerder moet product en administratieve toegang door een systeembeheerder worden verleend.
+Om toegangsbeheer aan Collaboration te vormen, moet u **** systeem of productbeheerdervoorrechten hebben. Een systeembeheerder heeft geen beperkingen en is provisioned tijdens het aan boord gaan proces. Ondertussen, kan een productbeheerder administratieve functies voor alle producten verstrekken zij zijn toegewezen aan. Een productbeheerder moet product en administratieve toegang door een systeembeheerder worden verleend.
 
 In deze handleidingen wordt beschreven hoe u toegang configureert voor systeembeheerders, productbeheerders en eindgebruikers. Verwijs naar de lijst hieronder om het belangrijkste verschil tussen de rollen te begrijpen.
 
@@ -35,7 +35,7 @@ In deze handleidingen wordt beschreven hoe u toegang configureert voor systeembe
 
 {style="table-layout:auto"}
 
-Voor meer informatie over administratieve rollen, bezoek het [ Centrum van de Hulp van Adobe ](https://helpx.adobe.com/nl/enterprise/using/admin-roles.html).
+Voor meer informatie over administratieve rollen, bezoek het [ Centrum van de Hulp van Adobe ](https://helpx.adobe.com/enterprise/using/admin-roles.html).
 
 >[!TIP]
 >
@@ -43,7 +43,7 @@ Voor meer informatie over administratieve rollen, bezoek het [ Centrum van de Hu
 
 ## Aanvullende producten {#products}
 
-Alvorens u toegang tot Real-Time CDP Collaboration kunt geven, zult u toegang tot veelvoudige producten, afhankelijk van uw [ gebruiksgeval ](#use-cases) nodig hebben. De toegangsbeheergidsen kunnen door veelvoudige gebruikersinterfaces werken aangezien u vordert, elk dienend een specifiek doel binnen het proces van de toegangsconfiguratie. Raadpleeg de onderstaande tabel voor een beter begrip van de vraag waarvoor elk product wordt gebruikt.
+Alvorens u toegang tot Collaboration kunt geven, zult u toegang tot veelvoudige producten, afhankelijk van uw [ gebruiksgeval ](#use-cases) nodig hebben. De toegangsbeheergidsen kunnen door veelvoudige gebruikersinterfaces werken aangezien u vordert, elk dienend een specifiek doel binnen het proces van de toegangsconfiguratie. Raadpleeg de onderstaande tabel voor een beter begrip van de vraag waarvoor elk product wordt gebruikt.
 
 | Product | Gebruiksmiddelen |
 | --- | --- |
@@ -53,7 +53,7 @@ Alvorens u toegang tot Real-Time CDP Collaboration kunt geven, zult u toegang to
 
 ## Waar begint {#use-cases}
 
-Nu u een dieper inzicht hebt in de gebruikers- en administratieve functies en de verschillende Experience Cloud-producten, kunt u beginnen met het geven van toegang tot Real-Time CDP Collaboration. Er zijn twee belangrijke factoren die de stappen beïnvloeden u zult moeten nemen:
+Nu u een dieper inzicht hebt in de gebruikers- en administratieve functies en de verschillende Experience Cloud-producten, kunt u beginnen met het geven van toegang tot Collaboration. Er zijn twee belangrijke factoren die de stappen beïnvloeden u zult moeten nemen:
 
 - als u beheerder of eindgebruikertoegang toewijst
 - als de gebruikers al toegang hebben tot het Experience Platform-product
@@ -67,28 +67,28 @@ Verwijs naar de grafiek hieronder om te bepalen wie nodig is om de voorrechten t
 | Gebruiksscenario | Vereiste rol | Waar begint |
 | --- | --- | --- | 
 | Super-gebruiker zonder bestaande Experience Platform-producttoegang. | Een systeembeheerder. | [ vorm de toegang van de productbeheerder ](./manage-user-access.md#admin-access) |
-| Super gebruiker voor een bestaande het systeembeheerder van Experience Platform **met** toegang UI van Experience Platform. | Een systeembeheerder. | [ vorm Real-Time CDP Collaboration toegang ](./manage-user-access.md#RTCDP-collab-access) |
+| Super gebruiker voor een bestaande het systeembeheerder van Experience Platform **met** toegang UI van Experience Platform. | Een systeembeheerder. | [ vorm Collaboration toegang ](./manage-user-access.md#RTCDP-collab-access) |
 | Super gebruiker voor een bestaande het systeembeheerder van Experience Platform **zonder** toegang van Experience Platform UI. | Een systeembeheerder. | [ vorm de toegang van de productbeheerder ](./manage-user-access.md#admin-access) |
-| Rechten van productbeheerders en Real-Time CDP Collaboration-toegang voor een nieuwe productbeheerder. | Een systeembeheerder. | [ vorm de toegang van de productbeheerder ](./manage-user-access.md#admin-access) |
-| De toegang van Real-Time CDP Collaboration voor een bestaande het productbeheerder van Experience Platform **met** toegang van Experience Platform UI. | Een systeem- of productbeheerder. | [ vorm Real-Time CDP Collaboration toegang ](./manage-user-access.md#RTCDP-collab-access) |
-| De toegang van Real-Time CDP Collaboration voor een bestaande het productbeheerder van Experience Platform **zonder** toegang van Experience Platform UI. | Een systeem- of productbeheerder. | [ vorm gebruikerstoegang ](./manage-user-access.md#user-access) |
-| Real-Time CDP Collaboration-toegang voor nieuwe eindgebruikers. | Een systeem- of productbeheerder. | [ vorm gebruikerstoegang ](./manage-user-access.md#user-access) |
-| Real-Time CDP Collaboration-toegang voor een bestaande gebruiker met Experience Platform-toegang. | Een systeem- of productbeheerder. | [ vorm Real-Time CDP Collaboration toegang ](./manage-user-access.md#RTCDP-collab-access) |
+| Rechten van productbeheerders en Collaboration-toegang voor een nieuwe productbeheerder. | Een systeembeheerder. | [ vorm de toegang van de productbeheerder ](./manage-user-access.md#admin-access) |
+| De toegang van Collaboration voor een bestaande het productbeheerder van Experience Platform **met** toegang van Experience Platform UI. | Een systeem- of productbeheerder. | [ vorm Collaboration toegang ](./manage-user-access.md#RTCDP-collab-access) |
+| De toegang van Collaboration voor een bestaande het productbeheerder van Experience Platform **zonder** toegang van Experience Platform UI. | Een systeem- of productbeheerder. | [ vorm gebruikerstoegang ](./manage-user-access.md#user-access) |
+| Collaboration-toegang voor nieuwe eindgebruikers. | Een systeem- of productbeheerder. | [ vorm gebruikerstoegang ](./manage-user-access.md#user-access) |
+| Collaboration-toegang voor een bestaande gebruiker met Experience Platform-toegang. | Een systeem- of productbeheerder. | [ vorm Collaboration toegang ](./manage-user-access.md#RTCDP-collab-access) |
 
 {style="table-layout:auto"}
 
 ## Aanvullende machtigingen
 
-Als u eenmaal toegang hebt gekregen tot Real-Time CDP Collaboration, hebt u mogelijk nog enkele Experience Platform-machtigingen nodig voor specifieke functies.
+Als u eenmaal toegang hebt gekregen tot Collaboration, hebt u mogelijk nog enkele Experience Platform-machtigingen nodig voor specifieke functies.
 
-### Invoer van publiek {#audience-importation}
+### Bronnen voor publiek {#audience-sourcing}
 
-Voordat u een publiek kunt delen met medewerkers, moet u eerst een publiek importeren in Real-Time CDP Collaboration. Experience Platform is momenteel de enige gegevensverbinding die wordt ondersteund voor het importeren van soorten publiek. Om te beginnen, zal het (de) het leiden publiek op het instappen een rol moeten worden toegewezen die de volgende **middeltoestemmingen van het Beheer van het Profiel 1&rbrace; bevat:**
+Voordat u een publiek naar medewerkers kunt sturen, moet u eerst een publiek naar Collaboration sturen. Experience Platform is momenteel de enige gegevensverbinding met zelfbediening die wordt ondersteund voor het importeren van soorten publiek. Om te beginnen moet aan de gebruiker(s) die het publiek aan boord nemen beheert (beheren) een rol worden toegewezen die de volgende **[!UICONTROL Profile Management]** bronmachtigingen bevat:
 
 | Machtiging | Beschrijving |
 | ---- | ---- |
-| Segmenten weergeven | Hiermee kan de gebruiker de lijst met beschikbare soorten publiek in een sandbox weergeven. |
-| Profielen weergeven | Hiermee kan de gebruiker de velden zien die beschikbaar zijn voor toewijzing aan samenwerkingsvelden. |
+| [!UICONTROL View Segments] | Hiermee kan de gebruiker de lijst met beschikbare soorten publiek in een sandbox weergeven. |
+| [!UICONTROL View Profiles] | Hiermee kan de gebruiker de velden zien die beschikbaar zijn voor toewijzing aan samenwerkingsvelden. |
 
 Hieronder ziet u een voorbeeldrol met de bovenstaande machtigingen toegevoegd. Voor meer informatie bij het creëren van of het toewijzen van rollen, verwijs naar [ rollen ](./manage-roles.md) gids beheren.
 
@@ -96,8 +96,8 @@ Hieronder ziet u een voorbeeldrol met de bovenstaande machtigingen toegevoegd. V
 
 >[!NOTE]
 >
->Gebruikers kunnen in Real-Time CDP Collaboration met een publiek werken nadat ze zonder de bovenstaande machtigingen zijn geïmporteerd.
+>Gebruikers kunnen in Collaboration met een publiek werken nadat ze zonder de bovenstaande machtigingen zijn gedownload.
 
 ## Volgende stappen
 
-Zodra u hebt bepaald waar te beginnen, volg de verbinding van uw gebruiksgeval beginnen toegang te vormen. Als u over het vormen van toegang tot Real-Time CDP Collaboration als beheerder voorbij die gebruiksgevallen wilt leren, verwijs naar [ gebruikerstoegang ](manage-user-access.md) gids beheren. Om over rollen en hun deel te leren in het vormen van toegang tot diverse componenten van Real-Time CDP Collaboration, verwijs naar [ rollen ](manage-roles.md) gids beheren.
+Zodra u hebt bepaald waar te beginnen, volg de verbinding van uw gebruiksgeval beginnen toegang te vormen. Als u over het vormen van toegang tot Collaboration als beheerder voorbij die gebruiksgevallen wilt leren, verwijs naar [ gebruikerstoegang ](manage-user-access.md) gids beheren. Om over rollen en hun deel te leren in het vormen van toegang tot diverse componenten van Collaboration, verwijs naar [ rollen ](manage-roles.md) gids beheren.

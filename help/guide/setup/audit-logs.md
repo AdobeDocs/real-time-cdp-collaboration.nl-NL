@@ -2,7 +2,7 @@
 title: Auditlogboeken
 description: Leer hoe u de functie Auditlogboeken in Real-Time CDP Collaboration gebruikt om gebruikersactiviteiten en wijzigingen bij te houden.
 audience: admin
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3af1ac47-dc3d-4f19-a6b9-9e4e835977c0
 source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
 workflow-type: tm+mt
@@ -23,7 +23,7 @@ Gebruik de functionaliteit voor auditlogs in Collaboration om gebruikersactivite
 
 ![ het overzichtsscherm op hoog niveau van de functionaliteit van controlelogboeken.](/help/assets/setup/audit-logs/audit-logs-overview.png)
 
-Voor uitvoerigere informatie over controlelogboeken, bezoek de [ documentatie van de controlelogboeken van Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview){target="_blank"}.
+Voor uitvoerigere informatie over controlelogboeken, bezoek de [ documentatie van de controlelogboeken van Experience Platform ](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview){target="_blank"}.
 
 ## Toegangscontrolelogboeken
 
@@ -62,7 +62,7 @@ Auditlogboeken bevatten gedetailleerde informatie over gebruikersactiviteiten, w
 * **Actie**: De specifieke uitgevoerde actie, zoals creeer of schrap.
 * **Gebruiker**: Het e-mailadres van de gebruiker die de actie uitvoerde.
 
-Deze logboeken maken een uitgebreid spoor van alle activiteiten binnen uw Collaboration-instantie. Dit is handig voor gegevensbeheer en naleving van regelgeving. Lees meer over [ het leiden controlelogboeken in UI ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview#managing-audit-logs-in-the-ui).
+Deze logboeken maken een uitgebreid spoor van alle activiteiten binnen uw Collaboration-instantie. Dit is handig voor gegevensbeheer en naleving van regelgeving. Lees meer over [ het leiden controlelogboeken in UI ](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview#managing-audit-logs-in-the-ui).
 
 ### Controllerlogboeken filteren {#filter-audit-logs}
 
@@ -75,7 +75,7 @@ De gebruikersinterface van auditlogboeken bevat verschillende filters waarmee u 
 * **Status**: De status van de actie, zoals staat toe of ontkent.
 * **de Waaier van de Datum**: De waaier van data waarvoor u logboeken wilt bekijken.
 
-Lees meer over [ het filtreren controlelogboeken ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview#filter-audit-logs).
+Lees meer over [ het filtreren controlelogboeken ](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview#filter-audit-logs).
 
 ## Voordelen
 

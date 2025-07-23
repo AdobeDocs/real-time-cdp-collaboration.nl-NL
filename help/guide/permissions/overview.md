@@ -2,7 +2,7 @@
 title: Overzicht van toegangsbeheer
 description: Leer hoe u toegang krijgt tot Adobe Real-Time Customer Data Platform (CDP) Collaboration.
 audience: admin
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: af48f5ea-8258-42a6-a39e-f4a4ca5b4a69
 source-git-commit: 608706d00124372ac59209478ab551a3a6ce0226
 workflow-type: tm+mt
@@ -35,7 +35,7 @@ In deze handleidingen wordt beschreven hoe u toegang configureert voor systeembe
 
 {style="table-layout:auto"}
 
-Voor meer informatie over administratieve rollen, bezoek het [ Centrum van de Hulp van Adobe ](https://helpx.adobe.com/enterprise/using/admin-roles.html).
+Voor meer informatie over administratieve rollen, bezoek het [ Centrum van de Hulp van Adobe ](https://helpx.adobe.com/nl/enterprise/using/admin-roles.html).
 
 >[!TIP]
 >

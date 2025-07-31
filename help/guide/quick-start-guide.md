@@ -1,19 +1,19 @@
 ---
 title: Real-Time CDP Collaboration Quick Start Guide
-description: Leer hoe u in Real-Time CDP Collaboration aan boord van uw organisatie kunt gaan, zoals het instellen van rollen en organisaties, het aantrekken van het publiek, activering en meting. Deze gids helpt adverteerders en uitgevers samenwerkingsmontages te vormen en beginnen gedeeld publiek veilig en efficiënt te gebruiken.
+description: Leer hoe u in Real-Time CDP Collaboration aan boord van uw organisatie kunt gaan, zoals het instellen van rollen en organisaties, het aantrekken van het publiek, activering en meting. Deze gids helpt samenwerkers verbindingsmontages vormen beginnen hun publiek veilig en efficiënt te gebruiken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 68e5095e-ece5-4f64-9056-10f3b216cf0c
-source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
+source-git-commit: a7215d453021be578a32ce1af4d659845c3b8493
 workflow-type: tm+mt
-source-wordcount: '1418'
+source-wordcount: '1398'
 ht-degree: 0%
 
 ---
 
 # Real-Time CDP Collaboration-handleiding voor snel starten
 
-
+{{limited-availability-release-note}}
 
 Ga aan de slag met Real-Time CDP Collaboration door uw organisatie te configureren, publiek te betrekken en activering en meting op basis van privacy mogelijk te maken.
 
@@ -31,10 +31,6 @@ Voordat u begint, moet u het volgende doen:
 
 ## Stap 1: Volledige op rollen gebaseerde opstelling {#complete-role-based-setup}
 
->[!NOTE]
->
->Deze stap geldt zowel voor adverteerders als voor uitgevers.
-
 De de toegangsrollen van uw organisatie bepalen wat de gebruikers kunnen zien en doen in Collaboration. Voordat u verdergaat, moet u ervoor zorgen dat op rollen gebaseerde machtigingen op de juiste wijze zijn ingesteld om de juiste toegang en zichtbaarheid in het platform te garanderen.
 
 **Middelen:**
@@ -45,13 +41,9 @@ De de toegangsrollen van uw organisatie bepalen wat de gebruikers kunnen zien en
 
 Bekijk deze video voor meer informatie over het toewijzen van producttoegang en -machtigingen voor Collaboration met de Admin Console en Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452236/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3452216/?learn=on&enablevpops)
 
 ## Stap 2: Een Collaboration-account instellen {#set-up-your-account}
-
->[!NOTE]
->
->Deze stap geldt zowel voor adverteerders als voor uitgevers.
 
 Voordat u publiek kunt maken, moet u uw account configureren in Collaboration. Dit bepaalt hoe u verschijnt en waartoe u toegang hebt in de interface.
 
@@ -63,7 +55,7 @@ Definieer de rol van uw account in Collaboration, voeg brandingmiddelen toe en c
 >
 >Tijdens het instellen kunt u een of meer accounts maken (zoals een adverteerder en een uitgever). Bepaalde velden, zoals brandingmiddelen en contact via e-mail, kunnen later in de werkruimte van **[!UICONTROL Settings]** worden bijgewerkt.
 
-- **wijs een rol** toe - bepaalt of uw rekening als adverteerder of uitgever is. Uw rol bepaalt welke mogelijkheden u in Collaboration hebt. Meer over leren hoe de rollen het samenwerkingswerkschema beïnvloeden, zie de [ werkschemagids van begin tot eind ](./end-to-end-workflow.md).
+- **wijs een rol** toe - bepaalt of uw rekening een adverteerder of een uitgever is. Uw rol bepaalt welke mogelijkheden u in Collaboration hebt. Om meer over te leren hoe de rollen het samenwerkingswerkschema beïnvloeden, zie de [ rollen ](./overview/roles.md) gids.
 - **Brandende activa** - voeg het volgende aan uw rekening toe:
    - Accountnaam (max. 100 tekens)
    - Beschrijving (max. 1000 tekens)
@@ -76,7 +68,7 @@ Definieer de rol van uw account in Collaboration, voeg brandingmiddelen toe en c
 - **E-mail van het Contact** - verstrek een bedrijfs-e-mail voor medewerkers aan gebruik nadat een verbinding wordt gevestigd.
 - **vorm gelijke sleutels** - selecteer de herkenningstekens die voor publiek aanpassing (momenteel, gehakt e-mail is de enige gesteunde gelijke sleutel) worden gebruikt.
 
-Meer over aanvankelijke rekeningsopstelling leren, met inbegrip van hoe te om rollen te bepalen, het brandmerken activa te uploaden, en gelijke sleutels te vormen, zie de [ gids van de 0&rbrace; aanvankelijke rekeningsopstelling &lbrace;.](./setup/onboard-account.md#initial-account-setup){target="_blank"}
+Meer over aanvankelijke rekeningsopstelling leren, met inbegrip van hoe te om rollen te bepalen, het brandmerken activa te uploaden, en gelijke sleutels te vormen, zie de [ gids van de 0} aanvankelijke rekeningsopstelling {.](./setup/onboard-account.md#initial-account-setup){target="_blank"}
 
 Bekijk deze video voor een stapsgewijze analyse van een adverteerderopstelling, met inbegrip van rekeningsverwezenlijking, branding, en de configuratie van de gelijkesleutel.
 
@@ -125,7 +117,7 @@ Bekijk de onderstaande video voor een volledige analyse van hoe u publiek kunt b
 
 >[!VIDEO](https://video.tv.adobe.com/v/3452217/?learn=on&enablevpops)
 
-Alternatief, zie het document op [ sourcing publiek in Collaboration ](https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/setup/onboard-audiences#import-audiences).
+Alternatief, zie het document op [ sourcing publiek in Collaboration ](./setup/onboard-audiences.md#source-and-manage-audiences).
 
 ### Optie B: Source van Snowflake of Amazon S3
 
@@ -138,10 +130,6 @@ Om een wolkenbron (bijvoorbeeld, [!DNL AWS S3] of [!DNL Snowflake]) te vormen, b
 >Alle soorten publiek in het geüploade bestand zijn in dit stadium volledig afkomstig. Het [ publiek zicht plaatsen ](/help/guide/setup/onboard-audiences.md#metadata-visibility) bepaalt of uw medewerkers uw publiek kunnen bekijken en door Collaboration UI geleid.
 
 ## Stap 4: Het publiek activeren (naar Experience Platform of een cloudbestemming) {#activate-audiences}
-
->[!NOTE]
->
->Deze stap geldt zowel voor adverteerders als voor uitgevers.
 
 Activeer vervolgens het publiek naar uw Experience Platform-exemplaar of naar een cloudbestemming.
 
@@ -224,13 +212,13 @@ Use this workflow to generate campaign summary insights based on advertiser-supp
 
 Nu de installatie is voltooid, is uw organisatie nu klaar om verbinding te maken met medewerkers door uitnodigingen te verzenden of te accepteren en projectinstellingen ter goedkeuring in te dienen. Dit verbindingsproces omvat het verzenden of ontvangen van uitnodigingen, het controleren en het voorleggen van verbindingsmontages (zoals gebruiksgevallen en kredietconsumptie), en het bevestigen van de verbinding.
 
-Als adverteerder gebruikt u de werkruimte **[!UICONTROL Connect]** in het navigatiemenu links om door beschikbare uitgevers te bladeren.
+Als adverteerder gebruikt u de werkruimte **[!UICONTROL Connect]** in het navigatiemenu links om door beschikbare uitgevers te bladeren. Alternatief, kunnen de medewerkers met elkaar direct door [ privé verbindingsuitnodigingen ](./connect/establishing-connections.md#private-connection-invite){target="_blank"} verbinden.
 
 >[!NOTE]
 >
 >Momenteel kunnen alleen adverteerders door uitgevers bladeren. Uitgevers kunnen niet door verbindingen met adverteerders bladeren of deze tot stand brengen.
 
-Voor een overzicht van deze stroom, zie [ met adverteerders of uitgeversgids ](./connect/establishing-connections.md){target="_blank"} verbinden. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [ video van de de rekeningsopstelling van de adverteerder ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
+Voor een overzicht van deze stroom, zie [ het vestigen van verbindingsgids ](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [ video van de de rekeningsopstelling van de adverteerder ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
 
 ## Volgende stappen
 

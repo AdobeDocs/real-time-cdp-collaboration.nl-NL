@@ -2,11 +2,11 @@
 title: Uw account configureren en beheren
 description: Leer hoe u verschillende aspecten van uw account in Real-Time CDP Collaboration kunt configureren en beheren
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: a95e932a-9681-48f2-bf34-6fe5a50597d7
-source-git-commit: 608706d00124372ac59209478ab551a3a6ce0226
+source-git-commit: a7215d453021be578a32ce1af4d659845c3b8493
 workflow-type: tm+mt
-source-wordcount: '909'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -39,13 +39,11 @@ Om extra organisaties toe te voegen, navigeer aan **[!UICONTROL Setup]** in het 
 >title="Verbindingscode"
 >abstract="De verbindingscode is een unieke id voor uw account. Het wordt gebruikt om verbindingen met andere medewerkers in Real-Time CDP Collaboration tot stand te brengen."
 
-<!-- Move the above popover to new section for invite on this page when its created -->
-
 Als u wilt beginnen met het configureren van uw account, moet u eerst de accountgegevens instellen. Hiervoor moet u de volgende informatie toevoegen:
 
 * Voeg een **[!UICONTROL Account name]** toe die duidelijk uw merk vertegenwoordigt.
 * Voeg een **[!UICONTROL Description]** over uw merk toe. Dit is optioneel, maar het helpt andere medewerkers uw merk beter te begrijpen.
-* Selecteer de **[!UICONTROL Role]** . U kunt kiezen tussen **[!UICONTROL Advertiser]** en **[!UICONTROL Publisher]** . Lees het [ werkschemadocument van begin tot eind ](/help/guide/end-to-end-workflow.md) om gelijkenissen en lichte verschillen in werkschema tussen de twee organisatorische roltypes te zien.
+* Selecteer de **[!UICONTROL Role]** . U kunt kiezen tussen **[!UICONTROL Advertiser]** en **[!UICONTROL Publisher]** . Lees de [ rollen ](/help/guide/overview/roles.md) gids om gelijkenissen en lichte verschillen in werkschema tussen de twee types van rekeningsrol te zien.
 <!-- The above will need to be updated when I update things for B2B -->
 * Selecteer de **[!UICONTROL Industry]** voor uw account. Voorbeelden zijn **[!UICONTROL Retail]** , **[!UICONTROL Telecommunications]** of **[!UICONTROL Financial services]** .
 * **[!UICONTROL Region]** wordt automatisch ingesteld op basis van uw Adobe Experience Cloud-account. Dit kan op geen enkel moment worden gewijzigd.

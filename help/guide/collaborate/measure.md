@@ -2,11 +2,11 @@
 title: Prestaties meten
 description: Meet de prestaties van uw campagnes over verschillende kanalen. Leer hoe u verschillende rapporten kunt gebruiken en interpreteren.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: c92b263e-1f96-49f1-841a-ef2e97a4cb9a
-source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
+source-git-commit: a7215d453021be578a32ce1af4d659845c3b8493
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Measure]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de Meting &lbrace;tijdens het verbindingsproces** werd toegelaten. [&#128279;](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Measure]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de Meting {tijdens het verbindingsproces** werd toegelaten. [](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Leer meer over de beschikbare rapporten in Adobe Real-Time CDP Collaboration en begrijp hoe u de prestaties van uw marketingcampagnes op verschillende kanalen kunt meten en analyseren.
 
@@ -25,7 +25,7 @@ Leer meer over de beschikbare rapporten in Adobe Real-Time CDP Collaboration en 
 
 Voordat u de meetrapporten in Collaboration kunt openen, hebt u al het volgende:
 
-* [ Verbonden ](/help/guide/connect/establishing-connections.md) met een gewenste adverteerder of uitgever met **toegelaten het gebruiksgeval van de Meting** en begonnen samenwerkend op [ projecten ](/help/guide/collaborate/manage-projects.md)
+* [ Verbonden ](/help/guide/connect/establishing-connections.md) met een medewerker met de **toegelaten het gebruiksgeval van de Meting** en begonnen samenwerkend op [ projecten ](/help/guide/collaborate/manage-projects.md)
 * Stel een campagne in werking en [ geüploade metingsgegevens ](/help/guide/setup/onboard-measurement-data.md) in Collaboration.
 
 <!--
@@ -104,9 +104,3 @@ Naarmate de campagne vorderde en het aantal indrukken toenam, begrijpt u of het 
 Begrijp welk medium indrukkingen veroorzaakt voor uw creatieve projecten. Zo kunt u bepalen waar u uw advertentie wilt investeren in toekomstige campagnes.
 
 ![ Impressies door plaatsing.](/help/assets/collaborate/measure/impressions-by-placement.png)
-
-## Volgende stappen
-
-![ ontdekt, activeert, maatregel voor adverteerders.](/help/assets/end-to-end-workflow/discover-activate-measure.png)
-
-In de geest van de conjunctuur in het bovenstaande beeld, gebruik de inzichten u van het bekijken van de rapporten bij het plannen van uw volgende campagne verwierf. Ga als adverteerder, indien nodig, terug om verschillende uitgevers te ontdekken en looppas overlappingen om verschillende soorten publiek voor uw volgende campagnes te ontdekken.

@@ -2,11 +2,11 @@
 title: Overzicht van ontwerpen
 description: Meer informatie over bestemmingen in Real-Time CDP Collaboration.
 audience: admin, publisher
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 5cbbf5c4-4caa-40da-97be-690d95c1201c
-source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
+source-git-commit: 4ef7f8c7c27935f0e5b3620da63e7129f2714b37
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '323'
 ht-degree: 1%
 
 ---
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 Doelen zijn integraties die worden gebruikt om doelgroepen naar externe platforms te sturen. Met deze integratie kunt u het publiek op verschillende marketingkanalen en -platforms activeren voor gebruik in campagnes en de betrokkenheid van klanten.
 
-Momenteel zijn er alleen bestemmingen beschikbaar voor uitgevers in Adobe Real-Time CDP Collaboration. Uitgevers kunnen doelen configureren om een publiek naar externe platforms, zoals Adobe Experience Platform, te sturen voor gebruik in campagnes. Advertisers kunnen dan [ publiek binnen een project ](../collaborate/activate.md) activeren, die naar de gevormde bestemming van de uitgever worden verzonden.
+Medewerkers kunnen bestemmingen configureren om een publiek naar externe platforms, zoals Adobe Experience Platform, te sturen voor gebruik in campagnes. De medewerkers kunnen publiek binnen een project [ dan ](../collaborate/activate.md) activeren, die naar hun gevormde bestemming van de verbinding worden verzonden. De activering kan door één van beide samenwerker afhankelijk van de montages van de publiekactivering [ worden gedaan die in de verbinding ](/help/guide/connect/establishing-connections.md#configure-connection-settings) worden gevormd.
 
 >[!IMPORTANT]
 >
->Momenteel, wanneer adverteerders publiek binnen uw project activeren, worden zij automatisch verzonden naar de gevormde bestemming van een uitgever. Als uitgever, moet u **&#x200B;**&#x200B;een bestemming *vormen alvorens* uw medewerker een publiek activeert. Als geen bestemming wordt gevormd, zal het publiek naar u worden verzonden en in het **[!UICONTROL Activate]** lusje binnen een project zichtbaar, maar niet geactiveerd.
+>Momenteel, wanneer de medewerkers publiek binnen een project activeren, worden zij automatisch verzonden naar de gevormde bestemming van hun verbinding. U **moet** een bestemming vormen alvorens uw medewerker publiek binnen een project kan activeren.
 
 ## Doelen configureren {#configure-destinations}
 
-Als u een doel wilt configureren, navigeert u naar **[!UICONTROL Setup]** en selecteert u de tab **[!UICONTROL My desintations]** . Hier, kunt u alle beschikbare bestemmingen bekijken.
+Als u een doel wilt configureren, navigeert u naar **[!UICONTROL Setup]** en selecteert u de tab **[!UICONTROL My destinations]** . Hier, kunt u alle beschikbare bestemmingen bekijken.
 
 >[!NOTE]
 >

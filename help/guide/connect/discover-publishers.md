@@ -2,11 +2,11 @@
 title: Uitgevers ontdekken
 description: Als adverteerder leert u hoe u potentiële uitgevers kunt ontdekken om samen te werken met Adobe Real-Time CDP Collaboration
 audience: admin, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: f38ed4ce-e4d2-46d3-b8fa-aa8d14f926e1
-source-git-commit: 608706d00124372ac59209478ab551a3a6ce0226
+source-git-commit: a7215d453021be578a32ce1af4d659845c3b8493
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 {{limited-availability-release-note}}
 
 Ontdek en verbind met potentiële uitgevers in Adobe Real-Time CDP Collaboration. Deze handleiding biedt inzicht in hoe u ideale medewerkers kunt identificeren en hun publiek kunt gebruiken om uw marketingcampagnes te verbeteren.
+
+>[!NOTE]
+>
+>De werkruimte van **[!UICONTROL Discover publishers]** is momenteel alleen beschikbaar voor adverteerders.
 
 Ga naar het tabblad **[!UICONTROL Connect]** > **[!UICONTROL Discover publishers]** om uitgevers te zoeken.
 

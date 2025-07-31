@@ -2,11 +2,11 @@
 title: Rollen beheren via machtigingen
 description: Begrijp alle beschikbare rolmiddelen die toegang tot verschillende componenten binnen Real-Time CDP Collaboration UI verlenen.
 audience: admin
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 59cf5bf2-421b-4ebc-beab-30eafb098649
-source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
+source-git-commit: a7215d453021be578a32ce1af4d659845c3b8493
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Om gebruikerstoegang tot verschillende componenten van Adobe Real-Time CDP Collaboration UI te beheren, kan een [ beheerder ](./manage-user-access.md#system-admin-gain-access) rollen bepalen en toewijzen. De rollen bepalen de toegang die een beheerder of een gebruiker [ middelen ](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/home#permissions){target="_blank"} in uw organisatie moet &lbrace;hebben. Deze gids zal informatie over de standaardrollen verstrekken die in Real-Time CDP Collaboration worden verstrekt, evenals de individuele toestemmingen u die aan douanerollen kunt worden toegewezen.
+Om gebruikerstoegang tot verschillende componenten van Adobe Real-Time CDP Collaboration UI te beheren, kan een [ beheerder ](./manage-user-access.md#system-admin-gain-access) rollen bepalen en toewijzen. De rollen bepalen de toegang die een beheerder of een gebruiker [ middelen ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home#permissions){target="_blank"} in uw organisatie moet {hebben. Deze gids zal informatie over de standaardrollen verstrekken die in Real-Time CDP Collaboration worden verstrekt, evenals de individuele toestemmingen u die aan douanerollen kunt worden toegewezen.
 
 Om met het beheren van rollen te beginnen, zal een beheerder toegang tot het product van Experience Platform nodig hebben. Voor informatie bij het verkrijgen van administratieve toegang, of bij het verkrijgen van toegang tot Experience Platform, leest [ gebruikerstoegang ](./manage-user-access.md#manage-user-access-through-permissions) gids.
 
@@ -32,7 +32,7 @@ Er zijn twee standaardrollen die aan u worden verstrekt die twee gemeenschappeli
 
 ## Specifieke toegangsrollen maken {#specific-access-roles}
 
-U zult waarschijnlijk extra rollen willen tot stand brengen om verschillende niveaus van toegang tot verschillende gebruikers te verstrekken. Wanneer u rollen maakt, kunt u verschillende toegangsniveaus beheren door specifieke machtigingen binnen de **[!UICONTROL Collaborations]** -bron te selecteren. Leren om rollen tot stand te brengen en te beheren, verwijs naar de [ rollen ](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/abac/permissions-ui/roles#create-new-role){target="_blank"} gids.
+U zult waarschijnlijk extra rollen willen tot stand brengen om verschillende niveaus van toegang tot verschillende gebruikers te verstrekken. Wanneer u rollen maakt, kunt u verschillende toegangsniveaus beheren door specifieke machtigingen binnen de **[!UICONTROL Collaborations]** -bron te selecteren. Leren om rollen tot stand te brengen en te beheren, verwijs naar de [ rollen ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/roles#create-new-role){target="_blank"} gids.
 
 >[!NOTE]
 > Een gebruiker moet toegang hebben tot de **[!UICONTROL Prod]** -sandbox in Adobe Experience Platform om toegang te krijgen tot Collaboration. Als u gebruikers toegang wilt geven tot deze sandbox, moeten ze worden toegewezen aan een rol die de machtiging **[!UICONTROL Prod]** bevat in de **[!UICONTROL Sandboxes]** -bron.
@@ -45,7 +45,7 @@ Hieronder ziet u een lijst met beschikbare machtigingen binnen de samenwerkingsb
 | Collaboration-instanties lezen | Lees de samenwerkingsinstanties van een organisatie en ontdek de samenwerkingsinstanties van andere organisaties. |
 | Verbindingsuitnodigingen beheren | De mening, creeert, en schrapt verbindingsuitnodigingen die door uw organisatie in werking worden gesteld. Accepteer en weiger een verbindingsuitnodiging die is geïnitieerd door andere organisaties. |
 | Uitnodigingen voor leesverbinding | Verbindingsuitnodigingen weergeven. |
-| Collaboration-verbindingen beheren | Een adverteerder kan instellingen weergeven, maken en bijwerken, en verbindingen verzenden en verwijderen. Een uitgever kan verbindingen weergeven, accepteren of weigeren. |
+| Collaboration-verbindingen beheren | Een medewerker kan instellingen weergeven, maken en bijwerken, en verbindingen verzenden en verwijderen. |
 | Collaboration-verbindingen lezen | Verbindingen weergeven. |
 | Poortgegevens beheren | Aan boord en ontdek publiek. Werk publieke, persoonlijke en aangepaste doelgroepen bij en beheer de metagegevensinstellingen voor de doelinventaris. |
 | Gegevens publiek lezen | Lees en ontdek publiek. |
@@ -61,4 +61,4 @@ Hieronder ziet u een lijst met beschikbare machtigingen binnen de samenwerkingsb
 
 ## Volgende stappen
 
-Na het creëren van rollen die toegang tot Collaboration bepalen, zult u de rollen [ aan beheerders en gebruikers moeten ](./manage-user-access.md#assign-a-role) toewijzen. Verwijs naar [ toestemmingen voor een rol ](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/abac/permissions-ui/permissions) gids voor een volledig overzicht van het beheren van rollen beheren.
+Na het creëren van rollen die toegang tot Collaboration bepalen, zult u de rollen [ aan beheerders en gebruikers moeten ](./manage-user-access.md#assign-a-role) toewijzen. Verwijs naar [ toestemmingen voor een rol ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/permissions) gids voor een volledig overzicht van het beheren van rollen beheren.

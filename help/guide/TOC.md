@@ -1,22 +1,24 @@
 ---
-user-guide-title: Real-Time Customer Data Platform Collaboration
-breadcrumb-title: Real-Time Customer Data Platform Collaboration
+user-guide-title: Real-Time CDP Collaboration
+breadcrumb-title: Real-Time CDP Collaboration
 user-guide-description: Adobe Real-Time CDP Collaboration maakt naadloze en veilige gegevensuitwisseling en samenwerking tussen adverteerders en uitgevers mogelijk, waardoor het publiek in real time inzicht krijgt en gepersonaliseerde marketingstrategieën mogelijk worden.
-source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
+source-git-commit: 66db8aa03d779b4b81021b6d502613a7f13d0771
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 7%
+source-wordcount: '121'
+ht-degree: 9%
 
 ---
 
 
-# Real-Time Customer Data Platform Collaboration {#using}
+# Real-Time CDP Collaboration {#using}
 
 * [Real-Time CDP Collaboration home](./home.md)
+* [Handleiding voor snel starten](./quick-start-guide.md)
 * Overzicht {#overview}
-   * [Gebruik gevallen en voordelen](./use-cases-benefits.md)
-   * [Volledige workflow](./end-to-end-workflow.md)
-* [Snelle start op instapniveau](./quick-start-guide.md)
+   * [Gebruiksscenario’s](./overview/use-cases.md)
+   * [Accountrollen](./overview/roles.md)
+   * [Collaboration-patronen](./overview/collaboration-patterns.md)
+   * [Volledige workflow](./overview/end-to-end-workflow.md)
 * Instellen {#setup}
    * [Overzicht van instellingssectie](./setup/setup-overview.md)
    * [Aan boord en beheer uw account](./setup/onboard-account.md)
@@ -27,10 +29,10 @@ ht-degree: 7%
    * [Identiteitskruizen](./setup/identity-crosswalk.md)
    * [Metingsgegevens toevoegen en beheren](./setup/onboard-measurement-data.md)
    * [Controlelogboeken](./setup/audit-logs.md)
-* Verbinding maken met uitgever of adverteerder {#connect}
+* Verbindingen tot stand brengen {#connect}
    * [Uitgevers ontdekken](./connect/discover-publishers.md)
    * [Detecteren van adverteerders](./connect/discover-advertisers.md)
-   * [Verbinding maken met adverteerders of uitgevers](./connect/establishing-connections.md)
+   * [Verbindingen tot stand brengen](./connect/establishing-connections.md)
 * Samenwerken {#collaborate}
    * [Projecten beheren](./collaborate/manage-projects.md)
    * [Discover](./collaborate/discover.md)
@@ -40,10 +42,10 @@ ht-degree: 7%
    * [Overzicht](./destinations/overview.md)
    * [Adobe Experience Platform](./destinations/experience-platform.md)
 * Machtigingen {#permissions}
-   * [Overzicht](/help/guide/permissions/overview.md)
-   * [Gebruikerstoegang beheren](/help/guide/permissions/manage-user-access.md)
-   * [Rollen beheren](/help/guide/permissions/manage-roles.md)
+   * [Overzicht](./permissions/overview.md)
+   * [Gebruikerstoegang beheren](./permissions/manage-user-access.md)
+   * [Rollen beheren](./permissions/manage-roles.md)
 * Referentie {#reference}
    * [Algemene vragen en tips voor het oplossen van problemen](./faqs/common-questions.md)
    * [Woordenlijst](./glossary.md)
-* [Opmerkingen bij de laatste release](/help/guide/release-notes/latest.md)
+* [Opmerkingen bij de laatste release](./release-notes/latest.md)

@@ -2,7 +2,7 @@
 title: De samenwerkingspatronen in Adobe Real-Time CDP Collaboration.
 description: De twee samenwerkingspatronen in Adobe Real-Time CDP Collaboration begrijpen
 audience: admin, publisher, advertiser, decision-maker
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 source-git-commit: 1bb3bec20b5e43d5c3a0c7182af74f4203f3c1cd
 workflow-type: tm+mt
 source-wordcount: '287'

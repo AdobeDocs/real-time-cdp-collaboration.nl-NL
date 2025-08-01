@@ -2,9 +2,9 @@
 title: Verbindingen tot stand brengen
 description: Na het ontdekken van potentiële medewerkers, leer hoe te om verbindingen te vestigen en beginnen aan projecten samen te werken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3fed93f7-1854-440c-802e-6b47e82918c9
-source-git-commit: c159bbcdc5f84abc4c591c5256192d117ec51102
+source-git-commit: d460cb12b43b6c250a5fb491c1efc223c53abb23
 workflow-type: tm+mt
 source-wordcount: '3081'
 ht-degree: 0%
@@ -37,10 +37,10 @@ In het adverteerder-aan-uitgevers patroon, ontdekt een adverteerder een uitgever
 Om een verbinding tussen een adverteerder en een uitgever tot stand te brengen, zijn de volgende stappen betrokken:
 
 1. [ ontdekt uitgevers ](#discover-publishers): De adverteerder identificeert potentiële uitgevers om met samen te werken.
-2. [ verzend Uitnodiging ](#send-invite): De adverteerder verzendt een verbindingsuitnodiging naar de geselecteerde uitgever.
-3. [ keur Uitnodiging ](#accept-invite) goed: De uitgever herziet en keurt de uitnodiging goed.
-4. [ vorm verbindingsmontages ](#configure-connection-settings): De adverteerder vormt de verbindingsmontages en verzendt hen naar de uitgever voor overzicht.
-5. [ bevestigt verbindingsmontages ](#establish-connection): De uitgever herziet de verbindingsmontages en of keurt of verwerpt hen goed. Bij acceptatie wordt de verbinding tot stand gebracht. Als deze optie wordt afgewezen, kan de uitgever feedback geven voor revisies buiten het product. De adverteerder kan vervolgens de instellingen herzien en deze opnieuw ter controle verzenden.
+1. [ verzend Uitnodiging ](#send-invite): De adverteerder verzendt een verbindingsuitnodiging naar de geselecteerde uitgever.
+1. [ keur Uitnodiging ](#accept-invite) goed: De uitgever herziet en keurt de uitnodiging goed.
+1. [ vorm verbindingsmontages ](#configure-connection-settings): De adverteerder vormt de verbindingsmontages en verzendt hen naar de uitgever voor overzicht.
+1. [ bevestigt verbindingsmontages ](#establish-connection): De uitgever herziet de verbindingsmontages en of keurt of verwerpt hen goed. Bij acceptatie wordt de verbinding tot stand gebracht. Als deze optie wordt afgewezen, kan de uitgever feedback geven voor revisies buiten het product. De adverteerder kan vervolgens de instellingen herzien en deze opnieuw ter controle verzenden.
 
 Zodra de verbindingsmontages worden goedgekeurd, wordt de verbinding gevestigd, en de medewerkers zijn bereid om [ een project ](/help/guide/collaborate/manage-projects.md#create-project) tot stand te brengen beginnen samenwerkend aan campagnes.
 
@@ -65,14 +65,14 @@ Om te beginnen stuurt een deelnemer een uitnodiging voor een privéverbinding na
 Het verbindingsproces tussen twee merken omvat verschillende stappen. Voordat het verbindingsproces begint, moet aan een aantal voorwaarden worden voldaan:
 
 1. Twee merken communiceren buiten het product om de potentiële verbinding te bespreken.
-2. De merken [ leiden tot rekeningen ](/help/guide/setup/onboard-account.md) in Collaboration als zij niet reeds hebben, die het aangewezen roltype (adverteerder of uitgever) moeten selecteren.
+1. De merken [ leiden tot rekeningen ](/help/guide/setup/onboard-account.md) in Collaboration als zij niet reeds hebben, die het aangewezen roltype (adverteerder of uitgever) moeten selecteren.
 
-Zodra aan de voorwaarden wordt voldaan, kan het verbindingsproces beginnen. In de volgende stappen wordt het proces beschreven:
+   Zodra aan de voorwaarden wordt voldaan, kan het verbindingsproces beginnen. In de volgende stappen wordt het proces beschreven:
 
 1. [ verzend privé verbindingsuitnodiging ](#send-private-connection-invite): Één medewerker verzendt een privé verbindingsuitnodiging naar een andere medewerker.
-2. [ keur privé verbindingsuitnodiging ](#accept-private-connection-invite) goed: De ontvankelijke overzichten en keurt de privé verbindingsuitnodiging goed.
-3. [ vorm verbindingsmontages ](#configure-connection-settings): De eigenaar vormt de verbindingsmontages en verzendt hen naar de ontvanger voor overzicht en goedkeuring.
-4. [ bevestigt verbindingsmontages ](#establish-connection): De ontvanger herziet de verbindingsmontages en of keurt of verwerpt hen goed.
+1. [ keur privé verbindingsuitnodiging ](#accept-private-connection-invite) goed: De ontvankelijke overzichten en keurt de privé verbindingsuitnodiging goed.
+1. [ vorm verbindingsmontages ](#configure-connection-settings): De eigenaar vormt de verbindingsmontages en verzendt hen naar de ontvanger voor overzicht en goedkeuring.
+1. [ bevestigt verbindingsmontages ](#establish-connection): De ontvanger herziet de verbindingsmontages en of keurt of verwerpt hen goed.
 
 Zodra de verbindingsmontages worden goedgekeurd, wordt de verbinding gevestigd, en de medewerkers zijn bereid om [ een project ](/help/guide/collaborate/manage-projects.md#create-project) tot stand te brengen beginnen samenwerkend aan campagnes.
 
@@ -222,7 +222,7 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 >id="rtcdp_collaboration_connection_settings_advertisername"
 >title="Namen van adverteerders"
 >abstract="<p>Optionele instelling. Geeft de naam en id aan waarmee de adverteerder bij de uitgever bekend is.</p><p>De naam van de adverteerder die u hier toevoegt, wordt vooraf ingevuld in de stap Project maken.</p><ul><li>Als de uitgever veelvoudige namen vormde, selecteer van de lijst.</li><li>Als slechts één naam wordt gevormd, wordt het vooraf geselecteerd automatisch.</li><li>Als er geen namen zijn geconfigureerd, wordt het veld voorgevuld met de naam van de adverteerderaccount van Collaboration.</li></ul>"
->additional-url="https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_audience_activation"
@@ -310,8 +310,8 @@ Als u klaar bent, selecteert u **[!UICONTROL Save]** om uw wijzigingen op te sla
 Wanneer u een project maakt, wordt de naam van de adverteerder voorgevuld op basis van de volgende instellingen die tijdens de verbinding zijn ingesteld    :
 
 1. **Geen geplaatste adverteerdernaam**: Als geen adverteerdernamen worden toegevoegd, blijft Collaboration aan het gebruiken van de naam van de adverteerder als adverteerdernaam in gebreke.
-2. **Één de naamreeks van adverteerders**: Als één enkele adverteerdernaam wordt toegevoegd, gebruikt Collaboration automatisch die naam als adverteerdernaam voor het project.
-3. **Veelvoudige geplaatste adverteerdernamen**: Als meer dan één adverteerdernaam wordt toegevoegd, kunt u of uw medewerker om het even welke verstrekte namen selecteren wanneer het creëren van het project.
+1. **Één de naamreeks van adverteerders**: Als één enkele adverteerdernaam wordt toegevoegd, gebruikt Collaboration automatisch die naam als adverteerdernaam voor het project.
+1. **Veelvoudige geplaatste adverteerdernamen**: Als meer dan één adverteerdernaam wordt toegevoegd, kunt u of uw medewerker om het even welke verstrekte namen selecteren wanneer het creëren van het project.
 
 >[!NOTE]
 >
@@ -365,4 +365,4 @@ Er verschijnt een bevestigingsvenster waarin u wordt gevraagd de verwijdering va
 
 ## Volgende stappen
 
-Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [&#128279;](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.
+Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [ ](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.

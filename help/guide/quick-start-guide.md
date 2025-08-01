@@ -2,9 +2,9 @@
 title: Real-Time CDP Collaboration Quick Start Guide
 description: Leer hoe u in Real-Time CDP Collaboration aan boord van uw organisatie kunt gaan, zoals het instellen van rollen en organisaties, het aantrekken van het publiek, activering en meting. Deze gids helpt samenwerkers verbindingsmontages vormen beginnen hun publiek veilig en efficiënt te gebruiken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 68e5095e-ece5-4f64-9056-10f3b216cf0c
-source-git-commit: a7215d453021be578a32ce1af4d659845c3b8493
+source-git-commit: d460cb12b43b6c250a5fb491c1efc223c53abb23
 workflow-type: tm+mt
 source-wordcount: '1398'
 ht-degree: 0%
@@ -41,7 +41,7 @@ De de toegangsrollen van uw organisatie bepalen wat de gebruikers kunnen zien en
 
 Bekijk deze video voor meer informatie over het toewijzen van producttoegang en -machtigingen voor Collaboration met de Admin Console en Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452236/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3452216/?learn=on&enablevpops)
 
 ## Stap 2: Een Collaboration-account instellen {#set-up-your-account}
 
@@ -68,7 +68,7 @@ Definieer de rol van uw account in Collaboration, voeg brandingmiddelen toe en c
 - **E-mail van het Contact** - verstrek een bedrijfs-e-mail voor medewerkers aan gebruik nadat een verbinding wordt gevestigd.
 - **vorm gelijke sleutels** - selecteer de herkenningstekens die voor publiek aanpassing (momenteel, gehakt e-mail is de enige gesteunde gelijke sleutel) worden gebruikt.
 
-Meer over aanvankelijke rekeningsopstelling leren, met inbegrip van hoe te om rollen te bepalen, het brandmerken activa te uploaden, en gelijke sleutels te vormen, zie de [ gids van de 0&rbrace; aanvankelijke rekeningsopstelling &lbrace;.](./setup/onboard-account.md#initial-account-setup){target="_blank"}
+Meer over aanvankelijke rekeningsopstelling leren, met inbegrip van hoe te om rollen te bepalen, het brandmerken activa te uploaden, en gelijke sleutels te vormen, zie de [ gids van de 0} aanvankelijke rekeningsopstelling {.](./setup/onboard-account.md#initial-account-setup){target="_blank"}
 
 Bekijk deze video voor een stapsgewijze analyse van een adverteerderopstelling, met inbegrip van rekeningsverwezenlijking, branding, en de configuratie van de gelijkesleutel.
 
@@ -162,7 +162,9 @@ Collaboration biedt diverse rapporten om het bereik, de frequentie en de doeltre
 
 Leren om metingsrapporten te bekijken en te interpreteren, zie de [ gids van de Meting ](./collaborate/measure.md). Het omvat attributie, campagne summiere metriek, en dashboards zoals bereikcurven en frequentieverdeling.
 
-<!-- Commenting out the below information as this workflow is not yet in Beta but will be imminently. A guided measurement configuration workflow will be available in a future release."
+<!-- 
+Commenting out the below information as this workflow is not yet in Beta but will be imminently. A guided measurement configuration workflow will be available in a future release."
+
 ### Configure measurement workflow
 
 Collaboration supports two measurement workflows:
@@ -206,7 +208,8 @@ Use this workflow to generate campaign summary insights based on advertiser-supp
    - Navigate to the **[!UICONTROL Measure]** workspace within the project.
    - Input the report name, date range, and report run date.
    - Select **[!UICONTROL Campaign summary]** as the report type.
-   - Submit the report. It will run on the selected date and populate within 24 hours. -->
+   - Submit the report. It will run on the selected date and populate within 24 hours. 
+-->
 
 ## Stap 6: Verbinding maken met deelnemers {#connect-with-collaborators}
 
@@ -218,7 +221,7 @@ Als adverteerder gebruikt u de werkruimte **[!UICONTROL Connect]** in het naviga
 >
 >Momenteel kunnen alleen adverteerders door uitgevers bladeren. Uitgevers kunnen niet door verbindingen met adverteerders bladeren of deze tot stand brengen.
 
-Voor een overzicht van deze stroom, zie [ het vestigen van verbindingsgids ](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [ video van de de rekeningsopstelling van de adverteerder ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
+Voor een overzicht van deze stroom, zie [ het vestigen van verbindingsgids ](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [ video van de de rekeningsopstelling van de adverteerder ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
 
 ## Volgende stappen
 

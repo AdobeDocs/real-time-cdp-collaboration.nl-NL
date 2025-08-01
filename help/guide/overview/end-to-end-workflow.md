@@ -1,52 +1,62 @@
 ---
-title: Workflow beëindigen
-description: Begrijp de end-to-end workflow om Real-Time CDP Collaboration als adverteerder of uitgever te gebruiken
+title: Volledige workflow
+description: Begrijp de end-to-end workflow van het gebruiken van Real-Time CDP Collaboration op basis van uw samenwerkingspatroon.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 90f9341e-5dd7-4521-a602-edb0263838c5
-source-git-commit: 41e7b0511a2d3fd882bb37f233112f1d3c572668
+source-git-commit: 8745d6d8da389b552af3da6612bf693230dfb538
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
-# Workflow beëindigen
+# Volledige workflow
 
 {{limited-availability-release-note}}
 
-Met Adobe Real-Time Customer Data Platform (CDP) Collaboration kunnen adverteerders en uitgevers op privacygerichte wijze samenwerken aan campagnes. Lees deze pagina om de workflow te begrijpen en het beste uit het product te halen, als adverteerder of uitgever.
+In Adobe Real-Time CDP Collaboration varieert de end-to-end workflow op basis van het samenwerkingspatroon dat u kiest. In de workflow worden de stappen beschreven die nodig zijn voor het opzetten en uitvoeren van een samenwerkingsproject, van het maken van accounts en het aantrekken van publiek tot het maken van verbindingen en het maken van projecten. Kennis van deze workflow is essentieel voor het effectief benutten van de mogelijkheden van het platform om uw marketingdoelstellingen te bereiken.
 
-## Volledige workflow voor adverteerders {#advertiser}
+## Aan de slag
 
-Als adverteerder, begin door [ op te nemen uw bedrijf ](/help/guide/setup/onboard-account.md) op Real-Time CDP Collaboration. Gebruik de [ opstellingspagina ](/help/guide/setup/setup-overview.md) om uw bedrijfmontages voor te leggen en dan uit te geven, uw aangewezen gelijke sleutels toe te voegen die u zult werken met, en te beslissen welke gegevens om binnen te brengen. In de eerste versie, staat het product u toe om [ publiek ](/help/guide/setup/onboard-audiences.md) van Adobe Experience Platform slechts in te voeren.
+Voordat u begint, moet u ervoor zorgen dat u een goed inzicht hebt in deze belangrijke concepten:
 
-![ ontdekt, activeert, maatregel voor adverteerders.](/help/assets/end-to-end-workflow/discover-activate-measure.png)
+- **patronen van Collaboration**: Deze patronen bepalen hoe de medewerkers samenwerken. Er zijn twee verschillende patronen: [ adverteerder-aan-uitgever ](./collaboration-patterns.md#advertiser-to-publisher) en [ merk-aan-merk ](./collaboration-patterns.md#brand-to-brand).
+- **de rollen van de Rekening**: De rollen van de rekening bepalen uw mogelijkheden binnen het platform. Zij zouden aan de doelstellingen van uw organisatie, merk, en doelstellingen moeten richten. Er zijn twee rekeningsrollen: [ adverteerder ](./roles.md#advertiser) en [ uitgever ](./roles.md#publisher).
+- **gevallen van het Gebruik**: De gevallen van het gebruik bepalen de manieren u hefboomwerking Collaboration kunt om uw marketing doelstellingen te bereiken. Er zijn drie gevallen van het samenwerkingsgebruik: [ ontdekt ](./use-cases.md#discover), [ activeert ](./use-cases.md#activate), en [ Maatregel ](./use-cases.md#measure).
 
-Gebruik het [ ontdekt lusje om uitgevers ](/help/guide/connect/discover-publishers.md) te vinden die u voor campagnes wilt werken. Neem contact op met de uitgever en bespreek de voorwaarden voor samenwerking buiten het product. Zodra overeengekomen over een reeks termijnen, kunt u [ een verbindingsuitnodiging ](/help/guide/connect/establishing-connections.md) verzenden en samenwerkingsmontages voorstellen om met de uitgever te verbinden.
+Deze gids zal drie mock medewerkers gebruiken om het werkschema van begin tot eind te illustreren:
 
-Nadat de uitgever uw verbindingsverzoek goedkeurt, is het tijd om het overlappende publiek tussen uw organisatie en hun te onderzoeken. Opstelling een project voor een campagne en [ looppas overlappende rapporten ](/help/guide/collaborate/discover.md) om het beste publiek voor uw volgende reclamecampagne te ontdekken, afhankelijk van het samenwerkingsgebruik geval - richtend, onderdrukking, en anderen.
+- **[!UICONTROL Luma]**: Een merk voor atletische kleding. Zij zijn een adverteerder die een specifiek publiek wil bereiken via gerichte marketingcampagnes.
+- **[!UICONTROL TV Tube]** : een provider van digitale streaming. Zij zijn een uitgever die publieksgegevens voor gebruik door adverteerders verstrekt.
+- **[!UICONTROL Fit Apparel]**: Een ander merk voor atletische kleding. Het zijn een tweede adverteerder die wil samenwerken om publieksgegevens en inzichten voor verhoogde marketing inspanningen te delen.
 
-Zodra u het ideale publiek ontdekt, is het tijd om hen [ te activeren ](/help/guide/collaborate/activate.md).
+## Workflow voor adverteerders naar uitgevers {#advertiser-to-publisher-workflow}
 
-De definitieve stap in de samenwerkingslijn is [ meting ](/help/guide/collaborate/measure.md). Om uw bedrijfsresultaten te meten of te kennen, uploadt u meetgegevens zoals en logboeken en voert u de rapporten uit die in het programma worden verstrekt om te begrijpen hoe uw publiek presteerde.
+[!UICONTROL Luma] , een atletisch detailhandelsbedrijf, wil een verbinding maken met [!UICONTROL TV Tube] , een aanbieder van digitale streaming, om een specifiek publiek te bereiken via gerichte marketingcampagnes.
 
-## Volledige workflow voor uitgevers {#publisher}
+Om te beginnen, [!UICONTROL Luma] moet [ een rekening ](../setup/onboard-account.md) met de adverteerderrol creëren, terwijl [!UICONTROL TV Tube] tot een rekening met de uitgeversrol leidt.
 
-Als uitgever, begin door [ op het instappen van uw bedrijf ](/help/guide/setup/onboard-account.md) op Real-Time CDP Collaboration. Gebruik de [ opstellingspagina ](/help/guide/setup/setup-overview.md) om diverse bedrijfmontages uit te geven.
+Na het vestigen van hun rekeningen, zowel [!UICONTROL Luma] als [!UICONTROL TV Tube] moeten [ een gegevensverbinding en bronpubliek ](../setup/onboard-audiences.md) tot stand brengen. Slechts [!UICONTROL TV Tube] zal publiek voor marketing campagnes activeren, zodat moeten zij [ een bestemming ](../setup/manage-destinations.md) vormen.
 
-Bepaal welke publieksgegevens u wilt importeren en welk publiek u wilt dat deze zichtbaar en zichtbaar zijn voor de adverteerders die in het gebied **[!UICONTROL Connect]** van het product verbinding met u willen maken.
+Zodra beide medewerkers hun rekeningsopstelling hebben, zijn zij klaar om [ van een verbinding ](../connect/establishing-connections.md) binnen het platform te vormen. [!UICONTROL Luma] gebruikt [ ontdekt uitgevers ](../connect/discover-publishers.md) eigenschap om [!UICONTROL TV Tube] te vinden en een verbindingsverzoek in werking te stellen. Nadat [!UICONTROL TV Tube] de verbindingsaanvraag heeft geaccepteerd, configureert [!UICONTROL Luma] de verbindingsinstellingen om te bepalen hoe de samenwerking verloopt. [!UICONTROL TV Tube] accepteert het verbindingsverzoek om een veilige koppeling tussen de twee merken tot stand te brengen.
 
-Terwijl u publiek importeert naar Real-Time CDP Collaboration, moet u het publiek van tags voorzien en indelen. Real-Time CDP Collaboration volgt de gevestigde [ taxonomie IAB ](https://www.iab.com/guidelines/content-taxonomy/){target="_blank"} voor het categoriseren van publiek.
+Nadat de verbinding wordt gevestigd, [!UICONTROL Luma] [ leidt tot een project ](../collaborate/manage-projects.md) om van hun samenwerking met [!UICONTROL TV Tube] af te schoppen. Tijdens de projectopstelling, kiezen zij de gevallen van het samenwerkingsgebruik die hun doelstellingen het best passen: [ ontdekt ](../collaborate/discover.md), [ activeert ](../collaborate/activate.md), en [ Maatregel ](../collaborate/measure.md).
 
-Bepaal met welke adverteerders u wilt werken en neem contact op met de adverteerder om de voorwaarden voor samenwerking buiten het product te bespreken. Nadat de adverteerder overeenstemming heeft bereikt over een aantal voorwaarden, wacht u tot de adverteerder een formele verbindingsuitnodiging heeft verzonden om verbinding met u te maken. Over het algemeen, zou u ook lopende verbindingsverzoeken van adverteerdermerken moeten controleren die met u aan campagnes willen werken. Controleer de verbindingsinstellingen die zijn voorgesteld door uw potentiële medewerker en ga akkoord of wijzig deze instellingen voordat u de samenwerking start.
+[!UICONTROL Luma] hefboomwerkingen [ ontdekken ](../collaborate/discover.md) gebruiksgeval om inzichten in [!UICONTROL TV Tube] het publieksgegevens van de publiek te bereiken. Zodra [!UICONTROL Luma] de segmenten van het doelpubliek heeft geïdentificeerd, activeren zij [ ](../collaborate/activate.md) deze publiek.
 
-Nadat u hun verbindingsverzoek goedkeurt, is het tijd om het overlappende publiek tussen u en uw medewerker te onderzoeken. De adverteerder zal een project voor een campagne opzetten en overlap tussen zijn publiek en dat van u, op basis van hun gewenste doelstellingen - prospectie, onderdrukking en meer.
+Na het activeren van het publiek, [!UICONTROL TV Tube] looppas gerichte marketing campagnes en uploadt gegevens aan [ Meetlat ](../collaborate/measure.md) de resultaten om de doeltreffendheid van hun campagne te evalueren.
 
-Zodra de adverteerder het ideale publiek ontdekt om zich te richten op een campagne en deze naar u stuurt, kunt u hen activeren en de campagne starten.
+## Brand-to-brand workflow {#brand-to-brand-workflow}
 
-De laatste stap in de samenwerkingslus is meting. Om te weten hoe uw campagnes, als laatste stap, meetgegevens zoals ad logboeken uploaden en dan de rapporten in werking stellen die in het programma worden verstrekt om te begrijpen hoe het publiek uitvoerde.
+[!UICONTROL Fit Apparel] , een atletisch merkmerk, wil samenwerken met [!UICONTROL Luma] , een ander atletisch merkmerk, om publieksgegevens en inzichten voor verhoogde marketing te delen.
 
-## Volgende stappen
+Na het vestigen van hun rekeningen, zowel [!UICONTROL Fit Apparel] als [!UICONTROL Luma] moeten [ een gegevensverbinding en bronpubliek ](../setup/onboard-audiences.md) tot stand brengen. Zowel [!UICONTROL Fit Apparel] als [!UICONTROL Luma] zullen publiek voor marketing campagnes activeren, zodat moeten zij allebei een bestemming [ vormen.](../setup/manage-destinations.md)
 
-Na het begrip van het high-level werkschema van begin tot eind dat op bedrijfrol wordt gebaseerd, lees over [ de gevallen van het steekproefgebruik ](/help/guide/overview/use-cases.md) die in het product worden gesteund.
+Na het betrekken van hun publiek, [!UICONTROL Fit Apparel] en [!UICONTROL Luma] [ vorm een verbinding ](../connect/establishing-connections.md) binnen het platform om publieksgegevens veilig te delen. Om dit te doen, moeten zij gebruik maken van de [ privé verbindings uitnodigen ](../connect/establishing-connections.md#private-connection-invite) eigenschap. [!UICONTROL Luma] deelt hun verbindingscode met [!UICONTROL Fit Apparel], die het dan gebruikt om een verbindingsverzoek in werking te stellen. Nadat [!UICONTROL Luma] de verbindingsaanvraag heeft geaccepteerd, configureert [!UICONTROL Fit Apparel] de verbindingsinstellingen om te bepalen hoe ze zullen samenwerken. In de configuratie, [!UICONTROL Fit Apparel] specificeert dat beide medewerkers publiek voor marketing campagnes kunnen activeren. Om de verbinding te voltooien, accepteert [!UICONTROL Luma] het verzoek om een veilige koppeling tot stand te brengen tussen de twee merken.
+
+Nadat de verbinding wordt gevestigd, [!UICONTROL Fit Apparel] [ leidt tot een project ](../collaborate/manage-projects.md) om van hun samenwerking met [!UICONTROL Luma] af te schoppen. Tijdens de projectopstelling, kiezen zij de gevallen van het samenwerkingsgebruik die hun doelstellingen het best passen: [ ontdekt ](../collaborate/discover.md), [ activeert ](../collaborate/activate.md), en [ Maatregel ](../collaborate/measure.md).
+
+[!UICONTROL Fit Apparel] en [!UICONTROL Luma] kunnen zowel [ gebruiken ontdekken ](../collaborate/discover.md) gebruiksgeval om inzichten in elkaars publieksgegevens te bereiken. Zodra zij waardevolle publiekssegmenten hebben geïdentificeerd, activeren zij [ ](../collaborate/activate.md) hun gekozen publiek voor marketing campagnes.
+
+Tot slot na het uitvoeren van hun campagnes, uploaden beide merken gegevens aan [ Meetlat ](../collaborate/measure.md) de resultaten en evalueren de doeltreffendheid van hun samenwerking.

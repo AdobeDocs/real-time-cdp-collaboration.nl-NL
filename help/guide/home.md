@@ -2,11 +2,11 @@
 title: Overzicht
 description: Leer hoe u Adobe Real-Time Customer Data Platform (CDP) Collaboration kunt gebruiken voor het detecteren, activeren en meten van hoogwaardige soorten publiek zonder te vertrouwen op cookies van derden.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3128c1ea-8549-474e-adce-49b9b6802527
-source-git-commit: a7215d453021be578a32ce1af4d659845c3b8493
+source-git-commit: fa58c5396011e6d3e7cbc5bd65844f69a9cc3f97
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '352'
 ht-degree: 1%
 
 ---
@@ -41,11 +41,11 @@ Ingesloten besturingselementen zorgen ervoor dat aan de vereisten voor beheer en
 
 Als u Collaboration wilt gaan gebruiken, moeten systeembeheerders zichzelf, productbeheerders en eindgebruikers toegang geven. Er zijn veelvoudige vereiste stappen afhankelijk van de gebruiker en het vereiste niveau van toegang. Verwijs naar de [ gids van de toegangscontrole ](/help/guide/permissions/overview.md){target="_blank"} om begonnen te worden.
 
-Zodra u toegang hebt, kunt u uw account instellen en uw gegevensverbinding maken met het publiek dat de gegevens ophaalt. Lees de [ adverteerder en uitgever werkschema van begin tot eind ](/help/guide/overview/end-to-end-workflow.md) om begonnen te worden.
+Zodra u toegang hebt, kunt u uw account instellen en uw gegevensverbinding maken met het publiek dat de gegevens ophaalt. Lees het [ werkschema van begin tot eind ](/help/guide/overview/end-to-end-workflow.md) om begonnen te worden.
 
 ## Bronnen
 
-Onderzoek de [ verklarende woordenlijst ](/help/guide/glossary.md) voor gedetailleerde informatie over termijnen die in het product worden gebruikt. Voor steun, heb toegang tot de pagina van de Steun van de Klant van Adobe [&#128279;](https://experienceleague.adobe.com/home?lang=nl-NL&support-tab=open-ticket#support){target="_blank"}.
+Onderzoek de [ verklarende woordenlijst ](/help/guide/glossary.md) voor gedetailleerde informatie over termijnen die in het product worden gebruikt. Voor steun, heb toegang tot de pagina van de Steun van de Klant van Adobe [ ](https://experienceleague.adobe.com/home?lang=en&support-tab=open-ticket#support){target="_blank"}.
 
 ## Contact opnemen
 

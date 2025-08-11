@@ -2,11 +2,11 @@
 title: Source en publiek beheren
 description: Leer hoe u het publiek in Adobe Real-Time CDP Collaboration kunt aanschaffen en beheren
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 0a5158fa-73d3-4406-af20-2b6c7be9934e
-source-git-commit: 608706d00124372ac59209478ab551a3a6ce0226
+source-git-commit: 2f2a128f1591ac864d2ebef09c58ecc93bed8d98
 workflow-type: tm+mt
-source-wordcount: '2779'
+source-wordcount: '2863'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,9 @@ Van het **[!UICONTROL My audiences]** lusje binnen de **[!UICONTROL Setup]** wer
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_marketing_actions"
 >title="Marketingacties"
->abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De <strong> marketing actie van Collaboration van 0&rbrace; Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. </strong> De <strong> marketing actie van de Wetenschap van 0&rbrace; Gegevens steunt het C9 etiket van het gegevensgebruik.</strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.</li></ul></p>"
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/overview.html?lang=nl-NL" text="Overzicht van labels voor gegevensgebruik"
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/reference.html?lang=nl-NL" text="Verklarende woordenlijst met gegevensgebruikslabels"
+>abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De <strong> marketing actie van Collaboration van 0} Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. </strong> De <strong> marketing actie van de Wetenschap van 0} Gegevens steunt het C9 etiket van het gegevensgebruik.</strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.</li></ul></p>"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/overview.html" text="Overzicht van labels voor gegevensgebruik"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/reference.html" text="Verklarende woordenlijst met gegevensgebruikslabels"
 
 >[!IMPORTANT]
 >
@@ -90,15 +90,15 @@ Vervolgens moet u ervoor zorgen dat de juiste marketingacties zijn ingesteld voo
 
 Gebruik marketingacties om te bepalen welke publieksgegevens vanuit Experience Platform naar Collaboration moeten worden overgebracht. De marketingactie **[!UICONTROL Data Collaboration]** ondersteunt de labels voor gegevensgebruik in C4, C5 en C9. De marketingactie **[!UICONTROL Data Science]** ondersteunt het label voor gegevensgebruik C9.
 
-Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
+Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
 
-* Wanneer checkbox **&#x200B;**&#x200B;**&#x200B; wordt toegelaten, wordt om het even welke gegevens die in Experience Platform worden geëtiketteerd zoals hierboven beschreven uitgesloten en &#x200B;** niet** gebracht in Collaboration.
+* Wanneer checkbox ****** wordt toegelaten, wordt om het even welke gegevens die in Experience Platform worden geëtiketteerd zoals hierboven beschreven uitgesloten en **niet** gebracht in Collaboration.
 * Met checkbox ***gehandicapt***, is er geen beperking op gegevens die uit Experience Platform worden voortgebracht.
 
 Meer informatie over labels voor gegevensgebruik vindt u in de documentatie van Experience Platform:
 
-* [ overzicht van de gebruiksetiketten van Gegevens ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/overview){target="_blank"}
-* [ de etiketten van het gebruiksgebruik van Gegevens verklarende woordenlijst ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/reference){target="_blank"}
+* [ overzicht van de gebruiksetiketten van Gegevens ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/overview){target="_blank"}
+* [ de etiketten van het gebruiksgebruik van Gegevens verklarende woordenlijst ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference){target="_blank"}
 
 Daarnaast wilt u uw regels voor toestemming selecteren die u wilt toepassen op gegevens die worden gedownload naar Collaboration.
 
@@ -135,13 +135,13 @@ Geef vervolgens een naam en een beschrijving voor de gegevensverbinding op. Deze
 >id="rtcdp_collaboration_import_audience_mapping_identity_namespaces"
 >title="Identiteitsnaamruimten"
 >abstract="Selecteer een naamruimte voor identiteit in de standaard- en aangepaste naamruimten die beschikbaar zijn in uw Experience Platform-organisatie."
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html?lang=nl-NL#standard" text="Standaard- en naamruimten in Experience Platform"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html#standard" text="Standaard- en naamruimten in Experience Platform"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_mapping_profile_attributes"
 >title="Profielkenmerken"
 >abstract="Selecteer kenmerken in het Unieschema voor de klasse Profile in Experience Platform. In deze weergave worden de kenmerken weergegeven die aanwezig zijn in het Unieschema en die behoren tot de klasse Individueel profiel XDM."
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=nl-NL" text="Unieschema in Experience Platform"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html" text="Unieschema in Experience Platform"
 
 Vervolgens selecteert u bronvelden die u wilt toewijzen aan doelvelden in Collaboration.
 
@@ -331,7 +331,7 @@ De beschikbaarheid van het publiek voor gebruik in projecten met medewerkers ver
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_view_audience_metadata_visibility"
 >title="Zichtbaarheid metagegevens"
->abstract="<p>Geeft aan welke metagegevens van het publiek zichtbaar zijn voor andere deelnemers voordat ze verbinding maken met u of binnen de projectweergave.</p> <p> **de telling van de Identiteit** controleert of uw medewerker identiteitstellingen voor uw publiek kan bekijken wanneer het bekijken van overlappende rapporten in de ontdekking tabel. **het publiek overlapt %** controleert of de medewerkers overlappende percentages tussen hun publiek en van u kunnen ontdekken."
+>abstract="<p>Geeft aan welke metagegevens van het publiek zichtbaar zijn voor andere deelnemers voordat ze verbinding maken met u of binnen de projectweergave.</p> <p> **de telling van de Identiteit** controleert of uw medewerker identiteitstellingen voor uw publiek kan bekijken wanneer het bekijken van overlappende rapporten in de ontdekking tabel.</p><p> **het publiek overlapt %** controleert of de medewerkers overlappende percentages tussen hun publiek en van u kunnen ontdekken.</p><p> **[!UICONTROL Audience index]** bepaalt of deelnemers de publieksindex in een project kunnen weergeven. Deze functionaliteit is alleen beschikbaar wanneer u drie of meer actieve doelgroepen hebt.</p> <br> Als u wilt dat de zichtbaarheidsinstellingen voor metagegevens van kracht worden, moet het publiek zijn ingesteld op Openbaar of Aangepast."
 
 >[!NOTE]
 >
@@ -347,8 +347,14 @@ Het dialoogvenster **[!UICONTROL Metadata visibility]** wordt weergegeven, zodat
 
 **[!UICONTROL Show audience overlap %]**: Dit het plaatsen controleert of de medewerkers [ overlappende percentages ](/help/guide/collaborate/discover.md#compare-audiences) tussen hun publiek en uw publiek kunnen ontdekken.
 
+**[!UICONTROL Audience index]**: Wanneer reeks aan waar, kunnen uw medewerkers de [ publieksindex ](/help/guide/collaborate/discover.md#audience-index-score) binnen een project bekijken. Deze functionaliteit is alleen beschikbaar wanneer u drie of meer actieve doelgroepen hebt.
+
+>[!NOTE]
+>
+>De instellingen voor de zichtbaarheid van metagegevens worden pas van kracht als het publiek is ingesteld op Openbaar of Aangepast.
+
 ![ het de zichtbaarheidsdialoog van Meta-gegevens met de beschikbare getoonde opties.](/help/assets/setup/add-manage-audiences/audience-details-metadata-dialog.png)
 
 ## Volgende stappen
 
-Na het sourcen van publiek, is het tijd om uitgevers te ontdekken [&#128279;](/help/guide/connect/establishing-connections.md) met te verbinden om aan projecten samen te werken.
+Na het sourcen van publiek, is het tijd om uitgevers te ontdekken [ ](/help/guide/connect/establishing-connections.md) met te verbinden om aan projecten samen te werken.

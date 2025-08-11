@@ -44,7 +44,7 @@ Van het **[!UICONTROL My audiences]** lusje binnen de **[!UICONTROL Setup]** wer
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_marketing_actions"
 >title="Marketingacties"
->abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De <strong> marketing actie van Collaboration van 0} Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. </strong> De <strong> marketing actie van de Wetenschap van 0} Gegevens steunt het C9 etiket van het gegevensgebruik.</strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.</li></ul></p>"
+>abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De <strong> marketing actie van Collaboration van 0&rbrace; Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. </strong> De <strong> marketing actie van de Wetenschap van 0&rbrace; Gegevens steunt het C9 etiket van het gegevensgebruik.</strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.</li></ul></p>"
 >additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/overview.html" text="Overzicht van labels voor gegevensgebruik"
 >additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/reference.html" text="Verklarende woordenlijst met gegevensgebruikslabels"
 
@@ -92,7 +92,7 @@ Gebruik marketingacties om te bepalen welke publieksgegevens vanuit Experience P
 
 Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
 
-* Wanneer checkbox ****** wordt toegelaten, wordt om het even welke gegevens die in Experience Platform worden geëtiketteerd zoals hierboven beschreven uitgesloten en **niet** gebracht in Collaboration.
+* Wanneer checkbox **&#x200B;**&#x200B;**&#x200B; wordt toegelaten, wordt om het even welke gegevens die in Experience Platform worden geëtiketteerd zoals hierboven beschreven uitgesloten en &#x200B;** niet** gebracht in Collaboration.
 * Met checkbox ***gehandicapt***, is er geen beperking op gegevens die uit Experience Platform worden voortgebracht.
 
 Meer informatie over labels voor gegevensgebruik vindt u in de documentatie van Experience Platform:
@@ -357,4 +357,4 @@ Het dialoogvenster **[!UICONTROL Metadata visibility]** wordt weergegeven, zodat
 
 ## Volgende stappen
 
-Na het sourcen van publiek, is het tijd om uitgevers te ontdekken [ ](/help/guide/connect/establishing-connections.md) met te verbinden om aan projecten samen te werken.
+Na het sourcen van publiek, is het tijd om uitgevers te ontdekken [&#128279;](/help/guide/connect/establishing-connections.md) met te verbinden om aan projecten samen te werken.

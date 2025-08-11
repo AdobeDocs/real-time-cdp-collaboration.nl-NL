@@ -2,9 +2,9 @@
 title: Overlappingen ontdekken en publiek vergelijken
 description: Ontdek overlappingen tussen het publiek van uw medewerkers en dat van uw medewerkers. Leer hoe u het beste publiek kunt vinden voor gebruik in uw campagnes.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 38c42ad3-9d01-4d09-b80e-37fb51cbf42b
-source-git-commit: 76ad3357aa4cd02dbc0616e5d8bd03b03683b7fd
+source-git-commit: 7fef1c490c2b980fa823c9ec75ba158568b11988
 workflow-type: tm+mt
 source-wordcount: '2009'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de ontdekking van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de ontdekking van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Na [ creërend een project ](/help/guide/collaborate/manage-projects.md), kunt u uw publiek tegen uw medewerkers vergelijken. Zo kunt u relevante doelgroepen voor campagnes identificeren en bepalen welke doelgroepen voor activering naar medewerkers moeten worden gestuurd.
 
@@ -188,6 +188,8 @@ Berekeningen van de indexscore worden gemaakt en kunnen worden gebruikt om te be
 | Malen 25-34 | (700 k / 1,3 m) / (12 m / 50 m)) * 100 | 224 | Door dit publiek te richten, bent u 124% waarschijnlijker om SUV-eigenaars in vergelijking met de basislijn te bereiken. |
 | Technische liefhebbers | (500 k / 1,3 m) / (8 m / 50 m)) * 100 | 240 | Als u zich op dit publiek richt, bereikt u 140% meer SUV-eigenaars dan de basislijn. |
 
+{style="table-layout:auto"}
+
 Om beter te begrijpen hoe de indexscores uw campagne zullen beïnvloeden, worden de relevantiebanden verstrekt naast de scores.
 
 ### Relevante banden {#audience-index-relevance-bands}
@@ -202,8 +204,10 @@ Collaboration zet de indexscores om in relevantiebanden (zeer laag naar zeer hoo
 | 120 &lt; i &lt; 140 | Hoog | De overlapping komt vaker voor bij het doelpubliek dan bij uw publiek, wat een sterke relatie laat zien. Klanten die dit publiek gebruiken, zullen hun doelpubliek eerder bereiken. |
 | i > 140 | Zeer hoog | De overlapping komt veel vaker voor in het doelpubliek dan in uw publiek, wat een zeer sterke relatie weerspiegelt. Klanten die dit publiek gebruiken, zullen hun doelpubliek veel waarschijnlijker bereiken. |
 
+{style="table-layout:auto"}
+
 In de sectie over overlappingen ontdekken wordt de score van de publieksindex naast de score weergegeven. De score wordt in kleur gecodeerd om de relevantieband aan te geven, zodat u de sterkte van de relatie in één oogopslag gemakkelijk kunt herkennen. Zeer lage en lage relevantiebanden worden in oranje, gemiddelde relevantiebanden in zwart weergegeven en in groene, en zeer belangrijke banden.
 
 ## Volgende stappen
 
-Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd [&#128279;](/help/guide/collaborate/activate.md) het publiek te activeren dat in de campagnes zou moeten worden gebruikt.
+Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd [ ](/help/guide/collaborate/activate.md) het publiek te activeren dat in de campagnes zou moeten worden gebruikt.

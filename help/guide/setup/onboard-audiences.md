@@ -2,11 +2,11 @@
 title: Source en publiek beheren
 description: Leer hoe u het publiek in Adobe Real-Time CDP Collaboration kunt aanschaffen en beheren
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 0a5158fa-73d3-4406-af20-2b6c7be9934e
-source-git-commit: 2f2a128f1591ac864d2ebef09c58ecc93bed8d98
+source-git-commit: 4f1582b489d99e9e8257c3808ec5863dbc74ef7a
 workflow-type: tm+mt
-source-wordcount: '2863'
+source-wordcount: '3130'
 ht-degree: 0%
 
 ---
@@ -16,16 +16,6 @@ ht-degree: 0%
 {{limited-availability-release-note}}
 
 Het publiek is specifieke groepen gebruikers of klanten die op diverse attributen worden gesegmenteerd. Hierdoor kunnen deelnemers samenwerken aan gerichte marketing en persoonlijke ervaringen voor effectievere reclamecampagnes. In deze handleiding wordt uitgelegd hoe u het publiek naar Real-Time CDP Collaboration kunt sturen, hoe u het dashboard voor het publiek kunt bekijken en hoe u het individuele publiek kunt beheren.
-
->[!BEGINSHADEBOX]
-
-Wat u op deze documentatiepagina zult vinden:
-
-* [Source-publiek naar Collaboration](#source-audiences)
-* [Het dashboard voor soorten publiek weergeven](#view-audiences-dashboard)
-* [Individuele doelgroepen weergeven](#view-individual-audiences)
-
->[!ENDSHADEBOX]
 
 ## Source-publiek naar Collaboration {#source-audiences}
 
@@ -44,9 +34,9 @@ Van het **[!UICONTROL My audiences]** lusje binnen de **[!UICONTROL Setup]** wer
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_marketing_actions"
 >title="Marketingacties"
->abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De <strong> marketing actie van Collaboration van 0&rbrace; Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. </strong> De <strong> marketing actie van de Wetenschap van 0&rbrace; Gegevens steunt het C9 etiket van het gegevensgebruik.</strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.</li></ul></p>"
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/overview.html?lang=nl-NL" text="Overzicht van labels voor gegevensgebruik"
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/reference.html?lang=nl-NL" text="Verklarende woordenlijst met gegevensgebruikslabels"
+>abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De <strong> marketing actie van Collaboration van 0} Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. </strong> De <strong> marketing actie van de Wetenschap van 0} Gegevens steunt het C9 etiket van het gegevensgebruik.</strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.</li></ul></p>"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/overview.html" text="Overzicht van labels voor gegevensgebruik"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/reference.html" text="Verklarende woordenlijst met gegevensgebruikslabels"
 
 >[!IMPORTANT]
 >
@@ -90,15 +80,15 @@ Vervolgens moet u ervoor zorgen dat de juiste marketingacties zijn ingesteld voo
 
 Gebruik marketingacties om te bepalen welke publieksgegevens vanuit Experience Platform naar Collaboration moeten worden overgebracht. De marketingactie **[!UICONTROL Data Collaboration]** ondersteunt de labels voor gegevensgebruik in C4, C5 en C9. De marketingactie **[!UICONTROL Data Science]** ondersteunt het label voor gegevensgebruik C9.
 
-Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
+Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
 
-* Wanneer checkbox **&#x200B;**&#x200B;**&#x200B; wordt toegelaten, wordt om het even welke gegevens die in Experience Platform worden geëtiketteerd zoals hierboven beschreven uitgesloten en &#x200B;** niet** gebracht in Collaboration.
+* Wanneer checkbox ****** wordt toegelaten, wordt om het even welke gegevens die in Experience Platform worden geëtiketteerd zoals hierboven beschreven uitgesloten en **niet** gebracht in Collaboration.
 * Met checkbox ***gehandicapt***, is er geen beperking op gegevens die uit Experience Platform worden voortgebracht.
 
 Meer informatie over labels voor gegevensgebruik vindt u in de documentatie van Experience Platform:
 
-* [ overzicht van de gebruiksetiketten van Gegevens ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/overview){target="_blank"}
-* [ de etiketten van het gebruiksgebruik van Gegevens verklarende woordenlijst ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/reference){target="_blank"}
+* [ overzicht van de gebruiksetiketten van Gegevens ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/overview){target="_blank"}
+* [ de etiketten van het gebruiksgebruik van Gegevens verklarende woordenlijst ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference){target="_blank"}
 
 Daarnaast wilt u uw regels voor toestemming selecteren die u wilt toepassen op gegevens die worden gedownload naar Collaboration.
 
@@ -135,13 +125,13 @@ Geef vervolgens een naam en een beschrijving voor de gegevensverbinding op. Deze
 >id="rtcdp_collaboration_import_audience_mapping_identity_namespaces"
 >title="Identiteitsnaamruimten"
 >abstract="Selecteer een naamruimte voor identiteit in de standaard- en aangepaste naamruimten die beschikbaar zijn in uw Experience Platform-organisatie."
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html?lang=nl-NL#standard" text="Standaard- en naamruimten in Experience Platform"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html#standard" text="Standaard- en naamruimten in Experience Platform"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_mapping_profile_attributes"
 >title="Profielkenmerken"
 >abstract="Selecteer kenmerken in het Unieschema voor de klasse Profile in Experience Platform. In deze weergave worden de kenmerken weergegeven die aanwezig zijn in het Unieschema en die behoren tot de klasse Individueel profiel XDM."
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=nl-NL" text="Unieschema in Experience Platform"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html" text="Unieschema in Experience Platform"
 
 Vervolgens selecteert u bronvelden die u wilt toewijzen aan doelvelden in Collaboration.
 
@@ -214,10 +204,13 @@ Bekijk alle configuraties en instellingen voordat u de publiekstoevoeging voltoo
 
 Na het zoeken naar soorten publiek worden in de **[!UICONTROL My audiences]** -werkruimte alle soorten publiek weergegeven die momenteel in Collaboration zijn binnengebracht.
 
+![ Mijn publiek werkruimte die alle afkomstig publiek tonen.](/help/assets/setup/add-manage-audiences/audiences-workspace.png)
+
 Elk publiek bevat een overzicht van de volgende informatie:
 
 | Item | Beschrijving |
 |----------|---------|
+| **[!UICONTROL Name]** | De naam van het publiek. |
 | **[!UICONTROL Identities]** | Geeft het aantal identiteiten aan dat in dit publiek aanwezig is. Als hetzelfde profiel twee of meer identiteiten heeft en deze identiteiten als overeenkomende sleutels in het project worden gebruikt, wordt het profiel twee keer weergegeven in de telling. |
 | **[!UICONTROL Status]** | Geeft aan of het publiek actief is en kan worden gebruikt in projecten. Een **[!UICONTROL Pending]** -status geeft aan dat het publiek onlangs is gedownload en dat identiteiten nog niet zijn gevuld. Het publiek op basis van bronnen krijgt profielen na de eerste vernieuwing, die gewoonlijk binnen 24 uur na het instellen van de gegevensverbinding plaatsvindt. |
 | **[!UICONTROL Source]** | Geeft aan waar het publiek vandaan kwam. In de huidige release van Collaboration is Experience Platform de enige ondersteunde bron. |
@@ -225,8 +218,6 @@ Elk publiek bevat een overzicht van de volgende informatie:
 | **[!UICONTROL Connection access]** | Bepaalt of het publiek privé of openbaar is. Openbare doelgroepen zijn te vinden in overlappende rapporten en kunnen binnen een project worden geactiveerd. |
 | **[!UICONTROL Created]** | Geeft aan wanneer het publiek oorspronkelijk naar Collaboration was gedownload. |
 | **[!UICONTROL Last updated]** | Geeft de laatste datum en tijd aan waarop het publiek in Collaboration is bijgewerkt. Dit verwijst niet naar wanneer het publiek het laatst werd verfrist, maar eerder wanneer de configuratie of de meta-gegevens van het publiek het laatst werden veranderd. |
-
-![ de Mijn publiekswerkruimte die alle afkomstig publiek tonen.](/help/assets/setup/add-manage-audiences/audiences-workspace.png)
 
 Om snelle acties op een publiek uit te voeren, selecteer de ellips **...** naast de publieksnaam. De volgende opties zijn beschikbaar:
 
@@ -237,7 +228,7 @@ Om snelle acties op een publiek uit te voeren, selecteer de ellips **...** naast
 
 ## Individuele doelgroepen weergeven {#view-individual-audiences}
 
-Als u meer informatie wilt weergeven en configuraties voor een afzonderlijk publiek wilt bewerken, selecteert u het publiek in de werkruimte van **[!UICONTROL My audiences]** . De publiekswerkruimte bevat gedetailleerde informatie over het geselecteerde publiek, zoals de details, identiteiten, categorieën, toegang tot de verbinding en instellingen voor de zichtbaarheid van metagegevens.
+Als u informatie voor een afzonderlijk publiek wilt weergeven en bijwerken, selecteert u het desbetreffende publiek in de werkruimte van **[!UICONTROL My audiences]** . De publiekswerkruimte bevat gedetailleerde informatie over het geselecteerde publiek, zoals de details, identiteiten, categorieën, toegang tot de verbinding en instellingen voor de zichtbaarheid van metagegevens.
 
 ### Details publiek
 
@@ -255,32 +246,22 @@ De volgende informatie wordt voor elk individueel publiek getoond:
 
 ![ de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details.png)
 
-Daarnaast zijn de volgende besturingselementen beschikbaar in de publiekswerkruimte:
-
-* **[!UICONTROL Delete]**: verwijder het publiek van uw gegevensverbinding.
-* **[!UICONTROL Edit]**: geef de naam of beschrijving van het publiek uit.
-
-![ de werkruimte van een individueel publiek met Edit en benadrukte optie van de Schrapping.](/help/assets/setup/add-manage-audiences/audience-details-edit-delete.png)
-
-Vervolgens kunt u de volgende secties bijwerken in de werkruimte van het publiek:
-
-* [Identiteiten](#identities)
-* [Categorieën](#categories)
-* [Toegang tot verbinding](#connection-access)
-* [Zichtbaarheid metagegevens](#metadata-visibility)
-
-### Identiteiten {#identities}
+#### Identiteiten {#identities}
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_view_audience_identities"
 >title="Identiteiten"
->abstract="Een uitsplitsingsweergave van de identiteiten waaruit dit publiek bestaat en een totaal aantal profielen met de respectievelijke identiteiten."
+>abstract="Een uitsplitsingsweergave van de identiteiten waaruit dit publiek bestaat, gescheiden door de overeenkomende sleutel."
 
-In de sectie **[!UICONTROL Identities]** wordt het aantal profielen weergegeven dat in het publiek aanwezig is met een van de identiteiten die u hebt geselecteerd bij het zoeken naar het publiek. De sectie bevat ook een identiteitsspecificatie zodat u kunt zien welke identiteiten het grootste deel van de publiekspopulatie uitmaken.
+De sectie **[!UICONTROL Identities]** geeft het aantal identiteiten aan dat in het publiek aanwezig is. De sectie bevat ook een identiteitsverdeling van identiteiten door gelijkesleutel om u te helpen de samenstelling van het publiek begrijpen.
 
 ![ de sectie van Identiteiten van de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details-identities.png)
 
-### Categorieën {#categories}
+Het boven de afzonderlijke gedeelten van de uitsplitsing naar matchsleutel houden zal een nauwkeurige telling van de identiteit voor de desbetreffende sleutel opleveren.
+
+![ de sectie van Identiteiten van de werkruimte van een individueel publiek met de getoonde onderbreking van een gelijke sleutel.](/help/assets/setup/add-manage-audiences/audience-details-identities.png)
+
+#### Categorieën {#categories}
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_view_audience_categories"
@@ -297,14 +278,14 @@ Het dialoogvenster **[!UICONTROL Categories]** wordt weergegeven, zodat u de cat
 
 ![ de dialoog van Categorieën met de beschikbare getoonde categorieën.](/help/assets/setup/add-manage-audiences/audience-details-categories-select.png)
 
-### Toegang tot verbinding {#connection-access}
+#### Toegang tot verbinding {#connection-access}
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_view_audience_connection_access"
 >title="Toegang tot verbinding"
->abstract="<p>De soorten publiek kunnen van drie types zijn: publiek, privé, en douane.</p><p> Hun beschikbaarheid voor gebruik in projecten met medewerkers verschilt gebaseerd op het plaatsen van de verbindingstoegang. U kunt de verbindingstoegang altijd wijzigen van privé in openbaar, maar u kunt die instelling niet meer wijzigen als een publiek wordt geactiveerd met deelnemers.</p>"
+>abstract="<p>De soorten publiek kunnen van drie types zijn: publiek, privé, en douane.</p><p> Hun beschikbaarheid voor gebruik in projecten met medewerkers verschilt gebaseerd op het plaatsen van de verbindingstoegang.</p>"
 
-De beschikbaarheid van een publiek voor gebruik in projecten met medewerkers verschilt afhankelijk van de instelling voor de toegang tot de verbinding. In de sectie **[!UICONTROL Connection access]** kunt u aangeven of het publiek privé of openbaar moet zijn. Het publiek is bruikbaar en te ontdekken in verbindingen.
+De beschikbaarheid van een publiek voor gebruik in projecten met medewerkers verschilt afhankelijk van de instelling voor de toegang tot de verbinding. In de sectie **[!UICONTROL Connection access]** kunt u aangeven of het publiek privé, openbaar of alleen beschikbaar moet zijn voor specifieke verbindingen. Het publiek is bruikbaar en te ontdekken in verbindingen.
 
 Als u de toegang tot de verbinding van de doelgroep wilt bijwerken, selecteert u de optie **[!UICONTROL Edit]** in de **[!UICONTROL Connection access]** -sectie.
 
@@ -324,9 +305,9 @@ Selecteer de gewenste toegangsoptie voor de verbinding en selecteer vervolgens *
 >
 >Ongeacht de toegangsstatus (public, private of custom), levert de populatie van een publiek een bijdrage aan de **[!UICONTROL All audiences]** -populatie in de **[!UICONTROL Compare audiences]** -sectie in een project.
 
-De beschikbaarheid van het publiek voor gebruik in projecten met medewerkers verschilt gebaseerd op het plaatsen van de verbindingstoegang. U kunt de toegang tot de verbinding altijd wijzigen van privé in openbaar, maar u kunt die instelling niet meer wijzigen als een publiek wordt geactiveerd.
+De beschikbaarheid van het publiek voor gebruik in projecten met medewerkers verschilt gebaseerd op het plaatsen van de verbindingstoegang.
 
-### Zichtbaarheid metagegevens {#metadata-visibility}
+#### Zichtbaarheid metagegevens {#metadata-visibility}
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_view_audience_metadata_visibility"
@@ -339,7 +320,7 @@ De beschikbaarheid van het publiek voor gebruik in projecten met medewerkers ver
 
 De zichtbaarheid van metagegevens geeft de zichtbaarheid van de metagegevens van een publiek aan voor andere deelnemers voordat ze verbinding maken met u of binnen verschillende projectweergaven. Als u de zichtbaarheid van de metagegevens van de doelgroep wilt bijwerken, selecteert u de optie **[!UICONTROL Edit]** in de **[!UICONTROL Metadata visibility]** -sectie.
 
-![ de de zichtbaarheidssectie van Meta-gegevens van de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details-metadata.png)
+![ de de zichtbaarheidssectie van Meta-gegevens van de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details-metadata-visibility.png)
 
 Het dialoogvenster **[!UICONTROL Metadata visibility]** wordt weergegeven, zodat u de zichtbaarheidsinstellingen voor het publiek kunt configureren. Er zijn twee montages van de meta-gegevenszichtbaarheid die u voor elk publiek kunt vormen:
 
@@ -355,6 +336,52 @@ Het dialoogvenster **[!UICONTROL Metadata visibility]** wordt weergegeven, zodat
 
 ![ het de zichtbaarheidsdialoog van Meta-gegevens met de beschikbare getoonde opties.](/help/assets/setup/add-manage-audiences/audience-details-metadata-dialog.png)
 
+## Meerdere soorten publiek bewerken {#edit-audiences}
+
+Vanuit het doeldashboard kunt u meerdere soorten publiek tegelijk bewerken. U doet dit door het publiek dat u wilt bewerken te selecteren door de vakken naast de namen te selecteren. Nadat u het publiek hebt geselecteerd, kunt u handelingen uitvoeren met de opties in het menu Bewerken.
+
+![ Mijn aangewezen publiek werkruimte met twee geselecteerd publiek en uitgeeft menu.](/help/assets/setup/add-manage-audiences/audiences-bulk-edit.png)
+
+### Zichtbaarheid van metagegevens in bulk bewerken {#bulk-edit-metadata-visibility}
+
+Selecteer het publiek in het doeldashboard en selecteer **[!UICONTROL Edit metadata visibility]** in het menu Bewerken.
+
+![ Mijn publiek werkruimte met de Edit benadrukte optie van het meta-gegevenszicht.](/help/assets/setup/add-manage-audiences/audiences-bulk-edit-metadata.png)
+
+Het dialoogvenster **[!UICONTROL Metadata visibility]** wordt weergegeven, zodat u de zichtbaarheidsinstellingen voor het geselecteerde publiek kunt configureren. Standaard worden geen opties geselecteerd. Kies de opties die u op alle geselecteerde doelgroepen wilt toepassen en selecteer vervolgens **[!UICONTROL Save]** .
+
+![ het de zichtbaarheidsdialoog van Meta-gegevens met de beschikbare getoonde opties.](/help/assets/setup/add-manage-audiences/audience-details-metadata-dialog.png)
+
+### Toegang tot een bulkbewerkingsverbinding {#bulk-edit-connection-access}
+
+Selecteer het publiek in het doeldashboard en selecteer **[!UICONTROL Edit connection access]** in het menu Bewerken.
+
+![ Mijn publiek werkruimte met de Edit benadrukte optie van de verbindingstoegang.](/help/assets/setup/add-manage-audiences/audiences-bulk-edit-connection-access.png)
+
+Het dialoogvenster **[!UICONTROL Connection access]** wordt weergegeven, zodat u de toegangsinstellingen voor het geselecteerde publiek kunt configureren. Standaard wordt de optie **[!UICONTROL Private audience]** geselecteerd. Kies de opties die u op alle geselecteerde doelgroepen wilt toepassen en selecteer vervolgens **[!UICONTROL Save]** .
+
+![ het de toegangsdialoog van de Verbinding met de beschikbare getoonde opties.](/help/assets/setup/add-manage-audiences/audience-details-connection-access-dialog.png)
+
+### Publiceer publieksnamen en -beschrijvingen in bulk {#bulk-edit-audience-names-descriptions}
+
+Selecteer het publiek in het doeldashboard en selecteer **[!UICONTROL Edit name and description]** in het menu Bewerken.
+
+![ Mijn publiek werkruimte met Edit naam en beschrijving benadrukte optie.](/help/assets/setup/add-manage-audiences/audiences-bulk-edit-name-description.png)
+
+Het dialoogvenster **[!UICONTROL Name and description]** wordt weergegeven, zodat u de naam en beschrijving voor elk geselecteerd publiek kunt configureren. Standaard worden de huidige namen en beschrijvingen voor elk publiek weergegeven. Breng de gewenste wijzigingen aan en selecteer vervolgens **[!UICONTROL Save]** .
+
+![ de Naam en beschrijvingsdialoog met de beschikbare getoonde opties.](/help/assets/setup/add-manage-audiences/audiences-bulk-edit-name-description-dialog.png)
+
+### Categorieën voor bulkbewerking {#bulk-edit-categories}
+
+Selecteer het publiek in het doeldashboard en selecteer **[!UICONTROL Edit categories]** in het menu Bewerken.
+
+![ Mijn publiek werkruimte met de Edit benadrukte categoriesoptie.](/help/assets/setup/add-manage-audiences/audiences-bulk-edit-categories.png)
+
+Het dialoogvenster **[!UICONTROL Categories]** wordt weergegeven, zodat u de categorieën voor elk geselecteerd publiek kunt configureren. Standaard worden geen categorieën geselecteerd. Als u een categorie wilt selecteren, selecteert u eerst de hoofdcategorie en daarna de subcategorieën die u wilt opnemen. Breng de gewenste wijzigingen aan en selecteer vervolgens **[!UICONTROL Save]** .
+
+![ de dialoog van Categorieën met de beschikbare getoonde opties.](/help/assets/setup/add-manage-audiences/audiences-bulk-edit-categories-dialog.png)
+
 ## Volgende stappen
 
-Na het sourcen van publiek, is het tijd om uitgevers te ontdekken [&#128279;](/help/guide/connect/establishing-connections.md) met te verbinden om aan projecten samen te werken.
+Na het sourcen van publiek, is het tijd om uitgevers te ontdekken [ ](/help/guide/connect/establishing-connections.md) met te verbinden om aan projecten samen te werken.

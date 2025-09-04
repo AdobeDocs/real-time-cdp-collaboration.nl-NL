@@ -2,11 +2,11 @@
 title: Verbindingen tot stand brengen
 description: Na het ontdekken van potentiële medewerkers, leer hoe te om verbindingen te vestigen en beginnen aan projecten samen te werken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3fed93f7-1854-440c-802e-6b47e82918c9
-source-git-commit: d460cb12b43b6c250a5fb491c1efc223c53abb23
+source-git-commit: ed8bd9a9e0843e2974e5a7093b2b39b03ca7f5b7
 workflow-type: tm+mt
-source-wordcount: '3081'
+source-wordcount: '2986'
 ht-degree: 0%
 
 ---
@@ -184,8 +184,6 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 
 ![ de werkruimte van verbindingsmontages.](/help/assets/connect/establish-connection/connection-set-up.png){zoomable="yes"}
 
-<!-- FIX THE ABOVE SCREENSHOT TO INCLUDE ADV NAMES, AS WELL AS THE ONES BELOW -->
-
 #### Verbindingsinstellingen {#connection-settings}
 
 >[!CONTEXTUALHELP]
@@ -214,15 +212,10 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 >abstract="Activiteiten uitvoeren om prestatierapporten en inzichten van de campagne te genereren. Kredieten worden verbruikt op basis van het aantal rijen in campagnerapporten voor alle campagnes en de rapportagefrequentie (dagelijks, elke drie dagen of wekelijks)."
 
 >[!CONTEXTUALHELP]
->id="rtcdp_collaboration_connection_settings_legalagreement"
->title="Juridische overeenkomst"
->abstract="Controleer of er een overeenkomst bestaat voor het uitwisselen van gegevens tussen beide partijen."
-
->[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_connection_settings_advertisername"
 >title="Namen van adverteerders"
 >abstract="<p>Optionele instelling. Geeft de naam en id aan waarmee de adverteerder bij de uitgever bekend is.</p><p>De naam van de adverteerder die u hier toevoegt, wordt vooraf ingevuld in de stap Project maken.</p><ul><li>Als de uitgever veelvoudige namen vormde, selecteer van de lijst.</li><li>Als slechts één naam wordt gevormd, wordt het vooraf geselecteerd automatisch.</li><li>Als er geen namen zijn geconfigureerd, wordt het veld voorgevuld met de naam van de adverteerderaccount van Collaboration.</li></ul>"
->additional-url="https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_audience_activation"
@@ -231,7 +224,7 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 
 U kunt de volgende verbindingsinstellingen configureren:
 
-+++Activering van het publiek
++++Activering publiek
 
 >[!IMPORTANT]
 >
@@ -249,7 +242,7 @@ Als u klaar bent, selecteert u **[!UICONTROL Save]** om uw wijzigingen op te sla
 
 +++
 
-+++Gebruik hoofdletters
++++Gebruiksscenario’s
 
 Alle beschikbare opties worden automatisch ingevuld in gevallen waarin gebruik wordt gemaakt. De geselecteerde gebruiksgevallen bepalen welke meningen en opties binnen uw projecten beschikbaar zijn. Meer leren, lees de [ geval van het projectgebruik ](/help/guide/collaborate/manage-projects.md#project-use-cases) gids.
 
@@ -259,7 +252,7 @@ Als u uw gebruiksgevallen wilt aanpassen, selecteert u **[!UICONTROL Edit]** in 
 
 +++
 
-+++Identieke toetsen
++++Toetsen afstemmen
 
 De sleutels van de gelijke worden automatisch bevolkt met degenen u terwijl [ vestiging uw rekening ](/help/guide/setup/onboard-account.md#set-up-match-keys) selecteerde. U kunt schakelen van om het even welke gelijke sleutels u niet wilt gebruiken, maar u kunt geen gelijke sleutels toevoegen die niet tijdens opstelling van rekening werden geselecteerd.
 
@@ -283,14 +276,6 @@ Selecteer **[!UICONTROL Edit]** in de **[!UICONTROL Credit split]** -sectie om d
 
 +++
 
-+++Overeenkomsten
-
-U moet erkennen dat er een juridische overeenkomst bestaat tussen u en uw medewerker. In deze overeenkomst worden de voorwaarden voor het delen en samenwerken van gegevens beschreven. U kunt het selectievakje **[!UICONTROL Acknowledge and confirm]** inschakelen om te bevestigen dat een dergelijke overeenkomst bestaat.
-
-![ de sectie van de Juridische overeenkomst benadrukt en bevestigd in de verbindingswerkruimte.](/help/assets/connect/establish-connection/legal-agreement.png){zoomable="yes"}
-
-+++
-
 +++Namen van adverteerders
 
 >[!NOTE]
@@ -310,8 +295,8 @@ Als u klaar bent, selecteert u **[!UICONTROL Save]** om uw wijzigingen op te sla
 Wanneer u een project maakt, wordt de naam van de adverteerder voorgevuld op basis van de volgende instellingen die tijdens de verbinding zijn ingesteld    :
 
 1. **Geen geplaatste adverteerdernaam**: Als geen adverteerdernamen worden toegevoegd, blijft Collaboration aan het gebruiken van de naam van de adverteerder als adverteerdernaam in gebreke.
-1. **Één de naamreeks van adverteerders**: Als één enkele adverteerdernaam wordt toegevoegd, gebruikt Collaboration automatisch die naam als adverteerdernaam voor het project.
-1. **Veelvoudige geplaatste adverteerdernamen**: Als meer dan één adverteerdernaam wordt toegevoegd, kunt u of uw medewerker om het even welke verstrekte namen selecteren wanneer het creëren van het project.
+2. **Één de naamreeks van adverteerders**: Als één enkele adverteerdernaam wordt toegevoegd, gebruikt Collaboration automatisch die naam als adverteerdernaam voor het project.
+3. **Veelvoudige geplaatste adverteerdernamen**: Als meer dan één adverteerdernaam wordt toegevoegd, kunt u of uw medewerker om het even welke verstrekte namen selecteren wanneer het creëren van het project.
 
 >[!NOTE]
 >
@@ -331,9 +316,7 @@ Vervolgens moet de ontvanger de verbindingsinstellingen controleren die door de 
 
 Controleer de instellingen die de medewerker heeft voorgesteld. U kunt de verbindingsinstellingen accepteren of afwijzen. Als u de verbindingsinstellingen weigert, moet u met de medewerker communiceren over de wijzigingen die u buiten het product wilt aanbrengen. De contactgegevens van de deelnemer worden weergegeven in de sectie **[!UICONTROL Contact]** van de werkruimte voor verbindingsinstellingen. De eigenaar kan vervolgens de verbindingsinstellingen herzien en deze opnieuw verzenden voor revisie.
 
-Als u tevreden bent met de voorgestelde verbindingsinstellingen, moet u erkennen dat er een juridische overeenkomst bestaat tussen u en de medewerker. Schakel het selectievakje **[!UICONTROL Acknowledge and confirm]** in om te bevestigen dat een dergelijke overeenkomst bestaat.
-
-![ de juridische overeenkomstsectie die in de werkruimte van verbindingsmontages wordt benadrukt.](/help/assets/connect/establish-connection/legal-agreement-review.png){zoomable="yes"}
+![ de werkruimte van verbindingsmontages met Accepteren en benadrukte optie van de Weigering.](/help/assets/connect/establish-connection/accept-connection-settings.png){zoomable="yes"}
 
 Bovendien, als u een uitgever bent die met een adverteerder verbindt, kunt u adverteerdernamen in de verbindingsmontages nu toevoegen. Meer over dit proces leren, zie de [ sectie van verbindingsmontages ](#connection-settings).
 
@@ -365,4 +348,4 @@ Er verschijnt een bevestigingsvenster waarin u wordt gevraagd de verwijdering va
 
 ## Volgende stappen
 
-Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [&#128279;](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.
+Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [ ](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.

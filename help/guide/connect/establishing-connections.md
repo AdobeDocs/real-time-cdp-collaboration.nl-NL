@@ -348,4 +348,4 @@ Er verschijnt een bevestigingsvenster waarin u wordt gevraagd de verwijdering va
 
 ## Volgende stappen
 
-Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [ ](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.
+Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [&#128279;](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.

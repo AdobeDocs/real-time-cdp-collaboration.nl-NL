@@ -2,11 +2,11 @@
 title: Verbindingen tot stand brengen
 description: Na het ontdekken van potentiële medewerkers, leer hoe te om verbindingen te vestigen en beginnen aan projecten samen te werken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3fed93f7-1854-440c-802e-6b47e82918c9
-source-git-commit: fcf755d5108f1f957808ead6b7022e3b9f6398b1
+source-git-commit: afe8560a12017c6b993f93cde8636288aa6e4991
 workflow-type: tm+mt
-source-wordcount: '3104'
+source-wordcount: '3154'
 ht-degree: 0%
 
 ---
@@ -195,7 +195,7 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 >id="rtcdp_collaboration_connection_settings_matchkeys"
 >title="Toetsen afstemmen"
 >abstract="Overeenkomstsleutels worden vooraf gevuld met veelgebruikte match-sleutels die u en uw medewerker op accountniveau hebben geselecteerd. U kunt alle sleutels uitschakelen die u in deze verbinding niet wilt gebruiken."
->additional-url="https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/setup/onboard-account#set-up-match-keys" text="Overeenkomende accountsleutels"
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/setup/onboard-account#set-up-match-keys" text="Overeenkomende accountsleutels"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_connection_settings_creditsplit"
@@ -216,7 +216,7 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 >id="rtcdp_collaboration_connection_settings_advertisername"
 >title="Namen van adverteerders"
 >abstract="<p>Optionele instelling. Geeft de naam en id aan waarmee de adverteerder bij de uitgever bekend is.</p><p>De naam van de adverteerder die u hier toevoegt, wordt vooraf ingevuld in de stap Project maken.</p><ul><li>Als de uitgever veelvoudige namen vormde, selecteer van de lijst.</li><li>Als slechts één naam wordt gevormd, wordt het vooraf geselecteerd automatisch.</li><li>Als er geen namen zijn geconfigureerd, wordt het veld voorgevuld met de naam van de adverteerderaccount van Collaboration.</li></ul>"
->additional-url="https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_audience_activation"
@@ -250,6 +250,10 @@ Als u uw gebruiksgevallen wilt aanpassen, selecteert u **[!UICONTROL Edit]** in 
 ![ de de gevalmontages van het Gebruik in de werkruimte van verbindingsmontages.](/help/assets/connect/establish-connection/view-use-cases.png){zoomable="yes"}
 
 ##### Toetsen afstemmen {#match-keys}
+
+>[!IMPORTANT]
+>
+>Wanneer het activeren van publiek waar de veelvoudige gelijke sleutels worden gebruikt, als één (of meer) gelijke sleutel geen overlappingen heeft, geen kijkcijfers van het publiek, of onder drempel daalt, zal de volledige activering ontbreken. Zorg ervoor dat uw publiek voldoende overlap heeft en dat het voldoet aan de minimumdrempel van 1000 id&#39;s voor alle overeenkomende toetsen voordat het wordt geactiveerd.
 
 De sleutels van de gelijke worden automatisch bevolkt met de gemeenschappelijke gelijke sleutels die u en uw medewerker selecteerden terwijl [ vestiging uw rekeningen ](/help/guide/setup/onboard-account.md#set-up-match-keys). Slechts passen sleutels aan die zowel u als uw samenwerker selecteerde **en** in gemeenschappelijk hebben zullen verschijnen.
 
@@ -347,4 +351,4 @@ Er verschijnt een bevestigingsvenster waarin u wordt gevraagd de verwijdering va
 
 ## Volgende stappen
 
-Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [&#128279;](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.
+Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [ ](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.

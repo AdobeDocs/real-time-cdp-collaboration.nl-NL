@@ -2,11 +2,11 @@
 title: Opmerkingen bij de nieuwste Real-Time CDP Collaboration-release
 description: Volg de nieuwste releases voor Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 8513c648-1cc1-4544-b86d-2ee3193ab60f
-source-git-commit: 738c7bc9f3a482a1c7c92c820b364c577e61dd56
+source-git-commit: afe8560a12017c6b993f93cde8636288aa6e4991
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1197'
 ht-degree: 1%
 
 ---
@@ -21,11 +21,25 @@ Deze releaseopmerkingen betreffen de functionaliteit die in Adobe Real-Time CDP 
 
 ## Augustus 2025 {#august-2025}
 
+* Collaboration steunt nu de volgende [ gelijke sleutels ](../setup/onboard-account.md#supported-match-keys):
+   * Onderbroken e-mail
+   * Onderbroken telefoonnummer
+   * CRM-id
+   * Loyalty-id
+   * Onderbroken IPv4
+   * Id van advertentie
+* Er zijn nu meerdere match-keys beschikbaar in Collaboration, waardoor je het publiek groter kunt maken en de match-rates kunt verbeteren. De veelvoudige gelijke sleutels kunnen worden gebruikt wanneer het bronpubliek, het vestigen van verbindingen, en het activeren van publiek. Meer leren over het gebruiken van veelvoudige gelijke sleutels, leest de [ opstellingssleutels ](../setup/onboard-account.md) en [ die publiek ](../setup/onboard-audiences.md#map-fields) gidsen aantrekken.
+
+>[!IMPORTANT]
+>
+>Wanneer het activeren van publiek waar de veelvoudige gelijke sleutels worden gebruikt, als één (of meer) gelijke sleutel geen overlappingen heeft, geen kijkcijfers van het publiek, of onder drempel daalt, zal de volledige activering ontbreken. Zorg ervoor dat uw publiek voldoende overlap heeft en dat het voldoet aan de minimumdrempel van 1000 id&#39;s voor alle overeenkomende toetsen voordat het wordt geactiveerd.
+
+* De bestemming van Adobe Experience Platform steunt nu het activeren van publiek met veelvoudige gelijke sleutels. Bovendien, kunt u nu een verbonden sleutel gebruiken wanneer het vormen van de afbeelding van uw bestemming om te specificeren welke gelijke sleutel tijdens activering wordt verzonden. Meer leren, lees de [ bestemming van Experience Platform ](../destinations/experience-platform.md#linked-keys) gids.
 * Medewerkers kunnen nu meerdere soorten publiek tegelijk bewerken. U kunt de metagegevens van het publiek, de toegang tot de verbinding, namen, beschrijvingen en categorieën voor meerdere soorten publiek nu bewerken met het gereedschap voor bulkbewerking. Meer leren over het uitgeven publiek, leest [ publiek ](../setup/onboard-audiences.md#edit-audiences) gids beheren.
 
 ## Juli 2025 {#july-2025}
 
-CDP Collaboration in realtime ondersteunt nu merkgebonden samenwerking. Medewerkers kunnen nu verbindingen maken, ongeacht of ze adverteerders of uitgevers zijn. Dit maakt flexibelere samenwerkingsmogelijkheden mogelijk en stelt merken in staat elkaars gegevens en inzichten te benutten. Meer over de verschillen tussen merk-aan-merk samenwerking en adverteerder-aan-uitgever samenwerking leren, lees de [ gids van de 0&rbrace; samenwerkingspatronen &lbrace;.](../overview/collaboration-patterns.md)
+CDP Collaboration in realtime ondersteunt nu merkgebonden samenwerking. Medewerkers kunnen nu verbindingen maken, ongeacht of ze adverteerders of uitgevers zijn. Dit maakt flexibelere samenwerkingsmogelijkheden mogelijk en stelt merken in staat elkaars gegevens en inzichten te benutten. Meer over de verschillen tussen merk-aan-merk samenwerking en adverteerder-aan-uitgever samenwerking leren, lees de [ gids van de 0} samenwerkingspatronen {.](../overview/collaboration-patterns.md)
 
 * De medewerkers kunnen nu met elkaar verbinden gebruikend [ privé verbinding nodigt ](../connect/establishing-connections.md#private-connection-invites) uit. Deel de unieke verbindingscode van uw account met een medewerker die deze vervolgens kan gebruiken om rechtstreeks verbinding met u te maken. Dit is een kernkenmerk van merkgebonden samenwerking, waardoor medewerkers naast adverteerders ook verbindingen tot stand kunnen brengen om de map **[!UICONTROL Discover publishers]** te verkennen.
 * [ Zelf-serverbestemmingen ](../setup/manage-destinations.md) zijn nu beschikbaar aan zowel adverteerders als uitgevers.
@@ -37,7 +51,7 @@ CDP Collaboration in realtime ondersteunt nu merkgebonden samenwerking. Medewerk
 
 * Real-Time CDP Collaboration is nu beschikbaar aan klanten in **Australië** en **Nieuw Zeeland**. Deze service is automatisch beschikbaar voor Real-Time CDP Prime- en Ultimate-klanten in deze regio&#39;s.
 * Real-Time CDP Collaboration biedt nu [ zelf-serverbestemmingen ](../setup/manage-destinations.md) door het **[!UICONTROL My destinations]** lusje in de **[!UICONTROL Setup]** sectie aan. Met doelen kunt u het publiek activeren op externe platforms, zoals advertentienetwerken of platforms voor gegevensbeheer, zodat u uw klanten op verschillende kanalen kunt bereiken. Momenteel worden alleen Adobe Experience Platform-doelen ondersteund. Neem contact op met uw Adobe-vertegenwoordiger als u een andere bestemming wilt configureren. Meer over bestemmingen leren, lees de [ gids van het bestemmingsoverzicht ](../destinations/overview.md).
-   * De bestemmingen voegen ook steun toe om het publiek van Collaboration in het [ het publieksportaal van Adobe Experience Platform ](https://experienceleague.adobe.com/nl/docs/experience-platform/segmentation/ui/audience-portal.md#manage-audiences) te bekijken.
+   * De bestemmingen voegen ook steun toe om het publiek van Collaboration in het [ het publieksportaal van Adobe Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/ui/audience-portal.md#manage-audiences) te bekijken.
 * U kunt de publieksvernieuwingsfrequentie voor bestaande gegevensverbindingen in Collaboration nu bewerken. Op dit moment kunt u ervoor kiezen uw publiek dagelijks of om de twee tot zes dagen te vernieuwen. Meer over leren hoe te om het publiek uit te geven verfrist frequentie, leest [ gegevensverbindingen ](../setup/manage-data-connection.md#scheduling) gids beheren.
 * De splitsingen van het krediet tussen medewerkers worden nu geplaatst voor elk gebruiksgeval dat binnen de verbinding wordt geselecteerd. U kunt verschillende regels voor kredietverbruik instellen voor elk geval van gebruik om beter te kunnen bepalen hoe je crediteringen worden gebruikt. Meer over de functie van de creditspleet leren, lees de [ gids van verbindingsmontages ](../connect/establishing-connections.md#connection-settings). Om meer over te leren hoe de kredieten worden verbruikt, lees de [ gids van de kredietactiviteit ](../setup/my-activity.md#types-of-activities). <br> ![ het montagesscherm dat van de Verbinding de functionaliteit van de creditsplits toont.](/help/assets/release-notes/2025/credit-split.png){zoomable="yes"}
 * Uitgevers kunnen nu namen en id&#39;s van adverteerders instellen voordat ze de verbindingsinstellingen van een adverteerder accepteren. Uitgevers kunnen namen en id&#39;s instellen die worden uitgelijnd op hun interne systemen. Deze namen kunnen verschillen van de namen en id&#39;s van de adverteerder. Meer over het toevoegen van adverteerdernamen en IDs leren, lees de [ gids van verbindingsmontages ](../connect/establishing-connections.md#connection-settings.md). <br> ![ het montagesscherm dat van de Verbinding de uitgever toont die adverteerdernamen en IDs plaatsen.](/help/assets/release-notes/2025/add-advertiser-names-modal.png){zoomable="yes"}
@@ -49,7 +63,7 @@ CDP Collaboration in realtime ondersteunt nu merkgebonden samenwerking. Medewerk
 
 ## Maart 2025 {#march-2025}
 
-* Wanneer [ het sourcen publiek ](/help/guide/setup/onboard-audiences.md) in Collaboration, kunt u een publiek nu plaatsen verfrist frequentie van **elke tot zes dagen** om de [ de kredietactiviteit van het Beheer van de Publiek ](/help/guide/setup/my-activity.md#types-of-activities) beter te beheren. Voor meer informatie, leest [ publiek ](https://experienceleague.adobe.com/nl/docs/experience-platform/segmentation/ui/audience-portal.md#manage-audiences) gids beheren. <br> ![ het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont.](/help/assets/setup/add-manage-audiences/audience-scheduling-frequency.png " het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont."){width="250" align="center" zoomable="yes"}
+* Wanneer [ het sourcen publiek ](/help/guide/setup/onboard-audiences.md) in Collaboration, kunt u een publiek nu plaatsen verfrist frequentie van **elke tot zes dagen** om de [ de kredietactiviteit van het Beheer van de Publiek ](/help/guide/setup/my-activity.md#types-of-activities) beter te beheren. Voor meer informatie, leest [ publiek ](https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/ui/audience-portal.md#manage-audiences) gids beheren. <br> ![ het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont.](/help/assets/setup/add-manage-audiences/audience-scheduling-frequency.png " het scherm dat van het Programma verschillende frequentiedetails voor het bijwerken van publiekslidmaatschap toont."){width="250" align="center" zoomable="yes"}
 * Wanneer het vestigen van een verbinding met een medewerker, kunt u van vooraf bepaalde **gebruiksgevallen** nu selecteren. De geselecteerde gebruikscase bepaalt welke projectsecties en productfunctionaliteit beschikbaar worden. Voor meer informatie, lees [ projecten ](/help/guide/collaborate/manage-projects.md#project-use-cases) gids leiden.
    * *Metingen* laat de **sectie van het het projectproject van de Maatregel** toe.
    * *de ontdekking van het publiek* laat **toe ontdekt** projectsectie.

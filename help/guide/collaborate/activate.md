@@ -2,11 +2,11 @@
 title: Soorten publiek activeren
 description: Leer hoe je publiek activeert in Adobe Real-Time CDP Collaboration.
 audience: admin, publisher
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: fd82fcbf-ab39-48e0-9438-0a9046693431
-source-git-commit: a7215d453021be578a32ce1af4d659845c3b8493
+source-git-commit: afe8560a12017c6b993f93cde8636288aa6e4991
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '934'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Activate]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de activering van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Activate]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de activering van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Met activering van het publiek kunt u het publiek activeren voor gebruik in campagnes. De activering kan door één van beide samenwerker afhankelijk van de montages van de publiekactivering [ worden gedaan die in de verbinding ](/help/guide/connect/establishing-connections.md#configure-connection-settings) worden gevormd. Nadat u [ het beste publiek voor uw campagne ](./discover.md) ontdekt, activeer het publiek om hen voor gebruik beschikbaar te maken. Wanneer u een publiek activeert, wordt het verzonden naar de pre-gevormde bestemming van uw medewerker, zoals Adobe Experience Platform, waar het voor gebruik in campagnes beschikbaar wordt. Voor meer informatie over vestiging bestemmingen, verwijs naar de [ gids van het bestemmingsoverzicht ](../destinations/overview.md).
 
@@ -27,7 +27,7 @@ Als u het publiek wilt activeren, navigeert u naar het tabblad **[!UICONTROL Act
 
 >[!IMPORTANT]
 >
->**vóór** u een publiek kunt activeren, moet uw samenwerker **&#x200B;**&#x200B;een bestemming vormen. Wanneer u een publiek activeert, wordt het automatisch verzonden naar de gevormde bestemming van uw medewerker. Als er geen bestemming is ingesteld, kunt u het publiek niet activeren.
+>**vóór** u een publiek kunt activeren, moet uw samenwerker **** een bestemming vormen. Wanneer u een publiek activeert, wordt het automatisch verzonden naar de gevormde bestemming van uw medewerker. Als er geen bestemming is ingesteld, kunt u het publiek niet activeren.
 >
 >![ Activate werkruimte wanneer de medewerker geen gevormde bestemming heeft.](/help/assets/collaborate/activate/no-destination-configured.png)
 
@@ -42,6 +42,10 @@ De workflow voor het activeren van soorten publiek wordt geopend. Hier kunt u he
 In **[!UICONTROL Browse audiences]**, kunt u **[!UICONTROL Identity count]** zien, **[!UICONTROL Overlapping identities]**, en **[!UICONTROL Overlap %]** voor elk publiek.
 
 ![ de Browse publieksdialoog die het beschikbare publiek toont.](/help/assets/collaborate/activate/browse-audiences.png)
+
+>[!IMPORTANT]
+>
+>Wanneer het activeren van publiek waar de veelvoudige gelijke sleutels worden gebruikt, als één (of meer) gelijke sleutel geen overlappingen heeft, geen kijkcijfers van het publiek, of onder drempel daalt, zal de volledige activering ontbreken. Zorg ervoor dat uw publiek voldoende overlap heeft en dat het voldoet aan de minimumdrempel van 1000 id&#39;s voor alle overeenkomende toetsen voordat het wordt geactiveerd.
 
 Selecteer het publiek dat u in campagnes wilt activeren en selecteer vervolgens **[!UICONTROL Save]** . Het publiek wordt nu weergegeven en u ziet de deelvensters **[!UICONTROL Identity count]** , **[!UICONTROL Overlapping identities]** en **[!UICONTROL Overlap %]** voor het geselecteerde publiek.
 

@@ -2,11 +2,11 @@
 title: Gegevensverbindingen beheren
 description: Leer hoe u gegevensverbindingen beheert, zoals match keys, planning, use cases en publiekfiltering in Real-Time CDP Collaboration
 audience: administrator, data engineer
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: d142d3ed-f56a-4150-a885-571728a73ac8
-source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
+source-git-commit: c76259c1a5a684e69e4b5ac8bfdecc9026fe0939
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
@@ -30,17 +30,9 @@ Als u bestaande gegevensverbindingen wilt weergeven, navigeert u naar **[!UICONT
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_manage_dataconnections_matchkeys"
 >title="Toetsen afstemmen"
->abstract="Met Identieke toetsen bepaalt u hoe gegevens uit verschillende bronnen worden vergeleken. Kies de sleutels van de gelijke die voor uw gebruiksgevallen en privacyrichtlijnen het meest relevant zijn."
+>abstract="Met Identieke toetsen bepaalt u hoe gegevens uit verschillende bronnen worden vergeleken. De hieronder getoonde sleutels van de gelijke zijn de doelgebieden u uw brongebieden aan in kaart bracht."
 
-Identieke sleutels zijn herkenningstekens die worden gebruikt om leden over publiek van verschillende gegevensbronnen met elkaar in overeenstemming te brengen. U kunt de sleutels niet uitgeven die u aanvankelijk voor uw gegevensverbinding selecteerde.
-
->[!IMPORTANT]
-> 
->Overeenkomstige sleutels kunnen niet worden bewerkt nadat de gegevensverbinding is gemaakt. Als u overeenkomende toetsen wilt bijwerken, moet u een nieuwe gegevensverbinding maken.
-
-Beschikbare match keys zijn:
-
-- **Onderbroken e-mail**
+De sleutels van de gelijke zijn de doelgebieden u [ in kaart bracht uw brongebieden aan ](./onboard-audiences.md#map-fields). U kunt de sleutels niet uitgeven die u aanvankelijk voor uw gegevensverbinding selecteerde. Als u overeenkomende toetsen wilt bijwerken, moet u een nieuwe gegevensverbinding maken. Meer over leren hoe de gelijkensleutels werken, zie de [ handleiding van de gelijknamensleutels ](./onboard-account.md#set-up-match-keys).
 
 ![ de werkruimte van de gegevensverbindingen van A met de benadrukt de sleutelensectie van de Gelijke.](/help/assets/setup/manage-data-connection/view-data-connection-match-keys.png){zoomable="yes"}
 
@@ -57,7 +49,7 @@ Nadat een gegevensverbinding is gemaakt, kunt u de vernieuwingsfrequentie rechts
 
 >[!NOTE]
 >
->Bij het aanschaffen van soorten publiek bij Adobe Experience Platform wordt het publiek binnen 24 uur na de totstandbrenging van de gegevensverbinding beschikbaar gesteld. Na de eerste import worden de publieksgegevens vernieuwd volgens de gedefinieerde frequentie.
+>Bij het aanschaffen van soorten publiek bij Adobe Experience Platform wordt het publiek binnen 24 uur na de totstandbrenging van de gegevensverbinding beschikbaar gesteld. Na de eerste bron worden de publieksgegevens vernieuwd volgens de gedefinieerde frequentie.
 
 Voor meer informatie bij het plannen, zie [ het plannen sectie ](/help/guide/setup/onboard-audiences.md#schedule) in de gids aan het vormen publiek.
 
@@ -66,6 +58,8 @@ Voor meer informatie bij het plannen, zie [ het plannen sectie ](/help/guide/set
 #### Planning bewerken {#edit-scheduling}
 
 U kunt de frequentie van een bestaande gegevensverbinding bewerken om beter te bepalen hoe vaak het publiek wordt vernieuwd. Als u het schema wilt bewerken, selecteert u **[!UICONTROL Edit]** in de gegevensverbinding in de planningkaart.
+
+De planning is van invloed op alle soorten publiek die afkomstig zijn van de gegevensverbinding.
 
 Selecteer in het dialoogvenster **[!UICONTROL Scheduling]** het vervolgkeuzemenu waarin u het dialoogvenster **[!UICONTROL Frequency]** wilt bijwerken. Stel de vernieuwingsfrequentie in voor dagelijks gebruik of elke twee tot zes dagen. Als u klaar bent, selecteert u **[!UICONTROL Save]** om de wijzigingen toe te passen.
 

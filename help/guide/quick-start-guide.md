@@ -2,11 +2,11 @@
 title: Real-Time CDP Collaboration Quick Start Guide
 description: Leer hoe u in Real-Time CDP Collaboration aan boord van uw organisatie kunt gaan, zoals het instellen van rollen en organisaties, het aantrekken van het publiek, activering en meting. Deze gids helpt samenwerkers verbindingsmontages vormen beginnen hun publiek veilig en efficiënt te gebruiken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 68e5095e-ece5-4f64-9056-10f3b216cf0c
-source-git-commit: ac8db9f5a3879d548d8dc3818ad20fc602b31e7c
+source-git-commit: 849bae30b4e617a6c49f68b2baedc0ab8a822854
 workflow-type: tm+mt
-source-wordcount: '1398'
+source-wordcount: '1384'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Voordat u begint, moet u het volgende doen:
 - [ Toegang provisioned voor eind - gebruikers ](./permissions/manage-user-access.md).
 - [ Rollen die voor uw organisatie worden gecreeerd en aan gebruikers ](./permissions/manage-roles.md) worden toegewezen.
 - Toegang tot brandingmiddelen, zoals de naam, het logo en de banner van uw organisatie.
-- A [ bepaalde gelijke zeer belangrijke strategie ](./setup/onboard-account.md#set-up-match-keys) (momenteel, gehakt e-mail is de enige gesteunde gelijke sleutel).
+- A [ bepaalde gelijke zeer belangrijke strategie ](./setup/onboard-account.md#set-up-match-keys)
 - (Optioneel) Als u Experience Platform niet gebruikt voor publieksbeheer, hebt u toegang tot een ondersteunde cloudbron (Amazon S3 of Snowflake).
 
 ## Stap 1: Volledige op rollen gebaseerde opstelling {#complete-role-based-setup}
@@ -41,7 +41,7 @@ De de toegangsrollen van uw organisatie bepalen wat de gebruikers kunnen zien en
 
 Bekijk deze video voor meer informatie over het toewijzen van producttoegang en -machtigingen voor Collaboration met de Admin Console en Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452236/?learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3452216/?learn=on&enablevpops)
 
 ## Stap 2: Een Collaboration-account instellen {#set-up-your-account}
 
@@ -66,9 +66,9 @@ Definieer de rol van uw account in Collaboration, voeg brandingmiddelen toe en c
 >Neem contact op met uw Adobe-accountvertegenwoordiger als u een uitgeveraccount maakt en deze openbaar wilt maken in de catalogus voor Collaboration-verbindingen. Voor uitgeveraccounts is een aangepaste merkbanner vereist (JPG 2688x1536). Dit bestand kan rechtstreeks met uw vertegenwoordiger worden gedeeld.
 
 - **E-mail van het Contact** - verstrek een bedrijfs-e-mail voor medewerkers aan gebruik nadat een verbinding wordt gevestigd.
-- **vorm gelijke sleutels** - selecteer de herkenningstekens die voor publiek aanpassing (momenteel, gehakt e-mail is de enige gesteunde gelijke sleutel) worden gebruikt.
+- **vorm gelijke sleutels** - selecteer de herkenningstekens die voor publiek aanpassing worden gebruikt.
 
-Meer over aanvankelijke rekeningsopstelling leren, met inbegrip van hoe te om rollen te bepalen, het brandmerken activa te uploaden, en gelijke sleutels te vormen, zie de [ gids van de 0&rbrace; aanvankelijke rekeningsopstelling &lbrace;.](./setup/onboard-account.md#initial-account-setup){target="_blank"}
+Meer over aanvankelijke rekeningsopstelling leren, met inbegrip van hoe te om rollen te bepalen, het brandmerken activa te uploaden, en gelijke sleutels te vormen, zie de [ gids van de 0} aanvankelijke rekeningsopstelling {.](./setup/onboard-account.md#initial-account-setup){target="_blank"}
 
 Bekijk deze video voor een stapsgewijze analyse van een adverteerderopstelling, met inbegrip van rekeningsverwezenlijking, branding, en de configuratie van de gelijkesleutel.
 
@@ -107,7 +107,8 @@ Configureer hoe doelgroepen worden voorbereid, aangepast en beheerd voor gebruik
 >
 >**de belangrijkste vereisten van de Gelijke:**
 >
->Alle gelijke sleutels moeten **worden in orde gebracht**, **worden verlaagd**, en **SHA256-hashed**.\
+>Alle gelijke sleutels moeten **worden in orde gebracht**, **verlaagd**
+>>De gehakte gelijke sleutels moeten **SHA256-gehakt** zijn.\
 >Als u hashwaarden opgeeft waarin hoofdletters worden gebruikt, zet Collaboration deze automatisch om in kleine letters.\
 >Als uw bron **plaintext herkenningstekens** bevat, gebruik de **[!UICONTROL Apply transformation]** optie om het hakken toe te passen. Deze optie is alleen beschikbaar wanneer gebruikers worden aangeschaft bij Experience Platform en wordt niet ondersteund voor bronnen in de cloud.
 >
@@ -221,7 +222,7 @@ Als adverteerder gebruikt u de werkruimte **[!UICONTROL Connect]** in het naviga
 >
 >Momenteel kunnen alleen adverteerders door uitgevers bladeren. Uitgevers kunnen niet door verbindingen met adverteerders bladeren of deze tot stand brengen.
 
-Voor een overzicht van deze stroom, zie [ het vestigen van verbindingsgids ](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [ video van de de rekeningsopstelling van de adverteerder ](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
+Voor een overzicht van deze stroom, zie [ het vestigen van verbindingsgids ](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [ video van de de rekeningsopstelling van de adverteerder ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
 
 ## Volgende stappen
 

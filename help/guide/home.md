@@ -2,9 +2,9 @@
 title: Overzicht
 description: Leer hoe u Adobe Real-Time Customer Data Platform (CDP) Collaboration kunt gebruiken voor het detecteren, activeren en meten van hoogwaardige soorten publiek zonder te vertrouwen op cookies van derden.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3128c1ea-8549-474e-adce-49b9b6802527
-source-git-commit: fa58c5396011e6d3e7cbc5bd65844f69a9cc3f97
+source-git-commit: c76259c1a5a684e69e4b5ac8bfdecc9026fe0939
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 1%
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Met Adobe Real-Time CDP Collaboration kunt u hoogwaardige soorten publiek detecteren, activeren en meten zonder op cookies van derden te vertrouwen. Deze oplossing maakt geavanceerde gegevenssamenwerking mogelijk, waardoor u persoonlijke en ongekende klantervaringen kunt maken in een op privacy gerichte, gecentraliseerde omgeving.
 
-![ de opstellingspagina van Real-Time CDP Collaboration, die een organisatie toont.](/help/assets/overview/set-up.png){zoomable="yes"}
+![ de opstellingspagina van Real-Time CDP Collaboration, die een organisatie toont.](/help/assets/overview/home.png){zoomable="yes"}
 
 ## Doelgroepen identificeren via vertrouwde partners
 
@@ -45,7 +45,7 @@ Zodra u toegang hebt, kunt u uw account instellen en uw gegevensverbinding maken
 
 ## Bronnen
 
-Onderzoek de [ verklarende woordenlijst ](/help/guide/glossary.md) voor gedetailleerde informatie over termijnen die in het product worden gebruikt. Voor steun, heb toegang tot de pagina van de Steun van de Klant van Adobe [&#128279;](https://experienceleague.adobe.com/home?lang=nl-NL&support-tab=open-ticket#support){target="_blank"}.
+Onderzoek de [ verklarende woordenlijst ](/help/guide/glossary.md) voor gedetailleerde informatie over termijnen die in het product worden gebruikt. Voor steun, heb toegang tot de pagina van de Steun van de Klant van Adobe [ ](https://experienceleague.adobe.com/home?lang=en&support-tab=open-ticket#support){target="_blank"}.
 
 ## Contact opnemen
 

@@ -2,11 +2,11 @@
 title: Verbindingen tot stand brengen
 description: Na het ontdekken van potentiële medewerkers, leer hoe te om verbindingen te vestigen en beginnen aan projecten samen te werken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3fed93f7-1854-440c-802e-6b47e82918c9
-source-git-commit: ed8bd9a9e0843e2974e5a7093b2b39b03ca7f5b7
+source-git-commit: fcf755d5108f1f957808ead6b7022e3b9f6398b1
 workflow-type: tm+mt
-source-wordcount: '2986'
+source-wordcount: '3104'
 ht-degree: 0%
 
 ---
@@ -194,7 +194,8 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_connection_settings_matchkeys"
 >title="Toetsen afstemmen"
->abstract="Identieke sleutels zijn vooraf ingevuld met degenen die u op uw organisatieniveau selecteerde. U kunt alle sleutels uitschakelen die u in deze verbinding niet wilt gebruiken."
+>abstract="Overeenkomstsleutels worden vooraf gevuld met veelgebruikte match-sleutels die u en uw medewerker op accountniveau hebben geselecteerd. U kunt alle sleutels uitschakelen die u in deze verbinding niet wilt gebruiken."
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/setup/onboard-account#set-up-match-keys" text="Overeenkomende accountsleutels"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_connection_settings_creditsplit"
@@ -215,7 +216,7 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 >id="rtcdp_collaboration_connection_settings_advertisername"
 >title="Namen van adverteerders"
 >abstract="<p>Optionele instelling. Geeft de naam en id aan waarmee de adverteerder bij de uitgever bekend is.</p><p>De naam van de adverteerder die u hier toevoegt, wordt vooraf ingevuld in de stap Project maken.</p><ul><li>Als de uitgever veelvoudige namen vormde, selecteer van de lijst.</li><li>Als slechts één naam wordt gevormd, wordt het vooraf geselecteerd automatisch.</li><li>Als er geen namen zijn geconfigureerd, wordt het veld voorgevuld met de naam van de adverteerderaccount van Collaboration.</li></ul>"
->additional-url="https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_audience_activation"
@@ -224,7 +225,7 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 
 U kunt de volgende verbindingsinstellingen configureren:
 
-+++Activering publiek
+##### Activering publiek {#audience-activation}
 
 >[!IMPORTANT]
 >
@@ -240,9 +241,7 @@ Als u klaar bent, selecteert u **[!UICONTROL Save]** om uw wijzigingen op te sla
 
 ![ de dialoog van de activering van het Publiek met sparen optie in de werkruimte van verbindingsmontages.](/help/assets/connect/establish-connection/audience-activation-confirm.png){zoomable="yes"}
 
-+++
-
-+++Gebruiksscenario’s
+##### Gebruiksscenario’s {#use-cases}
 
 Alle beschikbare opties worden automatisch ingevuld in gevallen waarin gebruik wordt gemaakt. De geselecteerde gebruiksgevallen bepalen welke meningen en opties binnen uw projecten beschikbaar zijn. Meer leren, lees de [ geval van het projectgebruik ](/help/guide/collaborate/manage-projects.md#project-use-cases) gids.
 
@@ -250,19 +249,23 @@ Als u uw gebruiksgevallen wilt aanpassen, selecteert u **[!UICONTROL Edit]** in 
 
 ![ de de gevalmontages van het Gebruik in de werkruimte van verbindingsmontages.](/help/assets/connect/establish-connection/view-use-cases.png){zoomable="yes"}
 
-+++
+##### Toetsen afstemmen {#match-keys}
 
-+++Toetsen afstemmen
+De sleutels van de gelijke worden automatisch bevolkt met de gemeenschappelijke gelijke sleutels die u en uw medewerker selecteerden terwijl [ vestiging uw rekeningen ](/help/guide/setup/onboard-account.md#set-up-match-keys). Slechts passen sleutels aan die zowel u als uw samenwerker selecteerde **en** in gemeenschappelijk hebben zullen verschijnen.
 
-De sleutels van de gelijke worden automatisch bevolkt met degenen u terwijl [ vestiging uw rekening ](/help/guide/setup/onboard-account.md#set-up-match-keys) selecteerde. U kunt schakelen van om het even welke gelijke sleutels u niet wilt gebruiken, maar u kunt geen gelijke sleutels toevoegen die niet tijdens opstelling van rekening werden geselecteerd.
+![ de werkruimte van verbindingsmontages met de benadrukte de sleutelensectie van de Gelijke het tonen van de gemeenschappelijke gelijke sleutels.](/help/assets/connect/establish-connection/auto-populated-match-keys.png){zoomable="yes"}
+
+Wanneer de verbindingseigenaar opstelling de verbindingsmontages is, kunnen zij [ hun sleutels van de rekeningsovereenkomst ](../setup/onboard-account.md#edit-match-keys) uitgeven om extra gelijke sleutels te omvatten. Nadat u meer overeenkomende toetsen hebt ingeschakeld in uw accountinstellingen, zijn deze beschikbaar voor het inschakelen van de verbindingsinstellingen als uw medewerker deze ook heeft geselecteerd. Toetsen die worden toegevoegd nadat het verbindingsproces is gestart, worden niet automatisch gevuld en moeten handmatig worden ingeschakeld.
 
 Als u de match-toetsen wilt aanpassen, selecteert u **[!UICONTROL Edit]** in de **[!UICONTROL Match keys]** -sectie en schakelt u de overeenkomende toetsen die u in deze verbinding niet wilt gebruiken uit. Als u klaar bent, selecteert u **[!UICONTROL Save]** om uw wijzigingen op te slaan.
 
-![ de zeer belangrijke montages van de Gelijke in de werkruimte van verbindingsmontages.](/help/assets/connect/establish-connection/match-keys.png){zoomable="yes"}
+![ de werkruimte van verbindingsmontages met de dialoog van de de sleutelsectie van de Gelijke open die van een knevel van gelijke sleutel tonen.](/help/assets/connect/establish-connection/additional-match-key-selected.png){zoomable="yes"}
 
-+++
+>[!IMPORTANT]
+>
+>Nadat uw medewerker de verbindingsinstellingen heeft geaccepteerd, worden de overeenkomende toetsen vergrendeld en kunnen deze niet meer worden gewijzigd.
 
-+++Kredietsplitsing
+##### Kredietsplitsing {#credit-split}
 
 Gebruik de afdeling kredietsplitsing om te bepalen welke van de twee samenwerkende partijen de kosten voor de activiteiten zullen dekken. De splitsingsopties voor crediteringen worden bepaald door de geselecteerde gebruiksgevallen voor de verbinding. Hoewel voor de **[!UICONTROL Measurement]** use case één partij nodig is om de kosten te dekken, biedt de **[!UICONTROL Activation - Matching]** use case een extra mogelijkheid om elke partij hun eigen kosten te laten dekken. Voor informatie over de verdeling van kosten, lees de [ gids van de type van kredietactiviteit ](/help/guide/setup/my-activity.md#types-of-activities).
 
@@ -274,9 +277,7 @@ Selecteer **[!UICONTROL Edit]** in de **[!UICONTROL Credit split]** -sectie om d
 
 ![ de gespleten dialoog van het Krediet met opties in de werkruimte van verbindingsmontages.](/help/assets/connect/establish-connection/credit-split.png){zoomable="yes"}
 
-+++
-
-+++Namen van adverteerders
+##### Namen van adverteerders {#advertiser-names}
 
 >[!NOTE]
 >
@@ -303,8 +304,6 @@ Wanneer u een project maakt, wordt de naam van de adverteerder voorgevuld op bas
 > Nadat u de verbindingsinstellingen hebt verzonden, kunt u geen adverteerdernamen meer toevoegen of bewerken.
 
 ![ de werkruimte van verbindingsmontages met de Advertiser- naamensectie die binnen wordt gevuld.](/help/assets/connect/establish-connection/add-advertiser-names.png)
-
-+++
 
 Nadat u uw selecties hebt aangebracht, selecteert u **[!UICONTROL Submit]** om de voorgestelde instellingen ter controle naar de ontvanger te sturen.
 
@@ -348,4 +347,4 @@ Er verschijnt een bevestigingsvenster waarin u wordt gevraagd de verwijdering va
 
 ## Volgende stappen
 
-Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [&#128279;](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.
+Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [ ](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.

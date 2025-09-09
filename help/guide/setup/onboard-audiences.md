@@ -2,11 +2,11 @@
 title: Source en publiek beheren
 description: Leer hoe u het publiek in Adobe Real-Time CDP Collaboration kunt aanschaffen en beheren
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 0a5158fa-73d3-4406-af20-2b6c7be9934e
-source-git-commit: 4f1582b489d99e9e8257c3808ec5863dbc74ef7a
+source-git-commit: 425bcb6b8069dfca17838d05b6a91250293c8308
 workflow-type: tm+mt
-source-wordcount: '3130'
+source-wordcount: '3353'
 ht-degree: 0%
 
 ---
@@ -27,24 +27,24 @@ Voordat u het publiek met medewerkers kunt activeren en overlappende berekeninge
 
 Van het **[!UICONTROL My audiences]** lusje binnen de **[!UICONTROL Setup]** werkruimte, selecteer het add pictogram (![ voeg pictogram toe.](/help/assets/icons/plus.png) ) en selecteer vervolgens **[!UICONTROL Audience]** . Als dit uw eerste publiek is, kunt u de **[!UICONTROL Add]optie** ook selecteren.
 
-![ Mijn publiek werkruimte met de Add optie en de benadrukte optie van Soorten publiek.](/help/assets/setup/add-manage-audiences/add-audiences.png)
+![ Mijn publiek werkruimte met de Add optie en de benadrukte optie van Soorten publiek.](/help/assets/setup/add-manage-audiences/add-audiences.png){zoomable="yes"}
 
 ### Gegevensverbinding selecteren {#select-data-connection}
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_marketing_actions"
 >title="Marketingacties"
->abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De <strong> marketing actie van Collaboration van 0&rbrace; Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. </strong> De <strong> marketing actie van de Wetenschap van 0&rbrace; Gegevens steunt het C9 etiket van het gegevensgebruik.</strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden ingevoerd.</li></ul></p>"
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/overview.html?lang=nl-NL" text="Overzicht van labels voor gegevensgebruik"
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/reference.html?lang=nl-NL" text="Verklarende woordenlijst met gegevensgebruikslabels"
+>abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De <strong> marketing actie van Collaboration van 0} Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. </strong> De <strong> marketing actie van de Wetenschap van 0} Gegevens steunt het C9 etiket van het gegevensgebruik.</strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden betreden.</li></ul></p>"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/overview.html" text="Overzicht van labels voor gegevensgebruik"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/reference.html" text="Verklarende woordenlijst met gegevensgebruikslabels"
 
 >[!IMPORTANT]
 >
->Nadat u de eerste gegevensverbinding tot stand hebt gebracht en uw eerste publiek hebt geïmporteerd, kunt u meerdere soorten publiek importeren via de bestaande gegevensverbinding. Wanneer het toevoegen van extra publiek, zult u van de [ uitgezochte publieksstap ](#select-audiences) beginnen, aangezien de gegevensverbinding reeds is gevestigd.
+>Nadat u de eerste gegevensverbinding tot stand hebt gebracht en uw eerste publiek hebt opgehaald, kunt u meerdere soorten publiek vervolgens betrekken via de bestaande gegevensverbinding. Wanneer het toevoegen van extra publiek, zult u van de [ uitgezochte publieksstap ](#select-audiences) beginnen, aangezien de gegevensverbinding reeds is gevestigd.
 
 Een gegevensverbinding is de bron van gegevens van waar u publiek aantrekt. Adobe Experience Platform is momenteel de enige ondersteunde gegevensverbinding.
 
-Alle instellingen, zoals de planning die u configureert voor uw gegevensverbinding, worden toegepast op alle soorten publiek die afkomstig zijn van deze gegevensverbinding.
+Alle instellingen die u configureert voor de gegevensverbinding worden toegepast op alle soorten publiek die afkomstig zijn van deze gegevensverbinding.
 
 >[!TIP]
 >
@@ -52,7 +52,7 @@ Alle instellingen, zoals de planning die u configureert voor uw gegevensverbindi
 
 Selecteer **[!UICONTROL Add a new data connection]** en selecteer **[!UICONTROL Next]** om uw gegevensverbinding toe te voegen.
 
-![ Add publiek werkruimte met Add een nieuwe benadrukte optie van de gegevensverbinding.](/help/assets/setup/add-manage-audiences/add-data-connection.png)
+![ Add publiek werkruimte met Add een nieuwe benadrukte optie van de gegevensverbinding.](/help/assets/setup/add-manage-audiences/add-data-connection.png){zoomable="yes"}
 
 #### Gegevensbron selecteren
 
@@ -66,13 +66,13 @@ Vervolgens kiest u de bron voor de gegevensverbinding. De beschikbare bronnen zi
 
 Selecteer de gegevensbron en selecteer vervolgens **[!UICONTROL Next]** .
 
-![ Add publiek werkruimte met de benadrukte optie van Adobe Experience Platform.](/help/assets/setup/add-manage-audiences/select-data-connection-source.png)
+![ Add publiek werkruimte met de benadrukte optie van Adobe Experience Platform.](/help/assets/setup/add-manage-audiences/select-data-connection-source.png){zoomable="yes"}
 
 #### Sandbox selecteren
 
-Nadat u de gegevensbron hebt geselecteerd, moet u de sandbox selecteren die het publiek bevat dat u Collaboration wilt gebruiken. Selecteer de sandbox in de lijst met beschikbare sandboxen en selecteer vervolgens **[!UICONTROL Next]**
+Nadat u de gegevensbron hebt geselecteerd, moet u de sandbox selecteren die het publiek bevat dat u voor Collaboration wilt gebruiken. Selecteer de sandbox in de lijst met beschikbare sandboxen en selecteer vervolgens **[!UICONTROL Next]**
 
-![ Add publiek werkruimte met geselecteerde zandbak.](/help/assets/setup/add-manage-audiences/select-sandbox.png)
+![ Add publiek werkruimte met geselecteerde zandbak.](/help/assets/setup/add-manage-audiences/select-sandbox.png){zoomable="yes"}
 
 #### Beleid inzake governance en handhavingsmaatregelen {#governance-policy-and-enforcement-actions}
 
@@ -80,29 +80,29 @@ Vervolgens moet u ervoor zorgen dat de juiste marketingacties zijn ingesteld voo
 
 Gebruik marketingacties om te bepalen welke publieksgegevens vanuit Experience Platform naar Collaboration moeten worden overgebracht. De marketingactie **[!UICONTROL Data Collaboration]** ondersteunt de labels voor gegevensgebruik in C4, C5 en C9. De marketingactie **[!UICONTROL Data Science]** ondersteunt het label voor gegevensgebruik C9.
 
-Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
+Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
 
-* Wanneer checkbox **&#x200B;**&#x200B;**&#x200B; wordt toegelaten, wordt om het even welke gegevens die in Experience Platform worden geëtiketteerd zoals hierboven beschreven uitgesloten en &#x200B;** niet** gebracht in Collaboration.
+* Wanneer checkbox ****** wordt toegelaten, wordt om het even welke gegevens die in Experience Platform worden geëtiketteerd zoals hierboven beschreven uitgesloten en **niet** gebracht in Collaboration.
 * Met checkbox ***gehandicapt***, is er geen beperking op gegevens die uit Experience Platform worden voortgebracht.
 
 Meer informatie over labels voor gegevensgebruik vindt u in de documentatie van Experience Platform:
 
-* [ overzicht van de gebruiksetiketten van Gegevens ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/overview){target="_blank"}
-* [ de etiketten van het gebruiksgebruik van Gegevens verklarende woordenlijst ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/reference){target="_blank"}
+* [ overzicht van de gebruiksetiketten van Gegevens ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/overview){target="_blank"}
+* [ de etiketten van het gebruiksgebruik van Gegevens verklarende woordenlijst ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference){target="_blank"}
 
 Daarnaast wilt u uw regels voor toestemming selecteren die u wilt toepassen op gegevens die worden gedownload naar Collaboration.
 
-![ Add de werkruimte van het publiek bij de sectie van het beleid van het Bestuur en van de handhavingsacties.](/help/assets/setup/add-manage-audiences/data-collaboration-consent.png)
+![ Add de werkruimte van het publiek bij de sectie van het beleid van het Bestuur en van de handhavingsacties.](/help/assets/setup/add-manage-audiences/data-collaboration-consent.png){zoomable="yes"}
 
 Nadat u de marketingacties en de regels voor toestemming hebt geselecteerd, selecteert u **[!UICONTROL Next]** om door te gaan naar de volgende stap. Er verschijnt een bevestigingsvenster waarin u wordt gevraagd de voorwaarden te accepteren. Schakel het selectievakje in en selecteer vervolgens **[!UICONTROL OK]** om te bevestigen.
 
-![ het beleid van het Bestuur en de dialoog van de handhavingsacties met checkbox en O.K. benadrukte optie.](/help/assets/setup/add-manage-audiences/data-collaboration-consent-confirmation.png)
+![ het beleid van het Bestuur en de dialoog van de handhavingsacties met checkbox en O.K. benadrukte optie.](/help/assets/setup/add-manage-audiences/data-collaboration-consent-confirmation.png){zoomable="yes"}
 
 ### Geef details
 
 Geef vervolgens een naam en een beschrijving voor de gegevensverbinding op. Deze informatie zal u helpen de gegevensverbinding later identificeren.
 
-![ Add publiek werkruimte met de optie om een naam en een beschrijving te verstrekken.](/help/assets/setup/add-manage-audiences/data-connection-details.png)
+![ Add publiek werkruimte met de optie om een naam en een beschrijving te verstrekken.](/help/assets/setup/add-manage-audiences/data-connection-details.png){zoomable="yes"}
 
 ### Toewijzingsvelden {#map-fields}
 
@@ -114,7 +114,7 @@ Geef vervolgens een naam en een beschrijving voor de gegevensverbinding op. Deze
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_mapping_target_fields"
 >title="Doelvelden"
->abstract="Gehashte e-mails zijn momenteel de enige ondersteunde overeenkomende sleutels."
+>abstract="Doelvelden zijn de sleutels die worden gekozen tijdens het instellen van de account. Standaard zijn alle gekozen sleutels beschikbaar."
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_mapping_apply_transformation"
@@ -125,47 +125,59 @@ Geef vervolgens een naam en een beschrijving voor de gegevensverbinding op. Deze
 >id="rtcdp_collaboration_import_audience_mapping_identity_namespaces"
 >title="Identiteitsnaamruimten"
 >abstract="Selecteer een naamruimte voor identiteit in de standaard- en aangepaste naamruimten die beschikbaar zijn in uw Experience Platform-organisatie."
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html?lang=nl-NL#standard" text="Standaard- en naamruimten in Experience Platform"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html#standard" text="Standaard- en naamruimten in Experience Platform"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_mapping_profile_attributes"
 >title="Profielkenmerken"
->abstract="Selecteer kenmerken in het Unieschema voor de klasse Profile in Experience Platform. In deze weergave worden de kenmerken weergegeven die aanwezig zijn in het Unieschema en die behoren tot de klasse Individueel profiel XDM."
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=nl-NL" text="Unieschema in Experience Platform"
+>abstract="Selecteer kenmerken in het samenvoegingsschema voor de klasse Profile in Experience Platform. In deze weergave worden de kenmerken weergegeven die aanwezig zijn in het samenvoegingsschema en die behoren tot de klasse Individueel profiel XDM."
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html" text="Unieschema in Experience Platform"
 
-Vervolgens selecteert u bronvelden die u wilt toewijzen aan doelvelden in Collaboration.
+Vervolgens selecteert u bronvelden die u wilt toewijzen aan doelvelden in Collaboration. De beschikbare doelvelden worden gebaseerd op de overeenkomende toetsen die u hebt geselecteerd tijdens het instellen van de account.
 
-![ Add publiek werkruimte met de optie om brongebieden aan doelgebieden in kaart te brengen.](/help/assets/setup/add-manage-audiences/add-map-fields.png)
+>[!IMPORTANT]
+>
+>U kunt momenteel geen gegevensverbindingen bewerken om nieuwe kaartvelden op te nemen. Als u nieuwe sleutels van gelijke aan uw rekening toevoegt nadat uw gegevensverbinding is gecreeerd, zult u een nieuwe gegevensverbinding moeten tot stand brengen om aan hen in kaart te brengen.
+
+![ Add publiek werkruimte met de optie om brongebieden aan doelgebieden in kaart te brengen.](/help/assets/setup/add-manage-audiences/add-map-fields.png){zoomable="yes"}
 
 >[!TIP]
 >
->U kunt meerdere bronvelden toewijzen aan hetzelfde doelveld. Als u bijvoorbeeld e-mailadressen hebt in twee verschillende velden in Experience Platform, kunt u elk van deze adressen als twee aparte rijen toewijzen aan het doelveld van **[!UICONTROL Hashed email]** .
+>U kunt meerdere bronvelden toewijzen aan hetzelfde doelveld. Als u bijvoorbeeld e-mailadressen hebt in twee verschillende velden in Experience Platform, kunt u elk van deze adressen als twee aparte rijen toewijzen aan het doelveld van **[!UICONTROL Hashed email]** . Gebruik de optie **[!UICONTROL Add field]** om extra toewijzingsrijen toe te voegen.
 
 >[!BEGINSHADEBOX]
 
-**[!UICONTROL Source fields]** zijn naamruimten en kenmerken van Experience Platform. Zo bestaan de identiteiten in het platform waarvan u gegevens aanschaft. Source-velden worden toegewezen aan de doelvelden die zijn gedefinieerd in Collaboration.
+**[!UICONTROL Source fields]** zijn naamruimten en kenmerken van Experience Platform. Deze omvatten zowel standaard [ als ](https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html#standard){target="_blank"} douane [ identiteitsnaamruimten. ](https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html#create-namespaces){target="_blank"} Zij omvatten ook profielattributen die in het [ verenigingsschema ](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"} aanwezig zijn en tot de individuele klasse van het Profiel XDM behoren.
 
-**[!UICONTROL Target fields]** geeft aan hoe naar de identiteiten wordt verwezen in Collaboration. Gehashte e-mails zijn momenteel de enige ondersteunde overeenkomende sleutels.
+Source-velden worden toegewezen aan de doelvelden die zijn gedefinieerd in Collaboration.
 
-Gebruik de **[!UICONTROL Apply transformation]** optie wanneer u *niet-gehakt* gebieden van uw bron invoert. In dit geval past Collaboration de hash toe en transformeert het de velden. Het hash-algoritme dat door Adobe wordt gebruikt, is SHA256.
+**[!UICONTROL Target fields]** geeft aan hoe naar de identiteiten wordt verwezen in Collaboration. Doelvelden zijn de sleutels die worden gekozen tijdens het instellen van de account. Standaard zijn alle gekozen sleutels beschikbaar.
+
+Gebruik de **[!UICONTROL Apply transformation]** optie wanneer u *niet-gehashte* gebieden aan gehakte gebieden betrekt. Collaboration past de hashing toe en transformeert de velden. Het hash-algoritme dat door Adobe wordt gebruikt, is SHA256.
 
 >[!ENDSHADEBOX]
 
-Selecteer het lege bronveld naast het doelveld. Het dialoogvenster **[!UICONTROL Select source field]** wordt weergegeven. Selecteer tussen de opties **[!UICONTROL Identity namespaces]** en **[!UICONTROL Profile attributes]** om het gewenste bronveld te zoeken en selecteer vervolgens het veld in de lijst. U kunt ook de zoekoptie gebruiken om het gewenste veld te zoeken.
+Selecteer het lege bronveld naast het doelveld als u met de toewijzing van velden wilt beginnen. Het dialoogvenster **[!UICONTROL Select source field]** wordt weergegeven. Selecteer tussen de opties **[!UICONTROL Identity namespaces]** en **[!UICONTROL Profile attributes]** om het gewenste bronveld te zoeken en selecteer vervolgens het veld in de lijst. U kunt ook de zoekoptie gebruiken om het gewenste veld te zoeken.
 
-![ de Uitgezochte dialoog van het brongebied met de e-mailgetoonde opties.](/help/assets/setup/add-manage-audiences/select-source-field.png)
+![ de Uitgezochte dialoog van het brongebied met de e-mailgetoonde opties.](/help/assets/setup/add-manage-audiences/select-source-field.png){zoomable="yes"}
 
-Als u meerdere e-mailvelden wilt verwerken, wijst u het bronveld voor niet-gehashte e-mail toe met **[!UICONTROL Apply transformation]** .
+Gebruik de optie **[!UICONTROL Apply transformation]** als u een niet-gehasht veld wilt betrekken bij een gehasht doelveld. Als u bijvoorbeeld een tweede e-mailveld wilt toevoegen, selecteert u de optie **[!UICONTROL Add field]** om een nieuwe rij toe te voegen en selecteert u **[!UICONTROL Hashed email]** voor het doelveld. Selecteer een bronveld voor een niet-gehashte e-mail en selecteer vervolgens **[!UICONTROL Apply transformation]** .
 
-![ Add de werkruimte van het publiek met de e-mailbrongebieden die aan het doelgebied worden in kaart gebracht, met Toepassen transformatie die voor één wordt van een knevel voorzien.](/help/assets/setup/add-manage-audiences/apply-transformation.png)
+![ Add de werkruimte van het publiek met de e-mailbrongebieden die aan het doelgebied worden in kaart gebracht, met Toepassen transformatie die voor één wordt van een knevel voorzien.](/help/assets/setup/add-manage-audiences/apply-transformation.png){zoomable="yes"}
 
-Voeg desgewenst toewijzingsparen toe en selecteer vervolgens **[!UICONTROL Next]** .
+Ga door met het toevoegen van toewijzingsparen voor elk doelveld. Als u niet wenst om een gelijke sleutel te gebruiken, kunt u het verwijderen gebruikend schrapping (![ pictogram van de Schrapping ](/help/assets/icons/delete.png)) naast het gebied. Als de overeenkomende sleutel wordt verwijderd, kunt u deze niet gebruiken wanneer u een publiek uit de verbinding ophaalt.
+
+![ Add publiek werkruimte met de optie van de Schrapping naast een benadrukt doelgebied.](/help/assets/setup/add-manage-audiences/remove-target-field.png){zoomable="yes"}
+
+Als u alle toewijzingsvelden hebt, selecteert u **[!UICONTROL Next]** om door te gaan.
+
+![ voegt toe publiek werkruimte met de kaartgebieden die binnen worden gevuld en de Volgende benadrukte optie.](/help/assets/setup/add-manage-audiences/confirm-field-mapping.png){zoomable="yes"}
 
 ### Schema {#schedule}
 
 Stel vervolgens in wanneer het publiek moet worden ingevuld. Het publiek wordt volgens dit schema vernieuwd.
 
-![ Add publiekswerkruimte met de het plannen getoonde opties.](/help/assets/setup/add-manage-audiences/audience-scheduling.png)
+![ Add publiekswerkruimte met de het plannen getoonde opties.](/help/assets/setup/add-manage-audiences/audience-scheduling.png){zoomable="yes"}
 
 >[!IMPORTANT]
 >
@@ -173,11 +185,11 @@ Stel vervolgens in wanneer het publiek moet worden ingevuld. Het publiek wordt v
 
 Selecteer in het vervolgkeuzemenu **[!UICONTROL Frequency]** de frequentie waarmee het publiek zich moet vernieuwen.
 
-![ Add publiek dat werkruimte met open drop-down van de Frequentie plant.](/help/assets/setup/add-manage-audiences/audience-scheduling-frequency.png)
+![ Add publiek dat werkruimte met open drop-down van de Frequentie plant.](/help/assets/setup/add-manage-audiences/audience-scheduling-frequency.png){zoomable="yes"}
 
 Selecteer vervolgens **[!UICONTROL Date range]** . De begindatum is de datum waarop het publiek begint met het vullen met profielen en de einddatum is wanneer het publiek stopt met vernieuwen.
 
-![ Add publiek dat werkruimte met de getoonde de waaieroptie van de Datum plant.](/help/assets/setup/add-manage-audiences/audience-scheduling-date-range.png)
+![ Add publiek dat werkruimte met de getoonde de waaieroptie van de Datum plant.](/help/assets/setup/add-manage-audiences/audience-scheduling-date-range.png){zoomable="yes"}
 
 >[!IMPORTANT]
 >
@@ -185,15 +197,15 @@ Selecteer vervolgens **[!UICONTROL Date range]** . De begindatum is de datum waa
 
 ### Soorten publiek selecteren {#select-audiences}
 
-Nadat u de publieksbron hebt geselecteerd, kiest u een specifiek publiek dat u wilt opnemen. Gebruik de opties voor zoeken en filteren om het relevante publiek in de gegevensbron te zoeken. Selecteer het gewenste publiek en selecteer vervolgens **[!UICONTROL Next]** .
+Nadat u de publieksbron hebt geselecteerd, kiest u een specifiek publiek dat u wilt opnemen. Gebruik de opties voor zoeken en filteren om het relevante publiek te zoeken via de gegevensverbinding. Selecteer het gewenste publiek en selecteer vervolgens **[!UICONTROL Next]** .
 
-![ Add publiek werkruimte met een lijst van beschikbare doelsoorten.](/help/assets/setup/add-manage-audiences/select-audience.png)
+![ Add publiek werkruimte met een lijst van beschikbare doelsoorten.](/help/assets/setup/add-manage-audiences/select-audience.png){zoomable="yes"}
 
 ### Controleren
 
 Bekijk alle configuraties en instellingen voordat u de publiekstoevoeging voltooit. Controleer of alle gegevens correct zijn en selecteer **[!UICONTROL Complete]** om de gegevensverbinding te voltooien.
 
-![ Add publiek werkruimte met alle uitgezochte getoonde configuraties.](/help/assets/setup/add-manage-audiences/review-connection.png)
+![ Add publiek werkruimte met alle uitgezochte getoonde configuraties.](/help/assets/setup/add-manage-audiences/review-connection.png){zoomable="yes"}
 
 ## Het dashboard voor soorten publiek weergeven {#view-audiences-dashboard}
 
@@ -219,12 +231,14 @@ Elk publiek bevat een overzicht van de volgende informatie:
 | **[!UICONTROL Created]** | Geeft aan wanneer het publiek oorspronkelijk naar Collaboration was gedownload. |
 | **[!UICONTROL Last updated]** | Geeft de laatste datum en tijd aan waarop het publiek in Collaboration is bijgewerkt. Dit verwijst niet naar wanneer het publiek het laatst werd verfrist, maar eerder wanneer de configuratie of de meta-gegevens van het publiek het laatst werden veranderd. |
 
+![ de Mijn publiekswerkruimte die alle afkomstig publiek tonen.](/help/assets/setup/add-manage-audiences/audiences-workspace.png){zoomable="yes"}
+
 Om snelle acties op een publiek uit te voeren, selecteer de ellips **...** naast de publieksnaam. De volgende opties zijn beschikbaar:
 
 * Met **[!UICONTROL Edit categories]** kunt u verschillende categorietags toevoegen aan het publiek. Voor meer informatie, verwijs naar de [ categorieën ](#categories) hieronder sectie.
 * **[!UICONTROL Delete]** verwijdert het publiek uit de gegevensverbinding.
 
-![ Mijn publiek werkruimte met het open weglatingsmenu en uitgeeft categorieën en benadrukt de opties van de Schrapping.](/help/assets/setup/add-manage-audiences/audiences-ellipsis-menu.png)
+![ Mijn publiek werkruimte met het open weglatingsmenu en uitgeeft categorieën en benadrukt de opties van de Schrapping.](/help/assets/setup/add-manage-audiences/audiences-ellipsis-menu.png){zoomable="yes"}
 
 ## Individuele doelgroepen weergeven {#view-individual-audiences}
 
@@ -244,7 +258,7 @@ De volgende informatie wordt voor elk individueel publiek getoond:
 | **[!UICONTROL Created]** | Geeft aan wanneer het publiek oorspronkelijk naar Collaboration was gedownload. |
 | **[!UICONTROL Created by]** | Geeft de gebruiker aan die het publiek naar Collaboration heeft gedownload. |
 
-![ de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details.png)
+![ de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details.png){zoomable="yes"}
 
 #### Identiteiten {#identities}
 
@@ -255,7 +269,7 @@ De volgende informatie wordt voor elk individueel publiek getoond:
 
 De sectie **[!UICONTROL Identities]** geeft het aantal identiteiten aan dat in het publiek aanwezig is. De sectie bevat ook een identiteitsverdeling van identiteiten door gelijkesleutel om u te helpen de samenstelling van het publiek begrijpen.
 
-![ de sectie van Identiteiten van de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details-identities.png)
+![ de sectie van Identiteiten van de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details-identities.png){zoomable="yes"}
 
 Het boven de afzonderlijke gedeelten van de uitsplitsing naar matchsleutel houden zal een nauwkeurige telling van de identiteit voor de desbetreffende sleutel opleveren.
 
@@ -272,11 +286,11 @@ Voor eenvoudige publieksorganisatie, het filtreren, en het terugwinnen, kunt u u
 
 Als u categorieën wilt toevoegen, selecteert u de optie **[!UICONTROL Edit]** in de sectie **[!UICONTROL Categories]** .
 
-![ de sectie van Categorieën van de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details-categories.png)
+![ de sectie van Categorieën van de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details-categories.png){zoomable="yes"}
 
 Het dialoogvenster **[!UICONTROL Categories]** wordt weergegeven, zodat u de categorieën kunt selecteren die u aan het publiek wilt toevoegen. Als u een afzonderlijke categorie wilt selecteren, schakelt u het selectievakje naast de categorienaam in.
 
-![ de dialoog van Categorieën met de beschikbare getoonde categorieën.](/help/assets/setup/add-manage-audiences/audience-details-categories-select.png)
+![ de dialoog van Categorieën met de beschikbare getoonde categorieën.](/help/assets/setup/add-manage-audiences/audience-details-categories-select.png){zoomable="yes"}
 
 #### Toegang tot verbinding {#connection-access}
 
@@ -289,7 +303,7 @@ De beschikbaarheid van een publiek voor gebruik in projecten met medewerkers ver
 
 Als u de toegang tot de verbinding van de doelgroep wilt bijwerken, selecteert u de optie **[!UICONTROL Edit]** in de **[!UICONTROL Connection access]** -sectie.
 
-![ de de toegangssectie van de Verbinding van de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details-connection-access.png)
+![ de de toegangssectie van de Verbinding van de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details-connection-access.png){zoomable="yes"}
 
 Het dialoogvenster **[!UICONTROL Connection access]** wordt weergegeven met drie beschikbare toegangsopties voor de verbinding:
 
@@ -299,7 +313,7 @@ Het dialoogvenster **[!UICONTROL Connection access]** wordt weergegeven met drie
 
 Selecteer de gewenste toegangsoptie voor de verbinding en selecteer vervolgens **[!UICONTROL Save]** om de wijzigingen toe te passen.
 
-![ het de toegangsdialoog van de Verbinding met de beschikbare getoonde opties.](/help/assets/setup/add-manage-audiences/audience-details-connection-access-dialog.png)
+![ het de toegangsdialoog van de Verbinding met de beschikbare getoonde opties.](/help/assets/setup/add-manage-audiences/audience-details-connection-access-dialog.png){zoomable="yes"}
 
 >[!IMPORTANT]
 >
@@ -320,7 +334,7 @@ De beschikbaarheid van het publiek voor gebruik in projecten met medewerkers ver
 
 De zichtbaarheid van metagegevens geeft de zichtbaarheid van de metagegevens van een publiek aan voor andere deelnemers voordat ze verbinding maken met u of binnen verschillende projectweergaven. Als u de zichtbaarheid van de metagegevens van de doelgroep wilt bijwerken, selecteert u de optie **[!UICONTROL Edit]** in de **[!UICONTROL Metadata visibility]** -sectie.
 
-![ de de zichtbaarheidssectie van Meta-gegevens van de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details-metadata-visibility.png)
+![ de de zichtbaarheidssectie van Meta-gegevens van de werkruimte van een individueel publiek.](/help/assets/setup/add-manage-audiences/audience-details-metadata-visibility.png){zoomable="yes"}
 
 Het dialoogvenster **[!UICONTROL Metadata visibility]** wordt weergegeven, zodat u de zichtbaarheidsinstellingen voor het publiek kunt configureren. Er zijn twee montages van de meta-gegevenszichtbaarheid die u voor elk publiek kunt vormen:
 
@@ -334,7 +348,7 @@ Het dialoogvenster **[!UICONTROL Metadata visibility]** wordt weergegeven, zodat
 >
 >De instellingen voor de zichtbaarheid van metagegevens worden pas van kracht als het publiek is ingesteld op Openbaar of Aangepast.
 
-![ het de zichtbaarheidsdialoog van Meta-gegevens met de beschikbare getoonde opties.](/help/assets/setup/add-manage-audiences/audience-details-metadata-dialog.png)
+![ het de zichtbaarheidsdialoog van Meta-gegevens met de beschikbare getoonde opties.](/help/assets/setup/add-manage-audiences/audience-details-metadata-dialog.png){zoomable="yes"}
 
 ## Meerdere soorten publiek bewerken {#edit-audiences}
 
@@ -384,4 +398,4 @@ Het dialoogvenster **[!UICONTROL Categories]** wordt weergegeven, zodat u de cat
 
 ## Volgende stappen
 
-Na het sourcen van publiek, is het tijd om uitgevers te ontdekken [&#128279;](/help/guide/connect/establishing-connections.md) met te verbinden om aan projecten samen te werken.
+Na het sourcen van publiek, is het tijd om uitgevers te ontdekken [ ](/help/guide/connect/establishing-connections.md) met te verbinden om aan projecten samen te werken.

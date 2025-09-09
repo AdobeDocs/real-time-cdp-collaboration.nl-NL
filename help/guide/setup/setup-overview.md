@@ -2,9 +2,9 @@
 title: Overzicht van setup
 description: Begrijp alle beschikbare opties en workflows in de sectie setup van Adobe Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: cbf21cc8-41b4-4dfe-88b7-47bd9a19cbc7
-source-git-commit: a7215d453021be578a32ce1af4d659845c3b8493
+source-git-commit: c76259c1a5a684e69e4b5ac8bfdecc9026fe0939
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 Het gedeelte Setup in Adobe Real-Time CDP Collaboration biedt een gecentraliseerde werkruimte voor het beheer van de instellingen en configuraties van uw account. Gebruik de onderstaande handleidingen om te leren hoe u uw account, publiek kunt configureren, gegevensverbindingen kunt beheren, doelen kunt instellen en uw activiteiten op het gebied van kredietverbruik kunt volgen.
 
-![ de opstellingswerkruimte van een rekening, die een overzicht van zijn huidige montages geeft.](/help/assets/setup/set-up-overview.png){zoomable="yes"}
+![ de opstellingswerkruimte van een rekening, die een overzicht van zijn huidige montages geeft.](/help/assets/setup/overview.png){zoomable="yes"}
 
 Gebruik de functionaliteit in de sectie Setup om:
 

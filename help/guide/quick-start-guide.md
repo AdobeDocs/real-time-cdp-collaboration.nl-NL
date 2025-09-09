@@ -68,7 +68,7 @@ Definieer de rol van uw account in Collaboration, voeg brandingmiddelen toe en c
 - **E-mail van het Contact** - verstrek een bedrijfs-e-mail voor medewerkers aan gebruik nadat een verbinding wordt gevestigd.
 - **vorm gelijke sleutels** - selecteer de herkenningstekens die voor publiek aanpassing worden gebruikt.
 
-Meer over aanvankelijke rekeningsopstelling leren, met inbegrip van hoe te om rollen te bepalen, het brandmerken activa te uploaden, en gelijke sleutels te vormen, zie de [ gids van de 0} aanvankelijke rekeningsopstelling {.](./setup/onboard-account.md#initial-account-setup){target="_blank"}
+Meer over aanvankelijke rekeningsopstelling leren, met inbegrip van hoe te om rollen te bepalen, het brandmerken activa te uploaden, en gelijke sleutels te vormen, zie de [ gids van de 0&rbrace; aanvankelijke rekeningsopstelling &lbrace;.](./setup/onboard-account.md#initial-account-setup){target="_blank"}
 
 Bekijk deze video voor een stapsgewijze analyse van een adverteerderopstelling, met inbegrip van rekeningsverwezenlijking, branding, en de configuratie van de gelijkesleutel.
 
@@ -108,7 +108,7 @@ Configureer hoe doelgroepen worden voorbereid, aangepast en beheerd voor gebruik
 >**de belangrijkste vereisten van de Gelijke:**
 >
 >Alle gelijke sleutels moeten **worden in orde gebracht**, **verlaagd**
->>De gehakte gelijke sleutels moeten **SHA256-gehakt** zijn.\
+>&#x200B;>De gehakte gelijke sleutels moeten **SHA256-gehakt** zijn.\
 >Als u hashwaarden opgeeft waarin hoofdletters worden gebruikt, zet Collaboration deze automatisch om in kleine letters.\
 >Als uw bron **plaintext herkenningstekens** bevat, gebruik de **[!UICONTROL Apply transformation]** optie om het hakken toe te passen. Deze optie is alleen beschikbaar wanneer gebruikers worden aangeschaft bij Experience Platform en wordt niet ondersteund voor bronnen in de cloud.
 >

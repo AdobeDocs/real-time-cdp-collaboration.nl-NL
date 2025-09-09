@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Activate]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de activering van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Activate]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de activering van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Met activering van het publiek kunt u het publiek activeren voor gebruik in campagnes. De activering kan door één van beide samenwerker afhankelijk van de montages van de publiekactivering [ worden gedaan die in de verbinding ](/help/guide/connect/establishing-connections.md#configure-connection-settings) worden gevormd. Nadat u [ het beste publiek voor uw campagne ](./discover.md) ontdekt, activeer het publiek om hen voor gebruik beschikbaar te maken. Wanneer u een publiek activeert, wordt het verzonden naar de pre-gevormde bestemming van uw medewerker, zoals Adobe Experience Platform, waar het voor gebruik in campagnes beschikbaar wordt. Voor meer informatie over vestiging bestemmingen, verwijs naar de [ gids van het bestemmingsoverzicht ](../destinations/overview.md).
 
@@ -27,7 +27,7 @@ Als u het publiek wilt activeren, navigeert u naar het tabblad **[!UICONTROL Act
 
 >[!IMPORTANT]
 >
->**vóór** u een publiek kunt activeren, moet uw samenwerker **** een bestemming vormen. Wanneer u een publiek activeert, wordt het automatisch verzonden naar de gevormde bestemming van uw medewerker. Als er geen bestemming is ingesteld, kunt u het publiek niet activeren.
+>**vóór** u een publiek kunt activeren, moet uw samenwerker **&#x200B;**&#x200B;een bestemming vormen. Wanneer u een publiek activeert, wordt het automatisch verzonden naar de gevormde bestemming van uw medewerker. Als er geen bestemming is ingesteld, kunt u het publiek niet activeren.
 >
 >![ Activate werkruimte wanneer de medewerker geen gevormde bestemming heeft.](/help/assets/collaborate/activate/no-destination-configured.png)
 

@@ -2,7 +2,7 @@
 title: Uw account configureren en beheren
 description: Leer hoe u verschillende aspecten van uw account in Real-Time CDP Collaboration kunt configureren en beheren
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: a95e932a-9681-48f2-bf34-6fe5a50597d7
 source-git-commit: f6ba5bb484f296fe5610901bd7b2e542fb9287b0
 workflow-type: tm+mt

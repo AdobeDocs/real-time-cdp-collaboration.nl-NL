@@ -2,7 +2,7 @@
 title: Adobe Experience Platform configureren als bestemming
 description: Leer hoe u Adobe Experience Platform configureert en beheert als een doel in Real-Time CDP Collaboration.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 594610a0-9102-448a-b59b-ec162ef9dd57
 source-git-commit: 6acf936f50b412147578a70e2369b06c53260f06
 workflow-type: tm+mt
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Configureer deze bestemming om het publiek van uw project naar Adobe Experience Platform te activeren. Als u het publiek activeert naar Adobe Experience Platform, kunt u de mogelijkheden van het platform benutten voor publiekssegmentatie, -analyse en -activering via verschillende marketingkanalen. Meer over Adobe Experience Platform leren, verwijs naar het [ overzicht van Experience Platform ](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/home){target="_blank"}.
+Configureer deze bestemming om het publiek van uw project naar Adobe Experience Platform te activeren. Als u het publiek activeert naar Adobe Experience Platform, kunt u de mogelijkheden van het platform benutten voor publiekssegmentatie, -analyse en -activering via verschillende marketingkanalen. Meer over Adobe Experience Platform leren, verwijs naar het [ overzicht van Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/landing/home){target="_blank"}.
 
 >[!WARNING]
 >
@@ -141,8 +141,8 @@ Nu u Adobe Experience Platform als bestemming hebt gevormd, kunt u de geactiveer
 
 >[!IMPORTANT]
 >
->U bent verantwoordelijk voor het toepassen van de benodigde labels voor gegevensgebruik op het publiek dat u activeert op Adobe Experience Platform. Voor meer informatie, verwijs naar de [ etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/overview){target="_blank"} gids.
+>U bent verantwoordelijk voor het toepassen van de benodigde labels voor gegevensgebruik op het publiek dat u activeert op Adobe Experience Platform. Voor meer informatie, verwijs naar de [ etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/overview){target="_blank"} gids.
 
 ![ het Portaal van de Publiek met Real-Time CDP Collaboration als oorsprong in de filteropties.](/help/assets/destinations/adobe-experience-platform/audience-portal.png)
 
-Meer over het Portaal van het Publiek leren, verwijs naar de [ gids van het Portaal van het Publiek van 0&rbrace;.](https://experienceleague.adobe.com/nl/docs/experience-platform/segmentation/ui/audience-portal#manage-audiences){target="_blank"}
+Meer over het Portaal van het Publiek leren, verwijs naar de [ gids van het Portaal van het Publiek van 0}.](https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/ui/audience-portal#manage-audiences){target="_blank"}

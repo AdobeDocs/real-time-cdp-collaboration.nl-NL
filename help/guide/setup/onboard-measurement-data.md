@@ -2,7 +2,7 @@
 title: Metingsgegevens toevoegen en beheren
 description: Leer hoe u meetgegevens toevoegt aan Adobe Real-Time CDP Collaboration.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 hidefromtoc: true
 hide: true
 exl-id: 739d31b9-3f00-477d-b6be-995c7767c6ca

@@ -2,11 +2,11 @@
 title: Overlappingen ontdekken en publiek vergelijken
 description: Ontdek overlappingen tussen het publiek van uw medewerkers en dat van uw medewerkers. Leer hoe u het beste publiek kunt vinden voor gebruik in uw campagnes.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 38c42ad3-9d01-4d09-b80e-37fb51cbf42b
-source-git-commit: 75e76a43de75a7b1c84bdd79cb4a072855ba02df
+source-git-commit: 3dd37dff0be104894cdfe42503b60056b25018e3
 workflow-type: tm+mt
-source-wordcount: '2009'
+source-wordcount: '2010'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de ontdekking van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de ontdekking van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Na [ creërend een project ](/help/guide/collaborate/manage-projects.md), kunt u uw publiek tegen uw medewerkers vergelijken. Zo kunt u relevante doelgroepen voor campagnes identificeren en bepalen welke doelgroepen voor activering naar medewerkers moeten worden gestuurd.
 
@@ -83,7 +83,7 @@ In de vergelijkingssectie van publiek, kunt u de volgende metriek zien, die op d
 | **[!UICONTROL Overlapping identities]** | Het aantal unieke id&#39;s dat aanwezig is bij het publiek van uw medewerker en van uw medewerker. |
 | **[!UICONTROL Overlap %]** | Het percentage profielen dat overlapt tussen het geselecteerde publiek van uw medewerker en dat van uw medewerker. |
 | **[!UICONTROL Audience index]** | Een score die aangeeft hoe sterk een publiek zich verhoudt tot een ander publiek op basis van het aantal onderliggende doelgroepen en de overlappingen. Meer over leren wat de scores betekenen, lees de [ score van de publieksindex ](#audience-index-score) sectie. De scores van de index van het publiek zijn niet beschikbaar wanneer het vergelijken met de basislijn van uw medewerker (alle publiek). |
-| **[!UICONTROL Identities breakdown by match key]** | De uitsplitsing van identiteiten voor elke gelijke sleutel die in het project wordt gekozen, die op het uitgezochte publiek voor elke medewerker wordt gebaseerd. |
+| **[!UICONTROL Identities breakdown by match key]** | De uitsplitsing van identiteiten die voor elke gelijke sleutel in het project worden aangepast, die op het uitgezochte publiek voor elke medewerker wordt gebaseerd. |
 
 {style="table-layout:auto"}
 
@@ -210,4 +210,4 @@ In de sectie over overlappingen ontdekken wordt de score van de publieksindex na
 
 ## Volgende stappen
 
-Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd [&#128279;](/help/guide/collaborate/activate.md) het publiek te activeren dat in de campagnes zou moeten worden gebruikt.
+Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd [ ](/help/guide/collaborate/activate.md) het publiek te activeren dat in de campagnes zou moeten worden gebruikt.

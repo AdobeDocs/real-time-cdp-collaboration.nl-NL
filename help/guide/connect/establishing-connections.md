@@ -2,9 +2,9 @@
 title: Verbindingen tot stand brengen
 description: Na het ontdekken van potentiële medewerkers, leer hoe te om verbindingen te vestigen en beginnen aan projecten samen te werken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3fed93f7-1854-440c-802e-6b47e82918c9
-source-git-commit: 899b6c2a0111ccaebbaf2818772e1d743d6de914
+source-git-commit: c176db9354936fd5e64a2b4f012d99be8ddcf16b
 workflow-type: tm+mt
 source-wordcount: '3274'
 ht-degree: 0%
@@ -58,13 +58,13 @@ Als u wilt weten hoe u een verbinding tot stand brengt, leest u de sectie hieron
 
 ![ diagram op hoog niveau van het adverteerder-uitgever verbindingsproces.](/help/assets/connect/establish-connection/advertiser-publisher-flow.png){zoomable="yes"}
 
-In het adverteerder-aan-uitgevers patroon, ontdekt een adverteerder een uitgever met wie zij door de **[!UICONTROL Discover publishers]** werkruimte willen werken en verzendt een verbindingsuitnodiging. De uitgever beoordeelt vervolgens de uitnodiging en accepteert deze, zodat de adverteerder verbindingsinstellingen kan voorstellen. Zodra de uitgever de verbindingsmontages goedkeurt, wordt de verbinding gevestigd, en beide medewerkers kunnen beginnen samen aan projecten te werken.
+In het adverteerder-aan-uitgevers patroon, ontdekt een adverteerder een uitgever met wie zij door de **[!UICONTROL Discover collaborators]** werkruimte willen werken en verzendt een verbindingsuitnodiging. De uitgever beoordeelt vervolgens de uitnodiging en accepteert deze, zodat de adverteerder verbindingsinstellingen kan voorstellen. Zodra de uitgever de verbindingsmontages goedkeurt, wordt de verbinding gevestigd, en beide medewerkers kunnen beginnen samen aan projecten te werken.
 
 ### Overzicht op hoog niveau
 
 Om een verbinding tussen een adverteerder en een uitgever tot stand te brengen, zijn de volgende stappen betrokken:
 
-1. [ ontdekt uitgevers ](#discover-publishers): De adverteerder identificeert potentiële uitgevers om met samen te werken.
+1. [ ontdekt uitgevers ](#discover-collaborators): De adverteerder identificeert potentiële medewerkers om met te werken.
 1. [ verzend Uitnodiging ](#send-invite): De adverteerder verzendt een verbindingsuitnodiging naar de geselecteerde uitgever.
 1. [ keur Uitnodiging ](#accept-invite) goed: De uitgever herziet en keurt de uitnodiging goed.
 1. [ vorm verbindingsmontages ](#configure-connection-settings): De adverteerder vormt de verbindingsmontages en verzendt hen naar de uitgever voor overzicht.
@@ -108,25 +108,25 @@ Zodra de verbindingsmontages worden goedgekeurd, wordt de verbinding gevestigd, 
 
 In de werkruimte van **[!UICONTROL Connect]** kunt u uw verbindingen met medewerkers beheren, verbindingsuitnodigingen verzenden en adverteerders in de uitgeversmap laten bladeren. De werkruimte bestaat uit twee hoofdtabbladen:
 
-### Uitgevers ontdekken {#discover-publishers}
+### Medewerkers ontdekken {#discover-collaborators}
 
 >[!IMPORTANT]
 >
->Alleen adverteerders kunnen uitgevers detecteren met de werkruimte **[!UICONTROL Discover publishers]** . Om over het verbinden met medewerkers ongeacht hun rol te leren, lees de [ brand-aan-brand verbindings ](#brand-to-brand-connection) sectie.
+>Alleen adverteerders kunnen uitgevers detecteren met de werkruimte **[!UICONTROL Discover collaborators]** . Om over het verbinden met medewerkers ongeacht hun rol te leren, lees de [ brand-aan-brand verbindings ](#brand-to-brand-connection) sectie.
 
-Navigeer naar de werkruimte **[!UICONTROL Discover publishers]** op het tabblad **[!UICONTROL Connect]** om uitgevers te zoeken. Hier kunt u door de lijst met beschikbare uitgevers bladeren met de pagineringsbesturingselementen onder aan de werkruimte. Meer over de **[!UICONTROL Discover publishers]** werkruimte leren, zie [ uitgevers ](/help/guide/connect/discover-publishers.md) gids ontdekken.
+Navigeer naar de werkruimte **[!UICONTROL Discover collaborators]** op het tabblad **[!UICONTROL Connect]** om uitgevers te zoeken. Hier kunt u door de lijst met beschikbare uitgevers bladeren met de pagineringsbesturingselementen onder aan de werkruimte. Om meer over de **[!UICONTROL Discover collaborators]** werkruimte te leren, zie [ deelnemers ](/help/guide/connect/discover-collaborators.md) gids ontdekken.
 
-![ Discover uitgeverij werkruimte die een lijst van beschikbare uitgevers toont.](/help/assets/connect/establish-connection/discover-publishers.png){zoomable="yes"}
+![ ontdekt de werkruimte van Medewerkers tonend een lijst van beschikbare uitgevers.](/help/assets/connect/establish-connection/discover-collaborators.png){zoomable="yes"}
 
 ### Uitnodiging verzenden {#send-invite}
 
 >[!IMPORTANT]
 >
->In deze sectie wordt beschreven hoe adverteerders verbindingsuitnodigingen verzenden naar uitgevers via de **[!UICONTROL Discover publishers]** -werkruimte. Om over het vormen van verbindingen tussen merken ongeacht hun rollen te leren, lees de [ merk-aan-merk verbinding ](#brand-to-brand-connection) sectie of bezoek de [ privé verbindingsverzoeken ](#private-connection-invite) sectie.
+>In deze sectie wordt beschreven hoe adverteerders verbindingsuitnodigingen verzenden naar uitgevers via de **[!UICONTROL Discover collaborators]** -werkruimte. Om over het vormen van verbindingen tussen merken ongeacht hun rollen te leren, lees de [ merk-aan-merk verbinding ](#brand-to-brand-connection) sectie of bezoek de [ privé verbindingsverzoeken ](#private-connection-invite) sectie.
 
 Nadat u een uitgever hebt geïdentificeerd waarmee u wilt samenwerken, selecteert u de optie **[!UICONTROL Connect]** op de uitgeverskaart. Met deze handeling wordt het verbindingsproces gestart.
 
-![ de Connect optie die op een specifieke uitgever in de Discover uitgeverswerkruimte wordt benadrukt.](/help/assets/connect/establish-connection/connect-selection.png){zoomable="yes"}
+![ de Connect optie die op een specifieke uitgever in de Discover werkruimte van Medewerkers wordt benadrukt.](/help/assets/connect/establish-connection/connect-selection.png){zoomable="yes"}
 
 Er wordt een dialoogvenster weergegeven waarin u wordt gevraagd een verbindingsuitnodiging naar de uitgever te sturen. Selecteer **[!UICONTROL Send invite]** om door te gaan.
 
@@ -223,7 +223,7 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 >id="rtcdp_collaboration_connection_settings_matchkeys"
 >title="Toetsen afstemmen"
 >abstract="Overeenkomstsleutels worden vooraf gevuld met veelgebruikte match-sleutels die u en uw medewerker op accountniveau hebben geselecteerd. U kunt alle sleutels uitschakelen die u in deze verbinding niet wilt gebruiken."
->additional-url="https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/setup/onboard-account#set-up-match-keys" text="Overeenkomende accountsleutels"
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/setup/onboard-account#set-up-match-keys" text="Overeenkomende accountsleutels"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_connection_settings_creditsplit"
@@ -244,7 +244,7 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 >id="rtcdp_collaboration_connection_settings_advertisername"
 >title="Namen van adverteerders"
 >abstract="<p>Optionele instelling. Geeft de naam en id aan waarmee de adverteerder bij de uitgever bekend is.</p><p>De naam van de adverteerder die u hier toevoegt, wordt vooraf ingevuld in de stap Project maken.</p><ul><li>Als de uitgever veelvoudige namen vormde, selecteer van de lijst.</li><li>Als slechts één naam wordt gevormd, wordt het vooraf geselecteerd automatisch.</li><li>Als er geen namen zijn geconfigureerd, wordt het veld voorgevuld met de naam van de adverteerderaccount van Collaboration.</li></ul>"
->additional-url="https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_audience_activation"
@@ -379,4 +379,4 @@ Er verschijnt een bevestigingsvenster waarin u wordt gevraagd de verwijdering va
 
 ## Volgende stappen
 
-Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [&#128279;](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.
+Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [ ](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.

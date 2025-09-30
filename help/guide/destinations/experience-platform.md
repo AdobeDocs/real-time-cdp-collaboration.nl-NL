@@ -150,4 +150,4 @@ Nu u Adobe Experience Platform als bestemming hebt gevormd, kunt u de geactiveer
 
 ![ het Portaal van de Publiek met Real-Time CDP Collaboration als oorsprong in de filteropties.](/help/assets/destinations/adobe-experience-platform/audience-portal.png)
 
-Meer over het Portaal van het Publiek leren, verwijs naar de [ gids van het Portaal van het Publiek van 0}.](https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/ui/audience-portal#manage-audiences){target="_blank"}
+Meer over het Portaal van het Publiek leren, verwijs naar de [ gids van het Portaal van het Publiek van 0&rbrace;.](https://experienceleague.adobe.com/en/docs/experience-platform/segmentation/ui/audience-portal#manage-audiences){target="_blank"}

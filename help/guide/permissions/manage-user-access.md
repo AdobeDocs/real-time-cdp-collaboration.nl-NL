@@ -15,7 +15,7 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Beheer toestemmingen en gebruikerstoegang tot individuele componenten binnen Adobe Real-Time CDP Collaboration door de interface van de Toestemmingen van Experience Cloud [ ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/browse){target="_blank"}. De toestemmingen staan systeem en productbeheerders toe om [ rollen ](./manage-roles.md) te bepalen om gebruikerstoegang tot specifieke eigenschappen en middelen te beheren.
+Beheer toestemmingen en gebruikerstoegang tot individuele componenten binnen Adobe Real-Time CDP Collaboration door de interface van de Toestemmingen van Experience Cloud [&#128279;](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/browse){target="_blank"}. De toestemmingen staan systeem en productbeheerders toe om [ rollen ](./manage-roles.md) te bepalen om gebruikerstoegang tot specifieke eigenschappen en middelen te beheren.
 
 ## Toegang tot machtigingen configureren {#permissions-access}
 

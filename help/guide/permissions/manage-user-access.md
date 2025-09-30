@@ -2,7 +2,7 @@
 title: Gebruikerstoegang beheren via Rechten
 description: Rechten beheren en gebruikers toegang geven tot verschillende componenten van de gebruikersinterface van Real-Time CDP Collaboration.
 audience: admin
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 0155f6a6-5e67-4415-af96-1848345842e4
 source-git-commit: 0dead396657c97cec47ddd64c8ec3c349f541a8f
 workflow-type: tm+mt
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Beheer toestemmingen en gebruikerstoegang tot individuele componenten binnen Adobe Real-Time CDP Collaboration door de interface van de Toestemmingen van Experience Cloud [&#128279;](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/permissions-ui/browse){target="_blank"}. De toestemmingen staan systeem en productbeheerders toe om [ rollen ](./manage-roles.md) te bepalen om gebruikerstoegang tot specifieke eigenschappen en middelen te beheren.
+Beheer toestemmingen en gebruikerstoegang tot individuele componenten binnen Adobe Real-Time CDP Collaboration door de interface van de Toestemmingen van Experience Cloud [&#128279;](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/abac/permissions-ui/browse){target="_blank"}. De toestemmingen staan systeem en productbeheerders toe om [ rollen ](./manage-roles.md) te bepalen om gebruikerstoegang tot specifieke eigenschappen en middelen te beheren.
 
 ## Toegang tot machtigingen configureren {#permissions-access}
 
@@ -53,7 +53,7 @@ De gebruiker beschikt nu over productbeheerdersrechten en kan beheerfuncties, zo
 
 ### Beheerders: gebruikerstoegang tot Experience Platform configureren {#user-access}
 
-Nu u de beheerderstoegang van het gebruikersproduct hebt verleend, moet u hen gebruikerstoegang tot het product van Experience Platform verlenen. Als deel van de toegangsconfiguraties, zult u de gebruiker specifieke [ productprofielen ](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html) toewijzen.
+Nu u de beheerderstoegang van het gebruikersproduct hebt verleend, moet u hen gebruikerstoegang tot het product van Experience Platform verlenen. Als deel van de toegangsconfiguraties, zult u de gebruiker specifieke [ productprofielen ](https://helpx.adobe.com/nl/enterprise/using/manage-product-profiles.html) toewijzen.
 
 >[!TIP]
 >
@@ -83,7 +83,7 @@ De gebruiker zou productbeheerder en producttoegang tot Experience Platform moet
 
 ### Beheerders: Experience Platform UI-toegang configureren {#product-access}
 
-In Real-Time CDP Collaboration werken beheerders en eindgebruikers samen met gegevens uit Experience Platform, zoals publiek- en auditlogboeken. Deze gegevens worden bewaard binnen instanties van Experience Platform die sandboxen worden genoemd. Om ervoor te zorgen dat de gebruikers met deze gegevens kunnen in wisselwerking staan, moet u [ standaardrollen ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home#default-roles){target="_blank"} aan de gebruiker toewijzen.
+In Real-Time CDP Collaboration werken beheerders en eindgebruikers samen met gegevens uit Experience Platform, zoals publiek- en auditlogboeken. Deze gegevens worden bewaard binnen instanties van Experience Platform die sandboxen worden genoemd. Om ervoor te zorgen dat de gebruikers met deze gegevens kunnen in wisselwerking staan, moet u [ standaardrollen ](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/home#default-roles){target="_blank"} aan de gebruiker toewijzen.
 
 Om te beginnen, navigeer aan [ Adobe Experience Cloud ](https://experience.adobe.com/). U moet nu **[!UICONTROL Experience Platform]** en **[!UICONTROL Permissions]** inside of **[!UICONTROL Quick access]** zien.
 
@@ -118,7 +118,7 @@ U hebt nu toegang tot Experience Platform en machtigingen. In de laatste stap ge
 >title="gebruikerstoegang beheren"
 >abstract=""
 
-Om gebruikers toegang tot Collaboration te verlenen, zult u een toegangsbeheerconcept genoemd rollen gebruiken. De rollen bepalen het niveau van toegang een beheerder of een gebruiker moet [ middelen ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home#permissions) in uw organisatie.
+Om gebruikers toegang tot Collaboration te verlenen, zult u een toegangsbeheerconcept genoemd rollen gebruiken. De rollen bepalen het niveau van toegang een beheerder of een gebruiker moet [ middelen ](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/home#permissions) in uw organisatie.
 
 Wanneer het vormen van individuele toegang tot Collaboration, zult u gebruikersrollen toewijzen die toestemmingen van het middel van Samenwerking bevatten. U kunt [ gebruiken beheert rollen ](./manage-roles.md) gids om informatie over te vinden:
 

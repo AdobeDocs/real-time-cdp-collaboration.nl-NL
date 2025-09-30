@@ -43,7 +43,7 @@ Zodra beide medewerkers hun rekeningsopstelling hebben, zijn zij klaar om [ van 
 
 Nadat de verbinding wordt gevestigd, [!UICONTROL Luma] [ leidt tot een project ](../collaborate/manage-projects.md) om van hun samenwerking met [!UICONTROL TV Tube] af te schoppen. Tijdens de projectopstelling, kiezen zij de gevallen van het samenwerkingsgebruik die hun doelstellingen het best passen: [ ontdekt ](../collaborate/discover.md), [ activeert ](../collaborate/activate.md), en [ Maatregel ](../collaborate/measure.md).
 
-[!UICONTROL Luma] hefboomwerkingen [ ontdekken ](../collaborate/discover.md) gebruiksgeval om inzichten in [!UICONTROL TV Tube] het publieksgegevens van de publiek te bereiken. Zodra [!UICONTROL Luma] de segmenten van het doelpubliek heeft geïdentificeerd, activeren zij [ ](../collaborate/activate.md) deze publiek.
+[!UICONTROL Luma] hefboomwerkingen [ ontdekken ](../collaborate/discover.md) gebruiksgeval om inzichten in [!UICONTROL TV Tube] het publieksgegevens van de publiek te bereiken. Zodra [!UICONTROL Luma] de segmenten van het doelpubliek heeft geïdentificeerd, activeren zij [&#128279;](../collaborate/activate.md) deze publiek.
 
 Na het activeren van het publiek, [!UICONTROL TV Tube] looppas gerichte marketing campagnes en uploadt gegevens aan [ Meetlat ](../collaborate/measure.md) de resultaten om de doeltreffendheid van hun campagne te evalueren.
 
@@ -57,6 +57,6 @@ Na het betrekken van hun publiek, [!UICONTROL Fit Apparel] en [!UICONTROL Luma] 
 
 Nadat de verbinding wordt gevestigd, [!UICONTROL Fit Apparel] [ leidt tot een project ](../collaborate/manage-projects.md) om van hun samenwerking met [!UICONTROL Luma] af te schoppen. Tijdens de projectopstelling, kiezen zij de gevallen van het samenwerkingsgebruik die hun doelstellingen het best passen: [ ontdekt ](../collaborate/discover.md), [ activeert ](../collaborate/activate.md), en [ Maatregel ](../collaborate/measure.md).
 
-[!UICONTROL Fit Apparel] en [!UICONTROL Luma] kunnen zowel [ gebruiken ontdekken ](../collaborate/discover.md) gebruiksgeval om inzichten in elkaars publieksgegevens te bereiken. Zodra zij waardevolle publiekssegmenten hebben geïdentificeerd, activeren zij [ ](../collaborate/activate.md) hun gekozen publiek voor marketing campagnes.
+[!UICONTROL Fit Apparel] en [!UICONTROL Luma] kunnen zowel [ gebruiken ontdekken ](../collaborate/discover.md) gebruiksgeval om inzichten in elkaars publieksgegevens te bereiken. Zodra zij waardevolle publiekssegmenten hebben geïdentificeerd, activeren zij [&#128279;](../collaborate/activate.md) hun gekozen publiek voor marketing campagnes.
 
 Tot slot na het uitvoeren van hun campagnes, uploaden beide merken gegevens aan [ Meetlat ](../collaborate/measure.md) de resultaten en evalueren de doeltreffendheid van hun samenwerking.

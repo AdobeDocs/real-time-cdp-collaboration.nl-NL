@@ -41,7 +41,7 @@ Real-Time CDP Collaboration is nu beschikbaar aan klanten in **Canada**. Deze se
 
 ## Juli 2025 {#july-2025}
 
-CDP Collaboration in realtime ondersteunt nu merkgebonden samenwerking. Medewerkers kunnen nu verbindingen maken, ongeacht of ze adverteerders of uitgevers zijn. Dit maakt flexibelere samenwerkingsmogelijkheden mogelijk en stelt merken in staat elkaars gegevens en inzichten te benutten. Meer over de verschillen tussen merk-aan-merk samenwerking en adverteerder-aan-uitgever samenwerking leren, lees de [ gids van de 0} samenwerkingspatronen {.](../overview/collaboration-patterns.md)
+CDP Collaboration in realtime ondersteunt nu merkgebonden samenwerking. Medewerkers kunnen nu verbindingen maken, ongeacht of ze adverteerders of uitgevers zijn. Dit maakt flexibelere samenwerkingsmogelijkheden mogelijk en stelt merken in staat elkaars gegevens en inzichten te benutten. Meer over de verschillen tussen merk-aan-merk samenwerking en adverteerder-aan-uitgever samenwerking leren, lees de [ gids van de 0&rbrace; samenwerkingspatronen &lbrace;.](../overview/collaboration-patterns.md)
 
 * De medewerkers kunnen nu met elkaar verbinden gebruikend [ privé verbinding nodigt ](../connect/establishing-connections.md#private-connection-invites) uit. Deel de unieke verbindingscode van uw account met een medewerker die deze vervolgens kan gebruiken om rechtstreeks verbinding met u te maken. Dit is een kernkenmerk van merkgebonden samenwerking, waardoor medewerkers naast adverteerders ook verbindingen tot stand kunnen brengen om de map **[!UICONTROL Discover collaborators]** te verkennen.
 * [ Zelf-serverbestemmingen ](../setup/manage-destinations.md) zijn nu beschikbaar aan zowel adverteerders als uitgevers.

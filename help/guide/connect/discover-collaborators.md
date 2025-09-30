@@ -2,7 +2,7 @@
 title: Medewerkers ontdekken
 description: Als adverteerder leert u hoe u potentiële medewerkers kunt ontdekken die met Adobe Real-Time CDP Collaboration kunnen werken
 audience: admin, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: f38ed4ce-e4d2-46d3-b8fa-aa8d14f926e1
 source-git-commit: ae35f62580ff3d0485dcf99f3638f68d21cc38a2
 workflow-type: tm+mt

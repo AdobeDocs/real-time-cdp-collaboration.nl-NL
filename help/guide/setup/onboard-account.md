@@ -2,11 +2,11 @@
 title: Uw account configureren en beheren
 description: Leer hoe u verschillende aspecten van uw account in Real-Time CDP Collaboration kunt configureren en beheren
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: a95e932a-9681-48f2-bf34-6fe5a50597d7
-source-git-commit: f6ba5bb484f296fe5610901bd7b2e542fb9287b0
+source-git-commit: 0dead396657c97cec47ddd64c8ec3c349f541a8f
 workflow-type: tm+mt
-source-wordcount: '1295'
+source-wordcount: '1297'
 ht-degree: 0%
 
 ---
@@ -62,6 +62,11 @@ Als u wilt beginnen met het configureren van uw account, moet u eerst de account
 >id="rtcdp_collaboration_organization_onboarding_matchkeys"
 >title="Toetsen afstemmen"
 >abstract="Identieke sleutels zijn herkenningstekens die worden gebruikt om publieksprofielen van verschillende gegevensbronnen met elkaar in overeenstemming te brengen. Neem alle sleutels op waarmee uw merk kan werken."
+
+>[!CONTEXTUALHELP]
+>id="rtcdp_collaboration_organization_setup_match_keys"
+>title="match keys"
+>abstract=""
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_organization_onboarding_peopleIDs"

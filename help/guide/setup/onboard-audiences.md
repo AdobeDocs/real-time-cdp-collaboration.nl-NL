@@ -2,7 +2,7 @@
 title: Source en publiek beheren
 description: Leer hoe u het publiek in Adobe Real-Time CDP Collaboration kunt aanschaffen en beheren
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 0a5158fa-73d3-4406-af20-2b6c7be9934e
 source-git-commit: 0dead396657c97cec47ddd64c8ec3c349f541a8f
 workflow-type: tm+mt
@@ -35,8 +35,8 @@ Van het **[!UICONTROL My audiences]** lusje binnen de **[!UICONTROL Setup]** wer
 >id="rtcdp_collaboration_import_audience_marketing_actions"
 >title="Marketingacties"
 >abstract="<p>Gebruik marketingacties om te bepalen welke publieksgegevens uit Experience Platform in Real-Time CDP Collaboration moeten worden geïmporteerd. De <strong> marketing actie van Collaboration van 0&rbrace; Gegevens steunt C4, C5 en C9 de etiketten van het gegevensgebruik. </strong> De <strong> marketing actie van de Wetenschap van 0&rbrace; Gegevens steunt het C9 etiket van het gegevensgebruik.</strong></p> <p> <ul><li> Met checkbox <em> toegelaten </em>, wordt om het even welk gegeven dat met de etiketten duidelijk is die hierboven in Experience Platform worden geroepen uitgesloten en wordt <strong> niet </strong> gebracht in Real-Time CDP Collaboration.</li><li> Met checkbox <em> gehandicapt </em>, is er geen beperking op gegevens van Experience Platform die in Real-Time CDP Collaboration kunnen worden betreden.</li></ul></p>"
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/overview.html" text="Overzicht van labels voor gegevensgebruik"
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/reference.html" text="Verklarende woordenlijst met gegevensgebruikslabels"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/overview.html?lang=nl-NL" text="Overzicht van labels voor gegevensgebruik"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/reference.html?lang=nl-NL" text="Verklarende woordenlijst met gegevensgebruikslabels"
 
 >[!IMPORTANT]
 >
@@ -80,15 +80,15 @@ Vervolgens moet u ervoor zorgen dat de juiste marketingacties zijn ingesteld voo
 
 Gebruik marketingacties om te bepalen welke publieksgegevens vanuit Experience Platform naar Collaboration moeten worden overgebracht. De marketingactie **[!UICONTROL Data Collaboration]** ondersteunt de labels voor gegevensgebruik in C4, C5 en C9. De marketingactie **[!UICONTROL Data Science]** ondersteunt het label voor gegevensgebruik C9.
 
-Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
+Lees meer over [ C4, C5, en C9 de etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/reference#contract){target="_blank"}.
 
 * Wanneer checkbox **&#x200B;**&#x200B;**&#x200B; wordt toegelaten, wordt om het even welke gegevens die in Experience Platform worden geëtiketteerd zoals hierboven beschreven uitgesloten en &#x200B;** niet** gebracht in Collaboration.
 * Met checkbox ***gehandicapt***, is er geen beperking op gegevens die uit Experience Platform worden voortgebracht.
 
 Meer informatie over labels voor gegevensgebruik vindt u in de documentatie van Experience Platform:
 
-* [ overzicht van de gebruiksetiketten van Gegevens ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/overview){target="_blank"}
-* [ de etiketten van het gebruiksgebruik van Gegevens verklarende woordenlijst ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference){target="_blank"}
+* [ overzicht van de gebruiksetiketten van Gegevens ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/overview){target="_blank"}
+* [ de etiketten van het gebruiksgebruik van Gegevens verklarende woordenlijst ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/reference){target="_blank"}
 
 Daarnaast wilt u uw regels voor toestemming selecteren die u wilt toepassen op gegevens die worden gedownload naar Collaboration.
 
@@ -125,13 +125,13 @@ Geef vervolgens een naam en een beschrijving voor de gegevensverbinding op. Deze
 >id="rtcdp_collaboration_import_audience_mapping_identity_namespaces"
 >title="Identiteitsnaamruimten"
 >abstract="Selecteer een naamruimte voor identiteit in de standaard- en aangepaste naamruimten die beschikbaar zijn in uw Experience Platform-organisatie."
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html#standard" text="Standaard- en naamruimten in Experience Platform"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html?lang=nl-NL#standard" text="Standaard- en naamruimten in Experience Platform"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_import_audience_mapping_profile_attributes"
 >title="Profielkenmerken"
 >abstract="Selecteer kenmerken in het samenvoegingsschema voor de klasse Profile in Experience Platform. In deze weergave worden de kenmerken weergegeven die aanwezig zijn in het samenvoegingsschema en die behoren tot de klasse Individueel profiel XDM."
->additional-url="https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html" text="Unieschema in Experience Platform"
+>additional-url="https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=nl-NL" text="Unieschema in Experience Platform"
 
 Vervolgens selecteert u bronvelden die u wilt toewijzen aan doelvelden in Collaboration. De beschikbare doelvelden worden gebaseerd op de overeenkomende toetsen die u hebt geselecteerd tijdens het instellen van de account.
 
@@ -147,7 +147,7 @@ Vervolgens selecteert u bronvelden die u wilt toewijzen aan doelvelden in Collab
 
 >[!BEGINSHADEBOX]
 
-**[!UICONTROL Source fields]** zijn naamruimten en kenmerken van Experience Platform. Deze omvatten zowel standaard [ als ](https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html#standard){target="_blank"} douane [ identiteitsnaamruimten. ](https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html#create-namespaces){target="_blank"} Zij omvatten ook profielattributen die in het [ verenigingsschema ](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"} aanwezig zijn en tot de individuele klasse van het Profiel XDM behoren.
+**[!UICONTROL Source fields]** zijn naamruimten en kenmerken van Experience Platform. Deze omvatten zowel standaard [ als ](https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html?lang=nl-NL#standard){target="_blank"} douane [ identiteitsnaamruimten. ](https://experienceleague.adobe.com/docs/experience-platform/identity/features/namespaces.html?lang=nl-NL#create-namespaces){target="_blank"} Zij omvatten ook profielattributen die in het [ verenigingsschema ](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=nl-NL){target="_blank"} aanwezig zijn en tot de individuele klasse van het Profiel XDM behoren.
 
 Source-velden worden toegewezen aan de doelvelden die zijn gedefinieerd in Collaboration.
 

@@ -2,11 +2,11 @@
 title: Volledige workflow
 description: Begrijp de end-to-end workflow van het gebruiken van Real-Time CDP Collaboration op basis van uw samenwerkingspatroon.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 90f9341e-5dd7-4521-a602-edb0263838c5
-source-git-commit: 36f43d9d34ce7851a1c7093e0891f9c87e56387c
+source-git-commit: 5c08738cdc8e1e208203ee1f9a1cf1891b5b07cb
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '838'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Zodra beide medewerkers hun rekeningsopstelling hebben, zijn zij klaar om [ van 
 
 Nadat de verbinding wordt gevestigd, [!UICONTROL Luma] [ leidt tot een project ](../collaborate/manage-projects.md) om van hun samenwerking met [!UICONTROL TV Tube] af te schoppen. Tijdens de projectopstelling, kiezen zij de gevallen van het samenwerkingsgebruik die hun doelstellingen het best passen: [ ontdekt ](../collaborate/discover.md), [ activeert ](../collaborate/activate.md), en [ Maatregel ](../collaborate/measure.md).
 
-[!UICONTROL Luma] hefboomwerkingen [ ontdekken ](../collaborate/discover.md) gebruiksgeval om inzichten in [!UICONTROL TV Tube] het publieksgegevens van de publiek te bereiken. Zodra [!UICONTROL Luma] de segmenten van het doelpubliek heeft geïdentificeerd, activeren zij [&#128279;](../collaborate/activate.md) deze publiek.
+[!UICONTROL Luma] hefboomwerkingen [ ontdekken ](../collaborate/discover.md) gebruiksgeval om inzichten in [!UICONTROL TV Tube] het publieksgegevens van de publiek te bereiken. Zodra [!UICONTROL Luma] de segmenten van het doelpubliek heeft geïdentificeerd, activeren zij [ ](../collaborate/activate.md) deze publiek.
 
 Na het activeren van het publiek, [!UICONTROL TV Tube] looppas gerichte marketing campagnes en uploadt gegevens aan [ Meetlat ](../collaborate/measure.md) de resultaten om de doeltreffendheid van hun campagne te evalueren.
 
@@ -57,6 +57,18 @@ Na het betrekken van hun publiek, [!UICONTROL Fit Apparel] en [!UICONTROL Luma] 
 
 Nadat de verbinding wordt gevestigd, [!UICONTROL Fit Apparel] [ leidt tot een project ](../collaborate/manage-projects.md) om van hun samenwerking met [!UICONTROL Luma] af te schoppen. Tijdens de projectopstelling, kiezen zij de gevallen van het samenwerkingsgebruik die hun doelstellingen het best passen: [ ontdekt ](../collaborate/discover.md), [ activeert ](../collaborate/activate.md), en [ Maatregel ](../collaborate/measure.md).
 
-[!UICONTROL Fit Apparel] en [!UICONTROL Luma] kunnen zowel [ gebruiken ontdekken ](../collaborate/discover.md) gebruiksgeval om inzichten in elkaars publieksgegevens te bereiken. Zodra zij waardevolle publiekssegmenten hebben geïdentificeerd, activeren zij [&#128279;](../collaborate/activate.md) hun gekozen publiek voor marketing campagnes.
+[!UICONTROL Fit Apparel] en [!UICONTROL Luma] kunnen zowel [ gebruiken ontdekken ](../collaborate/discover.md) gebruiksgeval om inzichten in elkaars publieksgegevens te bereiken. Zodra zij waardevolle publiekssegmenten hebben geïdentificeerd, activeren zij [ ](../collaborate/activate.md) hun gekozen publiek voor marketing campagnes.
 
 Tot slot na het uitvoeren van hun campagnes, uploaden beide merken gegevens aan [ Meetlat ](../collaborate/measure.md) de resultaten en evalueren de doeltreffendheid van hun samenwerking.
+
+## Workflow voor adverteerders-reclameplatform {#advertiser-to-advertising-platform-workflow}
+
+[!UICONTROL Luma] , een atletisch detailhandelsbedrijf, wil verbinding maken met [!DNL Amazon Marketing Cloud] ([!DNL AMC]) om hun marketingmogelijkheden te verbeteren door de identiteitsresolutie van [!DNL AMC] en doelgereedschappen te gebruiken. Luma heeft al een actieve [!DNL Amazon Advertising] account en is goedgekeurd voor gebruik van [!DNL AMC] .
+
+Om te beginnen, [!UICONTROL Luma] moet [ een rekening ](../setup/onboard-account.md) met de adverteerderrol creëren. Na het vestigen van hun rekening, [!UICONTROL Luma] moet [ een gegevensverbinding en bronpubliek ](../setup/onboard-audiences.md) tot stand brengen. Aangezien [!UICONTROL Luma] publiek voor marketing campagnes zal activeren, moeten zij [ een bestemming ](../setup/manage-destinations.md) vormen.
+
+Zodra [!UICONTROL Luma] hun rekeningsopstelling heeft, zijn zij klaar om [ van een verbinding ](../connect/establishing-connections.md) met [!DNL AMC] binnen het platform te vormen. [!UICONTROL Luma] gebruikt [ ontdek medewerkers ](../connect/discover-collaborators.md) eigenschap om [!UICONTROL Amazon Marketing Cloud] te vinden en [ een verbindingsverzoek ](../connect/advertising-platforms/amc.md) in werking te stellen. Nadat u de verbinding hebt geverifieerd en geautoriseerd via de aanmeldingspagina van [!DNL Amazon] , wordt de verbinding met [!DNL AMC] tot stand gebracht.
+
+Nadat de verbinding wordt gevestigd, [!UICONTROL Luma] [ leidt tot een project ](../collaborate/manage-projects.md) om van hun samenwerking met [!DNL AMC] af te schoppen. Verbindingsinstellingen, inclusief gebruiksgevallen, worden vooraf geconfigureerd afhankelijk van het advertentieplatform. Voor [!DNL AMC], is het beschikbare gebruiksgeval [ ontdekt ](../collaborate/advertising-platforms/amc.md#discover).
+
+[!UICONTROL Luma] hefboomwerkingen [ ontdekken ](../collaborate/advertising-platforms/amc.md#discover) gebruiksgeval om inzichten en publieksgegevens van [!DNL AMC] te bereiken. Met deze inzichten kan [!UICONTROL Luma] hun marketingstrategieën optimaliseren en de doeltreffendheid van de campagne verbeteren.

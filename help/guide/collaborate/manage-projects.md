@@ -2,11 +2,11 @@
 title: Projecten maken en beheren
 description: Leer hoe u projecten maakt en beheert in Adobe Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: ae492846-bc0a-4422-86ca-577bcc1fa60c
-source-git-commit: eed99cfafd5ffad5a468741f7258c162454769b7
+source-git-commit: f12333adbe9d1fd18650d32c1b8b4e08c1410e5e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -55,13 +55,3 @@ Voeg vervolgens een **[!UICONTROL Project name]** en **[!UICONTROL Description]*
 U kunt nu uw nieuwe project, zijn details, en beschikbare die secties bekijken op de gebruiksgevallen tijdens verbindingsopstelling worden geselecteerd.
 
 ![ de werkruimte van het projectoverzicht.](/help/assets/collaborate/manage-view-projects/project-overview.png){zoomable="yes"}
-
-## Problemen met projectgebruik {#project-use-cases}
-
-Het projectoverzicht toont de gebruiksgevallen die tijdens de verbindingsopstelling worden geselecteerd. Deze gebruiksgevallen bepalen de functionaliteit beschikbaar in het project. De gebruiksgevallen zijn:
-
-| Gebruiksscenario | Sectie Project |
-| --- | --- |
-| Campagne meten | Dit gebruiksgeval verleent toegang tot de [ sectie van de Maatregel ](/help/guide/collaborate/measure.md) en alle beschikbare functionaliteit. |
-| Detectie van publiek | Dit gebruiksgeval verleent toegang tot [ ontdekt ](/help/guide/collaborate/discover.md) sectie en alle beschikbare functionaliteit. |
-| Activering publiek | Dit gebruiksgeval verleent toegang tot [ activeert ](/help/guide/collaborate/activate.md) sectie en alle beschikbare functionaliteit. |

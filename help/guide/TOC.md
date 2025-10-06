@@ -2,9 +2,9 @@
 user-guide-title: Real-Time CDP Collaboration
 breadcrumb-title: Real-Time CDP Collaboration
 user-guide-description: Adobe Real-Time CDP Collaboration maakt naadloze en veilige gegevensuitwisseling en samenwerking tussen adverteerders en uitgevers mogelijk, waardoor het publiek in real time inzicht krijgt en gepersonaliseerde marketingstrategieën mogelijk worden.
-source-git-commit: 36f43d9d34ce7851a1c7093e0891f9c87e56387c
+source-git-commit: db2eb6d124fd05523ad65872bcd12078b9809ddc
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '139'
 ht-degree: 10%
 
 ---
@@ -30,13 +30,22 @@ ht-degree: 10%
    * [Metingsgegevens toevoegen en beheren](./setup/onboard-measurement-data.md)
    * [Controlelogboeken](./setup/audit-logs.md)
 * Verbindingen tot stand brengen {#connect}
+   * [Overview.md](./connect/overview.md)
    * [Medewerkers ontdekken](./connect/discover-collaborators.md)
-   * [Verbindingen tot stand brengen](./connect/establishing-connections.md)
+   * [Verbindingen voor deelnemers maken](./connect/establishing-connections.md)
+   * [Verbindingen beheren](./connect/manage-connections.md)
+   * Advertising-platformverbindingen {#ad-platform-connections}
+      * [Overzicht](./connect/advertising-platforms/overview.md)
+      * [Amazon Marketing Cloud](./connect/advertising-platforms/amc.md)
 * Samenwerken {#collaborate}
+   * [Overzicht](./collaborate/overview.md)
    * [Projecten beheren](./collaborate/manage-projects.md)
-   * [Discover](./collaborate/discover.md)
-   * [Activeren](./collaborate/activate.md)
-   * [Meetlat](./collaborate/measure.md)
+   * Samenwerkingsverbindingen {#collaborator-connections}
+      * [Discover](./collaborate/discover.md)
+      * [Activeren](./collaborate/activate.md)
+      * [Meetlat](./collaborate/measure.md)
+   * Advertising-platformverbindingen {#ad-platform-connections}
+      * [Amazon Marketing Cloud](./collaborate/advertising-platforms/amc.md)
 * Bestemmingen {#destinations}
    * [Overzicht](./destinations/overview.md)
    * [Adobe Experience Platform](./destinations/experience-platform.md)

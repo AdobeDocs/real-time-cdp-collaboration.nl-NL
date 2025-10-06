@@ -1,47 +1,17 @@
 ---
-title: Verbindingen tot stand brengen
+title: Verbindingen met deelnemers tot stand brengen
 description: Na het ontdekken van potentiële medewerkers, leer hoe te om verbindingen te vestigen en beginnen aan projecten samen te werken.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3fed93f7-1854-440c-802e-6b47e82918c9
-source-git-commit: c176db9354936fd5e64a2b4f012d99be8ddcf16b
+source-git-commit: 2cd03a98228e1e379396360942227ddbcab8f6ca
 workflow-type: tm+mt
-source-wordcount: '3274'
+source-wordcount: '2692'
 ht-degree: 0%
 
 ---
 
-# Verbindingen tot stand brengen {#establishing-connections}
-
->[!CONTEXTUALHELP]
->id="rtcdp_collaboration_amc_discover_compare_audiences"
->title="Soorten publiek vergelijken"
->abstract="Vergelijk je publiek met alle consumenten die je Amazon Ads bereikt."
-
->[!CONTEXTUALHELP]
->id="rtcdp_collaboration_amc_discover_relevant_audiences"
->title="Relevant publiek"
->abstract="Amazon-doelsegmenten die uw publiek het hoogst overlapt, waarbij alleen DSP-indrukkingen in aanmerking worden genomen (deze segmenten kunnen alleen worden gericht in de DSP)."
-
->[!CONTEXTUALHELP]
->id="rtcdp_collaboration_amc_discover_resolved_ids"
->title="Opgeloste id&#39;s"
->abstract="Het aantal ID&#39;s dat Amazon kan oplossen met behulp van uw publieksgegevens."
-
->[!CONTEXTUALHELP]
->id="rtcdp_collaboration_amc_discover_overlapping_ad_exposed_ids"
->title="Overlappende en belichte id&#39;s"
->abstract="Dit staat voor het aantal &#39;Opgeloste id&#39;s&#39; van het geüploade publiek dat ook via Amazon Ads aan een advertentie is blootgesteld."
-
->[!CONTEXTUALHELP]
->id="rtcdp_collaboration_amc_discover_overlap_percentage"
->title="Overlappen %"
->abstract="Het percentage &quot;Opgeloste id&#39;s&quot; dat via Amazon Ads aan een advertentie is blootgesteld."
-
->[!CONTEXTUALHELP]
->id="rtcdp_collaboration_amc_discover_amazon_breakdown"
->title="Uitsplitsing naar Amazon en product"
->abstract="Uitsplitsing van &quot;Overlappende en belichte id&#39;s&quot; bereikt door Amazon Ads Sponsored Product en/of Amazon Ads DSP."
+# Verbindingen met deelnemers tot stand brengen {#establishing-connections}
 
 {{limited-availability-release-note}}
 
@@ -78,31 +48,7 @@ Zodra de verbindingsmontages worden goedgekeurd, wordt de verbinding gevestigd, 
 
 >[!TIP]
 >
->De termijn **merk** wordt gebruikt om een bedrijf of merk buiten Collaboration te verwijzen. De termijn **medewerker** verwijst naar om het even welke rekening die een verbinding in Collaboration kan vormen, ongeacht of zij een adverteerder of een uitgever zijn.
-
-In het merk-aan-merk patroon, kunnen twee merken die buiten het product hebben meegedeeld direct in Collaboration verbinden gebruikend a [ privé verbindingsuitnodiging ](#private-connection-invite). Een merk kan adverteerder of uitgever zijn. Dit patroon is vooral handig voor merken die mogelijk niet passen bij het traditionele adverteerdermodel, zoals twee adverteerders of twee uitgevers.
-
-Om te beginnen stuurt een deelnemer een uitnodiging voor een privéverbinding naar een andere deelnemer. De ontvanger evalueert de uitnodiging en accepteert deze, zodat de eigenaar verbindingsinstellingen kan voorstellen. Zodra de ontvanger de verbindingsmontages goedkeurt, wordt de verbinding gevestigd, en beide medewerkers kunnen beginnen samen aan projecten te werken.
-
-### Overzicht op hoog niveau
-
->[!TIP]
->
->Wanneer het bespreken van het verbindingsproces, zal er een onderscheid tussen de **eigenaar** en **ontvanger** zijn. De eigenaar is de medewerker die de verbinding in werking stelt door de uitnodiging te verzenden, terwijl de ontvanger de medewerker is die de uitnodiging ontvangt en controleert.
-
-Het verbindingsproces tussen twee merken omvat verschillende stappen. Voordat het verbindingsproces begint, moet aan een aantal voorwaarden worden voldaan:
-
-1. Twee merken communiceren buiten het product om de potentiële verbinding te bespreken.
-1. De merken [ leiden tot rekeningen ](/help/guide/setup/onboard-account.md) in Collaboration als zij niet reeds hebben, die het aangewezen roltype (adverteerder of uitgever) moeten selecteren.
-
-   Zodra aan de voorwaarden wordt voldaan, kan het verbindingsproces beginnen. In de volgende stappen wordt het proces beschreven:
-
-1. [ verzend privé verbindingsuitnodiging ](#send-private-connection-invite): Één medewerker verzendt een privé verbindingsuitnodiging naar een andere medewerker.
-1. [ keur privé verbindingsuitnodiging ](#accept-private-connection-invite) goed: De ontvankelijke overzichten en keurt de privé verbindingsuitnodiging goed.
-1. [ vorm verbindingsmontages ](#configure-connection-settings): De eigenaar vormt de verbindingsmontages en verzendt hen naar de ontvanger voor overzicht en goedkeuring.
-1. [ bevestigt verbindingsmontages ](#establish-connection): De ontvanger herziet de verbindingsmontages en of keurt of verwerpt hen goed.
-
-Zodra de verbindingsmontages worden goedgekeurd, wordt de verbinding gevestigd, en de medewerkers zijn bereid om [ een project ](/help/guide/collaborate/manage-projects.md#create-project) tot stand te brengen beginnen samenwerkend aan campagnes.
+>Deze gids behandelt het verbindingsproces voor adverteerders-aan-uitgever en merk-aan-merk samenwerkingspatronen. Om over het verbinden met reclameplatforms te leren, zie de [ adverteerder-aan-reclame-platform verbinding ](/help/guide/connect/overview.md#advertiser-to-advertising-platform-connection) sectie in de [ gids van het verbindingsoverzicht ](/help/guide/connect/overview.md).
 
 ## Verbinden {#connect}
 
@@ -223,7 +169,7 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 >id="rtcdp_collaboration_connection_settings_matchkeys"
 >title="Toetsen afstemmen"
 >abstract="Overeenkomstsleutels worden vooraf gevuld met veelgebruikte match-sleutels die u en uw medewerker op accountniveau hebben geselecteerd. U kunt alle sleutels uitschakelen die u in deze verbinding niet wilt gebruiken."
->additional-url="https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/setup/onboard-account#set-up-match-keys" text="Overeenkomende accountsleutels"
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/setup/onboard-account#set-up-match-keys" text="Overeenkomende accountsleutels"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_connection_settings_creditsplit"
@@ -244,7 +190,7 @@ De werkruimte Verbindingsinstellingen wordt weergegeven, zodat u de verschillend
 >id="rtcdp_collaboration_connection_settings_advertisername"
 >title="Namen van adverteerders"
 >abstract="<p>Optionele instelling. Geeft de naam en id aan waarmee de adverteerder bij de uitgever bekend is.</p><p>De naam van de adverteerder die u hier toevoegt, wordt vooraf ingevuld in de stap Project maken.</p><ul><li>Als de uitgever veelvoudige namen vormde, selecteer van de lijst.</li><li>Als slechts één naam wordt gevormd, wordt het vooraf geselecteerd automatisch.</li><li>Als er geen namen zijn geconfigureerd, wordt het veld voorgevuld met de naam van de adverteerderaccount van Collaboration.</li></ul>"
->additional-url="https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
+>additional-url="https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/collaborate/manage-projects#create-project" text="Een project maken"
 
 >[!CONTEXTUALHELP]
 >id="rtcdp_collaboration_audience_activation"
@@ -357,26 +303,6 @@ Bovendien, als u een uitgever bent die met een adverteerder verbindt, kunt u adv
 
 Selecteer vervolgens **[!UICONTROL Accept]** om door te gaan met de verbinding. De verbindingsstatus verandert in **[!UICONTROL Active]** en u kunt nu aan projecten gaan samenwerken.
 
-## Verbindingen verwijderen {#delete-connections}
-
-U kunt om het even welke verbindingen met medewerkers schrappen die u niet wilt blijven werken met. Als u bestaande verbindingen wilt verwijderen, navigeert u naar **[!UICONTROL Connect]** . Als uitgever wordt uw bestaande verbinding weergegeven. Als adverteerder navigeert u naar **[!UICONTROL My connections]** .
-
-Selecteer **[!UICONTROL View connection]** op de verbindingskaart die u wilt verwijderen.
-
-![ de verbindingsoptie van de Mening die in de Mijn verbindingsmening wordt benadrukt.](/help/assets/connect/establish-connection/delete-view-connection.png){zoomable="yes"}
-
-Selecteer het schrappingspictogram ![ schrappingspictogram ](/help/assets/common/delete.svg) in de verbindingswerkruimte om de verbinding te schrappen.
-
-![ het schrappingspictogram dat in de verbindingswerkruimte wordt benadrukt.](/help/assets/connect/establish-connection/delete-option.png){zoomable="yes"}
-
-Er verschijnt een bevestigingsvenster waarin u wordt gevraagd de verwijdering van de verbinding te bevestigen. Selecteer **[!UICONTROL Delete]** om de verwijdering te bevestigen.
-
-![ de bevestigingsdialoog om een verbinding te schrappen.](/help/assets/connect/establish-connection/delete-confirmation-dialog.png){zoomable="yes"}
-
->[!WARNING]
->
->Zodra de verbinding wordt geschrapt, zullen alle bestaande projecten in de samenwerking permanent worden geschrapt en onherstelbaar. De verbindingsaanvraag blijft in behandeling, maar de verbinding en de configuraties ervan zijn niet meer actief. U moet de verbinding opnieuw tot stand brengen als u opnieuw verbinding wilt maken met de medewerker.
-
 ## Volgende stappen
 
-Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [&#128279;](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.
+Na het vestigen van een verbinding met uw medewerker, kunt u en uw medewerker projecten [ ](/help/guide/collaborate/manage-projects.md#create-project) nu tot stand brengen.

@@ -2,11 +2,11 @@
 title: Overlappingen ontdekken en publiek vergelijken
 description: Ontdek overlappingen tussen het publiek van uw medewerkers en dat van uw medewerkers. Leer hoe u het beste publiek kunt vinden voor gebruik in uw campagnes.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 38c42ad3-9d01-4d09-b80e-37fb51cbf42b
-source-git-commit: 3dd37dff0be104894cdfe42503b60056b25018e3
+source-git-commit: 2cd03a98228e1e379396360942227ddbcab8f6ca
 workflow-type: tm+mt
-source-wordcount: '2010'
+source-wordcount: '2046'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de ontdekking van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de ontdekking van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
 
 Na [ creërend een project ](/help/guide/collaborate/manage-projects.md), kunt u uw publiek tegen uw medewerkers vergelijken. Zo kunt u relevante doelgroepen voor campagnes identificeren en bepalen welke doelgroepen voor activering naar medewerkers moeten worden gestuurd.
 
@@ -42,6 +42,10 @@ Als u wilt beginnen met het gebruik van de tab **[!UICONTROL Discover]** in uw p
 * [ creeerde een project ](/help/guide/collaborate/manage-projects.md) tussen u en een medewerker
 
 Als aan deze voorwaarden is voldaan, kunt u beginnen met het verkennen en vergelijken van overlappingen tussen u en het publiek van uw medewerker.
+
+>[!NOTE]
+>
+>Deze **[!UICONTROL Discover]** -werkruimte is niet relevant voor samenwerking met advertentieplatforms. Amazon Marketing Cloud is momenteel het enige reclameplatform in Real-Time CDP Collaboration. Voor meer informatie over de [!DNL AMC] **[!UICONTROL Discover]** werkruimte, lees de [ Amazon Marketing Cloud ](/help/guide/collaborate/advertising-platforms/amc.md) gids.
 
 ## Soorten publiek vergelijken {#compare-audiences}
 
@@ -210,4 +214,4 @@ In de sectie over overlappingen ontdekken wordt de score van de publieksindex na
 
 ## Volgende stappen
 
-Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd [&#128279;](/help/guide/collaborate/activate.md) het publiek te activeren dat in de campagnes zou moeten worden gebruikt.
+Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd [ ](/help/guide/collaborate/activate.md) het publiek te activeren dat in de campagnes zou moeten worden gebruikt.

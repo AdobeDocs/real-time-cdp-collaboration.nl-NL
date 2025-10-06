@@ -2,7 +2,7 @@
 title: Overzicht van Advertising-platforms
 description: Meer informatie over reclameplatforms in Real-Time CDP Collaboration.
 audience: publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 source-git-commit: 3374487538a1cb7e0fd2bdf065bf31ad74f72d29
 workflow-type: tm+mt
 source-wordcount: '105'

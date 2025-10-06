@@ -20,25 +20,25 @@ De werkruimte van **[!UICONTROL My connections]** biedt een gecentraliseerde loc
 
 Navigeer naar de **[!UICONTROL Connect]** -werkruimte om de bestaande verbindingen weer te geven. Als uitgever wordt uw bestaande verbinding weergegeven. Als adverteerder navigeert u naar **[!UICONTROL My connections]** .
 
-![ de de verbindingsoptie van de Mening voor een verbinding in de Mijn verbindingswerkruimte wordt benadrukt die.](/help/assets/connect/manage-connections/view-connection.png){zoomable="yes"}
+![&#x200B; de de verbindingsoptie van de Mening voor een verbinding in de Mijn verbindingswerkruimte wordt benadrukt die.](/help/assets/connect/manage-connections/view-connection.png){zoomable="yes"}
 
 De werkruimte van het verbindingsoverzicht verschijnt, tonend details over de verbinding en zijn actieve projecten. Selecteer **[!UICONTROL Connection settings]** om de verbindingsinstellingen weer te geven.
 
-![ de optie van de montages van de Verbinding die in de werkruimte van het verbindingsoverzicht wordt benadrukt.](/help/assets/connect/manage-connections/connection-overview.png){zoomable="yes"}
+![&#x200B; de optie van de montages van de Verbinding die in de werkruimte van het verbindingsoverzicht wordt benadrukt.](/help/assets/connect/manage-connections/connection-overview.png){zoomable="yes"}
 
-De werkruimte Verbindingsinstellingen wordt weergegeven met de verbindingsgegevens tussen u en uw medewerker. Hier, kunt u alle montages bekijken die tijdens het verbindingsproces, de huidige status van de verbinding, de verbindingseigenaar, en de contactinformatie voor uw medewerker worden geselecteerd. Voor informatie over specifieke verbindingsmontages, zie de [ gids van verbindingsmontages ](/help/guide/connect/establishing-connections.md#connection-settings).
+De werkruimte Verbindingsinstellingen wordt weergegeven met de verbindingsgegevens tussen u en uw medewerker. Hier, kunt u alle montages bekijken die tijdens het verbindingsproces, de huidige status van de verbinding, de verbindingseigenaar, en de contactinformatie voor uw medewerker worden geselecteerd. Voor informatie over specifieke verbindingsmontages, zie de [&#x200B; gids van verbindingsmontages &#x200B;](/help/guide/connect/establishing-connections.md#connection-settings).
 
-![ de werkruimte van verbindingsmontages tonend verbindingsdetails.](/help/assets/connect/manage-connections/connection-settings.png){zoomable="yes"}
+![&#x200B; de werkruimte van verbindingsmontages tonend verbindingsdetails.](/help/assets/connect/manage-connections/connection-settings.png){zoomable="yes"}
 
 ## Verbinding verwijderen {#delete-connection}
 
-U kunt om het even welke verbindingen met medewerkers schrappen die u niet wilt blijven werken met. Om een verbinding te schrappen, navigeer aan de verbinding u wenst om dan het schrappingspictogram ![ schrappingspictogram ](/help/assets/common/delete.svg) in de verbindingswerkruimte te schrappen en te selecteren.
+U kunt om het even welke verbindingen met medewerkers schrappen die u niet wilt blijven werken met. Om een verbinding te schrappen, navigeer aan de verbinding u wenst om dan het schrappingspictogram ![&#x200B; schrappingspictogram &#x200B;](/help/assets/common/delete.svg) in de verbindingswerkruimte te schrappen en te selecteren.
 
-![ het schrappingspictogram dat in de verbindingswerkruimte wordt benadrukt.](/help/assets/connect/establish-connection/delete-option.png){zoomable="yes"}
+![&#x200B; het schrappingspictogram dat in de verbindingswerkruimte wordt benadrukt.](/help/assets/connect/establish-connection/delete-option.png){zoomable="yes"}
 
 Er verschijnt een bevestigingsvenster waarin u wordt gevraagd de verwijdering van de verbinding te bevestigen. Selecteer **[!UICONTROL Delete]** om de verwijdering te bevestigen.
 
-![ de bevestigingsdialoog om een verbinding te schrappen.](/help/assets/connect/establish-connection/delete-confirmation-dialog.png){zoomable="yes"}
+![&#x200B; de bevestigingsdialoog om een verbinding te schrappen.](/help/assets/connect/establish-connection/delete-confirmation-dialog.png){zoomable="yes"}
 
 >[!WARNING]
 >

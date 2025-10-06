@@ -14,7 +14,7 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Na het vormen van een verbinding met [!DNL Amazon Marketing Cloud] ([!DNL AMC]), kunnen de adverteerders [ een project ](../manage-projects.md#create-project) tot stand brengen om met [!DNL AMC] samen te werken aan hefboomwerking zijn geavanceerde analytische mogelijkheden. Nadat u een project hebt gemaakt, kunt u de sectie **[!UICONTROL Discover]** gebruiken om publieksinzichten te vergelijken en relevante doelgroepen voor uw campagnes te ontdekken.
+Na het vormen van een verbinding met [!DNL Amazon Marketing Cloud] ([!DNL AMC]), kunnen de adverteerders [&#x200B; een project &#x200B;](../manage-projects.md#create-project) tot stand brengen om met [!DNL AMC] samen te werken aan hefboomwerking zijn geavanceerde analytische mogelijkheden. Nadat u een project hebt gemaakt, kunt u de sectie **[!UICONTROL Discover]** gebruiken om publieksinzichten te vergelijken en relevante doelgroepen voor uw campagnes te ontdekken.
 
 >[!IMPORTANT]
 >
@@ -56,9 +56,9 @@ In de sectie **[!UICONTROL Discover]** kunt u uw AMC-publiek vergelijken met all
 
 >[!IMPORTANT]
 >
->De gegevens van het publiek worden verwerkt vanuit het publiek dat naar uw [!DNL Amazon Ads] -account is geüpload. Leren hoe de eigenschap van de Doelen van gebruiksExperience Platform om uw publiek naar uw [!DNL Amazon Ads] rekening te verzenden, lees de [ verbinding van de Advertentie van Amazon ](https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/advertising/amazon-ads) gids.
+>De gegevens van het publiek worden verwerkt vanuit het publiek dat naar uw [!DNL Amazon Ads] -account is geüpload. Leren hoe de eigenschap van de Doelen van gebruiksExperience Platform om uw publiek naar uw [!DNL Amazon Ads] rekening te verzenden, lees de [&#x200B; verbinding van de Advertentie van Amazon &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/advertising/amazon-ads) gids.
 
-![ ontdekt sectie in een project met Amazon Marketing Cloud.](/help/assets/collaborate/advertising-platforms/amc-discover.png){zoomable="yes"}
+![&#x200B; ontdekt sectie in een project met Amazon Marketing Cloud.](/help/assets/collaborate/advertising-platforms/amc-discover.png){zoomable="yes"}
 
 ### Soorten publiek vergelijken {#compare-audiences}
 

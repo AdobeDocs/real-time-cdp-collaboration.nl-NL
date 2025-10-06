@@ -14,7 +14,7 @@ ht-degree: 1%
 
 {{limited-availability-release-note}}
 
-Advertising-platforms zijn services van derden die adverteerders in staat stellen hun marketingmogelijkheden te verbeteren door gebruik te maken van geavanceerde hulpmiddelen en technologieën. In Real-Time CDP Collaboration kunnen adverteerders verbinding maken met advertentieplatforms om de impact van hun gegevens uit te breiden en meer inzicht te krijgen in de prestaties van het publiek. Meer leren, lees de adverteerder-aan-reclame platformsectie in de [ gids van de samenwerkingspatronen ](/help/guide/overview/collaboration-patterns.md).
+Advertising-platforms zijn services van derden die adverteerders in staat stellen hun marketingmogelijkheden te verbeteren door gebruik te maken van geavanceerde hulpmiddelen en technologieën. In Real-Time CDP Collaboration kunnen adverteerders verbinding maken met advertentieplatforms om de impact van hun gegevens uit te breiden en meer inzicht te krijgen in de prestaties van het publiek. Meer leren, lees de adverteerder-aan-reclame platformsectie in de [&#x200B; gids van de samenwerkingspatronen &#x200B;](/help/guide/overview/collaboration-patterns.md).
 
 ## Beschikbare reclameplatforms {#available-advertising-platforms}
 

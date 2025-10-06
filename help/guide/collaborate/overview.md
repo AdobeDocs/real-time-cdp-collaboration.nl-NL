@@ -22,9 +22,9 @@ Het projectoverzicht toont de gebruiksgevallen die tijdens de verbindingsopstell
 
 | Gebruiksscenario | Sectie Project |
 | --- | --- |
-| Campagne meten | Dit gebruiksgeval verleent toegang tot de [ sectie van de Maatregel ](/help/guide/collaborate/measure.md) en alle beschikbare functionaliteit. |
-| Detectie van publiek | Dit gebruiksgeval verleent toegang tot [ ontdekt ](/help/guide/collaborate/discover.md) sectie en alle beschikbare functionaliteit. |
-| Activering publiek | Dit gebruiksgeval verleent toegang tot [ activeert ](/help/guide/collaborate/activate.md) sectie en alle beschikbare functionaliteit. |
+| Campagne meten | Dit gebruiksgeval verleent toegang tot de [&#x200B; sectie van de Maatregel &#x200B;](/help/guide/collaborate/measure.md) en alle beschikbare functionaliteit. |
+| Detectie van publiek | Dit gebruiksgeval verleent toegang tot [&#x200B; ontdekt &#x200B;](/help/guide/collaborate/discover.md) sectie en alle beschikbare functionaliteit. |
+| Activering publiek | Dit gebruiksgeval verleent toegang tot [&#x200B; activeert &#x200B;](/help/guide/collaborate/activate.md) sectie en alle beschikbare functionaliteit. |
 
 ## Samenwerken met advertentieplatforms {#collaborating-with-advertising-platforms}
 

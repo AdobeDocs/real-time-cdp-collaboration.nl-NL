@@ -17,35 +17,35 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2} gebruiksgeval van de ontdekking van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Discover]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de ontdekking van het publiek** tijdens het verbindingsproces [&#x200B; werd toegelaten. &#x200B;](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [&#x200B; projecten &#x200B;](./manage-projects.md#project-use-cases) gids beheren.
 
-Na [ creërend een project ](/help/guide/collaborate/manage-projects.md), kunt u uw publiek tegen uw medewerkers vergelijken. Zo kunt u relevante doelgroepen voor campagnes identificeren en bepalen welke doelgroepen voor activering naar medewerkers moeten worden gestuurd.
+Na [&#x200B; creërend een project &#x200B;](/help/guide/collaborate/manage-projects.md), kunt u uw publiek tegen uw medewerkers vergelijken. Zo kunt u relevante doelgroepen voor campagnes identificeren en bepalen welke doelgroepen voor activering naar medewerkers moeten worden gestuurd.
 
 >[!IMPORTANT]
 >
->Om het even welke [ gegevensschetsen ](/help/guide/glossary.md#sketches) die niet worden bijgewerkt of worden verfrist zullen na 7 dagen worden geschrapt. Wanneer dit gebeurt, gaan de cijfers die worden weergegeven in de verschillende overlappende rapporten op deze pagina naar nul en wordt het delen van het publiek niet meer beschikbaar voor deze verlopen doelgroepen. De schetsen van gegevens worden automatisch verfrist voor publiek met [ actief verfrist programma ](/help/guide/setup/onboard-audiences.md#schedule).
+>Om het even welke [&#x200B; gegevensschetsen &#x200B;](/help/guide/glossary.md#sketches) die niet worden bijgewerkt of worden verfrist zullen na 7 dagen worden geschrapt. Wanneer dit gebeurt, gaan de cijfers die worden weergegeven in de verschillende overlappende rapporten op deze pagina naar nul en wordt het delen van het publiek niet meer beschikbaar voor deze verlopen doelgroepen. De schetsen van gegevens worden automatisch verfrist voor publiek met [&#x200B; actief verfrist programma &#x200B;](/help/guide/setup/onboard-audiences.md#schedule).
 
-De gelijke sleutels die worden gebruikt om publiek te ontdekken en te vergelijken zijn opstelling [ tijdens het verbindingsproces ](/help/guide/connect/establishing-connections.md#connection-settings). De sleutels van de gelijke worden gebruikt om de overlapping tussen uw publiek te berekenen, en kunnen in en uit worden geschakeld. Selecteer de optie **[!UICONTROL Edit match keys]** als u de overeenkomende toetsen wilt bewerken.
+De gelijke sleutels die worden gebruikt om publiek te ontdekken en te vergelijken zijn opstelling [&#x200B; tijdens het verbindingsproces &#x200B;](/help/guide/connect/establishing-connections.md#connection-settings). De sleutels van de gelijke worden gebruikt om de overlapping tussen uw publiek te berekenen, en kunnen in en uit worden geschakeld. Selecteer de optie **[!UICONTROL Edit match keys]** als u de overeenkomende toetsen wilt bewerken.
 
-![ de het lusjewerkruimte van de Dicover, tonend de Inzichten van het Publiek.](/help/assets/collaborate/discover/discover-overview.png)
+![&#x200B; de het lusjewerkruimte van de Dicover, tonend de Inzichten van het Publiek.](/help/assets/collaborate/discover/discover-overview.png)
 
 Het dialoogvenster **[!UICONTROL Edit match keys]** wordt geopend, waarin u de overeenkomende toetsen die u niet wilt gebruiken, kunt uitschakelen. Selecteer **[!UICONTROL Save]** om uw wijzigingen op te slaan.
 
-![ geef gelijke sleuteldialoog in Discover werkruimte uit.](/help/assets/collaborate/discover/edit-match-keys.png)
+![&#x200B; geef gelijke sleuteldialoog in Discover werkruimte uit.](/help/assets/collaborate/discover/edit-match-keys.png)
 
 ## Vereisten {#prerequisites}
 
 Als u wilt beginnen met het gebruik van de tab **[!UICONTROL Discover]** in uw project, hebt u het volgende nodig:
 
-* [ Bronde soorten publiek ](/help/guide/setup/onboard-audiences.md) in uw rekening
-* [ Verbonden ](/help/guide/connect/establishing-connections.md) met een medewerker met **toegelaten de ontdekkingsgeval van het publiek** gebruiksgeval
-* [ creeerde een project ](/help/guide/collaborate/manage-projects.md) tussen u en een medewerker
+* [&#x200B; Bronde soorten publiek &#x200B;](/help/guide/setup/onboard-audiences.md) in uw rekening
+* [&#x200B; Verbonden &#x200B;](/help/guide/connect/establishing-connections.md) met een medewerker met **toegelaten de ontdekkingsgeval van het publiek** gebruiksgeval
+* [&#x200B; creeerde een project &#x200B;](/help/guide/collaborate/manage-projects.md) tussen u en een medewerker
 
 Als aan deze voorwaarden is voldaan, kunt u beginnen met het verkennen en vergelijken van overlappingen tussen u en het publiek van uw medewerker.
 
 >[!NOTE]
 >
->Deze **[!UICONTROL Discover]** -werkruimte is niet relevant voor samenwerking met advertentieplatforms. Amazon Marketing Cloud is momenteel het enige reclameplatform in Real-Time CDP Collaboration. Voor meer informatie over de [!DNL AMC] **[!UICONTROL Discover]** werkruimte, lees de [ Amazon Marketing Cloud ](/help/guide/collaborate/advertising-platforms/amc.md) gids.
+>Deze **[!UICONTROL Discover]** -werkruimte is niet relevant voor samenwerking met advertentieplatforms. Amazon Marketing Cloud is momenteel het enige reclameplatform in Real-Time CDP Collaboration. Voor meer informatie over de [!DNL AMC] **[!UICONTROL Discover]** werkruimte, lees de [&#x200B; Amazon Marketing Cloud &#x200B;](/help/guide/collaborate/advertising-platforms/amc.md) gids.
 
 ## Soorten publiek vergelijken {#compare-audiences}
 
@@ -76,7 +76,7 @@ Als aan deze voorwaarden is voldaan, kunt u beginnen met het verkennen en vergel
 
 Gebruik de sectie voor publiek vergelijken voor meer informatie over de overlapping tussen het publiek van uw medewerker en het publiek van uw medewerker. Als u de publieksselectie wilt wijzigen, gebruikt u de vervolgkeuzelijst boven aan de sectie **[!UICONTROL Compare audiences]** . U kunt één of al uw publiek en één of al publiek van uw medewerker selecteren om tegen elkaar te vergelijken.
 
-![ ontdekt werkruimte met de publieksselecteur die in de Compare sectie van publiek wordt benadrukt.](/help/assets/collaborate/discover/compare-audiences-selector.png)
+![&#x200B; ontdekt werkruimte met de publieksselecteur die in de Compare sectie van publiek wordt benadrukt.](/help/assets/collaborate/discover/compare-audiences-selector.png)
 
 In de vergelijkingssectie van publiek, kunt u de volgende metriek zien, die op de gelijknamensleutels gebaseerd zijn die u en uw medewerker voor het project goedkeurden:
 
@@ -86,14 +86,14 @@ In de vergelijkingssectie van publiek, kunt u de volgende metriek zien, die op d
 | **[!UICONTROL Identity count]** (uw medewerker) | Het aantal unieke id&#39;s in het publiek of de publiek(en) van uw medewerker. |
 | **[!UICONTROL Overlapping identities]** | Het aantal unieke id&#39;s dat aanwezig is bij het publiek van uw medewerker en van uw medewerker. |
 | **[!UICONTROL Overlap %]** | Het percentage profielen dat overlapt tussen het geselecteerde publiek van uw medewerker en dat van uw medewerker. |
-| **[!UICONTROL Audience index]** | Een score die aangeeft hoe sterk een publiek zich verhoudt tot een ander publiek op basis van het aantal onderliggende doelgroepen en de overlappingen. Meer over leren wat de scores betekenen, lees de [ score van de publieksindex ](#audience-index-score) sectie. De scores van de index van het publiek zijn niet beschikbaar wanneer het vergelijken met de basislijn van uw medewerker (alle publiek). |
+| **[!UICONTROL Audience index]** | Een score die aangeeft hoe sterk een publiek zich verhoudt tot een ander publiek op basis van het aantal onderliggende doelgroepen en de overlappingen. Meer over leren wat de scores betekenen, lees de [&#x200B; score van de publieksindex &#x200B;](#audience-index-score) sectie. De scores van de index van het publiek zijn niet beschikbaar wanneer het vergelijken met de basislijn van uw medewerker (alle publiek). |
 | **[!UICONTROL Identities breakdown by match key]** | De uitsplitsing van identiteiten die voor elke gelijke sleutel in het project worden aangepast, die op het uitgezochte publiek voor elke medewerker wordt gebaseerd. |
 
 {style="table-layout:auto"}
 
 >[!NOTE]
 >
->Het percentage voor overlappen en de score voor de publieksindex zijn mogelijk niet altijd voor alle doelgroepen beschikbaar. De zichtbaarheid van het overlappende percentage en de score van de publieksindex hangt van het plaatsen af dat uw medewerker voor een publiek in de [ sectie van het meta-gegevenszicht ](/help/guide/setup/onboard-audiences.md#metadata-visibility) koos.
+>Het percentage voor overlappen en de score voor de publieksindex zijn mogelijk niet altijd voor alle doelgroepen beschikbaar. De zichtbaarheid van het overlappende percentage en de score van de publieksindex hangt van het plaatsen af dat uw medewerker voor een publiek in de [&#x200B; sectie van het meta-gegevenszicht &#x200B;](/help/guide/setup/onboard-audiences.md#metadata-visibility) koos.
 
 Als uw medewerker noch de publieksindex noch het overlappingspercentage heeft toegelaten, zal het publiek geen vergelijkingsgegevens beschikbaar hebben.
 
@@ -106,11 +106,11 @@ Als uw medewerker noch de publieksindex noch het overlappingspercentage heeft to
 
 De sectie **[!UICONTROL Relevant audiences]** op het tabblad **[!UICONTROL Discover]** bevat een gekrulde lijst met de vijf hoogste doelgroepen op basis van het percentage voor overlapping tussen het publiek van uw medewerker en al uw doelgroepen. Met deze functie kunt u snel de doelgroepen met de grootste overlapping identificeren, zodat u zich effectiever kunt richten op uw campagnes. Schakel tussen het relevante publiek met behulp van de paginaselectors rechtsboven in de sectie.
 
-![ ontdekt werkruimte met de Relevante benadrukte publiekssectie.](/help/assets/collaborate/discover/relevant-audiences.png)
+![&#x200B; ontdekt werkruimte met de Relevante benadrukte publiekssectie.](/help/assets/collaborate/discover/relevant-audiences.png)
 
 >[!NOTE]
 >
->De zichtbaarheid van het publiek van uw medewerker hangt van het plaatsen af dat uw medearbeider voor een publiek in de [ sectie van de verbindingstoegang ](/help/guide/setup/onboard-audiences.md#connection-access) en de [ sectie van het meta-gegevenszicht ](/help/guide/setup/onboard-audiences.md#metadata-visibility) koos. Als uw medewerker al publiek aan privé heeft geplaatst, zal deze sectie geen publiek tonen.
+>De zichtbaarheid van het publiek van uw medewerker hangt van het plaatsen af dat uw medearbeider voor een publiek in de [&#x200B; sectie van de verbindingstoegang &#x200B;](/help/guide/setup/onboard-audiences.md#connection-access) en de [&#x200B; sectie van het meta-gegevenszicht &#x200B;](/help/guide/setup/onboard-audiences.md#metadata-visibility) koos. Als uw medewerker al publiek aan privé heeft geplaatst, zal deze sectie geen publiek tonen.
 
 In de sectie **[!UICONTROL Relevant audiences]** wordt de volgende informatie voor elk aanbevolen publiek weergegeven:
 
@@ -119,7 +119,7 @@ In de sectie **[!UICONTROL Relevant audiences]** wordt de volgende informatie vo
 | **[!UICONTROL Identity count]** | Het aantal unieke id&#39;s in het publiek. |
 | **[!UICONTROL Overlapping identities]** | Het aantal unieke id&#39;s dat overlapt tussen het aanbevolen publiek en al uw publiek. |
 | **[!UICONTROL Overlap %]** | Het percentage overlappende identiteiten tussen het aanbevolen publiek en al uw publiek. |
-| **[!UICONTROL Audience index]** | Een score die aangeeft hoe sterk een publiek zich verhoudt tot een ander publiek op basis van het aantal onderliggende doelgroepen en de overlappingen. Meer over leren wat de scores betekenen, lees de [ score van de publieksindex ](#audience-index-score) sectie. |
+| **[!UICONTROL Audience index]** | Een score die aangeeft hoe sterk een publiek zich verhoudt tot een ander publiek op basis van het aantal onderliggende doelgroepen en de overlappingen. Meer over leren wat de scores betekenen, lees de [&#x200B; score van de publieksindex &#x200B;](#audience-index-score) sectie. |
 | **[!UICONTROL Audience categories]** | De categorieën die uw medewerker aan het publiek heeft toegewezen. |
 | **[!UICONTROL Match keys]** | De overeenkomende toetsen die uw medewerker voor het publiek heeft geselecteerd. |
 
@@ -136,21 +136,21 @@ Als de score van de publieksindex voor om het even welk publiek van uw medewerke
 
 Ontdek overlappingen om inzicht te krijgen in hoe uw publiek zich verhoudt tot het publiek van uw medewerker. Standaard worden in deze sectie al uw doelgroepen vergeleken met elk publiek van uw medewerkers. Gebruik het pagineringsbesturingselement onder aan de sectie om door het beschikbare publiek te navigeren.
 
-![ ontdekt werkruimte met Discover overlappende benadrukte sectie.](/help/assets/collaborate/discover/discover-overlaps.png)
+![&#x200B; ontdekt werkruimte met Discover overlappende benadrukte sectie.](/help/assets/collaborate/discover/discover-overlaps.png)
 
 >[!NOTE]
 >
->De zichtbaarheid van het publiek van uw medewerker hangt van het plaatsen af dat uw medearbeider voor een publiek in de [ sectie van de verbindingstoegang ](/help/guide/setup/onboard-audiences.md#connection-access) en de [ sectie van het meta-gegevenszicht ](/help/guide/setup/onboard-audiences.md#metadata-visibility) koos. Als uw medewerker al publiek aan privé heeft geplaatst, zal deze sectie geen publiek tonen.
+>De zichtbaarheid van het publiek van uw medewerker hangt van het plaatsen af dat uw medearbeider voor een publiek in de [&#x200B; sectie van de verbindingstoegang &#x200B;](/help/guide/setup/onboard-audiences.md#connection-access) en de [&#x200B; sectie van het meta-gegevenszicht &#x200B;](/help/guide/setup/onboard-audiences.md#metadata-visibility) koos. Als uw medewerker al publiek aan privé heeft geplaatst, zal deze sectie geen publiek tonen.
 
 Als de medewerker de publieksindex of het overlappingspercentage niet heeft ingeschakeld, wordt het publiek niet weergegeven.
 
 Selecteer **[!UICONTROL Change audience]** om de selectie van het publiek te wijzigen.
 
-![ ontdekt werkruimte met de benadrukte het publieksoptie van de Verandering.](/help/assets/collaborate/discover/change-audience.png)
+![&#x200B; ontdekt werkruimte met de benadrukte het publieksoptie van de Verandering.](/help/assets/collaborate/discover/change-audience.png)
 
 Het dialoogvenster **[!UICONTROL Change audience]** wordt geopend, waarin u een specifiek publiek kunt selecteren dat u wilt vergelijken met het publiek van uw medewerker. Selecteer het gewenste publiek of wis de selecties om alle soorten publiek te selecteren en selecteer vervolgens **[!UICONTROL Save]** .
 
-![ de het publieksdialoog van de Verandering in Discover werkruimte.](/help/assets/collaborate/discover/change-audience-selection.png)
+![&#x200B; de het publieksdialoog van de Verandering in Discover werkruimte.](/help/assets/collaborate/discover/change-audience-selection.png)
 
 Nadat u het gewenste publiek hebt geselecteerd, wordt in de sectie **[!UICONTROL Discover overlaps]** de volgende informatie voor elk publiek weergegeven:
 
@@ -159,7 +159,7 @@ Nadat u het gewenste publiek hebt geselecteerd, wordt in de sectie **[!UICONTROL
 | **[!UICONTROL Identity count]** | Het aantal unieke id&#39;s in het publiek. |
 | **[!UICONTROL Overlapping identities]** | Het aantal unieke id&#39;s dat overlapt tussen het aanbevolen publiek en al uw publiek. |
 | **[!UICONTROL Overlap %]** | Het percentage overlappende identiteiten tussen het aanbevolen publiek en al uw publiek. |
-| **[!UICONTROL Audience index]** | Een score die aangeeft hoe sterk een publiek zich verhoudt tot een ander publiek op basis van het aantal onderliggende doelgroepen en de overlappingen. Meer over leren wat de scores betekenen, lees de [ score van de publieksindex ](#audience-index-score) sectie. |
+| **[!UICONTROL Audience index]** | Een score die aangeeft hoe sterk een publiek zich verhoudt tot een ander publiek op basis van het aantal onderliggende doelgroepen en de overlappingen. Meer over leren wat de scores betekenen, lees de [&#x200B; score van de publieksindex &#x200B;](#audience-index-score) sectie. |
 | **[!UICONTROL Audience categories]** | De categorieën die uw medewerker aan het publiek heeft toegewezen. |
 | **[!UICONTROL Match keys]** | De overeenkomende toetsen die uw medewerker voor het publiek heeft geselecteerd. |
 
@@ -176,11 +176,11 @@ De indexscores van het publiek zijn genummerde metrisch die toont hoe sterk éé
 
 De indexscore wordt berekend met behulp van de volgende formule:
 
-![ de formule voor het berekenen van de indexscore.](/help/assets/collaborate/discover/index-score-formula.png)
+![&#x200B; de formule voor het berekenen van de indexscore.](/help/assets/collaborate/discover/index-score-formula.png)
 
 Stel je voor dat een autofabrikant een reclamecampagne wil voeren met een grote CTV-uitgever voor een nieuw SUV-model. De autofabrikant beschikt over gegevens over wie momenteel een vergelijkbaar model bezit en wil dat gebruiken om extra mogelijkheden te vinden om deze naar klanten om te zetten. De autofabrikant kijkt naar het publiek van de CTV-uitgever om een relevant publiek te vinden dat nauw aansluit bij de huidige SUV-eigenaars.
 
-![ de autoadverteerder tegenover het CTV uitgeverspubliek.](/help/assets/collaborate/discover/audience-index-score-example.png)
+![&#x200B; de autoadverteerder tegenover het CTV uitgeverspubliek.](/help/assets/collaborate/discover/audience-index-score-example.png)
 
 Berekeningen van de indexscore worden gemaakt en kunnen worden gebruikt om te bepalen of de campagne waarschijnlijk succesvol is:
 
@@ -214,4 +214,4 @@ In de sectie over overlappingen ontdekken wordt de score van de publieksindex na
 
 ## Volgende stappen
 
-Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd [ ](/help/guide/collaborate/activate.md) het publiek te activeren dat in de campagnes zou moeten worden gebruikt.
+Na het onderzoeken van en het ontdekken van het gewenste publiek, is het tijd [&#x200B; &#x200B;](/help/guide/collaborate/activate.md) het publiek te activeren dat in de campagnes zou moeten worden gebruikt.

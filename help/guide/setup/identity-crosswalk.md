@@ -29,9 +29,9 @@ Als eerste stap, moet u identiteitsoverzichten in Real-Time CDP Collaboration in
 
 ## Identiteitskruisverwijzingen importeren in Real-Time CDP Collaboration {#import-crosswalk}
 
-Navigeer aan **[!UICONTROL Setup]** > **[!UICONTROL Identity crosswalks]** lusje, selecteer het add pictogram (![ voeg pictogram toe.](/help/assets/icons/plus.png) ) en selecteert u **[!UICONTROL Identity crosswalk]**
+Navigeer aan **[!UICONTROL Setup]** > **[!UICONTROL Identity crosswalks]** lusje, selecteer het add pictogram (![&#x200B; voeg pictogram toe.](/help/assets/icons/plus.png) ) en selecteert u **[!UICONTROL Identity crosswalk]**
 
-![ Opname van hoe te om aan het scherm te krijgen om identiteitskruisverwijzingen toe te voegen ](/help/assets/setup/identity-crosswalks/import-identity-crosswalk.gif)
+![&#x200B; Opname van hoe te om aan het scherm te krijgen om identiteitskruisverwijzingen toe te voegen &#x200B;](/help/assets/setup/identity-crosswalks/import-identity-crosswalk.gif)
 
 ### Kruisbron selecteren
 
@@ -41,9 +41,9 @@ Selecteer een bron waar u het identiteitskruis van zult invoeren. In de eerste v
 >
 >De kruisen die u van Experience Platform invoert worden bedoeld als *datasets* in Platform.
 
-Na het selecteren van Experience Platform als bron van uw kruis, selecteer de [ zandbak van Experience Platform ](https://experienceleague.adobe.com/nl/docs/experience-platform/sandbox/home) waarvan u het identiteitskruis invoert.
+Na het selecteren van Experience Platform als bron van uw kruis, selecteer de [&#x200B; zandbak van Experience Platform &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/sandbox/home) waarvan u het identiteitskruis invoert.
 
-![ Opname van hoe te om een dwarshellbron te selecteren ](/help/assets/setup/identity-crosswalks/select-crosswalk-source.gif)
+![&#x200B; Opname van hoe te om een dwarshellbron te selecteren &#x200B;](/help/assets/setup/identity-crosswalks/select-crosswalk-source.gif)
 
 ### Kruisje selecteren
 

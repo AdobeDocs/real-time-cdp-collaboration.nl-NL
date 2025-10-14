@@ -17,9 +17,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Activate]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de activering van het publiek** tijdens het verbindingsproces [ werd toegelaten. ](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Activate]** werkruimte is slechts beschikbaar als het **2&rbrace; gebruiksgeval van de activering van het publiek** tijdens het verbindingsproces [&#x200B; werd toegelaten. &#x200B;](../connect/establishing-connections.md#connection-settings) Voor meer informatie over gebruiksgevallen, verwijs naar [&#x200B; projecten &#x200B;](./manage-projects.md#project-use-cases) gids beheren.
 
-Met activering van het publiek kunt u het publiek activeren voor gebruik in campagnes. De activering kan door één van beide samenwerker afhankelijk van de montages van de publiekactivering [ worden gedaan die in de verbinding ](/help/guide/connect/establishing-connections.md#configure-connection-settings) worden gevormd. Nadat u [ het beste publiek voor uw campagne ](./discover.md) ontdekt, activeer het publiek om hen voor gebruik beschikbaar te maken. Wanneer u een publiek activeert, wordt het verzonden naar de pre-gevormde bestemming van uw medewerker, zoals Adobe Experience Platform, waar het voor gebruik in campagnes beschikbaar wordt. Voor meer informatie over vestiging bestemmingen, verwijs naar de [ gids van het bestemmingsoverzicht ](../destinations/overview.md).
+Met activering van het publiek kunt u het publiek activeren voor gebruik in campagnes. De activering kan door één van beide samenwerker afhankelijk van de montages van de publiekactivering [&#x200B; worden gedaan die in de verbinding &#x200B;](/help/guide/connect/establishing-connections.md#configure-connection-settings) worden gevormd. Nadat u [&#x200B; het beste publiek voor uw campagne &#x200B;](./discover.md) ontdekt, activeer het publiek om hen voor gebruik beschikbaar te maken. Wanneer u een publiek activeert, wordt het verzonden naar de pre-gevormde bestemming van uw medewerker, zoals Adobe Experience Platform, waar het voor gebruik in campagnes beschikbaar wordt. Voor meer informatie over vestiging bestemmingen, verwijs naar de [&#x200B; gids van het bestemmingsoverzicht &#x200B;](../destinations/overview.md).
 
 ## Nieuw publiek activeren {#activate-new-audiences}
 
@@ -29,19 +29,19 @@ Als u het publiek wilt activeren, navigeert u naar het tabblad **[!UICONTROL Act
 >
 >**vóór** u een publiek kunt activeren, moet uw samenwerker **&#x200B;**&#x200B;een bestemming vormen. Wanneer u een publiek activeert, wordt het automatisch verzonden naar de gevormde bestemming van uw medewerker. Als er geen bestemming is ingesteld, kunt u het publiek niet activeren.
 >
->![ Activate werkruimte wanneer de medewerker geen gevormde bestemming heeft.](/help/assets/collaborate/activate/no-destination-configured.png)
+>![&#x200B; Activate werkruimte wanneer de medewerker geen gevormde bestemming heeft.](/help/assets/collaborate/activate/no-destination-configured.png)
 
-Selecteer het add pictogram (![ voeg pictogram toe.](/help/assets/icons/plus.png)) of de optie **[!UICONTROL Activate audience]** als er geen vorig publiek is verzonden voor activering.
+Selecteer het add pictogram (![&#x200B; voeg pictogram toe.](/help/assets/icons/plus.png)) of de optie **[!UICONTROL Activate audience]** als er geen vorig publiek is verzonden voor activering.
 
-![ Activate werkruimte in een project zonder toegevoegd publiek.](/help/assets/collaborate/activate/activate-new-audiences.png)
+![&#x200B; Activate werkruimte in een project zonder toegevoegd publiek.](/help/assets/collaborate/activate/activate-new-audiences.png)
 
 De workflow voor het activeren van soorten publiek wordt geopend. Hier kunt u het publiek selecteren dat u naar uw medewerker wilt verzenden. Gebruik vervolgkeuzelijst om een publiek te selecteren of zoek naar een specifiek publiek. Als u meer informatie over het publiek wilt zien voordat u een selectie maakt, selecteert u **[!UICONTROL Browse audiences]**
 
-![ het de activeringswerkschema van het publiek met dropdown en doorbladert benadrukte publieksopties.](/help/assets/collaborate/activate/audience-activation.png)
+![&#x200B; het de activeringswerkschema van het publiek met dropdown en doorbladert benadrukte publieksopties.](/help/assets/collaborate/activate/audience-activation.png)
 
 In **[!UICONTROL Browse audiences]**, kunt u **[!UICONTROL Identity count]** zien, **[!UICONTROL Overlapping identities]**, en **[!UICONTROL Overlap %]** voor elk publiek.
 
-![ de Browse publieksdialoog die het beschikbare publiek toont.](/help/assets/collaborate/activate/browse-audiences.png)
+![&#x200B; de Browse publieksdialoog die het beschikbare publiek toont.](/help/assets/collaborate/activate/browse-audiences.png)
 
 >[!IMPORTANT]
 >
@@ -49,13 +49,13 @@ In **[!UICONTROL Browse audiences]**, kunt u **[!UICONTROL Identity count]** zie
 
 Selecteer het publiek dat u in campagnes wilt activeren en selecteer vervolgens **[!UICONTROL Save]** . Het publiek wordt nu weergegeven en u ziet de deelvensters **[!UICONTROL Identity count]** , **[!UICONTROL Overlapping identities]** en **[!UICONTROL Overlap %]** voor het geselecteerde publiek.
 
-![ het werkschema van de activering van het Publiek met het geselecteerde getoonde publiek.](/help/assets/collaborate/activate/audience-selected.png)
+![&#x200B; het werkschema van de activering van het Publiek met het geselecteerde getoonde publiek.](/help/assets/collaborate/activate/audience-selected.png)
 
 ### Overeenkomstsleutels bewerken {#edit-match-keys}
 
 Vervolgens kunt u de overeenkomende toetsen van de doelgroep bewerken door **[!UICONTROL Edit match keys]** te selecteren in het geselecteerde publiek. Deze opties worden overgenomen van de selecties van de match-toets wanneer de verbinding tussen medewerkers voor het eerst werd ingesteld. U kunt geselecteerde wedstrijdtoetsen verwijderen als deze niet van toepassing zijn op een specifieke campagne, maar u kunt geen nieuwe overeenkomende toetsen toevoegen.
 
-![ het werkschema van de activering van het publiek met Edit benadrukte gelijke sleutels.](/help/assets/collaborate/activate/edit-match-keys.png)
+![&#x200B; het werkschema van de activering van het publiek met Edit benadrukte gelijke sleutels.](/help/assets/collaborate/activate/edit-match-keys.png)
 
 Het dialoogvenster **[!UICONTROL Edit match keys]** wordt geopend, waarin u de overeenkomende toetsen die u niet wilt gebruiken, kunt uitschakelen. Selecteer **[!UICONTROL Save]** om uw wijzigingen op te slaan.
 
@@ -63,13 +63,13 @@ Het dialoogvenster **[!UICONTROL Edit match keys]** wordt geopend, waarin u de o
 >
 >Er moet ten minste één overeenkomende toets zijn geselecteerd. In de huidige versie zijn alleen **[!UICONTROL Hashed email]** overeenkomende toetsen beschikbaar. U kunt deze overeenkomende toets dus niet verwijderen.
 
-![ geef gelijke sleuteldialoog in het de activeringswerkschema van het Onderzoek uit.](/help/assets/collaborate/activate/edit-match-keys-selection.png)
+![&#x200B; geef gelijke sleuteldialoog in het de activeringswerkschema van het Onderzoek uit.](/help/assets/collaborate/activate/edit-match-keys-selection.png)
 
 ### Vernieuwingsfrequentie voor publiek instellen {#set-audience-refresh-frequency}
 
 Tot slot plaats de gewenste frequentie en de datumwaaier voor het publiek om te verfrissen. In de huidige versie is **[!UICONTROL Once]** de enige ondersteunde frequentieoptie. De **[!UICONTROL Once]** frequentie betekent dat het publiek één keer wordt geactiveerd en niet wordt vernieuwd. De optie **[!UICONTROL Date]** wordt automatisch ingevuld met de huidige datum.
 
-![ het werkschema van de activering van het publiek met de benadrukte sectie van de Frequentie.](/help/assets/collaborate/activate/audience-frequency.png)
+![&#x200B; het werkschema van de activering van het publiek met de benadrukte sectie van de Frequentie.](/help/assets/collaborate/activate/audience-frequency.png)
 
 Als u tevreden bent met de selecties, selecteert u **[!UICONTROL Activate]** om de workflow te voltooien.
 
@@ -77,7 +77,7 @@ Als u tevreden bent met de selecties, selecteert u **[!UICONTROL Activate]** om 
 
 Op het tabblad **[!UICONTROL Activate]** kunt u alle soorten publiek weergeven die naar uw medewerker zijn verzonden, evenals alle soorten publiek die uw medewerker naar uw doel heeft geactiveerd.
 
-![ activeer dashboard die het Verzonden publiek en de Geactiveerde publiekssecties tonen.](/help/assets/collaborate/activate/activate-dashboard.png)
+![&#x200B; activeer dashboard die het Verzonden publiek en de Geactiveerde publiekssecties tonen.](/help/assets/collaborate/activate/activate-dashboard.png)
 
 ## Verzonden publiek weergeven {#view-sent-audiences}
 
@@ -115,14 +115,14 @@ Binnen elk geactiveerd publiek, kunt u de volgende metriek zien:
 
 U kunt verzonden soorten publiek verwijderen die u niet meer wilt activeren. Wanneer u een verzonden publiek verwijdert, wordt deze verwijderd uit de sectie **[!UICONTROL Sent audiences to]** en wordt de doelgroep niet meer geactiveerd voor de medewerker.
 
-Om een verzonden publiek te schrappen, selecteer het **[!UICONTROL Delete]** pictogram (![ pictogram van de Schrapping.](/help/assets/icons/delete.png) ) naast het publiek in de **[!UICONTROL Sent audiences to]** -sectie.
+Om een verzonden publiek te schrappen, selecteer het **[!UICONTROL Delete]** pictogram (![&#x200B; pictogram van de Schrapping.](/help/assets/icons/delete.png) ) naast het publiek in de **[!UICONTROL Sent audiences to]** -sectie.
 
-![ de optie van de Schrapping in het Verzonden publiek aan sectie.](/help/assets/collaborate/activate/delete-sent-audiences.png)
+![&#x200B; de optie van de Schrapping in het Verzonden publiek aan sectie.](/help/assets/collaborate/activate/delete-sent-audiences.png)
 
 Er wordt een bevestigingsvenster geopend waarin u wordt gevraagd de verwijdering te bevestigen. Selecteer **[!UICONTROL Delete]** om te bevestigen.
 
-![ de bevestigingsdialoog van de Schrapping.](/help/assets/collaborate/activate/delete-sent-audiences-confirmation.png)
+![&#x200B; de bevestigingsdialoog van de Schrapping.](/help/assets/collaborate/activate/delete-sent-audiences-confirmation.png)
 
 ## Volgende stappen {#next-steps}
 
-Na het activeren van publiek en lopende campagnes, werk met Adobe enablement en techniekteam om meetgegevens te uploaden en de overeenkomstige [ metingsrapporten ](/help/guide/collaborate/measure.md) te bekijken.
+Na het activeren van publiek en lopende campagnes, werk met Adobe enablement en techniekteam om meetgegevens te uploaden en de overeenkomstige [&#x200B; metingsrapporten &#x200B;](/help/guide/collaborate/measure.md) te bekijken.

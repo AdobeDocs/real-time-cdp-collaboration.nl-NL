@@ -17,19 +17,19 @@ ht-degree: 1%
 
 Adobe Real-Time CDP Collaboration maakt samenwerking met adverteerders en uitgevers mogelijk en biedt nieuwe mogelijkheden voor detectie, activering en meting van het publiek. Deze verbindingen verbeteren marketing strategieën door gedeelde gegevens te gebruiken terwijl het handhaven van privacy en veiligheid.
 
-Collaboration biedt drie gebruiksgevallen in uw verbindingen met andere deelnemers: Detecteren, activeren en Meetlat. Elke gebruikscase biedt unieke voordelen en mogelijkheden om uw marketinginspanningen te verbeteren. Deze gebruiksgevallen worden [ geselecteerd wanneer u een project ](../collaborate/manage-projects.md#project-use-cases) met een medewerker creeert om van een campagne af te schoppen, en zal de eigenschappen en de functionaliteiten bepalen beschikbaar in dat project.
+Collaboration biedt drie gebruiksgevallen in uw verbindingen met andere deelnemers: Detecteren, activeren en Meetlat. Elke gebruikscase biedt unieke voordelen en mogelijkheden om uw marketinginspanningen te verbeteren. Deze gebruiksgevallen worden [&#x200B; geselecteerd wanneer u een project &#x200B;](../collaborate/manage-projects.md#project-use-cases) met een medewerker creeert om van een campagne af te schoppen, en zal de eigenschappen en de functionaliteiten bepalen beschikbaar in dat project.
 
 ## Discover {#discover}
 
-![ ontdek de modules van het publieksinzicht.](/help/assets/use-cases/discover.png)
+![&#x200B; ontdek de modules van het publieksinzicht.](/help/assets/use-cases/discover.png)
 
-Ontdek doelgroepen voor campagnes door het dashboard **[!UICONTROL Audience insights]** in uw projecten te gebruiken. Laat insight overlappende percentages gebruiken en het aantal overlappende identiteiten tussen uw publiek en dat van uw medewerkers. Hierdoor kunt u mogelijke nieuwe doelgroepen voor uw campagnes identificeren. Meer over de macht van het ontdek gebruiksgeval leren, verwijs naar [ ontdekken ](../collaborate/discover.md) gids.
+Ontdek doelgroepen voor campagnes door het dashboard **[!UICONTROL Audience insights]** in uw projecten te gebruiken. Laat insight overlappende percentages gebruiken en het aantal overlappende identiteiten tussen uw publiek en dat van uw medewerkers. Hierdoor kunt u mogelijke nieuwe doelgroepen voor uw campagnes identificeren. Meer over de macht van het ontdek gebruiksgeval leren, verwijs naar [&#x200B; ontdekken &#x200B;](../collaborate/discover.md) gids.
 
 ## Activeren {#activate}
 
-![ activeer de modules van het publiek dashboard.](/help/assets/use-cases/activate.png)
+![&#x200B; activeer de modules van het publiek dashboard.](/help/assets/use-cases/activate.png)
 
-De medewerkers kunnen publiek aan Experience Platform activeren gebruikend zelf-gediende [ bestemmingen ](/help/guide/destinations/experience-platform.md) of de pakhuizen van wolkengegevens (zoals [!DNL Amazon S3] of [!DNL Snowflake]) voor gebruik in campagnes. Meer over het activeren van publiek leren, verwijs naar [ activeer ](../collaborate/activate.md) gids.
+De medewerkers kunnen publiek aan Experience Platform activeren gebruikend zelf-gediende [&#x200B; bestemmingen &#x200B;](/help/guide/destinations/experience-platform.md) of de pakhuizen van wolkengegevens (zoals [!DNL Amazon S3] of [!DNL Snowflake]) voor gebruik in campagnes. Meer over het activeren van publiek leren, verwijs naar [&#x200B; activeer &#x200B;](../collaborate/activate.md) gids.
 
 >[!NOTE]
 >

@@ -59,7 +59,7 @@ De samenwerking van gegevens impliceert het combineren van en het analyseren van
 
 ### Gegevensverbinding
 
-Een gegevensverbinding is de bron vanwaar u gegevens kunt importeren in Real-Time CDP Collaboration. Experience Platform is momenteel de enige beschikbare gegevensverbinding. Lees meer over [ het beheren van gegevensverbindingen ](/help/guide/setup/manage-data-connection.md).
+Een gegevensverbinding is de bron vanwaar u gegevens kunt importeren in Real-Time CDP Collaboration. Experience Platform is momenteel de enige beschikbare gegevensverbinding. Lees meer over [&#x200B; het beheren van gegevensverbindingen &#x200B;](/help/guide/setup/manage-data-connection.md).
 
 ### Overeenkomst voor het delen van gegevens
 

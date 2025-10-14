@@ -21,12 +21,12 @@ Dit document bevat antwoorden op de meest gestelde vragen over Adobe Real-Time C
 
 Ik zie dit scherm als ik toegang probeer te krijgen tot Real-Time CDP Collaboration. Hoe kan ik de noodzakelijke toestemmingen krijgen om het product te gebruiken?
 
-![ het niet beschikbare scherm van Toestemmingen wanneer de toegang tot van Real-Time CDP Collaboration ](/help/assets/reference/common-questions/permissions-missing-screen.png)
+![&#x200B; het niet beschikbare scherm van Toestemmingen wanneer de toegang tot van Real-Time CDP Collaboration &#x200B;](/help/assets/reference/common-questions/permissions-missing-screen.png)
 
 +++Selecteren om het antwoord weer te geven
 
 Als u een eindgebruiker bent, moet u het systeem of de productbeheerder van uw organisatie contacteren.
 
-Als u een systeem of productbeheerder bent, lees de toestemmingengids om te begrijpen hoe te om zich en uw collega&#39;s de correcte toestemmingen te verlenen om Collaboration te gebruiken. Meer leren, lees het [ overzicht van de toegangscontrole ](/help/guide/permissions/overview.md).
+Als u een systeem of productbeheerder bent, lees de toestemmingengids om te begrijpen hoe te om zich en uw collega&#39;s de correcte toestemmingen te verlenen om Collaboration te gebruiken. Meer leren, lees het [&#x200B; overzicht van de toegangscontrole &#x200B;](/help/guide/permissions/overview.md).
 
 +++

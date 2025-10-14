@@ -32,11 +32,11 @@ ht-degree: 0%
 
 Navigeer naar **[!UICONTROL Setup]** in de hoofdnavigatie en selecteer vervolgens het tabblad **[!UICONTROL My activity]** om uw geschatte activiteiten voor kredietverbruik te openen.
 
-![ Mijn dashboard van de Activiteit die de details van de kredietconsumptie tonen ](/help/assets/setup/my-activity-credits/activity-dashboard.png)
+![&#x200B; Mijn dashboard van de Activiteit die de details van de kredietconsumptie tonen &#x200B;](/help/assets/setup/my-activity-credits/activity-dashboard.png)
 
 >[!TIP]
 >
->De weergave **[!UICONTROL My activity]** bevat geen informatie over gebruikersacties in verschillende delen van de gebruikersinterface van Collaboration. Gebruik de [ controlelogboeken ](/help/guide/setup/audit-logs.md) functionaliteit om die informatie te krijgen.
+>De weergave **[!UICONTROL My activity]** bevat geen informatie over gebruikersacties in verschillende delen van de gebruikersinterface van Collaboration. Gebruik de [&#x200B; controlelogboeken &#x200B;](/help/guide/setup/audit-logs.md) functionaliteit om die informatie te krijgen.
 
 ## Het dashboard voor uw activiteiten begrijpen {#understand-dashboard}
 
@@ -62,15 +62,15 @@ Het activity dashboard geeft een uitgebreide lijst weer van alle kredietverbruik
 
 In de kolom **[!UICONTROL Activity]** worden verschillende soorten kredietverbruikende bewerkingen weergegeven.
 
-* **[!UICONTROL Audience Management]**: Credits worden gebruikt wanneer het publiek naar Collaboration wordt gedownload. Credits worden verbruikt als een functie van het aantal id&#39;s (in miljoenen) dat binnen Collaboration is geïndexeerd voor alle soorten publiek en de frequentie van die indexering (dagelijks, elke drie dagen of wekelijks). Meer leren, lees [ het aantrekken en het leiden van publiek ](/help/guide/setup/onboard-audiences.md) gids.
-* **[!UICONTROL Activation - Matching]** - Credits worden gebruikt als een functie van het aantal id&#39;s dat overeenkomt en klaar is voor activering. Meer leren, lees [ activerend publiek ](/help/guide/collaborate/activate.md) gids.
-* **[!UICONTROL Activation - Egress]** - Credits worden gebruikt als functie van het aantal id&#39;s dat naar een doel wordt verzonden. Dit wordt altijd in rekening gebracht aan de medewerker die het publiek ontvangt. Meer leren, lees [ activerend publiek ](/help/guide/collaborate/activate.md) gids.
+* **[!UICONTROL Audience Management]**: Credits worden gebruikt wanneer het publiek naar Collaboration wordt gedownload. Credits worden verbruikt als een functie van het aantal id&#39;s (in miljoenen) dat binnen Collaboration is geïndexeerd voor alle soorten publiek en de frequentie van die indexering (dagelijks, elke drie dagen of wekelijks). Meer leren, lees [&#x200B; het aantrekken en het leiden van publiek &#x200B;](/help/guide/setup/onboard-audiences.md) gids.
+* **[!UICONTROL Activation - Matching]** - Credits worden gebruikt als een functie van het aantal id&#39;s dat overeenkomt en klaar is voor activering. Meer leren, lees [&#x200B; activerend publiek &#x200B;](/help/guide/collaborate/activate.md) gids.
+* **[!UICONTROL Activation - Egress]** - Credits worden gebruikt als functie van het aantal id&#39;s dat naar een doel wordt verzonden. Dit wordt altijd in rekening gebracht aan de medewerker die het publiek ontvangt. Meer leren, lees [&#x200B; activerend publiek &#x200B;](/help/guide/collaborate/activate.md) gids.
 * **[!UICONTROL Measurement]** - Voer activiteiten uit in Collaboration om prestatierapporten en inzichten van de campagne te genereren. Kredieten worden verbruikt op basis van het aantal rijen in campagnerapporten voor alle campagnes en de rapportagefrequentie (dagelijks, elke drie dagen of wekelijks).
 
 ## Uw kredietverbruik beheren {#manage-credit-consumption}
 
 Om uw kredietverbruik effectief te beheren:
 
-1. **begrijp** het kredietverbruik verbonden aan elke activiteit. Controleer de [ het productbeschrijving van Collaboration ](https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html){target=_blank} voor een lijst van kredieten die per activiteit worden gebruikt.
+1. **begrijp** het kredietverbruik verbonden aan elke activiteit. Controleer de [&#x200B; het productbeschrijving van Collaboration &#x200B;](https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html){target=_blank} voor een lijst van kredieten die per activiteit worden gebruikt.
 2. **Monitor regelmatig**: Controleer regelmatig uw activiteitendashboard om gebruikspatronen te begrijpen.
 3. **Spoor door verbinding**: Gebruik de verbindingsnaam om te identificeren welke verbindingen de meeste kredieten verbruiken.

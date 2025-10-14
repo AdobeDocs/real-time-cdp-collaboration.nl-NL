@@ -15,7 +15,7 @@ ht-degree: 0%
 
 {{limited-availability-release-note}}
 
-Configureer deze bestemming om het publiek van uw project naar Adobe Experience Platform te activeren. Als u het publiek activeert naar Adobe Experience Platform, kunt u de mogelijkheden van het platform benutten voor publiekssegmentatie, -analyse en -activering via verschillende marketingkanalen. Meer over Adobe Experience Platform leren, verwijs naar het [ overzicht van Experience Platform ](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/home){target="_blank"}.
+Configureer deze bestemming om het publiek van uw project naar Adobe Experience Platform te activeren. Als u het publiek activeert naar Adobe Experience Platform, kunt u de mogelijkheden van het platform benutten voor publiekssegmentatie, -analyse en -activering via verschillende marketingkanalen. Meer over Adobe Experience Platform leren, verwijs naar het [&#x200B; overzicht van Experience Platform &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/home){target="_blank"}.
 
 >[!WARNING]
 >
@@ -25,11 +25,11 @@ Configureer deze bestemming om het publiek van uw project naar Adobe Experience 
 
 Als u Adobe Experience Platform als doel wilt configureren, navigeert u naar **[!UICONTROL Setup]** en selecteert u de tab **[!UICONTROL My destinations]** . Selecteer **[!UICONTROL Set up]** voor Adobe Experience Platform.
 
-![ De Mijn die bestemmingswerkruimte met de optie van de Opstelling voor de bestemming van Adobe Experience Platform wordt benadrukt.](/help/assets/destinations/adobe-experience-platform/setup-aep.png)
+![&#x200B; De Mijn die bestemmingswerkruimte met de optie van de Opstelling voor de bestemming van Adobe Experience Platform wordt benadrukt.](/help/assets/destinations/adobe-experience-platform/setup-aep.png)
 
 De **[!UICONTROL Create destination]** -workflow wordt weergegeven.
 
-![ Create bestemmingswerkschema voor Adobe Experience Platform.](/help/assets/destinations/adobe-experience-platform/create-destination.png)
+![&#x200B; Create bestemmingswerkschema voor Adobe Experience Platform.](/help/assets/destinations/adobe-experience-platform/create-destination.png)
 
 ### Sandbox configureren {#configure-sandbox}
 
@@ -42,17 +42,17 @@ Eerst selecteert u de sandbox waarin de publieksgegevens worden verzonden.
 
 >[!IMPORTANT]
 >
->U kunt alleen een sandbox selecteren waartoe de gebruiker toegang heeft. Door gebrek, hebben alle gebruikers van Collaboration toegang tot **Prod** zandbak. Om toegang te krijgen tot extra sandboxen, moet een beheerder extra sandboxen toevoegen aan een rol die aan de gebruiker is toegewezen. Voor meer informatie over het beheren van rollen, verwijs naar [ rollen ](../permissions/manage-roles.md) gids beheren.
+>U kunt alleen een sandbox selecteren waartoe de gebruiker toegang heeft. Door gebrek, hebben alle gebruikers van Collaboration toegang tot **Prod** zandbak. Om toegang te krijgen tot extra sandboxen, moet een beheerder extra sandboxen toevoegen aan een rol die aan de gebruiker is toegewezen. Voor meer informatie over het beheren van rollen, verwijs naar [&#x200B; rollen &#x200B;](../permissions/manage-roles.md) gids beheren.
 
 Selecteer in de sectie **[!UICONTROL Configure sandbox]** het vervolgkeuzemenu **[!UICONTROL Sandbox]** of typ de naam van een sandbox.
 
-![ Sandbox dropdown die in het Create bestemmingswerkschema wordt benadrukt.](/help/assets/destinations/adobe-experience-platform/select-sandbox.png)
+![&#x200B; Sandbox dropdown die in het Create bestemmingswerkschema wordt benadrukt.](/help/assets/destinations/adobe-experience-platform/select-sandbox.png)
 
 U kunt ook **[!UICONTROL Browse sandbox]** selecteren om alle beschikbare sandboxen en de bijbehorende **[!UICONTROL Type]** , **[!UICONTROL Status]** en **[!UICONTROL Region]** weer te geven. Selecteer de sandbox die u wilt gebruiken en selecteer vervolgens **[!UICONTROL Save]** .
 
 Configureer vervolgens de **[!UICONTROL Audience Expiration]** . Standaard is de vervaldatum van het publiek ingesteld op 30 dagen. U kunt de vervaldatum op een willekeurige plaats instellen, van 1 tot en met 30 dagen. Na de vervaldatum is het publiek niet meer beschikbaar in Adobe Experience Platform.
 
-![ de sectie van de Vervalsing van het Publiek die in het Create bestemmingswerkschema wordt benadrukt.](/help/assets/destinations/adobe-experience-platform/audience-expiration.png)
+![&#x200B; de sectie van de Vervalsing van het Publiek die in het Create bestemmingswerkschema wordt benadrukt.](/help/assets/destinations/adobe-experience-platform/audience-expiration.png)
 
 ### Activeringstoewijzing maken {#create-activation-mapping}
 
@@ -71,7 +71,7 @@ Configureer vervolgens de **[!UICONTROL Audience Expiration]** . Standaard is de
 >title="Doelnaamruimten"
 >abstract="Doelnaamruimten bepalen aan welke naamruimte de overeenkomende sleutel wordt toegewezen in Adobe Experience Platform. De gehakte gelijke sleutels moeten aan een doelnamespace worden in kaart gebracht die gehakte waarden steunt."
 
-Alle overeenkomende toetsen die voor uw account zijn ingeschakeld, worden standaard in de activeringstoewijzing opgenomen. Als u een overeenkomende sleutel niet rechtstreeks wilt toewijzen aan een doelnaamruimte, kunt u de optie voor de gekoppelde sleutel gebruiken om deze te vervangen door een andere overeenkomende sleutel. Voor meer informatie over verbonden sleutels, zie de [ sectie hieronder ](#linked-keys).
+Alle overeenkomende toetsen die voor uw account zijn ingeschakeld, worden standaard in de activeringstoewijzing opgenomen. Als u een overeenkomende sleutel niet rechtstreeks wilt toewijzen aan een doelnaamruimte, kunt u de optie voor de gekoppelde sleutel gebruiken om deze te vervangen door een andere overeenkomende sleutel. Voor meer informatie over verbonden sleutels, zie de [&#x200B; sectie hieronder &#x200B;](#linked-keys).
 
 #### Doelnaamruimten toewijzen {#map-target-namespaces}
 
@@ -81,7 +81,7 @@ Als u elke overeenkomende sleutel wilt toewijzen aan een doelnaamruimte, selecte
 >
 >De gehakte gelijke sleutels moeten aan een doelnamespace worden in kaart gebracht die gehakte waarden steunt. De **[!UICONTROL Hashed email]** -sleutel moet bijvoorbeeld worden toegewezen aan de naamruimte **[!UICONTROL Email(SHA256, lowercased)]** in Adobe Experience Platform. U kunt de sleutel **[!UICONTROL Hashed email]** match niet toewijzen aan de naamruimte **[!UICONTROL Email]** , omdat deze naamruimte hashed-waarden niet ondersteunt.
 
-![ de Uitgezochte dialoog van het brongebied met de Uitgezochte benadrukte optie.](/help/assets/destinations/adobe-experience-platform/select-target-namespace.png)
+![&#x200B; de Uitgezochte dialoog van het brongebied met de Uitgezochte benadrukte optie.](/help/assets/destinations/adobe-experience-platform/select-target-namespace.png)
 
 Herhaal dit proces voor elke gelijke sleutel die u in de activeringstoewijzing wilt omvatten. Als u geen overeenkomende sleutel wilt opnemen, kunt u deze verwijderen of de optie voor de gekoppelde sleutel gebruiken om deze te vervangen door een andere overeenkomende sleutel.
 
@@ -102,17 +102,17 @@ Een retailer wil de gegevens die worden geactiveerd naar Experience Platform ver
 
 Als u een gekoppelde sleutel wilt gebruiken, schakelt u de optie **[!UICONTROL Linked key]** in of uit naast de overeenkomende sleutel die u in de plaats wilt gebruiken. De sectie **[!UICONTROL Linked key]** lijkt u te vragen om de afbeelding te maken.
 
-![ de Gekoppelde belangrijkste optie en de sectie die in het Create bestemmingswerkschema wordt benadrukt.](/help/assets/destinations/adobe-experience-platform/linked-key.png)
+![&#x200B; de Gekoppelde belangrijkste optie en de sectie die in het Create bestemmingswerkschema wordt benadrukt.](/help/assets/destinations/adobe-experience-platform/linked-key.png)
 
 Selecteer de **[!UICONTROL Linked key]** die u wilt gebruiken in het vervolgkeuzemenu. In het volgende voorbeeld selecteert de retailer **[!UICONTROL CRM ID]** als de gekoppelde sleutel.
 
-![ Linked zeer belangrijke dropdown die in het Create bestemmingswerkschema wordt benadrukt.](/help/assets/destinations/adobe-experience-platform/select-linked-key.png)
+![&#x200B; Linked zeer belangrijke dropdown die in het Create bestemmingswerkschema wordt benadrukt.](/help/assets/destinations/adobe-experience-platform/select-linked-key.png)
 
 Vervolgens wilt u de doelnaamruimte voor de gekoppelde sleutel opgeven als u dat nog niet hebt gedaan. Als u al de doelnaamruimte voor de overeenkomende sleutel hebt geselecteerd in de sectie **[!UICONTROL Create activation mapping]** , wordt deze automatisch ingevuld. Als u nog geen doelnaamruimte hebt geselecteerd voor de gekoppelde sleutel, kunt u dat nu doen.
 
 Selecteer het veld **[!UICONTROL Target namespaces]** naast de gekoppelde sleutel. Het dialoogvenster **[!UICONTROL Select source field]** wordt weergegeven. Zoek de doelnaamruimte in de lijst of zoek naar een specifieke naamruimte. Selecteer de doelnaamruimte die u voor de gekoppelde sleutel wilt gebruiken en selecteer vervolgens **[!UICONTROL Select]** .
 
-![ de Uitgezochte dialoog van het brongebied.](/help/assets/destinations/adobe-experience-platform/select-linked-key-target-namespace.png)
+![&#x200B; de Uitgezochte dialoog van het brongebied.](/help/assets/destinations/adobe-experience-platform/select-linked-key-target-namespace.png)
 
 De gekoppelde sleutel is nu geconfigureerd.
 
@@ -122,7 +122,7 @@ De gekoppelde sleutel is nu geconfigureerd.
 
 Wanneer u alle overeenkomende toetsen hebt toegewezen, controleert u uw instellingen. De sectie **[!UICONTROL Preview]** bevat een overzicht van uw configuratie.
 
-![ de sectie van de Voorproef in Create bestemmingswerkschema.](/help/assets/destinations/adobe-experience-platform/preview.png)
+![&#x200B; de sectie van de Voorproef in Create bestemmingswerkschema.](/help/assets/destinations/adobe-experience-platform/preview.png)
 
 >[!IMPORTANT]
 >
@@ -132,13 +132,13 @@ Selecteer **[!UICONTROL Create destination]** als u tevreden bent met de configu
 
 ## Adobe Experience Platform gebruiken als doel
 
-Zodra u Experience Platform als bestemming hebt gevormd, kunt u [ beginnen activerend publiek ](../collaborate/activate.md) aan het platform door uw projecten. Momenteel is het activeringsproces een proces in één stap dat door de deelnemer wordt geïnitieerd. Wanneer een adverteerder bijvoorbeeld een publiek activeert, wordt deze naar de vooraf geconfigureerde bestemming van de uitgever (Experience Platform) verzonden. De uitgever hoeft geen extra stappen te ondernemen om het publiek naar de bestemming te sturen. Hetzelfde geldt voor het merk-tot-merk samenwerkingspatroon.
+Zodra u Experience Platform als bestemming hebt gevormd, kunt u [&#x200B; beginnen activerend publiek &#x200B;](../collaborate/activate.md) aan het platform door uw projecten. Momenteel is het activeringsproces een proces in één stap dat door de deelnemer wordt geïnitieerd. Wanneer een adverteerder bijvoorbeeld een publiek activeert, wordt deze naar de vooraf geconfigureerde bestemming van de uitgever (Experience Platform) verzonden. De uitgever hoeft geen extra stappen te ondernemen om het publiek naar de bestemming te sturen. Hetzelfde geldt voor het merk-tot-merk samenwerkingspatroon.
 
 >[!IMPORTANT]
 >
 >U **moet** Experience Platform als bestemming *vormen alvorens* uw medewerker een publiek activeert. Als de bestemming niet wordt gevormd, zal het publiek naar u worden verzonden en in het **[!UICONTROL Activate]** lusje binnen een project zichtbaar, maar zal niet aan Experience Platform worden geactiveerd.
 
-Nadat het publiek wordt geactiveerd, zal het in [ Portaal van het Publiek ](#audience-portal) in Experience Platform met Real-Time CDP Collaboration als oorsprong beschikbaar zijn.  Deze doelgroepen kunnen vervolgens worden gebruikt in campagnes en de betrokkenheid van klanten.
+Nadat het publiek wordt geactiveerd, zal het in [&#x200B; Portaal van het Publiek &#x200B;](#audience-portal) in Experience Platform met Real-Time CDP Collaboration als oorsprong beschikbaar zijn.  Deze doelgroepen kunnen vervolgens worden gebruikt in campagnes en de betrokkenheid van klanten.
 
 ### Poort publiek {#audience-portal}
 
@@ -146,8 +146,8 @@ Nu u Adobe Experience Platform als bestemming hebt gevormd, kunt u de geactiveer
 
 >[!IMPORTANT]
 >
->U bent verantwoordelijk voor het toepassen van de benodigde labels voor gegevensgebruik op het publiek dat u activeert op Adobe Experience Platform. Voor meer informatie, verwijs naar de [ etiketten van het gegevensgebruik ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/overview){target="_blank"} gids.
+>U bent verantwoordelijk voor het toepassen van de benodigde labels voor gegevensgebruik op het publiek dat u activeert op Adobe Experience Platform. Voor meer informatie, verwijs naar de [&#x200B; etiketten van het gegevensgebruik &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/overview){target="_blank"} gids.
 
-![ het Portaal van de Publiek met Real-Time CDP Collaboration als oorsprong in de filteropties.](/help/assets/destinations/adobe-experience-platform/audience-portal.png)
+![&#x200B; het Portaal van de Publiek met Real-Time CDP Collaboration als oorsprong in de filteropties.](/help/assets/destinations/adobe-experience-platform/audience-portal.png)
 
-Meer over het Portaal van het Publiek leren, verwijs naar de [ gids van het Portaal van het Publiek van 0&rbrace;.](https://experienceleague.adobe.com/nl/docs/experience-platform/segmentation/ui/audience-portal#manage-audiences){target="_blank"}
+Meer over het Portaal van het Publiek leren, verwijs naar de [&#x200B; gids van het Portaal van het Publiek van 0&rbrace;.](https://experienceleague.adobe.com/nl/docs/experience-platform/segmentation/ui/audience-portal#manage-audiences){target="_blank"}

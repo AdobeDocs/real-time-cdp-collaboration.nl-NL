@@ -85,7 +85,7 @@ In dit voorbeeld wordt ervan uitgegaan dat:
 
 De module **[!UICONTROL Discover]** in Adobe Real-Time CDP Collaboration biedt waardevolle inzichten in uw publieksgegevens. Door publieksoverlap te begrijpen, kunt u potentiële samenwerkingsmogelijkheden tussen uitgevers en adverteerders identificeren. Met de sectie **[!UICONTROL Audience Insights]** in de module **[!UICONTROL Discover]** kunt u de aantallen overlappingen en percentages tussen verschillende soorten publiek analyseren.
 
-![ de ontdekkingsmodule van het samenwerkingswerkschema.](/help/assets/reference/overlap-calculations/discover-module-overlap-calculations.png)
+![&#x200B; de ontdekkingsmodule van het samenwerkingswerkschema.](/help/assets/reference/overlap-calculations/discover-module-overlap-calculations.png)
 
 Hieronder vindt u voorbeeldberekeningen en -formules voor verschillende overlappende scenario&#39;s.
 

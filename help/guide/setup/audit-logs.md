@@ -21,9 +21,9 @@ In een fundamentele betekenis, vertelt een controlelogboek *wie* *uitvoerde wat*
 
 Gebruik de functionaliteit voor auditlogs in Collaboration om gebruikersactiviteiten en wijzigingen binnen het platform bij te houden. Deze functie is geïntegreerd met de Experience Platform-auditservice en de gebruikersinterface voor deze functie bevindt zich in Experience Platform.
 
-![ het overzichtsscherm op hoog niveau van de functionaliteit van controlelogboeken.](/help/assets/setup/audit-logs/audit-logs-overview.png)
+![&#x200B; het overzichtsscherm op hoog niveau van de functionaliteit van controlelogboeken.](/help/assets/setup/audit-logs/audit-logs-overview.png)
 
-Voor uitvoerigere informatie over controlelogboeken, bezoek de [ documentatie van de controlelogboeken van Experience Platform ](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview){target="_blank"}.
+Voor uitvoerigere informatie over controlelogboeken, bezoek de [&#x200B; documentatie van de controlelogboeken van Experience Platform &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview){target="_blank"}.
 
 ## Toegangscontrolelogboeken
 
@@ -34,23 +34,23 @@ U kunt controlelogboeken op twee manieren openen, zoals beschreven in de hierond
 1. Navigeer naar de tab **[!UICONTROL My Activity]** in de **[!UICONTROL Setup]** -werkruimte in Collaboration.
 2. Selecteer de Experience Platform-koppeling in de tekst boven aan de pagina.
 
-![ de controlelogboeken van de Toegang van het Mijn activiteitenlusje in Collaboration.](/help/assets/setup/audit-logs/access-from-collaboration-ui.png)
+![&#x200B; de controlelogboeken van de Toegang van het Mijn activiteitenlusje in Collaboration.](/help/assets/setup/audit-logs/access-from-collaboration-ui.png)
 
 ### De controlelogboeken van de toegang direct in het gebruikersinterface van Experience Platform
 
-1. Navigeer aan [ Experience Platform ](https://platform.adobe.com/) en selecteer de **[!UICONTROL Audits]** sectie van het linkermenu. Bereik uit aan de systeembeheerders van uw organisatie om de noodzakelijke toestemmingen te verkrijgen als u geen controlelogboeken kunt bekijken.
+1. Navigeer aan [&#x200B; Experience Platform &#x200B;](https://platform.adobe.com/) en selecteer de **[!UICONTROL Audits]** sectie van het linkermenu. Bereik uit aan de systeembeheerders van uw organisatie om de noodzakelijke toestemmingen te verkrijgen als u geen controlelogboeken kunt bekijken.
 
-![ de controlelogboeken van de Toegang van Experience Platform.](/help/assets/setup/audit-logs/access-from-experience-platform-ui.png)
+![&#x200B; de controlelogboeken van de Toegang van Experience Platform.](/help/assets/setup/audit-logs/access-from-experience-platform-ui.png)
 
 ## Controlelogboeken weergeven en gebruiken
 
 U kunt als volgt de auditlogs weergeven:
 
 1. Navigeer naar de sectie **[!UICONTROL Audits]** in Experience Platform.
-2. Gebruik de [ filters ](#filter-audit-logs) om de logboeken te versmallen die op uw criteria worden gebaseerd.
+2. Gebruik de [&#x200B; filters &#x200B;](#filter-audit-logs) om de logboeken te versmallen die op uw criteria worden gebaseerd.
 3. Selecteer een logbestandvermelding om gedetailleerde informatie weer te geven, zoals de tijdstempel, de aanvraag-id, de brongegevens en de status van de handeling.
 
-![ Gedetailleerd Logboek van de Controle ](/help/assets/setup/audit-logs/filters-and-detailed-view.png)
+![&#x200B; Gedetailleerd Logboek van de Controle &#x200B;](/help/assets/setup/audit-logs/filters-and-detailed-view.png)
 
 ### Vastgelegde activiteiten
 
@@ -62,7 +62,7 @@ Auditlogboeken bevatten gedetailleerde informatie over gebruikersactiviteiten, w
 * **Actie**: De specifieke uitgevoerde actie, zoals creeer of schrap.
 * **Gebruiker**: Het e-mailadres van de gebruiker die de actie uitvoerde.
 
-Deze logboeken maken een uitgebreid spoor van alle activiteiten binnen uw Collaboration-instantie. Dit is handig voor gegevensbeheer en naleving van regelgeving. Lees meer over [ het leiden controlelogboeken in UI ](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview#managing-audit-logs-in-the-ui).
+Deze logboeken maken een uitgebreid spoor van alle activiteiten binnen uw Collaboration-instantie. Dit is handig voor gegevensbeheer en naleving van regelgeving. Lees meer over [&#x200B; het leiden controlelogboeken in UI &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview#managing-audit-logs-in-the-ui).
 
 ### Controllerlogboeken filteren {#filter-audit-logs}
 
@@ -75,7 +75,7 @@ De gebruikersinterface van auditlogboeken bevat verschillende filters waarmee u 
 * **Status**: De status van de actie, zoals staat toe of ontkent.
 * **de Waaier van de Datum**: De waaier van data waarvoor u logboeken wilt bekijken.
 
-Lees meer over [ het filtreren controlelogboeken ](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview#filter-audit-logs).
+Lees meer over [&#x200B; het filtreren controlelogboeken &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview#filter-audit-logs).
 
 ## Voordelen
 
@@ -89,17 +89,17 @@ Auditlogboeken bieden verschillende voordelen voor organisaties die Collaboratio
 
 In de onderstaande tabel staan alle categorieën en acties voor Real-Time CDP Collaboration vermeld.
 
-![ Beschikbare die categorieën in de controlelogboeken van Real-Time CDP Collaboration worden benadrukt.](/help/assets/setup/audit-logs/available-categories.png)
+![&#x200B; Beschikbare die categorieën in de controlelogboeken van Real-Time CDP Collaboration worden benadrukt.](/help/assets/setup/audit-logs/available-categories.png)
 
 | Categorie | Acties | Beschrijving |
 |-------------------------------|------------------------------------------|-------------|
-| **[!UICONTROL Collaboration Instance]** | maken, bijwerken, verwijderen | Accounts beheren, waaronder accounts maken, bijwerken en verwijderen. Om morel te leren, lees [ vormend uw rekeningen ](/help/guide/setup/onboard-account.md) gids. |
-| **[!UICONTROL Collaboration Connection Invite]** | maken, bijwerken, verwijderen, goedkeuren, afwijzen | Verbindingsuitnodigingen beheren, waaronder uitnodigingen maken, bijwerken, verwijderen, goedkeuren en afwijzen. Voor meer informatie, lees [ het vestigen van verbindingen ](/help/guide/connect/establishing-connections.md) gids. |
+| **[!UICONTROL Collaboration Instance]** | maken, bijwerken, verwijderen | Accounts beheren, waaronder accounts maken, bijwerken en verwijderen. Om morel te leren, lees [&#x200B; vormend uw rekeningen &#x200B;](/help/guide/setup/onboard-account.md) gids. |
+| **[!UICONTROL Collaboration Connection Invite]** | maken, bijwerken, verwijderen, goedkeuren, afwijzen | Verbindingsuitnodigingen beheren, waaronder uitnodigingen maken, bijwerken, verwijderen, goedkeuren en afwijzen. Voor meer informatie, lees [&#x200B; het vestigen van verbindingen &#x200B;](/help/guide/connect/establishing-connections.md) gids. |
 | **[!UICONTROL Collaboration Connection]** | maken, bijwerken, verwijderen, goedkeuren, afwijzen, goedkeuring aanvragen | Verbindingen beheren, waaronder maken, bijwerken, verwijderen, goedkeuren, afwijzen en goedkeuring aanvragen voor verbindingen. |
-| **[!UICONTROL Collaboration Data Connection]** | maken, bijwerken, verwijderen | Beheer de gegevensverbindingen vanaf waar u het publiek bront en beheert, inclusief het maken, bijwerken en verwijderen van gegevensverbindingen. Voor meer informatie, lees [ het leiden gegevensverbindingen ](/help/guide/setup/manage-data-connection.md) gids. |
-| **[!UICONTROL Collaboration Data Entity]** | maken, bijwerken, verwijderen | Gegevensentiteiten voor Collaboration beheren, zoals gegevensentiteiten maken, bijwerken en verwijderen. Gegevensentiteiten in deze context verwijzen naar het publiek. Voor meer informatie, lees [ het aantrekken en het leiden van publiek ](/help/guide/setup/onboard-audiences.md) gids. |
-| **[!UICONTROL Collaboration Project]** | maken, bijwerken, verwijderen | Projecten in Collaboration beheren, waaronder projecten maken, bijwerken en verwijderen. Voor meer informatie, lees de [ het leiden projecten ](/help/guide/collaborate/manage-projects.md) gids. |
-| **[!UICONTROL Collaboration Module]** | maken, bijwerken, verwijderen | Beheer verschillende modules binnen projecten, met inbegrip van het creëren van, het bijwerken van, en het schrappen van diverse modules in UI. Bijvoorbeeld, de capaciteit om publiek [ te activeren ](/help/guide/collaborate/activate.md). |
+| **[!UICONTROL Collaboration Data Connection]** | maken, bijwerken, verwijderen | Beheer de gegevensverbindingen vanaf waar u het publiek bront en beheert, inclusief het maken, bijwerken en verwijderen van gegevensverbindingen. Voor meer informatie, lees [&#x200B; het leiden gegevensverbindingen &#x200B;](/help/guide/setup/manage-data-connection.md) gids. |
+| **[!UICONTROL Collaboration Data Entity]** | maken, bijwerken, verwijderen | Gegevensentiteiten voor Collaboration beheren, zoals gegevensentiteiten maken, bijwerken en verwijderen. Gegevensentiteiten in deze context verwijzen naar het publiek. Voor meer informatie, lees [&#x200B; het aantrekken en het leiden van publiek &#x200B;](/help/guide/setup/onboard-audiences.md) gids. |
+| **[!UICONTROL Collaboration Project]** | maken, bijwerken, verwijderen | Projecten in Collaboration beheren, waaronder projecten maken, bijwerken en verwijderen. Voor meer informatie, lees de [&#x200B; het leiden projecten &#x200B;](/help/guide/collaborate/manage-projects.md) gids. |
+| **[!UICONTROL Collaboration Module]** | maken, bijwerken, verwijderen | Beheer verschillende modules binnen projecten, met inbegrip van het creëren van, het bijwerken van, en het schrappen van diverse modules in UI. Bijvoorbeeld, de capaciteit om publiek [&#x200B; te activeren &#x200B;](/help/guide/collaborate/activate.md). |
 
 {style="table-layout:auto"}
 

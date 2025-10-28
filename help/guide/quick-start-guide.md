@@ -22,11 +22,11 @@ Ga aan de slag met Real-Time CDP Collaboration door uw organisatie te configurer
 Voordat u begint, moet u het volgende doen:
 
 - Een actieve Real-Time CDP Collaboration-licentie.
-- [ toegang van het Systeem of van de productbeheerder tot Adobe Experience Platform ](./permissions/overview.md).
-- [ Toegang provisioned voor eind - gebruikers ](./permissions/manage-user-access.md).
-- [ Rollen die voor uw organisatie worden gecreeerd en aan gebruikers ](./permissions/manage-roles.md) worden toegewezen.
+- [&#x200B; toegang van het Systeem of van de productbeheerder tot Adobe Experience Platform &#x200B;](./permissions/overview.md).
+- [&#x200B; Toegang provisioned voor eind - gebruikers &#x200B;](./permissions/manage-user-access.md).
+- [&#x200B; Rollen die voor uw organisatie worden gecreeerd en aan gebruikers &#x200B;](./permissions/manage-roles.md) worden toegewezen.
 - Toegang tot brandingmiddelen, zoals de naam, het logo en de banner van uw organisatie.
-- A [ bepaalde gelijke zeer belangrijke strategie ](./setup/onboard-account.md#set-up-match-keys)
+- A [&#x200B; bepaalde gelijke zeer belangrijke strategie &#x200B;](./setup/onboard-account.md#set-up-match-keys)
 - (Optioneel) Als u Experience Platform niet gebruikt voor publieksbeheer, hebt u toegang tot een ondersteunde cloudbron (Amazon S3 of Snowflake).
 
 ## Stap 1: Volledige op rollen gebaseerde opstelling {#complete-role-based-setup}
@@ -55,7 +55,7 @@ Definieer de rol van uw account in Collaboration, voeg brandingmiddelen toe en c
 >
 >Tijdens het instellen kunt u een of meer accounts maken (zoals een adverteerder en een uitgever). Bepaalde velden, zoals brandingmiddelen en contact via e-mail, kunnen later in de werkruimte van **[!UICONTROL Settings]** worden bijgewerkt.
 
-- **wijs een rol** toe - bepaalt of uw rekening een adverteerder of een uitgever is. Uw rol bepaalt welke mogelijkheden u in Collaboration hebt. Om meer over te leren hoe de rollen het samenwerkingswerkschema beïnvloeden, zie de [ rollen ](./overview/roles.md) gids.
+- **wijs een rol** toe - bepaalt of uw rekening een adverteerder of een uitgever is. Uw rol bepaalt welke mogelijkheden u in Collaboration hebt. Om meer over te leren hoe de rollen het samenwerkingswerkschema beïnvloeden, zie de [&#x200B; rollen &#x200B;](./overview/roles.md) gids.
 - **Brandende activa** - voeg het volgende aan uw rekening toe:
    - Accountnaam (max. 100 tekens)
    - Beschrijving (max. 1000 tekens)
@@ -68,7 +68,7 @@ Definieer de rol van uw account in Collaboration, voeg brandingmiddelen toe en c
 - **E-mail van het Contact** - verstrek een bedrijfs-e-mail voor medewerkers aan gebruik nadat een verbinding wordt gevestigd.
 - **vorm gelijke sleutels** - selecteer de herkenningstekens die voor publiek aanpassing worden gebruikt.
 
-Meer over aanvankelijke rekeningsopstelling leren, met inbegrip van hoe te om rollen te bepalen, het brandmerken activa te uploaden, en gelijke sleutels te vormen, zie de [ gids van de 0} aanvankelijke rekeningsopstelling {.](./setup/onboard-account.md#initial-account-setup){target="_blank"}
+Meer over aanvankelijke rekeningsopstelling leren, met inbegrip van hoe te om rollen te bepalen, het brandmerken activa te uploaden, en gelijke sleutels te vormen, zie de [&#x200B; gids van de 0&rbrace; aanvankelijke rekeningsopstelling &lbrace;.](./setup/onboard-account.md#initial-account-setup){target="_blank"}
 
 Bekijk deze video voor een stapsgewijze analyse van een adverteerderopstelling, met inbegrip van rekeningsverwezenlijking, branding, en de configuratie van de gelijkesleutel.
 
@@ -80,7 +80,7 @@ Zodra uw account is gemaakt en uw branding en match keys zijn geconfigureerd, be
 
 ### Optie A: Source van Experience Platform
 
-[ Gebruik Collaboration om een zandbak te verbinden die publiek ](./setup/onboard-audiences.md) bevat. Gebruik deze zelfbedieningsmethode om te verwijzen naar bestaande publiekssegmenten vanuit uw Experience Platform-instantie.
+[&#x200B; Gebruik Collaboration om een zandbak te verbinden die publiek &#x200B;](./setup/onboard-audiences.md) bevat. Gebruik deze zelfbedieningsmethode om te verwijzen naar bestaande publiekssegmenten vanuit uw Experience Platform-instantie.
 
 #### Soorten publiek configureren
 
@@ -108,21 +108,21 @@ Configureer hoe doelgroepen worden voorbereid, aangepast en beheerd voor gebruik
 >**de belangrijkste vereisten van de Gelijke:**
 >
 >Alle gelijke sleutels moeten **worden in orde gebracht**, **verlaagd**
->>De gehakte gelijke sleutels moeten **SHA256-gehakt** zijn.\
+>&#x200B;>De gehakte gelijke sleutels moeten **SHA256-gehakt** zijn.\
 >Als u hashwaarden opgeeft waarin hoofdletters worden gebruikt, zet Collaboration deze automatisch om in kleine letters.\
 >Als uw bron **plaintext herkenningstekens** bevat, gebruik de **[!UICONTROL Apply transformation]** optie om het hakken toe te passen. Deze optie is alleen beschikbaar wanneer gebruikers worden aangeschaft bij Experience Platform en wordt niet ondersteund voor bronnen in de cloud.
 >
->Voor meer informatie, zie de [ kaartgebieden ](./setup/onboard-audiences.md#map-fields) sectie van de bron en beheer de gids van het publiek.
+>Voor meer informatie, zie de [&#x200B; kaartgebieden &#x200B;](./setup/onboard-audiences.md#map-fields) sectie van de bron en beheer de gids van het publiek.
 
 Bekijk de onderstaande video voor een volledige analyse van hoe u publiek kunt bronnen met Collaboration.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3452217/?learn=on&enablevpops)
 
-Alternatief, zie het document op [ sourcing publiek in Collaboration ](./setup/onboard-audiences.md#source-and-manage-audiences).
+Alternatief, zie het document op [&#x200B; sourcing publiek in Collaboration &#x200B;](./setup/onboard-audiences.md#source-and-manage-audiences).
 
 ### Optie B: Source van Snowflake of Amazon S3
 
-Om een wolkenbron (bijvoorbeeld, [!DNL AWS S3] of [!DNL Snowflake]) te vormen, bereidt uw publieksgegevens voor gebruikend de volgende [ Specificatie PDF van de Publiek ](../assets/quick-start/RTCDP_Collaboration_Audience_Onboarding_Spec_v1.1.pdf). Als de installatie is voltooid of als u vragen hebt, neemt u contact op met uw Adobe-accountvertegenwoordiger om de installatie te voltooien. Deze methode is geen zelfbediening en vereist hulp van Adobe.
+Om een wolkenbron (bijvoorbeeld, [!DNL AWS S3] of [!DNL Snowflake]) te vormen, bereidt uw publieksgegevens voor gebruikend de volgende [&#x200B; Specificatie PDF van de Publiek &#x200B;](../assets/quick-start/RTCDP_Collaboration_Audience_Onboarding_Spec_v1.1.pdf). Als de installatie is voltooid of als u vragen hebt, neemt u contact op met uw Adobe-accountvertegenwoordiger om de installatie te voltooien. Deze methode is geen zelfbediening en vereist hulp van Adobe.
 
 <!-- Add in the below in final draft: 
 
@@ -136,7 +136,7 @@ If you are using [!DNL Snowflake], or other cloud service provider, contact your
 >
 >Cloudgebaseerde publieksbestanden moeten het vereiste schema volgen dat wordt beschreven in de Audience Specification PDF. Bestanden moeten hashed-id&#39;s (lagere SHA256), vereiste metagegevensvelden zoals `segment_name` en `activation_id` bevatten en ondersteunde indelingen zoals CSV of Parquet gebruiken. Adobe normaliseert de gegevens niet voordat deze worden geactiveerd. TTL wordt afgedwongen gebaseerd op de levensduur van het publiek.
 >
->Alle soorten publiek in het geüploade bestand zijn in dit stadium volledig afkomstig. Het [ publiek zicht plaatsen ](/help/guide/setup/onboard-audiences.md#metadata-visibility) bepaalt of uw medewerkers uw publiek kunnen bekijken en door Collaboration UI geleid.
+>Alle soorten publiek in het geüploade bestand zijn in dit stadium volledig afkomstig. Het [&#x200B; publiek zicht plaatsen &#x200B;](/help/guide/setup/onboard-audiences.md#metadata-visibility) bepaalt of uw medewerkers uw publiek kunnen bekijken en door Collaboration UI geleid.
 
 ## Stap 4: Het publiek activeren (naar Experience Platform of een cloudbestemming) {#activate-audiences}
 
@@ -144,7 +144,7 @@ Activeer vervolgens het publiek naar uw Experience Platform-exemplaar of naar ee
 
 ### Optie A: activeren naar Experience Platform
 
-Voltooi de volgende stappen die in [ worden geschetst vormen Adobe Experience Platform als bestemmings ](/help/guide/destinations/experience-platform.md) gids.
+Voltooi de volgende stappen die in [&#x200B; worden geschetst vormen Adobe Experience Platform als bestemmings &#x200B;](/help/guide/destinations/experience-platform.md) gids.
 
 - **creeer een bestemming** - gebruik UI aan opstelling een bestemming van Experience Platform (zandbak-niveau).
 - **de overeenkomende sleutels van de Kaart** - selecteer het herkenningsteken (b.v., `hashedEmail`).
@@ -155,7 +155,7 @@ Voltooi de volgende stappen die in [ worden geschetst vormen Adobe Experience Pl
 
 Als u een cloudbestemming wilt configureren (bijvoorbeeld [!DNL AWS S3] of [!DNL Snowflake] ), neemt u contact op met uw Adobe-accountvertegenwoordiger om het installatieproces te starten. Afhankelijk van de bestemming van de cloud, moet u gegevens over de bestemming van de cloud opgeven, zoals het bestandspad, de referenties, de locatie van de account enzovoort. Zodra de vereiste informatie is verstrekt, zal Adobe de opstelling van de wolkenbestemming vormen.
 
-De gegevens van het publiek die naar een wolkenbestemming worden verzonden volgen een vooraf bepaald schema. Voor een gedetailleerde beschrijving van de vereiste gebieden en het formaat, download de [ Gids van Audience Activation van Collaboration ](../assets/quick-start/RTCDP_Collaboration_Audience_Activation_Spec_v1.0.pdf).
+De gegevens van het publiek die naar een wolkenbestemming worden verzonden volgen een vooraf bepaald schema. Voor een gedetailleerde beschrijving van de vereiste gebieden en het formaat, download de [&#x200B; Gids van Audience Activation van Collaboration &#x200B;](../assets/quick-start/RTCDP_Collaboration_Audience_Activation_Spec_v1.0.pdf).
 
 ## Stap 5: De meting instellen (optioneel) {#set-up-measurement}
 
@@ -165,11 +165,11 @@ De gegevens van het publiek die naar een wolkenbestemming worden verzonden volge
 
 >[!IMPORTANT]
 >
->De **[!UICONTROL Measure]** werkruimte is slechts beschikbaar als **[!UICONTROL Measurement]** gebruiksgeval [ tijdens het verbindingsproces ](./connect/establishing-connections.md#connection-settings) werd toegelaten. Voor meer informatie over gebruiksgevallen, verwijs naar [ projecten ](./collaborate/manage-projects.md#project-use-cases) gids beheren.
+>De **[!UICONTROL Measure]** werkruimte is slechts beschikbaar als **[!UICONTROL Measurement]** gebruiksgeval [&#x200B; tijdens het verbindingsproces &#x200B;](./connect/establishing-connections.md#connection-settings) werd toegelaten. Voor meer informatie over gebruiksgevallen, verwijs naar [&#x200B; projecten &#x200B;](./collaborate/manage-projects.md#project-use-cases) gids beheren.
 
 Collaboration biedt diverse rapporten om het bereik, de frequentie en de doeltreffendheid van de campagne te analyseren. Hoewel de werkruimte van **[!UICONTROL Measure]** beschikbaar is in de gebruikersinterface, is voor de volledige rapportfunctionaliteit mogelijk backendenactivering vereist.
 
-Leren om metingsrapporten te bekijken en te interpreteren, zie de [ gids van de Meting ](./collaborate/measure.md). Het omvat attributie, campagne summiere metriek, en dashboards zoals bereikcurven en frequentieverdeling.
+Leren om metingsrapporten te bekijken en te interpreteren, zie de [&#x200B; gids van de Meting &#x200B;](./collaborate/measure.md). Het omvat attributie, campagne summiere metriek, en dashboards zoals bereikcurven en frequentieverdeling.
 
 <!-- 
 Commenting out the below information as this workflow is not yet in Beta but will be imminently. A guided measurement configuration workflow will be available in a future release."
@@ -224,18 +224,18 @@ Use this workflow to generate campaign summary insights based on advertiser-supp
 
 Nu de installatie is voltooid, is uw organisatie nu klaar om verbinding te maken met medewerkers door uitnodigingen te verzenden of te accepteren en projectinstellingen ter goedkeuring in te dienen. Dit verbindingsproces omvat het verzenden of ontvangen van uitnodigingen, het controleren en het voorleggen van verbindingsmontages (zoals gebruiksgevallen en kredietconsumptie), en het bevestigen van de verbinding.
 
-Als adverteerder gebruikt u de werkruimte **[!UICONTROL Connect]** in het navigatiemenu links om door beschikbare uitgevers te bladeren. Alternatief, kunnen de medewerkers met elkaar direct door [ privé verbindingsuitnodigingen ](./connect/establishing-connections.md#private-connection-invite){target="_blank"} verbinden.
+Als adverteerder gebruikt u de werkruimte **[!UICONTROL Connect]** in het navigatiemenu links om door beschikbare uitgevers te bladeren. Alternatief, kunnen de medewerkers met elkaar direct door [&#x200B; privé verbindingsuitnodigingen &#x200B;](./connect/establishing-connections.md#private-connection-invite){target="_blank"} verbinden.
 
 >[!NOTE]
 >
 >Momenteel kunnen alleen adverteerders door uitgevers bladeren. Uitgevers kunnen niet door verbindingen met adverteerders bladeren of deze tot stand brengen.
 
-Voor een overzicht van deze stroom, zie [ het vestigen van verbindingsgids ](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [ video van de de rekeningsopstelling van de adverteerder ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
+Voor een overzicht van deze stroom, zie [&#x200B; het vestigen van verbindingsgids &#x200B;](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [&#x200B; video van de de rekeningsopstelling van de adverteerder &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
 
 ## Volgende stappen
 
 U hebt nu de eerste setup voltooid en uw organisatie geconfigureerd voor veilige samenwerking. Verken vervolgens de volgende bronnen om meer inzicht te krijgen in activering, meting en gegevensbeheer:
 
-- [ documentatie van het de activeringswerkschema van het publiek ](./collaborate/activate.md)
-- [ het gebruikscase van de Meting ](./collaborate/measure.md)
+- [&#x200B; documentatie van het de activeringswerkschema van het publiek &#x200B;](./collaborate/activate.md)
+- [&#x200B; het gebruikscase van de Meting &#x200B;](./collaborate/measure.md)
 - [Aanbevolen werkwijzen voor Collaboration-governance](./setup/onboard-audiences.md#governance-policy-and-enforcement-actions)

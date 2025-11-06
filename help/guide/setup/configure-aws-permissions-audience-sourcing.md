@@ -22,7 +22,7 @@ Om deze instelling te voltooien, moet uw account toegang hebben tot AWS-beheerde
 
 ### Vereiste informatie
 
-Houd de volgende informatie bij het doorlopen van de onderstaande stappen. Deze details worden gebruikt in de [[!DNL Amazon S3]  publiek bronende gids UI ](./configure-aws-s3-audience-sourcing.md).
+Houd de volgende informatie bij het doorlopen van de onderstaande stappen. Deze details worden gebruikt in de [[!DNL Amazon S3]  publiek bronende gids UI &#x200B;](./configure-aws-s3-audience-sourcing.md).
 
 * De S3 emmer naam waar uw publieksdossiers worden opgeslagen.
 * Het mappad (voorvoegsel) waaronder de publieksbestanden zich bevinden.
@@ -40,7 +40,7 @@ Houd de volgende informatie bij het doorlopen van de onderstaande stappen. Deze 
 
 Om met de opstelling te beginnen, creeer eerst een beleid IAM dat **read-only toegang** aan uw S3 emmertje verleent. Met dit beleid kan Adobe de bestanden lezen die nodig zijn voor het zoeken naar een publiek, maar dit beleid staat schrijven of verwijderen niet toe.
 
-Open de [ Console van het Beheer van AWS ](https://aws.amazon.com/console/), en navigeer aan **[!DNL IAM]** > **[!DNL Policies]** > **[!DNL Create policy]**.
+Open de [&#x200B; Console van het Beheer van AWS &#x200B;](https://aws.amazon.com/console/), en navigeer aan **[!DNL IAM]** > **[!DNL Policies]** > **[!DNL Create policy]**.
 
 In AWS creeer beleidswerkruimte, selecteer het **JSON** lusje en kleef het volgende voorbeeldbeleid.
 
@@ -115,7 +115,7 @@ Een voorbeeld van een vertrouwensbeleid:
 
 Herzie het beleid en selecteer **daarna** om verder te gaan.
 
-In [!DNL Step 2] **[!DNL Add permissions]** sectie van het [!DNL Create role] werkschema, onderzoek naar en maak het beleid IAM vast u [ vroeger ](#create-policy) creeerde. Selecteer het beleid dat wordt gevolgd door **[!DNL Next]** om door te gaan naar [!DNL Step 3] .
+In [!DNL Step 2] **[!DNL Add permissions]** sectie van het [!DNL Create role] werkschema, onderzoek naar en maak het beleid IAM vast u [&#x200B; vroeger &#x200B;](#create-policy) creeerde. Selecteer het beleid dat wordt gevolgd door **[!DNL Next]** om door te gaan naar [!DNL Step 3] .
 
 Geef in de sectie [!DNL Step 3] **[!DNL Name review, and create - Role details]** een rolnaam (bijvoorbeeld `s3-iam-role` ) en een optionele beschrijving op.
 
@@ -125,12 +125,12 @@ Tot slot selecteer **creeer rol** om de opstelling te bevestigen.
 
 >[!IMPORTANT]
 >
->U moet de naam van het Middel van Amazon (ARN) registreren nadat het creëren van de rol. U zult IAM ARN van de Rol tijdens **moeten verstrekken verifieert uw S3 verbinding** stap in [ AWS S3 voor publiek dat ](./configure-aws-s3-audience-sourcing.md) werkschema aankomt vormt.
+>U moet de naam van het Middel van Amazon (ARN) registreren nadat het creëren van de rol. U zult IAM ARN van de Rol tijdens **moeten verstrekken verifieert uw S3 verbinding** stap in [&#x200B; AWS S3 voor publiek dat &#x200B;](./configure-aws-s3-audience-sourcing.md) werkschema aankomt vormt.
 
 ## Volgende stappen {#next-steps}
 
 Deze opstelling verleent Adobe read-only toegang tot uw S3 emmertje en vestigt een vertrouwde op verbinding met Adobe IAM rol.
 
-Daarna, ga aan [ te werk vormen AWS S3 voor publiek die ](./configure-aws-s3-audience-sourcing.md) aantrekken om uw S3 emmertje aan Collaboration te verbinden.
+Daarna, ga aan [&#x200B; te werk vormen AWS S3 voor publiek die &#x200B;](./configure-aws-s3-audience-sourcing.md) aantrekken om uw S3 emmertje aan Collaboration te verbinden.
 
-Voor meer informatie over het betrekken van publiek, verwijs naar [ Source en beheer publiek ](./onboard-audiences.md).
+Voor meer informatie over het betrekken van publiek, verwijs naar [&#x200B; Source en beheer publiek &#x200B;](./onboard-audiences.md).

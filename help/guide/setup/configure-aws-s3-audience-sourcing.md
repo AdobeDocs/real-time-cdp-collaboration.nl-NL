@@ -188,7 +188,7 @@ Selecteer in de rasterweergave of tabelweergave een rij-item of **[!UICONTROL Vi
 
 Gebruik deze mening om publieksconfiguratie en zichtbaarheidsmontages te bevestigen alvorens het publiek in samenwerkingsprojecten te gebruiken.
 
-Zie de [&#x200B; documentatie van het publiek van de Mening dashboard &#x200B;](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/setup/onboard-audiences#view-audiences-dashboard) om meer te leren.
+Zie de [&#x200B; documentatie van het publiek van de Mening dashboard &#x200B;](https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/setup/onboard-audiences#view-audiences-dashboard) om meer te leren.
 
 ## De S3-gegevensverbinding weergeven {#view-s3-connection}
 

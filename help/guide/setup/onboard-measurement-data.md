@@ -42,4 +42,4 @@ ht-degree: 3%
 
 {{limited-availability-release-note}}
 
-In dit document worden de stappen beschreven die moeten worden uitgevoerd om gegevens voor campagnemetingen toe te voegen aan Adobe Real-Time CDP Collaboration. Uitgevers kunnen met Adobe-teams samenwerken om gegevens voor de meting van campagnes te uploaden. Nadat dat gegeven wordt geupload en verwerkt, zowel zullen de uitgever als de adverteerder uitgebreide [ rapporten van de campagnemeting ](/help/guide/collaborate/measure.md) kunnen bekijken.
+In dit document worden de stappen beschreven die moeten worden uitgevoerd om gegevens voor campagnemetingen toe te voegen aan Adobe Real-Time CDP Collaboration. Uitgevers kunnen met Adobe-teams samenwerken om gegevens voor de meting van campagnes te uploaden. Nadat dat gegeven wordt geupload en verwerkt, zowel zullen de uitgever als de adverteerder uitgebreide [&#x200B; rapporten van de campagnemeting &#x200B;](/help/guide/collaborate/measure.md) kunnen bekijken.

@@ -2,14 +2,14 @@
 title: Metingsgegevens toevoegen en beheren
 description: Leer hoe u meetgegevens toevoegt aan Adobe Real-Time CDP Collaboration.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 hidefromtoc: true
 hide: true
 exl-id: 739d31b9-3f00-477d-b6be-995c7767c6ca
-source-git-commit: 65468fdc8787acc6a92f4c2368758437df47d526
+source-git-commit: 26a2f8975efcadd43431823e0f2dd90847aa83ba
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '108'
+ht-degree: 3%
 
 ---
 
@@ -30,6 +30,16 @@ ht-degree: 4%
 >title="Source-velden"
 >abstract="Plaatsaanduiding voor bronvelden voor metingen."
 
+>[!CONTEXTUALHELP]
+>id="rtcdp_collaboration_import_measurement_mapping_source_fields"
+>title="Bronvelden toewijzen"
+>abstract="Plaatsaanduiding voor meettoewijzing van bronvelden."
+
+>[!CONTEXTUALHELP]
+>id="rtcdp_collaboration_import_measurement_mapping_target_fields"
+>title="Doelvelden toewijzen"
+>abstract="Plaatsaanduiding voor meettoewijzing van doelvelden."
+
 {{limited-availability-release-note}}
 
-In dit document worden de stappen beschreven die moeten worden uitgevoerd om gegevens voor campagnemetingen toe te voegen aan Adobe Real-Time CDP Collaboration. Uitgevers kunnen met Adobe-teams samenwerken om gegevens voor de meting van campagnes te uploaden. Nadat dat gegeven wordt geupload en verwerkt, zowel zullen de uitgever als de adverteerder uitgebreide [&#x200B; rapporten van de campagnemeting &#x200B;](/help/guide/collaborate/measure.md) kunnen bekijken.
+In dit document worden de stappen beschreven die moeten worden uitgevoerd om gegevens voor campagnemetingen toe te voegen aan Adobe Real-Time CDP Collaboration. Uitgevers kunnen met Adobe-teams samenwerken om gegevens voor de meting van campagnes te uploaden. Nadat dat gegeven wordt geupload en verwerkt, zowel zullen de uitgever als de adverteerder uitgebreide [ rapporten van de campagnemeting ](/help/guide/collaborate/measure.md) kunnen bekijken.

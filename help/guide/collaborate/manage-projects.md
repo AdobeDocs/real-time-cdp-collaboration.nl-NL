@@ -2,7 +2,7 @@
 title: Projecten maken en beheren
 description: Leer hoe u projecten maakt en beheert in Adobe Real-Time CDP Collaboration
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: ae492846-bc0a-4422-86ca-577bcc1fa60c
 source-git-commit: 99443e1270a8a52a44dc7d0258c5bee7e4017db6
 workflow-type: tm+mt

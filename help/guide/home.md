@@ -2,7 +2,7 @@
 title: Overzicht
 description: Leer hoe u Adobe Real-Time Customer Data Platform (CDP) Collaboration kunt gebruiken voor het detecteren, activeren en meten van hoogwaardige soorten publiek zonder te vertrouwen op cookies van derden.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3128c1ea-8549-474e-adce-49b9b6802527
 source-git-commit: 3d003563e7eb6489e2a97b394f0ab185a63e35f2
 workflow-type: tm+mt
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Met Adobe Real-Time CDP Collaboration kunt u hoogwaardige soorten publiek detecteren, activeren en meten zonder op cookies van derden te vertrouwen. Deze oplossing maakt geavanceerde gegevenssamenwerking mogelijk, waardoor u persoonlijke en ongekende klantervaringen kunt maken in een op privacy gerichte, gecentraliseerde omgeving.
 
-![&#x200B; de opstellingspagina van Real-Time CDP Collaboration, die een organisatie toont.](/help/assets/overview/home.png){zoomable="yes"}
+![ de opstellingspagina van Real-Time CDP Collaboration, die een organisatie toont.](/help/assets/overview/home.png){zoomable="yes"}
 
 ## Doelgroepen identificeren via vertrouwde partners
 
@@ -39,13 +39,13 @@ Ingesloten besturingselementen zorgen ervoor dat aan de vereisten voor beheer en
 
 ## Aan de slag {#get-started}
 
-Als u Collaboration wilt gaan gebruiken, moeten systeembeheerders zichzelf, productbeheerders en eindgebruikers toegang geven. Er zijn veelvoudige vereiste stappen afhankelijk van de gebruiker en het vereiste niveau van toegang. Verwijs naar de [&#x200B; gids van de toegangscontrole &#x200B;](/help/guide/permissions/overview.md){target="_blank"} om begonnen te worden.
+Als u Collaboration wilt gaan gebruiken, moeten systeembeheerders zichzelf, productbeheerders en eindgebruikers toegang geven. Er zijn veelvoudige vereiste stappen afhankelijk van de gebruiker en het vereiste niveau van toegang. Verwijs naar de [ gids van de toegangscontrole ](/help/guide/permissions/overview.md){target="_blank"} om begonnen te worden.
 
-Zodra u toegang hebt, kunt u uw account instellen en uw gegevensverbinding maken om het publiek te betrekken. Lees het [&#x200B; werkschema van begin tot eind &#x200B;](/help/guide/overview/end-to-end-workflow.md) om begonnen te worden.
+Zodra u toegang hebt, kunt u uw account instellen en uw gegevensverbinding maken om het publiek te betrekken. Lees het [ werkschema van begin tot eind ](/help/guide/overview/end-to-end-workflow.md) om begonnen te worden.
 
 ## Bronnen
 
-Onderzoek de [&#x200B; verklarende woordenlijst &#x200B;](/help/guide/glossary.md) voor gedetailleerde informatie over termijnen die in het product worden gebruikt. Voor steun, heb toegang tot de pagina van de Steun van de Klant van Adobe [&#x200B; &#x200B;](https://experienceleague.adobe.com/home?lang=nl-NL&support-tab=open-ticket#support){target="_blank"}.
+Onderzoek de [ verklarende woordenlijst ](/help/guide/glossary.md) voor gedetailleerde informatie over termijnen die in het product worden gebruikt. Voor steun, heb toegang tot de pagina van de Steun van de Klant van Adobe [ ](https://experienceleague.adobe.com/home?lang=en&support-tab=open-ticket#support){target="_blank"}.
 
 ## Contact opnemen
 

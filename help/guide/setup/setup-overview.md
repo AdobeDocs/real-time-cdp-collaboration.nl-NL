@@ -17,7 +17,7 @@ ht-degree: 1%
 
 Het gedeelte Setup in Adobe Real-Time CDP Collaboration biedt een gecentraliseerde werkruimte voor het beheer van de instellingen en configuraties van uw account. Gebruik de onderstaande handleidingen om te leren hoe u uw account, publiek kunt configureren, gegevensverbindingen kunt beheren, doelen kunt instellen en uw activiteiten op het gebied van kredietverbruik kunt volgen.
 
-![ de opstellingswerkruimte van een rekening, die een overzicht van zijn huidige montages geeft.](/help/assets/setup/overview.png){zoomable="yes"}
+![&#x200B; de opstellingswerkruimte van een rekening, die een overzicht van zijn huidige montages geeft.](/help/assets/setup/overview.png){zoomable="yes"}
 
 Gebruik de functionaliteit in de sectie Setup om:
 

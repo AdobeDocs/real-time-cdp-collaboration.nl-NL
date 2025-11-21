@@ -2,7 +2,7 @@
 title: Overzicht
 description: Leer hoe u Adobe Real-Time Customer Data Platform (CDP) Collaboration kunt gebruiken voor het detecteren, activeren en meten van hoogwaardige soorten publiek zonder te vertrouwen op cookies van derden.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 3128c1ea-8549-474e-adce-49b9b6802527
 source-git-commit: 3d003563e7eb6489e2a97b394f0ab185a63e35f2
 workflow-type: tm+mt
@@ -45,7 +45,7 @@ Zodra u toegang hebt, kunt u uw account instellen en uw gegevensverbinding maken
 
 ## Bronnen
 
-Onderzoek de [&#x200B; verklarende woordenlijst &#x200B;](/help/guide/glossary.md) voor gedetailleerde informatie over termijnen die in het product worden gebruikt. Voor steun, heb toegang tot de pagina van de Steun van de Klant van Adobe [&#x200B; &#x200B;](https://experienceleague.adobe.com/home?lang=en&support-tab=open-ticket#support){target="_blank"}.
+Onderzoek de [&#x200B; verklarende woordenlijst &#x200B;](/help/guide/glossary.md) voor gedetailleerde informatie over termijnen die in het product worden gebruikt. Voor steun, heb toegang tot de pagina van de Steun van de Klant van Adobe [&#x200B; &#x200B;](https://experienceleague.adobe.com/home?lang=nl-NL&support-tab=open-ticket#support){target="_blank"}.
 
 ## Contact opnemen
 

@@ -1,9 +1,9 @@
 ---
 title: Vorm  [!DNL Amazon S3]  voor de Bron van het Publiek
 description: Leer hoe te om uw  [!DNL Amazon S3]  opslag als zelfbediening gegevensbron te vormen en te verbinden om publieksgegevens in Real-Time CDP Collaboration in te voeren.
-source-git-commit: 05fd7ec466ba2b20264490bbbfadc9bb6d361bc8
+source-git-commit: 7a2bfb524d77d42690f3abe848a59aae5b16b667
 workflow-type: tm+mt
-source-wordcount: '1445'
+source-wordcount: '1513'
 ht-degree: 0%
 
 ---
@@ -46,23 +46,29 @@ Controleer voordat u de S3-gegevensverbinding configureert het volgende:
 
 ## Uw [!DNL Amazon S3] verbinding configureren {#configure-aws-s3-connection}
 
-Van het **[!UICONTROL My audiences]** lusje binnen de **[!UICONTROL Setup]** werkruimte, selecteer het add pictogram (![&#x200B; voeg pictogram toe.](/help/assets/icons/plus.png) ) en selecteer vervolgens **[!UICONTROL Audience]** .
+Van het **[!UICONTROL My audiences]** lusje binnen de **[!UICONTROL Setup]** werkruimte, selecteer het add pictogram (![ voeg pictogram toe.](/help/assets/icons/plus.png) ) en selecteer vervolgens **[!UICONTROL Audience]** .
 
 Als dit uw eerste publiek is, kunt u ook de optie **[!UICONTROL Add]** selecteren.
 
-![&#x200B; Mijn publiek tabel in de werkruimte van de Opstelling met toevoegen pictogram en voegt getoonde publieksoptie toe.](../../assets/setup/add-manage-audiences/add-audiences.png)
+![ Mijn publiek tabel in de werkruimte van de Opstelling met toevoegen pictogram en voegt getoonde publieksoptie toe.](../../assets/setup/add-manage-audiences/add-audiences.png)
 
 De workflow voor het toevoegen van publiek wordt weergegeven. Selecteer **[!UICONTROL Add a new data connection]** en selecteer vervolgens **[!UICONTROL Next]** .
 
-![&#x200B; Add publiek werkruimte met Add een nieuwe benadrukte optie van de gegevensverbinding.](../../assets/setup/add-manage-audiences/add-data-connection.png){zoomable="yes"}
+![ Add publiek werkruimte met Add een nieuwe benadrukte optie van de gegevensverbinding.](../../assets/setup/add-manage-audiences/add-data-connection.png){zoomable="yes"}
 
 ### [!DNL Amazon S3] selecteren als gegevensverbinding {#select-aws-s3}
 
 Selecteer **[!UICONTROL Amazon S3]** als gegevensverbinding, gevolgd door **[!UICONTROL Next]** .
 
-![&#x200B; het selectiescherm van de gegevensverbinding met [!DNL Amazon S3] beschikbaar als selecteerbare optie.](../../assets/setup/aws-audience-sourcing/select-s3-data-connection.png)
+![ het selectiescherm van de gegevensverbinding met [!DNL Amazon S3] beschikbaar als selecteerbare optie.](../../assets/setup/aws-audience-sourcing/select-s3-data-connection.png)
 
 ### Vereisten voor het bestand van het publiek bekijken {#review-audience-requirements}
+
+>[!CONTEXTUALHELP]
+>id="rtcdp_collaboration_audience_sourcing_specifications"
+>title="Uw gegevens voorbereiden voor instaptoegang"
+>abstract="Lees de handleiding Audience Sourcing Specification voor het opmaken en structureren van publieksgegevens van Amazon S3 voor Collaboration."
+>additional-url="https://www.adobe.com/go/rtcdp-collaboration-audience-sourcing" text="Zie de handleiding"
 
 Er wordt een dialoogvenster weergegeven waarin wordt uitgelegd hoe uw publieksbestanden moeten worden gestructureerd. Gebruik de koppeling naar de **[[!UICONTROL Audience Sourcing Specification]](../../assets/quick-start/RTCDP_Collaboration_Audience_Sourcing_Spec_v1.1.pdf)** voor informatie over het opmaken en structureren van publieksgegevens in [!DNL Amazon S3] voor Collaboration, zodat deze correct worden gelezen.
 
@@ -79,7 +85,7 @@ Belangrijkste overwegingen zijn:
 * Elke publieksrecord moet een `AUDIENCE_ID` en ten minste een overeenkomende toets bevatten, zoals `HASHED_EMAIL_SHA_256` , `HASHED_PHONE_SHA_256` , `HASHED_IPV4_SHA_256` , `CRM_ID` , `LOYALTY_ID` of `ADFIXUS_ID` .
 * De gegevens worden elke 1 tot 6 dagen vernieuwd op basis van uw keuze tijdens de installatie van de bron in Collaboration.
 
-![&#x200B; Bereid Uw Gegevens voor om dialoog met een verbinding aan de Specificaties van de Bron van het Publiek te bron.](../../assets/setup/aws-audience-sourcing/prepare-data-sourcing-dialog.png)
+![ Bereid Uw Gegevens voor om dialoog met een verbinding aan de Specificaties van de Bron van het Publiek te bron.](../../assets/setup/aws-audience-sourcing/prepare-data-sourcing-dialog.png)
 
 ### Verifieer uw S3 verbinding {#authenticate-s3-connection}
 
@@ -87,6 +93,11 @@ Belangrijkste overwegingen zijn:
 >id="rtcdp_collaboration_sources_s3_folderpath"
 >title="Padindeling van map"
 >abstract="Voer het mappad (voorvoegsel) in het [!DNL Amazon S3] -emmertje in waar de bestanden voor uw publiek zijn opgeslagen. <br><ul><li>Begin geen wegen met een voorwaartse schuine streep (/).</li><li>Voeg een slash aan het einde van het pad in.</li><ul><br> Geldig voorbeeld: `base/path/`<br> Ongeldig voorbeeld: `/base/path`"
+
+>[!CONTEXTUALHELP]
+>id="rtcdp_collaboration_audience_sharing_amazon_s3"
+>title="publiek toevoegen voor Amazon S3"
+>abstract="Als u verbinding wilt maken met uw Amazon S3-opslag, moet u de Adobe-servicegebruiker machtigen om uw publieksgegevens op te halen voor verwerking. Volg de stappen in Experience League om Adobe toegang te verlenen tot uw Amazon S3-opslag."
 
 Geef vervolgens uw [!DNL Amazon S3] -gegevens op om uw S3-emmertje aan te sluiten op Collaboration.
 
@@ -97,13 +108,13 @@ Volg de stappen die in **[worden geschetst vormen de toestemmingen van AWS voor 
 * S3 Emmernaam
 * Mappad
 
-![&#x200B; de [!DNL Amazon S3] verbindingsvorm met gebieden voor rol IAM, de Naam van het Emmertje S3, en de Weg van de Omslag.](../../assets/setup/aws-audience-sourcing/s3-authentication-credentials-form.png)
+![ de [!DNL Amazon S3] verbindingsvorm met gebieden voor rol IAM, de Naam van het Emmertje S3, en de Weg van de Omslag.](../../assets/setup/aws-audience-sourcing/s3-authentication-credentials-form.png)
 
 ### Bevestig bevestiging van toestemming {#confirm-consent}
 
 U moet dan erkennen dat de opt-outs voor toestemming zijn geschrapt alvorens te werk te gaan. Schakel het bevestigingsvak, gevolgd door **[!UICONTROL OK]** , in om te bevestigen.
 
-![&#x200B; de dialoog van de toestemmings opt-out erkenning die bevestiging vereist alvorens te werk te gaan.](../../assets/setup/aws-audience-sourcing/consent-optout-acknowledgment.png)
+![ de dialoog van de toestemmings opt-out erkenning die bevestiging vereist alvorens te werk te gaan.](../../assets/setup/aws-audience-sourcing/consent-optout-acknowledgment.png)
 
 ### Verificatieresultaten valideren {#validate-authentication}
 
@@ -126,7 +137,7 @@ Voer een beschrijvende naam en een optionele beschrijving in voor uw S3-gegevens
 * **[!UICONTROL Data connection name]** (vereist)
 * **[!UICONTROL Data connection description]** (optioneel)
 
-![&#x200B; de details van de gegevensverbinding met gebieden voor verbindingsnaam en beschrijving.](../../assets/setup/aws-audience-sourcing/s3-connection-name-description.png)
+![ de details van de gegevensverbinding met gebieden voor verbindingsnaam en beschrijving.](../../assets/setup/aws-audience-sourcing/s3-connection-name-description.png)
 
 ### Automatisch toegewezen identiteitsvelden controleren {#auto-mapped-fields}
 
@@ -134,7 +145,7 @@ Het scherm **[!UICONTROL Mapping]** is alleen-lezen. U kunt geen transformaties 
 
 Bevestig de toegewezen velden visueel en selecteer **[!UICONTROL Next]** om door te gaan.
 
-![&#x200B; het scherm van de gebiedstoewijzing die auto-in kaart gebrachte bron en gebieden van de doelidentiteit tonen.](../../assets/setup/aws-audience-sourcing/s3-field-mapping-auto-mapped.png)
+![ het scherm van de gebiedstoewijzing die auto-in kaart gebrachte bron en gebieden van de doelidentiteit tonen.](../../assets/setup/aws-audience-sourcing/s3-field-mapping-auto-mapped.png)
 
 ### Vernieuwingsfrequentie en datumbereik plannen {#schedule-refresh}
 
@@ -144,7 +155,7 @@ De weergave **[!UICONTROL Schedule]** wordt weergegeven. Gebruik het vervolgkeuz
 >
 >Als u uw Collaboration-credits effectief wilt beheren, stelt u de vernieuwingsfrequentie in zodat deze overeenkomt met de updatefrequentie van de onderliggende S3-gegevens of deze overschrijdt. Het minimaal ondersteunde vernieuwingsinterval is één keer per zes dagen.
 
-![&#x200B; het scherm van de planningsmontages met verfrist frequentieopties en configuratie van de datumwaaier.](../../assets/setup/aws-audience-sourcing/s3-schedule-refresh-frequency.png)
+![ het scherm van de planningsmontages met verfrist frequentieopties en configuratie van de datumwaaier.](../../assets/setup/aws-audience-sourcing/s3-schedule-refresh-frequency.png)
 
 ### De verbinding controleren en voltooien {#review-and-complete}
 
@@ -157,7 +168,7 @@ Tot slot herzie uw configuratiemontages in het summiere scherm. Deze weergave be
 
 Selecteer het potloodpictogram als u een sectie wilt bewerken. Selecteer **[!UICONTROL Complete]** om alle secties te bevestigen.
 
-![&#x200B; het overzichtsscherm die gegevensverbinding, details, afbeelding, en planningssecties tonen.](../../assets/setup/aws-audience-sourcing/s3-connection-review-summary.png)
+![ het overzichtsscherm die gegevensverbinding, details, afbeelding, en planningssecties tonen.](../../assets/setup/aws-audience-sourcing/s3-connection-review-summary.png)
 
 Er wordt een dialoogvenster weergegeven waarin wordt bevestigd dat de gegevensverbinding is gemaakt en dat de doelgroep bezig is met het aanschaffen van de verbinding.
 
@@ -167,7 +178,7 @@ Na voltooiing van de configuratie, begint Collaboration publiek van uw S3 emmert
 
 Als de doelgroep bezig is met het aanschaffen van een advertentie, verschijnt er een banner boven aan het scherm. Individuele doelgroepen worden alleen weergegeven nadat de bron is voltooid.
 
-![&#x200B; het lusje van het publiek dat dat het bron lopend voor [!DNL Amazon S3] publiek toont.](../../assets/setup/aws-audience-sourcing/s3-audiences-sourcing-in-progress.png)
+![ het lusje van het publiek dat dat het bron lopend voor [!DNL Amazon S3] publiek toont.](../../assets/setup/aws-audience-sourcing/s3-audiences-sourcing-in-progress.png)
 
 Zodra het publiek S3 wordt gedownload, wordt uw lijst van beschikbare doelgroepen verstrekt in een lijst of kaartmening.
 
@@ -175,7 +186,7 @@ Zodra het publiek S3 wordt gedownload, wordt uw lijst van beschikbare doelgroepe
 >
 >De de broningstijd van het publiek varieert gebaseerd op de grootte van uw S3 gegevens en verfrist frequentie u vormde. De grotere datasets of minder vaak verfrissen programma&#39;s kunnen langer duren om in de **[!UICONTROL My audiences]** werkruimte te verschijnen.
 
-![&#x200B; het lusje van het publiek dat een lijst toont van een lijst van bronpubliek.](../../assets/setup/aws-audience-sourcing/s3-audiences-list-view.png)
+![ het lusje van het publiek dat een lijst toont van een lijst van bronpubliek.](../../assets/setup/aws-audience-sourcing/s3-audiences-list-view.png)
 
 Selecteer in de rasterweergave of tabelweergave een rij-item of **[!UICONTROL View audience]** om een overzicht van een specifiek publiek weer te geven. De status, bron en naam van de gegevensverbinding van het publiek worden weergegeven, samen met gedetailleerde deelvensters voor:
 
@@ -186,7 +197,7 @@ Selecteer in de rasterweergave of tabelweergave een rij-item of **[!UICONTROL Vi
 
 Gebruik deze mening om publieksconfiguratie en zichtbaarheidsmontages te bevestigen alvorens het publiek in samenwerkingsprojecten te gebruiken.
 
-Zie de [&#x200B; documentatie van het publiek van de Mening dashboard &#x200B;](https://experienceleague.adobe.com/nl/docs/real-time-cdp-collaboration/using/setup/onboard-audiences#view-audiences-dashboard) om meer te leren.
+Zie de [ documentatie van het publiek van de Mening dashboard ](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/setup/onboard-audiences#view-audiences-dashboard) om meer te leren.
 
 ## De S3-gegevensverbinding weergeven {#view-s3-connection}
 
@@ -198,10 +209,10 @@ Uw S3 gegevensverbinding omvat de zelfde functionaliteit en de details zoals and
 >
 >[!DNL Amazon S3] -gegevensverbindingen kunnen niet worden bewerkt. U kunt instellingen zoals de vernieuwingsfrequentie niet wijzigen als de verbinding eenmaal is gemaakt. Als u de configuratie wilt bijwerken, moet u de bestaande verbinding verwijderen en een nieuwe maken.
 
-![&#x200B; het Mijn lusje van gegevensverbindingen die de [!DNL Amazon S3] gegevensverbinding met het bronstatusinformatie tonen.](../../assets/setup/aws-audience-sourcing/s3-data-connections-tab.png)
+![ het Mijn lusje van gegevensverbindingen die de [!DNL Amazon S3] gegevensverbinding met het bronstatusinformatie tonen.](../../assets/setup/aws-audience-sourcing/s3-data-connections-tab.png)
 
 ## Volgende stappen {#next-steps}
 
 U hebt uw [!DNL Amazon S3] -opslag nu geconfigureerd en verbonden als gegevensbron in Collaboration. Door deze workflow te voltooien, hebt u beveiligde sourcing van gegevens voor het eerste publiek mogelijk gemaakt voor activering en overlappende analyse.
 
-Nadat de sourcing is voltooid, worden uw publiek weergegeven in de **[!UICONTROL My audiences]** -werkruimte, klaar voor samenwerking en activering. Voor gedetailleerde beheersopties, zie de [&#x200B; bron en beheer publieksdocumentatie &#x200B;](./onboard-audiences.md).
+Nadat de sourcing is voltooid, worden uw publiek weergegeven in de **[!UICONTROL My audiences]** -werkruimte, klaar voor samenwerking en activering. Voor gedetailleerde beheersopties, zie de [ bron en beheer publieksdocumentatie ](./onboard-audiences.md).

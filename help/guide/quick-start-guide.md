@@ -2,7 +2,7 @@
 title: Real-Time CDP Collaboration Quick Start & Setup Guide
 description: Leer hoe u Real-Time CDP Collaboration instelt, rollen en accounts configureert, publiek opneemt, gegevens activeert en veilig verbinding maakt met partners.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 68e5095e-ece5-4f64-9056-10f3b216cf0c
 source-git-commit: d0ad2d66ac7178c24449be415a613b89d9b3bee1
 workflow-type: tm+mt
@@ -226,7 +226,7 @@ Als adverteerder gebruikt u de werkruimte **[!UICONTROL Connect]** in het naviga
 >
 >Momenteel kunnen alleen adverteerders door uitgevers bladeren. Uitgevers kunnen niet door verbindingen met adverteerders bladeren of deze tot stand brengen.
 
-Voor een overzicht van deze stroom, zie [&#x200B; het vestigen van verbindingsgids &#x200B;](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [&#x200B; video van de de rekeningsopstelling van de adverteerder &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
+Voor een overzicht van deze stroom, zie [&#x200B; het vestigen van verbindingsgids &#x200B;](./connect/establishing-connections.md){target="_blank"}. Voor een visuele analyse van het verbindingsproces, met inbegrip van het doorbladeren van medewerkers en het beheren van verbindingsmontages, bekijk de [&#x200B; video van de de rekeningsopstelling van de adverteerder &#x200B;](https://experienceleague.adobe.com/nl/docs/platform-learn/tutorials/collaboration/connect-with-publishers){target="_blank"}.
 
 ## Volgende stappen
 

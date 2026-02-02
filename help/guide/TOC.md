@@ -2,10 +2,10 @@
 user-guide-title: Real-Time CDP Collaboration
 breadcrumb-title: Real-Time CDP Collaboration
 user-guide-description: Adobe Real-Time CDP Collaboration maakt naadloze en veilige gegevensuitwisseling en samenwerking tussen adverteerders en uitgevers mogelijk, waardoor het publiek in real time inzicht krijgt en gepersonaliseerde marketingstrategieën mogelijk worden.
-source-git-commit: 05fd7ec466ba2b20264490bbbfadc9bb6d361bc8
+source-git-commit: 23025b0f4cd853f671ac8cc5ef3696cac03d20a4
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 9%
+source-wordcount: '162'
+ht-degree: 8%
 
 ---
 
@@ -22,9 +22,11 @@ ht-degree: 9%
 * Instellen {#setup}
    * [Overzicht van instellingssectie](./setup/setup-overview.md)
    * [Aan boord en beheer uw account](./setup/onboard-account.md)
-   * [Source en publiek beheren](./setup/onboard-audiences.md)
-   * [Amazon S3 configureren voor het aanschaffen van publiek](./setup/configure-aws-s3-audience-sourcing.md)
-   * [AWS-machtigingen configureren voor publiekssourcing](./setup/configure-aws-permissions-audience-sourcing.md)
+   * Source en publiek beheren {#source-audiences}
+      * [AEP configureren voor publiekssourcing](./setup/onboard-audiences.md)
+      * [AWS-machtigingen configureren voor publiekssourcing](./setup/configure-aws-permissions-audience-sourcing.md)
+      * [Amazon S3 configureren voor het aanschaffen van publiek](./setup/configure-aws-s3-audience-sourcing.md)
+      * [CSV-bestand uploaden om publiek te bereiken](./setup/upload-csv-audience-sourcing.md)
    * [Gegevensverbindingen beheren](./setup/manage-data-connection.md)
    * [Doelen configureren en beheren](./setup/manage-destinations.md)
    * [Je activiteiten op het gebied van kredietverbruik volgen](/help/guide/setup/my-activity.md)

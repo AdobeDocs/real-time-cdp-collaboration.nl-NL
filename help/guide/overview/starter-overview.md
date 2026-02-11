@@ -16,7 +16,7 @@ ht-degree: 1%
 
 Met Adobe Real-Time CDP Collaboration Starter kunt u deelnemen aan en samenwerken met een gelicentieerde partner voor samenwerking op het gebied van privacy-gerichte gegevens zonder uw eigen Collaboration-licentie te hoeven gebruiken.
 
-Uw gelicentieerde partner nodigt u uit naar Collaboration en gebruikt de credits om uw gezamenlijke workflows te financieren, zowel voor adverteerders als voor uitgevers. Meer over deze patronen leren en hoe zij werken, lees de [ samenwerkingspatronen ](./collaboration-patterns.md) en [ werkschema ](./end-to-end-workflow.md) gidsen van begin tot eind.
+Uw gelicentieerde partner nodigt u uit naar Collaboration en gebruikt de credits om uw gezamenlijke workflows te financieren, zowel voor adverteerders als voor uitgevers. Meer over deze patronen leren en hoe zij werken, lees de [&#x200B; samenwerkingspatronen &#x200B;](./collaboration-patterns.md) en [&#x200B; werkschema &#x200B;](./end-to-end-workflow.md) gidsen van begin tot eind.
 
 Als uitgenodigde klant van de Aanzet kunt u:
 

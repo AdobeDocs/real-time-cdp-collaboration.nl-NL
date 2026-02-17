@@ -41,7 +41,7 @@ De de toegangsrollen van uw organisatie bepalen wat de gebruikers kunnen zien en
 
 Bekijk deze video voor meer informatie over het toewijzen van producttoegang en -machtigingen voor Collaboration met de Admin Console en Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452216/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452236/?captions=dut&learn=on&enablevpops)
 
 ## Stap 2: Een Collaboration-account instellen {#set-up-your-account}
 

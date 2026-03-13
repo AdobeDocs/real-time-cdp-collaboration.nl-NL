@@ -2,10 +2,10 @@
 user-guide-title: Real-Time CDP Collaboration
 breadcrumb-title: Real-Time CDP Collaboration
 user-guide-description: Adobe Real-Time CDP Collaboration maakt naadloze en veilige gegevensuitwisseling en samenwerking tussen adverteerders en uitgevers mogelijk, waardoor het publiek in real time inzicht krijgt en gepersonaliseerde marketingstrategieën mogelijk worden.
-source-git-commit: 469c1e650235e15d7b09650d3affa3c8c7563b09
+source-git-commit: 692435be1921043148c5fa70fbdf615d2af088bd
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 8%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 * [Real-Time CDP Collaboration home](./home.md)
 * [Handleiding voor snel starten](./quick-start-guide.md)
 * Overzicht {#overview}
-   * [Gebruiksscenario’s](./overview/use-cases.md)
+   * [Gebruiksscenario&#39;s](./overview/use-cases.md)
    * [Accountrollen](./overview/roles.md)
    * [Collaboration-patronen](./overview/collaboration-patterns.md)
    * [Volledige workflow](./overview/end-to-end-workflow.md)
@@ -51,7 +51,8 @@ ht-degree: 8%
       * [Meetlat](./collaborate/measure.md)
    * Advertising-platformverbindingen {#ad-platform-connections}
       * [Amazon Marketing Cloud](./collaborate/advertising-platforms/amc.md)
-* Bestemmingen {#destinations}
+      * [AMC-meetrapporten maken](./collaborate/advertising-platforms/amc-measure.md)
+* Doelen {#destinations}
    * [Overzicht](./destinations/overview.md)
    * [Adobe Experience Platform](./destinations/experience-platform.md)
 * Machtigingen {#permissions}
@@ -60,5 +61,5 @@ ht-degree: 8%
    * [Rollen beheren](./permissions/manage-roles.md)
 * Referentie {#reference}
    * [Algemene vragen en tips voor het oplossen van problemen](./faqs/common-questions.md)
-   * [Woordenlijst](./glossary.md)
-* [Opmerkingen bij de laatste release](./release-notes/latest.md)
+   * [Verklarende woordenlijst](./glossary.md)
+* [Opmerkingen bij de nieuwste release](./release-notes/latest.md)

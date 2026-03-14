@@ -4,7 +4,7 @@ description: Leer hoe u maatrapporten maakt en interpreteert voor Amazon Marketi
 audience: advertiser
 keywords: AMC, Amazon Marketing Cloud, meetrapporten, campagneresamenvatting, attributie, Real-Time CDP Collaboration
 solution: Real-Time Customer Data Platform Collaboration
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 hidefromtoc: true
 hide: true
 exl-id: d1b0ca65-344d-4df0-9e07-222c79f1cdb7

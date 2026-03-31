@@ -2,20 +2,22 @@
 cloud: Experience Cloud
 solution: Real-Time Customer Data Platform
 product: experience cloud
+landing-page-name: experience-platform
+landing-page-breadcrumb-title: Experience Platform
 type: Documentation
 mini-toc-levels: 2
-index: y
-git-repo: https://github.com/AdobeDocs/real-time-cdp-collaboration.nl-NL
-source-git-commit: 4080dab6e4da6e38af3a7171870a904577f00bbd
+index: true
+git-repo: https://github.com/AdobeDocs/real-time-cdp-collaboration.en
+source-git-commit: 142166b96005dec8fca2ae5f809c84cdfbe0da6c
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 98%
+source-wordcount: '71'
+ht-degree: 0%
 
 ---
 
 
-# Metadata voor intern gebruik
+# Metagegevens voor intern gebruik
 
-Het bestand metadata.md bevat metadata op repo-niveau die worden doorgegeven aan de handleiding voor TOC.md-bestanden in de repo. Als u de inhoud van metadata.md voor een handleiding wilt wijzigen, doe dit dan in een TOC.md-bestand.
+Het bestand metadata.md bevat metagegevens op repo-niveau die worden doorgegeven aan de bestanden in de repo in de gebruikershandleiding TOC.md. Als u de inhoud metadata.md voor om het even welke gebruikersgids wilt veranderen, doe dit in om het even welk dossier van TOC.md.
 
-Zie [Metadata](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=nl) voor een lijst met geldige waarden voor **oplossing**, **product** en **type**.
+Zie [ Meta-gegevens ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) voor een lijst van geldige waarden voor **oplossing**, **product**, en **type**.

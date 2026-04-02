@@ -2,10 +2,10 @@
 user-guide-title: Real-Time CDP Collaboration
 breadcrumb-title: Real-Time CDP Collaboration
 user-guide-description: Adobe Real-Time CDP Collaboration maakt naadloze en veilige gegevensuitwisseling en samenwerking tussen adverteerders en uitgevers mogelijk, waardoor het publiek in real time inzicht krijgt en gepersonaliseerde marketingstrategieën mogelijk worden.
-source-git-commit: 692435be1921043148c5fa70fbdf615d2af088bd
+source-git-commit: 6d2691e8024a8f4c1a91e5fa4e6d00d322dde13a
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 1%
+source-wordcount: '195'
+ht-degree: 4%
 
 ---
 
@@ -34,6 +34,10 @@ ht-degree: 1%
    * [Identiteitskruizen](./setup/identity-crosswalk.md)
    * [Metingsgegevens toevoegen en beheren](./setup/onboard-measurement-data.md)
    * [Controlelogboeken](./setup/audit-logs.md)
+   * Real-Time CDP Collaboration Starter instellen {#starter-setup}
+      * [Beheerderstoegang configureren](./setup/starter-admin-access.md)
+      * [Machtigingsbesturingselementen configureren](./setup/starter-permission-controls.md)
+      * [Kredietgebruik en -verbruik](./setup/starter-credit-usage.md)
 * Verbindingen tot stand brengen {#connect}
    * [Overview.md](./connect/overview.md)
    * [Medewerkers ontdekken](./connect/discover-collaborators.md)
@@ -62,4 +66,4 @@ ht-degree: 1%
 * Referentie {#reference}
    * [Algemene vragen en tips voor het oplossen van problemen](./faqs/common-questions.md)
    * [Verklarende woordenlijst](./glossary.md)
-* [Opmerkingen bij de nieuwste release](./release-notes/latest.md)
+* [Opmerkingen bij de laatste release](./release-notes/latest.md)

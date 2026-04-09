@@ -2,7 +2,7 @@
 title: Gegevensverbindingen voor metingen beheren
 description: Leer hoe u gegevensverbindingen voor metingen beheert, inclusief details en sleutels in Real-Time CDP Collaboration
 audience: administrator, data engineer
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 source-git-commit: 494277f421606eda62b74c254f1fdd29b22e3473
 workflow-type: tm+mt
 source-wordcount: '1270'

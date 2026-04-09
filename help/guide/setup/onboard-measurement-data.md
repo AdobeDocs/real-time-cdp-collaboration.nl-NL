@@ -2,7 +2,7 @@
 title: Metingsgegevens toevoegen en beheren
 description: Leer hoe u meetgegevens toevoegt aan Adobe Real-Time CDP Collaboration.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 739d31b9-3f00-477d-b6be-995c7767c6ca
 source-git-commit: 42bbd17878701cfaf2cba170a9471cf5c7285796
 workflow-type: tm+mt
@@ -161,8 +161,8 @@ Als u [&#x200B; profielverrijking tijdens de kaartstap &#x200B;](#enrich-event-d
 >
 >**[!UICONTROL Data Collaboration]** biedt ondersteuning voor labels voor C4, C5 en C9-gegevensgebruik, terwijl **[!UICONTROL Data Science]** alleen C9 ondersteunt. Meer informatie over labels voor gegevensgebruik vindt u in de documentatie van Experience Platform:
 >
->* [&#x200B; overzicht van de gebruiksetiketten van Gegevens &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/overview){target="_blank"}
->* [&#x200B; Verklarende woordenlijst &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/labels/reference){target="_blank"}
+>* [&#x200B; overzicht van de gebruiksetiketten van Gegevens &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/overview){target="_blank"}
+>* [&#x200B; Verklarende woordenlijst &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/labels/reference){target="_blank"}
 
 Selecteer de voorkeursinstellingen en selecteer vervolgens **[!UICONTROL Next]** .
 

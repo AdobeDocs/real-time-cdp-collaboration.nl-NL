@@ -2,7 +2,7 @@
 title: Vorm  [!DNL Snowflake]  voor de Bron van het Publiek
 description: Leer hoe te om uw  [!DNL Snowflake Secure Data Share]  als zelfbediening gegevensbron te vormen en te verbinden om publieksgegevens in Real-Time CDP Collaboration in te nemen.
 audience: admin, publisher, advertiser
-badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
+badgelimitedavailability: label="Beperkte beschikbaarheid" type="Informative" url="https://helpx.adobe.com/nl/legal/product-descriptions/real-time-customer-data-platform-collaboration.html newtab=true"
 exl-id: 11a73116-4919-48a3-bf44-de2a10c102c1
 source-git-commit: 19a516b472b1ddde68990f98b57667dd302f1fbc
 workflow-type: tm+mt
